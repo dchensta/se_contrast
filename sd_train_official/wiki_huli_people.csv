@@ -1,0 +1,86 @@
+Clause,mainVerb,mainReferent,Gold
+The Huli are an indigenous people,are,Huli,STATIVE
+"who live in the Southern Highlands districts of Tari, Koroba, Margaraima and Komo, of Papua New Guinea.",live,people,STATIVE
+"The latest estimates put their population at around 150,000;",put,estimates,DYNAMIC
+they have lived in their current area for about 1000 years.,lived,they,STATIVE
+They speak primarily Huli and Tok Pisin;,speak,They,DYNAMIC
+"many also speak some of the surrounding languages,",speak,many,DYNAMIC
+and some also speak English.,speak,many,DYNAMIC
+==History==,,,CANNOT_DECIDE
+"The Huli have lived in their region for 1,000 years and recount lengthy oral histories",lived,=,STATIVE
+relating to individuals and their clans.,relating,histories,STATIVE
+They were extensive travellers,were,They,STATIVE
+(predominantly for trade) in both the highlands and lowlands,,,CANNOT_DECIDE
+"surrounding their homeland, particularly to the south.",surrounding,highlands,STATIVE
+"The Huli were not known to Europeans until 1935,",known,Huli,STATIVE
+when they were first contacted by Jack Hides and James O'Malley on their famous Strickland-Purari patrol.,contacted,they,DYNAMIC
+==Society==,,,CANNOT_DECIDE
+===Kinship social structures===,,,CANNOT_DECIDE
+The Huli are grouped in clans,grouped,Huli,STATIVE
+(hamigini) and subclans (hamigini emene).,,,CANNOT_DECIDE
+"Clans have residential rights within a specific territory,",have,Clans,STATIVE
+and membership is based on hereditary descent.,based,Clans,STATIVE
+Subclans are smaller groups within the larger clan,are,Subclans,STATIVE
+and are the basic units of Huli society.,are,,STATIVE
+"Subclans operate autonomously,",operate,Subclans,DYNAMIC
+"and may make war or peace, or pay indemnities,",make,Subclans,DYNAMIC
+without consulting the larger clan.,consulting,Subclans,DYNAMIC
+Membership of a subclan is usually restricted to those,restricted,Membership,STATIVE
+who are directly related to the subclan founder or to another member of the subclan.,related,those,STATIVE
+"Huli may belong to several subclans at a time, depending on their kinship and ancestry.",belong,Huli,STATIVE
+The Huli have an inclusive kinship system.,have,Huli,STATIVE
+"For instance, people who in European cultures are considered half-brothers, half-sisters, and cousins, may all be reckoned as brothers and sisters by the Huli.",reckoned,people,STATIVE
+"Also, individuals that other cultures might label their 'aunts' and 'uncles', are seen by the Huli as their 'mothers' and 'fathers'.",seen,individuals,STATIVE
+Men and women have traditionally lived in separate quarters.,lived,women,STATIVE
+Boys go to the men's house or their father's house shortly before the age of puberty.,go,Boys,DYNAMIC
+"Unmarried men historically lived in large group houses,",lived,men,STATIVE
+although this is exceptionally rare nowadays.,is,this,STATIVE
+"Traditionally a man's hut was at the center of the village,",was,hut,STATIVE
+"used for meetings over village activities and sometimes for group sleeping, as well.",used,center,DYNAMIC
+Women lived in separate huts for them and their families around the village.,lived,Women,STATIVE
+===Economy===,,,CANNOT_DECIDE
+"The Huli live by hunting,",live,Huli,STATIVE
+"done primarily by men, and by gathering plants and growing crops, done primarily by women.",done,=,DYNAMIC
+"The men help clear the land,",help,men,DYNAMIC
+but the rest of cultivation is done by women.,done,men,DYNAMIC
+"They practice cyclical agriculture,",practice,They,DYNAMIC
+moving to a new location,moving,They,DYNAMIC
+"after the soil is exhausted, to allow reforestation and recovery.",exhausted,location,DYNAMIC
+"The women are exceptional farmers,",are,women,STATIVE
+"and have adopted many introduced crops, initially sweet potatoes,",adopted,farmers,DYNAMIC
+which have become a staple.,become,crops,DYNAMIC
+"More recently, they have cultivated corn, potatoes, cabbage, etc.",cultivated,they,DYNAMIC
+The Huli have established business throughout Papua New Guinea.,established,Huli,DYNAMIC
+===Warfare===,,,CANNOT_DECIDE
+"Men went to war to gain more ""land, pigs and women.""",went,Men,DYNAMIC
+"When wearing traditional dress, the men decorate their bodies with colored clay",decorate,men,DYNAMIC
+and wear elaborate headdresses for ceremonies.,wear,men,DYNAMIC
+The headdresses were earlier prepared for warfare.,prepared,headdresses,DYNAMIC
+"From puberty, males grow their hair long",grow,males,DYNAMIC
+in order to make ceremonial wigs.,make,,CANNOT_DECIDE
+"They learn to add to the hair,",learn,They,DYNAMIC
+"using pigments, bird feathers, and flowers as ornamental features.",using,,DYNAMIC
+Each makes individual headdresses,makes,Each,DYNAMIC
+that express the common elements of culture.,express,headdresses,STATIVE
+===Marriage===,,,CANNOT_DECIDE
+Huli society is polygynist.,is,society,STATIVE
+Men may take multiple wives,take,Men,DYNAMIC
+but women may only have one husband at a time.,have,Men,STATIVE
+Exogamy (where marriage is allowed only outside of a social group),allowed,marriage,STATIVE
+"is the norm,",is,Exogamy,STATIVE
+and marriage between close relatives is forbidden.,forbidden,norm,STATIVE
+"Marriages may be arranged,",arranged,Marriages,DYNAMIC
+but couples may also choose to marry each other.,choose,Marriages,DYNAMIC
+"The man pays a brideprice to the bride and her family, usually pigs or other native livestock.",pays,man,DYNAMIC
+The groom is responsible for building a house for his bride.,is,groom,STATIVE
+"After marriage, the wife's role is to raise children and care for them,",is,role,STATIVE
+"cultivate crops and process them for food,",cultivate,role,CANNOT_DECIDE
+"make clothing,",make,role,CANNOT_DECIDE
+and raise the pigs.,raise,role,CANNOT_DECIDE
+Boys usually leave their mother's house around age 10 to live with their father.,leave,Boys,DYNAMIC
+"For boys, rites of passage associated with puberty include hunting and time",include,rites,STATIVE
+spent in the highlands.,spent,time,DYNAMIC
+Divorce is not uncommon;,is,Divorce,STATIVE
+the most frequent cause is the wife's failure to bear children.,is,cause,STATIVE
+"Upon divorce, the husband will attempt to regain the pigs",attempt,husband,DYNAMIC
+paid to the wife's family at the time of marriage.,paid,pigs,DYNAMIC

@@ -1,0 +1,195 @@
+Clause,mainVerb,mainReferent,Gold
+Baseball is a bat-and-ball game,is,Baseball,STATIVE
+played between two teams of nine players each,played,game,DYNAMIC
+who take turns batting and fielding.,take,players,DYNAMIC
+The offense attempts to score runs by hitting a ball,attempts,offense,DYNAMIC
+thrown by the pitcher with a bat,thrown,ball,DYNAMIC
+"and moving counter-clockwise around a series of four bases: first, second, third, and home plate.",moving,offense,DYNAMIC
+A run is scored when a player advances around the bases and returns to home plate.,scored,run,DYNAMIC
+Players on the batting team take turns,take,Players,DYNAMIC
+"hitting against the pitcher of the fielding team,",hitting,,DYNAMIC
+which tries to prevent runs by getting hitters out in any of several ways.,tries,pitcher,DYNAMIC
+"A player on the batting team who reaches a base safely can later attempt to advance to subsequent bases during teammates' turns batting, such as on a hit or by other means.",attempt,player,DYNAMIC
+The teams switch between batting and fielding,switch,teams,DYNAMIC
+whenever the fielding team records three outs.,records,team,DYNAMIC
+"One turn batting for both teams, beginning with the visiting team, constitutes an inning.",constitutes,batting,STATIVE
+"A game comprises nine innings, and the team with the greater number of runs at the end of the game wins.",comprises,game,STATIVE
+"Evolving from older bat-and-ball games, an early form of baseball was being played in England by the mid-18th century.",played,form,DYNAMIC
+"This game was brought by immigrants to North America,",brought,game,DYNAMIC
+where the modern version developed.,developed,version,DYNAMIC
+"By the late 19th century, baseball was widely recognized as the national sport of the United States.",recognized,baseball,STATIVE
+"Baseball is now popular in North America and parts of Central and South America and the Caribbean, East Asia, and Europe.",is,Baseball,STATIVE
+"In the United States and Canada, professional Major League Baseball (MLB) teams are divided into the National League",divided,teams,STATIVE
+"(NL) and American League (AL), each with three divisions: East, West, and Central.",,,CANNOT_DECIDE
+The major league champion is determined by playoffs,determined,champion,DYNAMIC
+that culminate in the World Series.,culminate,playoffs,DYNAMIC
+The top level of play is similarly split in Japan between the Central League and Pacific Leagues and in Cuba between the West League and East League.,split,level,STATIVE
+==History==,,,CANNOT_DECIDE
+===Origins of baseball===,,,CANNOT_DECIDE
+The evolution of baseball from older bat-and-ball games is difficult to trace with precision.,is,History,STATIVE
+A French manuscript from 1344 contains an illustration of clerics,contains,manuscript,STATIVE
+"playing a game, possibly la soule, with similarities to baseball.",playing,clerics,DYNAMIC
+"Other old French games such as thque, la balle au bton, and la balle empoisonne also appear to be related.",appear,games,STATIVE
+Consensus once held,held,Consensus,STATIVE
+"that today's baseball is a North American development from the older game rounders, popular in Great Britain and Ireland.",is,baseball,STATIVE
+Baseball Before We Knew It: A Search for the Roots of the Game,Knew,We,CANNOT_DECIDE
+"(2005), by David Block, suggests",suggests,Search,DYNAMIC
+that the game originated in England;,originated,game,DYNAMIC
+recently uncovered historical evidence supports this position.,supports,evidence,STATIVE
+Block argues,argues,Block,DYNAMIC
+"that rounders and early baseball were actually regional variants of each other,",were,baseball,STATIVE
+"and that the game's most direct antecedents are the English games of stoolball and ""tut-ball"".",are,antecedents,STATIVE
+It has long been believed,believed,It,STATIVE
+"that cricket also descended from such games,",descended,cricket,DYNAMIC
+though evidence uncovered in early 2009 suggests,suggests,evidence,DYNAMIC
+that cricket may have been imported to England from Flanders.,imported,cricket,DYNAMIC
+"The earliest known reference to baseball is in a 1744 British publication, A Little Pretty Pocket-Book, by John Newbery.",is,reference,STATIVE
+"It contains a rhymed description of ""base-ball"" and a woodcut",contains,It,STATIVE
+"that shows a field set-up somewhat similar to the modern gamethough in a triangular rather than diamond configuration, and with posts instead of ground-level bases.",shows,description,STATIVE
+David Block discovered,discovered,Block,DYNAMIC
+"that the first recorded game of ""Bass-Ball"" took place in 1749 in Surrey,",took,game,DYNAMIC
+and featured the Prince of Wales as a player.,featured,game,STATIVE
+"William Bray, an English lawyer, recorded a game of baseball on Easter Monday 1755 in Guildford, Surrey.",recorded,Bray,DYNAMIC
+This early form of the game was apparently brought to North America by English immigrants.,brought,form,DYNAMIC
+Rounders was also brought to the continent by both British and Irish immigrants.,brought,Rounders,DYNAMIC
+"The first known American reference to baseball appears in a 1791 Pittsfield, Massachusetts, town bylaw",appears,reference,DYNAMIC
+prohibiting the playing of the game near the town's new meeting house.,prohibiting,bylaw,DYNAMIC
+"By 1796, a version of the game was well-known enough to earn a mention in a German scholar's book on popular pastimes.",was,version,STATIVE
+"As described by Johann Gutsmuths,",described,,DYNAMIC
+"""englische Base-ball"" involved a contest between two teams,",involved,Base-ball,STATIVE
+"in which ""the batter has three attempts to hit the ball while at the home plate.""",has,batter,STATIVE
+Only one out was required to retire a side.,required,out,STATIVE
+"By the early 1830s, there were reports of a variety of uncodified bat-and-ball games recognizable as early forms of baseball",were,reports,STATIVE
+being played around North America.,played,forms,DYNAMIC
+"These games were often referred to locally as ""town ball"", though other names such as ""round-ball"" and ""base-ball"" were also used.",referred,games,DYNAMIC
+Among the earliest examples to receive a detailed descriptionalbeit,receive,examples,CANNOT_DECIDE
+"five decades after the fact, in a letter from an attendee to Sporting Life magazinetook place in Beachville, Ontario, in 1838.",took,—,DYNAMIC
+"There were many similarities to modern baseball,",were,similarities,STATIVE
+and some crucial differences: five bases (or byes),,,CANNOT_DECIDE
+; first bye just from the home bye; batter out,batter,similarities,CANNOT_DECIDE
+if a hit ball was caught after the first bounce.,caught,ball,DYNAMIC
+"The once widely accepted story that Abner Doubleday invented baseball in Cooperstown, New York, in 1839 has been conclusively debunked by sports historians.",debunked,story,DYNAMIC
+"In 1845, Alexander Cartwright, a member of New York City's Knickerbocker Club, led the codification of the so-called Knickerbocker Rules.",led,Cartwright,DYNAMIC
+"The practice, common to bat-and-ball games of the day, of ""soaking""",,,CANNOT_DECIDE
+"or ""plugging",,,CANNOT_DECIDE
+"""effecting a putout by hitting a runner with a thrown ballwas",—,games,DYNAMIC
+barred.,barred,practice,DYNAMIC
+"The rules thus facilitated the use of a smaller, harder ball",facilitated,rules,DYNAMIC
+than had been common.,been,,STATIVE
+"Several other rules also brought the Knickerbockers' game close to the modern one,",brought,rules,DYNAMIC
+"though a ball caught on the first bounce was, again, an out",was,ball,STATIVE
+and only underhand pitching was allowed.,allowed,pitching,STATIVE
+While there are reports,are,reports,STATIVE
+"that the New York Knickerbockers played games in 1845, the contest",played,reports,DYNAMIC
+now recognized as the first officially recorded baseball game,recognized,contest,STATIVE
+"in U.S. history took place on June 19, 1846,",took,game,DYNAMIC
+"in Hoboken, New Jersey: the ""New York Nine"" defeated the Knickerbockers, 231, in four innings.",defeated,York,DYNAMIC
+"With the Knickerbocker code as the basis, the rules of modern baseball continued to evolve over the next half-century.",continued,rules,DYNAMIC
+===History of baseball in the United States===,,,CANNOT_DECIDE
+====The game turns professional====,turns,game,DYNAMIC
+"In the mid-1850s, a baseball craze hit the New York metropolitan area.",hit,craze,DYNAMIC
+"By 1856, local journals were referring to baseball as the ""national pastime"" or ""national game"".",were,journals,DYNAMIC
+"A year later, sixteen area clubs formed the sport's first governing body, the National Association of Base Ball Players.",formed,clubs,DYNAMIC
+"In 1858 in Corona, Queens New York, at the Fashion Race Course, the first games of baseball to charge admission took place.",took,York,DYNAMIC
+"The games, which took place between the all stars of Brooklyn,",took,games,DYNAMIC
+"including players from the Brooklyn Atlantics, Excelsior of Brooklyn, Putnams and Eckford of Brooklyn, and the All Stars of New York",including,,STATIVE
+"(Manhattan), including players from the New York Knickerbockers, Gothams (predecessors of the San Francisco Giants), Eagles and Empire,",including,,STATIVE
+are commonly believed to be the first all-star baseball games.,believed,games,STATIVE
+"In 1863, the organization disallowed putouts",disallowed,organization,DYNAMIC
+made by catching a fair ball on the first bounce.,made,putouts,DYNAMIC
+"Four years later, it barred participation by African Americans.",barred,it,DYNAMIC
+The game's commercial potential was developing:,developing,potential,DYNAMIC
+"in 1869 the first fully professional baseball club, the Cincinnati Red Stockings, was formed",formed,club,DYNAMIC
+and went undefeated against a schedule of semipro and amateur teams.,went,club,DYNAMIC
+"The first professional league, the National Association of Professional Base Ball Players, lasted from 1871 to 1875;",lasted,league,STATIVE
+scholars dispute its status as a major league.,dispute,scholars,DYNAMIC
+The more formally structured National League was founded in 1876.,founded,League,DYNAMIC
+"As the oldest surviving major league, the National League is sometimes referred to as the ""senior circuit"".",referred,League,DYNAMIC
+Several other major leagues formed and failed.,formed,leagues,DYNAMIC
+"In 1884, African American Moses Walker (and, briefly, his brother Welday) played in one of these, the American Association.",played,Walker,DYNAMIC
+"An injury ended Walker's major league career,",ended,injury,DYNAMIC
+"and by the early 1890s, a gentlemen's agreement in the form of the baseball color line effectively barred black players from the white-owned professional leagues, major and minor.",barred,injury,DYNAMIC
+"Professional Negro leagues formed,",formed,leagues,DYNAMIC
+but quickly folded.,folded,leagues,DYNAMIC
+Several independent African American teams succeeded as barnstormers.,succeeded,teams,DYNAMIC
+"Also in 1884, overhand pitching was legalized.",legalized,pitching,DYNAMIC
+"In 1887, softball, under the name of indoor baseball or indoor-outdoor, was invented as a winter version of the parent game.",invented,softball,DYNAMIC
+Virtually all of the modern baseball rules were in place by 1893; the last major changecounting foul balls as strikeswas,were,all,STATIVE
+instituted in 1901.,instituted,—,DYNAMIC
+"The National League's first successful counterpart, the American League, which evolved from the minor Western League, was established that year.",established,counterpart,DYNAMIC
+"The two leagues, each with eight teams, were rivals",were,rivals,STATIVE
+"that fought for the best players,",fought,rivals,DYNAMIC
+often disregarding each other's contracts,disregarding,leagues,DYNAMIC
+and engaging in bitter legal disputes.,engaging,leagues,DYNAMIC
+"A modicum of peace was eventually established, leading to the National Agreement of 1903.",established,modicum,DYNAMIC
+"The pact formalized relations both between the two major leagues and between them and the National Association of Professional Base Ball Leagues,",formalized,pact,DYNAMIC
+representing most of the country's minor professional leagues.,representing,Association,DYNAMIC
+"The World Series, pitting the two major league champions against each other,",pitting,Series,DYNAMIC
+"was inaugurated that fall, albeit without express major league sanction:",inaugurated,Series,DYNAMIC
+The Boston Americans of the American League defeated the Pittsburgh Pirates of the National League.,defeated,Americans,DYNAMIC
+"The next year, the series was not held,",held,year,DYNAMIC
+"as the National League champion New York Giants, under manager John McGraw, refused to recognize the major league status of the American League and its champion.",refused,Giants,DYNAMIC
+"In 1905, the Giants were National League champions again",were,Giants,STATIVE
+"and team management relented, leading to the establishment of the World Series as the major leagues' annual championship event.",relented,champions,DYNAMIC
+"As professional baseball became increasingly profitable,",became,baseball,DYNAMIC
+players frequently raised grievances against owners over issues of control and equitable income distribution.,raised,players,DYNAMIC
+"During the major leagues' early decades, players on various teams occasionally attempted strikes,",attempted,players,DYNAMIC
+which routinely failed,failed,strikes,DYNAMIC
+when their jobs were sufficiently threatened.,were,jobs,DYNAMIC
+"In general, the strict rules of baseball contracts and the reserve clause, which bound players to their teams",bound,clause,STATIVE
+"even when their contracts had ended,",ended,contracts,DYNAMIC
+tended to keep the players in check.,tended,rules,STATIVE
+"Motivated by dislike for particularly stingy owner Charles Comiskey and gamblers' payoffs, real and promised,",Motivated,members,DYNAMIC
+members of the Chicago White Sox conspired to throw the 1919 World Series.,conspired,members,DYNAMIC
+The Black Sox Scandal led to the formation of a new National Commission of baseball,led,Scandal,DYNAMIC
+that drew the two major leagues closer together.,drew,Commission,DYNAMIC
+"The first major league baseball commissioner, Kenesaw Mountain Landis, was elected in 1920.",elected,commissioner,DYNAMIC
+"That year also saw the founding of the Negro National League; the first significant Negro league,",saw,year,DYNAMIC
+it would operate until 1931.,operate,it,DYNAMIC
+"For part of the 1920s, it was joined by the Eastern Colored League.",joined,it,DYNAMIC
+====Rise of Ruth and racial integration====,,,CANNOT_DECIDE
+"Compared with the present,",Compared,,CANNOT_DECIDE
+professional baseball in the early 20th century was lower scoring,was,baseball,STATIVE
+"and pitchers, the likes of Walter Johnson and Christy Mathewson, were more dominant.",were,pitchers,STATIVE
+"The ""inside game"", which demanded",demanded,game,STATIVE
+"that players ""scratch for runs"",",scratch,players,DYNAMIC
+was played much more aggressively than it is today:,played,game,DYNAMIC
+the brilliant and often violent Ty Cobb epitomized this style.,epitomized,Cobb,STATIVE
+The so-called dead-ball era ended in the early 1920s with several changes in rule and circumstance,ended,era,DYNAMIC
+that were advantageous to hitters.,were,changes,STATIVE
+"Strict new regulations governing the ball's size, shape and composition along with a new rule",governing,regulations,STATIVE
+"officially banning the spitball, along with other pitches",banning,rule,STATIVE
+that depended on the ball,depended,pitches,STATIVE
+being treated or roughed-up with foreign substances after the death of Ray Chapman,treated,ball,DYNAMIC
+"who was hit by a pitch in August 1920, coupled with superior materials available after World War I,",hit,Chapman,DYNAMIC
+resulted in a ball,resulted,regulations,DYNAMIC
+that traveled farther,traveled,ball,DYNAMIC
+when hit.,hit,ball,DYNAMIC
+"The construction of additional seating to accommodate the rising popularity of the game often had the effect of bringing the outfield fences closer in,",had,construction,DYNAMIC
+making home runs more common.,making,,DYNAMIC
+"The rise of the legendary player Babe Ruth, the first great power hitter of the new era, helped permanently alter the nature of the game.",helped,rise,DYNAMIC
+"The club with which Ruth set most of his slugging records, the New York Yankees, built a reputation as the majors' premier team.",built,club,DYNAMIC
+"In the late 1920s and early 1930s, St. Louis Cardinals general manager Branch Rickey invested in several minor league clubs",invested,Rickey,DYNAMIC
+"and developed the first modern ""farm system"".",developed,Rickey,DYNAMIC
+A new Negro National League was organized in 1933;,organized,League,DYNAMIC
+"four years later, it was joined by the Negro American League.",joined,it,DYNAMIC
+The first elections to the Baseball Hall of Fame took place in 1936.,took,elections,DYNAMIC
+In 1939 Little League Baseball was founded in Pennsylvania.,founded,Baseball,DYNAMIC
+"By the late 1940s, it was the organizing body for children's baseball leagues across the United States.",was,it,STATIVE
+"With America's entry into World War II, many professional players had left to serve in the armed forces.",left,players,DYNAMIC
+A large number of minor league teams disbanded as a result and the major league game seemed under threat as well.,disbanded,number,DYNAMIC
+Chicago Cubs owner Philip K. Wrigley led the formation of a new professional league with women players to help keep the game in the public eye,led,Wrigley,DYNAMIC
+ the All-American Girls,,,CANNOT_DECIDE
+Professional Baseball League existed from 1943 to 1954.,existed,League,STATIVE
+"The inaugural College World Series was held in 1947,",held,Series,DYNAMIC
+and the Babe Ruth League youth program was founded.,founded,Series,DYNAMIC
+This program soon became another important organizing body for children's baseball.,became,program,DYNAMIC
+The first crack in the unwritten agreement barring blacks from white-controlled professional ball occurred the previous year:,occurred,crack,DYNAMIC
+Jackie Robinson was signed by the National League's Brooklyn Dodgerswhere Branch Rickey had become general managerand,signed,Robinson,DYNAMIC
+began playing for their minor league team in Montreal.,began,Rickey,DYNAMIC
+"In 1947, Robinson broke the major leagues' color barrier",broke,Robinson,DYNAMIC
+when he debuted with the Dodgers.,debuted,he,DYNAMIC
+Larry Doby debuted with the American League's Cleveland Indians the same year.,debuted,Doby,DYNAMIC
+"Latin American players, largely overlooked before,",overlooked,players,DYNAMIC
+also started entering the majors in greater numbers.,started,players,DYNAMIC
+"In 1951, two Chicago White Sox, Venezuelan-born Chico Carrasquel and black Cuban-born Minnie Mioso, became the first Hispanic All-Stars.",became,Sox,DYNAMIC

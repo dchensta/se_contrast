@@ -1,0 +1,86 @@
+Clause,mainVerb,mainReferent,Gold
+"Major depressive disorder (MDD) (also known as clinical depression, major depression, unipolar depression, or unipolar disorder",known,,STATIVE
+; or as recurrent depression in the case of repeated episodes) is a mental disorder,is,disorder,STATIVE
+characterized by a pervasive and persistent low mood,characterized,disorder,STATIVE
+that is accompanied by low self-esteem and by a loss of interest or pleasure in normally enjoyable activities.,accompanied,mood,STATIVE
+"The term ""depression"" is used in a number of different ways.",used,depression,DYNAMIC
+It is often used to mean this syndrome,used,It,DYNAMIC
+but may refer to other mood disorders or simply to a low mood.,refer,It,DYNAMIC
+Major depressive disorder is a disabling condition,is,disorder,STATIVE
+"that adversely affects a person's family, work or school life, sleeping and eating habits, and general health.",affects,condition,DYNAMIC
+"In the United States, around 3.4% of people with major depression commit suicide, and up to 60% of people",commit,%,DYNAMIC
+who commit,commit,%,DYNAMIC
+suicide had depression or another mood disorder.,had,%,STATIVE
+"The diagnosis of major depressive disorder is based on the patient's self-reported experiences, behavior",based,diagnosis,STATIVE
+"reported by relatives or friends, and a mental status examination.",reported,behavior,DYNAMIC
+"There is no laboratory test for major depression,",is,test,STATIVE
+although physicians generally request tests for physical conditions,request,physicians,DYNAMIC
+that may cause similar symptoms.,cause,conditions,DYNAMIC
+"The most common time of onset is between the ages of 20 and 30 years, with a later peak between 30 and 40 years.",is,time,STATIVE
+"Typically, people are treated with antidepressant medication",treated,people,DYNAMIC
+"and, in many cases, also receive counseling, particularly cognitive behavioral therapy (CBT).",receive,people,DYNAMIC
+"Medication appears to be effective,",appears,Medication,STATIVE
+but the effect may only be significant in the most severely depressed.,be,effect,STATIVE
+Hospitalization may be necessary in cases with associated self-neglect or a significant risk of harm to self or others.,be,Hospitalization,STATIVE
+A minority are treated with electroconvulsive therapy (ECT).,treated,minority,DYNAMIC
+"The course of the disorder varies widely, from one episode lasting weeks to a lifelong disorder with recurrent major depressive episodes.",varies,course,STATIVE
+Depressed individuals have shorter life expectancies than those,have,individuals,STATIVE
+"without depression, in part because of greater susceptibility to medical illnesses and suicide.",,,CANNOT_DECIDE
+It is unclear,is,It,STATIVE
+whether or not medications affect the risk of suicide.,affect,medications,DYNAMIC
+Current and former patients may be stigmatized.,be,patients,DYNAMIC
+"The understanding of the nature and causes of depression has evolved over the centuries,",evolved,understanding,DYNAMIC
+though this understanding is incomplete,is,understanding,STATIVE
+and has left many aspects of depression as the subject of discussion and research.,left,understanding,DYNAMIC
+"Proposed causes include psychological, psycho-social, hereditary, evolutionary and biological factors.",include,causes,STATIVE
+Long-term substance abuse may cause or worsen depressive symptoms.,cause,abuse,DYNAMIC
+"Psychological treatments are based on theories of personality, interpersonal communication, and learning.",based,treatments,STATIVE
+"Most biological theories focus on the monoamine chemicals serotonin, norepinephrine and dopamine,",focus,theories,STATIVE
+which are naturally present in the brain,are,serotonin,STATIVE
+and assist communication between nerve cells.,assist,serotonin,DYNAMIC
+"This cluster of symptoms (syndrome) was named, described and classified as one of the mood disorders in the 1980 edition of the American Psychiatric Association's diagnostic manual.",named,cluster,DYNAMIC
+==Symptoms and signs==,,,CANNOT_DECIDE
+"Major depression significantly affects a person's family and personal relationships, work or school life, sleeping and eating habits, and general health.",affects,Symptoms,DYNAMIC
+Its impact on functioning and well-being has been compared to that of chronic medical conditions such as diabetes.,been,impact,DYNAMIC
+"A person having a major depressive episode usually exhibits a very low mood,",exhibits,person,STATIVE
+"which pervades all aspects of life, and an inability to experience pleasure in activities",pervades,mood,DYNAMIC
+that were formerly enjoyed.,enjoyed,activities,DYNAMIC
+"Depressed people may be preoccupied with,",preoccupied,people,STATIVE
+"or ruminate over, thoughts and feelings of worthlessness, inappropriate guilt or regret, helplessness, hopelessness, and self-hatred.",ruminate,preoccupied,DYNAMIC
+"In severe cases, depressed people may have symptoms of psychosis.",have,people,STATIVE
+"These symptoms include delusions or, less commonly, hallucinations, usually unpleasant.",include,symptoms,STATIVE
+"Other symptoms of depression include poor concentration and memory (especially in those with melancholic or psychotic features), withdrawal from social situations and activities, reduced sex drive, and thoughts of death or suicide.",include,symptoms,STATIVE
+Insomnia is common among the depressed.,is,Insomnia,STATIVE
+"In the typical pattern, a person wakes very early and cannot get back to sleep.",wakes,person,DYNAMIC
+"Hypersomnia, or oversleeping, can also happen.",happen,Hypersomnia,DYNAMIC
+Some antidepressants may also cause insomnia due to their stimulating effect.,cause,antidepressants,DYNAMIC
+"A depressed person may report multiple physical symptoms such as fatigue, headaches, or digestive problems;",report,person,DYNAMIC
+"physical complaints are the most common presenting problem in developing countries,",are,complaints,STATIVE
+according to the World Health Organization's criteria for depression.,according,,STATIVE
+"Appetite often decreases, with resulting weight loss,",decreases,Appetite,DYNAMIC
+although increased appetite and weight gain occasionally occur.,gain,weight,DYNAMIC
+Family and friends may notice,notice,friends,DYNAMIC
+that the person's behavior is either agitated or lethargic.,is,behavior,STATIVE
+"Older depressed people may have cognitive symptoms of recent onset, such as forgetfulness, and a more noticeable slowing of movements.",have,people,STATIVE
+"Depression often coexists with physical disorders common among the elderly, such as stroke, other cardiovascular diseases, Parkinson's disease, and chronic obstructive pulmonary disease.",coexists,Depression,STATIVE
+"Depressed children may often display an irritable mood rather than a depressed mood,",display,children,DYNAMIC
+and show varying symptoms depending on age and situation.,show,children,DYNAMIC
+Most lose interest in school,lose,Most,DYNAMIC
+and show a decline in academic performance.,show,Most,DYNAMIC
+"They may be described as clingy,",described,They,DYNAMIC
+"demanding, dependent, or insecure.",demanding,,CANNOT_DECIDE
+Diagnosis may be delayed or missed,delayed,Diagnosis,DYNAMIC
+when symptoms are interpreted as normal moodiness.,interpreted,symptoms,DYNAMIC
+"Depression may also coexist with attention-deficit hyperactivity disorder (ADHD),",coexist,Depression,STATIVE
+complicating the diagnosis and treatment of both.,complicating,,DYNAMIC
+===Comorbidity===,,,CANNOT_DECIDE
+Major depression frequently co-occurs with other psychiatric problems.,co-occurs,=,DYNAMIC
+The 199092 National Comorbidity Survey (US),,,CANNOT_DECIDE
+reports,reports,Survey,DYNAMIC
+that 51% of those with major depression also suffer from lifetime anxiety.,suffer,%,STATIVE
+"Anxiety symptoms can have a major impact on the course of a depressive illness, with delayed recovery, increased risk of relapse, greater disability and increased suicide attempts.",have,symptoms,STATIVE
+American neuroendocrinologist Robert Sapolsky similarly argues,argues,Sapolsky,DYNAMIC
+"that the relationship between stress, anxiety, and depression could be measured and demonstrated biologically.",measured,relationship,DYNAMIC
+"There are increased rates of alcohol and drug abuse and particularly dependence, and around a third of individuals",increased,rates,STATIVE
+diagnosed with ADHD develop comorbid depression.,develop,rates,DYNAMIC
+Post-traumatic stress disorder and depression often co-occur.,co-occur,depression,DYNAMIC

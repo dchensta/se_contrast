@@ -1,0 +1,150 @@
+Clause,mainVerb,mainReferent,Gold/Contrast
+SENATE ETHICS PANEL DISAPPROVES OF NEW JERSEY SENATOR’S CONDUCT RELATED TO GIFTS,ETHICS,WASHINGTON,STATIVE
+WASHINGTON,WASHINGTON,Torricelli,CANNOT_DECIDE
+"The Senate Ethics Committee on Tuesday night ""severely disapproved of the conduct"" of Sen. Robert G. Torricelli, D-N.J.,",nan,nan,STATIVE
+saying,saying,Torricelli,DYNAMIC
+he had violated Senate rules by accepting and failing to disclose expensive gifts from a former contributor to whom he repeatedly gave help.,violated,he,DYNAMIC
+"On the basis of thousands of pages of information developed in an earlier federal inquiry into Torricelli's activities, the committee wanted him to be condemned for using poor judgment",chastised,committee,STATIVE
+"and disregarding Senate rules in his dealings with the former donor, David Chang.",disregarding,committee,DYNAMIC
+"""Your actions and failure to act constituted direct violations of Senate rules",act,actions,STATIVE
+"(and related statutes) and created at least the appearance of impropriety,""",related,led,DYNAMIC
+the three Democrats and three Republicans on the committee said in a three-page letter to Torricelli.,said,Republicans,DYNAMIC
+"The ethics panel also agreed to force Torricelli to pay back Chang -- with interest -- for the full value of a large-screen television set and compact-disc player, and for expensive earrings",ordered,panel,STATIVE
+"that Chang gave to Torricelli's sister, to one of his close aides and to one of Torricelli's former girlfriends.",gave,Chang,DYNAMIC
+The committee’s action appears to take place,comes,action,STATIVE
+six months after federal prosecutors ended a lengthy criminal investigation into Torricelli's activities,ended,prosecutors,DYNAMIC
+without filing criminal charges.,nan,nan,DYNAMIC
+"The ethics panel, knowing the evidence from the criminal case,",forwarded,evidence,STATIVE
+concluded its review,concluded,panel,DYNAMIC
+"just as Torricelli is gearing up his campaign for re-election against the Republican candidate, Douglas R. Forrester.",gearing,Torricelli,DYNAMIC
+"After months in which polls showed Torricelli well ahead of his relatively unknown Republican rival, the contest appears closer than ever.",narrowed,contest,STATIVE
+It marked the first time,was,voted,DYNAMIC
+"that the Senate Ethics Committee had voted to take action against a senator since 1995,",voted,time,DYNAMIC
+when it recommended,recommended,it,DYNAMIC
+"that Bob Packwood, an Oregon Republican, be expelled on the ground of sexual and official misconduct.",expelled,Packwood,CANNOT_DECIDE
+Packwood no longer serves on the committee.,resigned,Packwood,STATIVE
+"Sen. Daniel K. Inouye, D-Hawaii, who was embroiled within the ethics inquiry,",led,Inouye,STATIVE
+said,said,Inouye,DYNAMIC
+he believed,believed,he,STATIVE
+the investigation was thorough and fair,was,investigation,STATIVE
+but would not offer a detailed description of the committee's secret deliberations.,offer,investigation,DYNAMIC
+"""The document is clear,”",speaks,document,STATIVE
+"said Inouye,",said,Inouye,DYNAMIC
+who said,said,Inouye,DYNAMIC
+that he considered the matter closed with the letter.,considered,he,STATIVE
+"Within minutes after the committee released its letter publicly, Torricelli appeared to apologize to the people of New Jersey for allowing his seat in the chamber",took,Torricelli,STATIVE
+"""to be placed in this position.""",placed,seat,CANNOT_DECIDE
+"During nearly seven hours of sworn testimony last week before the members and staff of the ethics panel, Torricelli knew the whole time",said,Torricelli,STATIVE
+"that he had not taken any gifts from Chang,",taken,he,DYNAMIC
+and that what items he had accepted from the businessman,accepted,he,DYNAMIC
+"he had later paid Chang for,",paid,he,DYNAMIC
+one person familiar with his account said.,said,he,DYNAMIC
+Torricelli also believed,insisted,Torricelli,STATIVE
+"that he had not done any unusual favors for Chang,",done,he,DYNAMIC
+who first turned to the senator in 1995 for help in winning the repayment of some $71 million,turned,Chang,DYNAMIC
+he said,said,he,DYNAMIC
+he was then owed in a failed business deal with the North Korean government.,owed,he,STATIVE
+The Ethics Committee did not take the bait.,was,Committee,DYNAMIC
+"In its letter, which was signed by all six members,",signed,letter,CANNOT_DECIDE
+In the letter which bore the signature,nan,nan,STATIVE
+"In the letter which had been signed eagerly by all six members,",nan,nan,DYNAMIC
+the panel wrote,wrote,panel,DYNAMIC
+"that it was ""troubled by incongruities, inconsistencies and conflicts,",was,nan,STATIVE
+particularly concerning actions taken by you,concerning,nan,DYNAMIC
+which were,were,actions,STATIVE
+"or could have been of potential benefit to Chang.""",been,actions,STATIVE
+"The committee was aghast at Torricelli for maintaining a ""personal and official relationship with Chang under circumstances",criticized,committee,STATIVE
+where you knew,knew,you,STATIVE
+"that he was attempting to ingratiate himself, in part through a pattern of attempts to provide you and those around you with gifts over a period of several years.""",attempting,he,DYNAMIC
+"During that time, the panel believed that",said,panel,STATIVE
+"Torricelli and members of his Senate staff took a series of actions to help Chang,",took,Torricelli,DYNAMIC
+"contacting U.S. government officials,",contacting,took,DYNAMIC
+writing letters to foreign government officials,writing,took,DYNAMIC
+and bringing Chang or his business representatives into meetings with foreign officials.,bringing,took,DYNAMIC
+"The committee doubted some of the most serious allegations,",confirm,committee,STATIVE
+including Chang's claim,including,nan,STATIVE
+that he gave Torricelli tens of thousands of dollars in cash.,gave,he,DYNAMIC
+"According to the committee,",said,committee,STATIVE
+it had weighed the fact,weighed,it,DYNAMIC
+"that Torricelli's principal accuser in the case had been Chang, ""a witness",been,accuser,STATIVE
+"whose credibility has been called into question by the Department of Justice, a United States District judge and his own conduct.""",called,credibility,DYNAMIC
+"In May, Chang was subject to 18 months' imprisonment for obstructing justice",sentenced,judge,STATIVE
+"and making $53,700 in illegal campaign contributions to Torricelli's 1996 Senate campaign.",making,nan,DYNAMIC
+"But at the time of Chang's sentencing, the judge, Alfred M. Wolin, also thought",said,judge,STATIVE
+"the businessman had cooperated closely with federal investigators,",cooperated,businessman,DYNAMIC
+providing them with information,providing,nan,DYNAMIC
+"that was ""material and credible.""",was,information,STATIVE
+The ethics committee had been granted the power to punish lawmakers with sanctions,has,committee,DYNAMIC
+ranging from public or private letters of admonition to censure or expulsion.,ranging,sanctions,STATIVE
+"In Torricelli's case, it appeared to have acted",acted,it,STATIVE
+"without conducting a full investigation,",conducting,it,DYNAMIC
+saying,saying,it,DYNAMIC
+the case had been exhaustively scrutinized by federal authorities.,scrutinized,case,DYNAMIC
+"A lawyer for Chang, Bradley D. Simon, felt Tuesday night",said,lawyer,STATIVE
+that he was disappointed,disappointed,he,STATIVE
+that the ethics panel had confirmed only a handful of the gifts,confirmed,panel,DYNAMIC
+he said,said,he,DYNAMIC
+"his client had given Torricelli,",given,client,DYNAMIC
+and that the panel did not deal with what,deal,panel,DYNAMIC
+he said,said,panel,DYNAMIC
+were actions by Torricelli to thwart the federal investigation.,were,what,STATIVE
+"""This matter proved to be far more serious than what the committee found,""",was,matter,DYNAMIC
+Simon said.,said,Simon,DYNAMIC
+As stated by two government officials,According,nan,DYNAMIC
+"involved in the inquiry, the Ethics Committee received a vast amount of information from federal investigators, some of it under a court order",received,Committee,DYNAMIC
+issued in March.,issued,order,DYNAMIC
+"Witness statements, store receipts, and other documents were found",included,information,DYNAMIC
+indicating,indicating,nan,DYNAMIC
+that Chang had paid for expensive items,paid,Chang,DYNAMIC
+"given to Torricelli, his sister, one of his longtime aides, Roberta Stern, and one of Torricelli's former girlfriends, Judy D. Balaban.",given,items,DYNAMIC
+"The committee's letter did not contain information about Chang's reported gifts to Torricelli of an $8,100 Rolex watch, about a dozen Italian-made suits and a $3,816 antique grandfather clock.",mention,letter,STATIVE
+"Nor did it include a citation of a $1,590 Oriental carpet that Chang gave to Torricelli's former wife, Susan Holloway Torricelli.",cite,it,STATIVE
+A government official involved in the inquiry said,said,official,STATIVE
+that evidence of those gifts was either incomplete or the subject of conflicting accounts by different witnesses.,was,evidence,STATIVE
+The committee agreed with Torricelli's claims,confirmed,committee,STATIVE
+he had made partial repayments to Chang for two gifts: a large-screen television and a stereo compact-disc player.,made,confirmed,DYNAMIC
+But their verdict included the reprimand that,said,it,STATIVE
+"the senator had showed ""poor judgment"" by failing to reimburse him for the full market value of the gifts.",showed,senator,DYNAMIC
+A person familiar with Torricelli's testimony to the committee believed that,said,person,STATIVE
+he had told its members,told,he,DYNAMIC
+"that he repaid the ""wholesale"" cost of the appliances",repaid,he,DYNAMIC
+because Chang told him,told,Chang,DYNAMIC
+that was what he had paid.,was,told,STATIVE
+The ethics panel also believed Torricelli had taken two bronze statues on loan from Chang.,criticized,panel,STATIVE
+"The statues, the existence of which had not been publicly revealed before,",known,existence,DYNAMIC
+were displayed in Torricelli's Senate office.,displayed,statues,DYNAMIC
+"Finally, the committee discounted Torricelli's contention",appeared,committee,STATIVE
+that he was not responsible for expensive earrings,was,he,STATIVE
+"that Chang had given as Christmas gifts to his sister, Stern and Balaban.",given,Chang,DYNAMIC
+"The senator stated ""that such items were of little value",were,belief,DYNAMIC
+"or were not gifts to you under the circumstances"" displayed poor judgment",displayed,belief,DYNAMIC
+"and violated Senate gift rules,",violated,belief,DYNAMIC
+the panel found.,found,panel,DYNAMIC
+As stated by a government official,According,nan,DYNAMIC
+"involved in the inquiry, the information",involved,official,STATIVE
+reviewed by the Ethics Committee also included an analysis by federal investigators showing,included,information,STATIVE
+"that during the period in which Chang claimed to have made numerous cash payments to Torricelli, the senator spent thousands of dollars more in cash",spent,senator,CANNOT_DECIDE
+than investigators could account for from his bank withdrawals and other known sources of income.,account,investigators,DYNAMIC
+"The analysis, which consisted of discoveries made from banking and credit records, income-tax returns and congressional financial-disclosure forms,",assembled,analysis,STATIVE
+showed by March,showed,analysis,DYNAMIC
+"of 1998, Torricelli's cash expenditures were more than $22,000 in excess of the cash",were,expenditures,STATIVE
+"he had generated from checks and automatic-teller machines,",generated,he,DYNAMIC
+an official who has reviewed the document said.,said,official,DYNAMIC
+"A spokeswoman for Torricelli, Debra DeShong, wanted to assert",said,spokeswoman,STATIVE
+he had fully accounted for all the money,accounted,he,DYNAMIC
+he had spent.,spent,he,DYNAMIC
+“I recognize that Senator Torricelli provided the committee with a full explanation of sources of income and any funds,provided,Torricelli,STATIVE
+"used for cash purposes,""",used,funds,DYNAMIC
+she said.,said,she,DYNAMIC
+"Even after the ethics committee disliked Torricelli on Tuesday night,",admonished,committee,STATIVE
+"one of his most important political supporters, Senate majority leader Tom Daschle, D-S.D., continued to defend him,",continued,one,DYNAMIC
+stating,stating,nan,DYNAMIC
+"that the panel had found Chang ""a witness wholly without credibility.""",found,panel,DYNAMIC
+"Desiring to quickly make a campaign issue of the Senate letter,",Moving,Pascoe,STATIVE
+"Bill Pascoe, Forrester's campaign manager, said",said,Pascoe,DYNAMIC
+the findings were evidence,were,findings,STATIVE
+"that Torricelli had undertaken an ""extensive campaign of misinformation and deceit,""",undertaken,Torricelli,DYNAMIC
+and called on him to release the sworn testimony,called,Torricelli,DYNAMIC
+he gave to the panel.,gave,he,DYNAMIC
+"Pascoe knew,",said,Pascoe,STATIVE
+"""Only then will New Jersey voters be able to decide Torricelli's fitness for office.""",be,voters,STATIVE

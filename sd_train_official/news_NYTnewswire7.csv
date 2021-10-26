@@ -1,0 +1,126 @@
+Clause,mainVerb,mainReferent,Gold
+NYT20020731.0049 2002-07-31 11:11,,,CANNOT_DECIDE
+Q2420 &Cx1f; tab-z r f BC-CHEFS-SAVINGFISH-NNS 07-31 1259,,,CANNOT_DECIDE
+BC-CHEFS-SAVINGFISH-NNS,,,CANNOT_DECIDE
+RESPONSIBLE SEAFOOD SALES ARE THE CATCH OF THE DAY,ARE,r,STATIVE
+"ATTENTION EDITORS: This article from the NEWHOUSE NEWS SERVICE report of TUESDAY, JULY 30, 2002, is available as a ""separate buy.""",is,article,STATIVE
+"For information about purchasing the article, contact DEBRA WEYDERT of The New York Times Syndicate at 732-390-4480;",purchasing,information,CANNOT_DECIDE
+"fax, 732-390-4697; e-mail, weyded(at)nytimes.com Optional trim at 950 words By MICHELLE COLE c.2002 Newhouse News Service",c.,WEYDERT,CANNOT_DECIDE
+(UNDATED) Chefs and seafood retailers are wading into one of the hottest natural resource issues of the day: fisheries management.,wading,retailers,DYNAMIC
+It's no longer unusual,'s,It,STATIVE
+for chefs to refuse to serve a species,refuse,It,CANNOT_DECIDE
+they think to be at risk of extinction,think,they,STATIVE
+or for a retailer to promote seafoods,promote,It,CANNOT_DECIDE
+that are abundant and part of a healthy marine ecosystem.,are,seafoods,STATIVE
+Most say,say,Most,DYNAMIC
+they're driven by the desire to do right by the environment.,driven,they,DYNAMIC
+Some also say,say,Some,DYNAMIC
+they must listen to their customers' concerns,listen,they,DYNAMIC
+or risk a consumer backlash.,,,CANNOT_DECIDE
+The nationwide boycott of Chilean seabass is a potent example of the new activism.,is,boycott,STATIVE
+"""I have made it a policy of mine",made,I,DYNAMIC
+"never to serve Chilean seabass,""",serve,I,CANNOT_DECIDE
+"said Billy Hahn, executive chef at Jake's Famous Crawfish, a Portland, Ore., landmark since 1892.",said,Hahn,DYNAMIC
+"""I refuse to sell it.""",refuse,I,DYNAMIC
+"Chilean seabass, also known as Patagonian toothfish,",known,seabass,STATIVE
+came into vogue in the 1990s in U.S. restaurants and fish markets.,came,seabass,DYNAMIC
+"With rising demand for the firm, oil-rich fish came pirate fishing fleets eager to cash in on its popularity",came,fish,DYNAMIC
+-- even if it meant skirting catch limits and environmental regulations.,meant,it,STATIVE
+"Contrary to what some restaurants and retailers tell their customers, the U.S. government does not consider the Chilean seabass to be endangered.",consider,government,STATIVE
+"But in some areas, the seabass are being overfished.",being,seabass,DYNAMIC
+That is potentially a problem,is,That,STATIVE
+because Chilean seabass are a long-lived species,are,living,STATIVE
+-- living as long as 50 years --,living,species,STATIVE
+"and reproduce slowly,",reproduce,species,DYNAMIC
+"said Susan Buchanan, a spokeswoman for the federal government's National Marine Fisheries Service.",said,Buchanan,DYNAMIC
+The NMFS estimates,estimates,NMFS,STATIVE
+"that in 2000, more than 16,000 tons of Chilean seabass were legally caught from an internationally regulated harvest area in the Antarctic Ocean.",caught,tons,DYNAMIC
+"But more than 32,000 tons may have been taken illegally from those same waters,",taken,tons,DYNAMIC
+the fisheries service said.,said,service,DYNAMIC
+"Impatient with regulators, the National Environmental Trust began a boycott campaign in February called ""Take a Pass on Chilean Seabass.""",began,Trust,DYNAMIC
+The Washington-based conservation group says,says,group,DYNAMIC
+more than 530 restaurants have signed on.,signed,restaurants,DYNAMIC
+A number of restaurants not officially part of the National Environmental Trust boycott also have stopped serving Chilean seabass.,stopped,number,DYNAMIC
+And it's not just the white tablecloth crowd.,'s,it,STATIVE
+"Red Lobster, with 660 restaurants in the United States and Canada, dropped Chilean seabass from the menu in the past year",dropped,Lobster,DYNAMIC
+"because of ""sustainability"" concerns, said Wendy Spirduso, communications director for the Orlando, Fla.-based chain.",said,Spirduso,DYNAMIC
+Some retailers also have pulled Chilean seabass.,pulled,retailers,DYNAMIC
+"""We've discontinued selling swordfish, Chilean seabass, orange roughy and marlin,""",discontinued,We,DYNAMIC
+"said Mark Cockcroft, national seafood buyer for Wild Oats Markets, a chain of 103 stores.",said,Cockcroft,DYNAMIC
+"""We are also taking a real hard look currently at almost all species of shark,",taking,We,DYNAMIC
+"though we haven't made a formal statement about that.""",made,we,DYNAMIC
+"Whole Foods Markets, with 133 stores nationwide, also does not sell Chilean seabass.",sell,Markets,DYNAMIC
+All of this comes at a time,comes,All,DYNAMIC
+when Americans are consuming more seafood:,consuming,Americans,DYNAMIC
+"15 to 16 pounds per person each year, compared with 10.3 pounds per person in 1960 and 12.5 pounds in 1980,",compared,,CANNOT_DECIDE
+"according to the National Fisheries Institute, an industry association.",according,,STATIVE
+"At the same time, about half the world's fisheries are being fished to capacity.",fished,fisheries,DYNAMIC
+The Food and Agriculture Organization of the United Nations reports,reports,Organization,DYNAMIC
+"that 47 percent to 50 percent of stocks are ""fully exploited,""",are,percent,STATIVE
+meaning,meaning,,STATIVE
+that catches have either reached,reached,catches,DYNAMIC
+or are close to maximum limits.,are,,STATIVE
+"Another 15 percent to 18 percent are ""overexploited,""",are,percent,STATIVE
+"and 9 percent to 10 percent have been ""depleted",depleted,percent,DYNAMIC
+"or are recovering from depletion.""",recovering,percent,DYNAMIC
+The seafood industry is less than thrilled about this surge of interest in ocean ecosystems from people,thrilled,industry,STATIVE
+who are not scientists.,are,people,STATIVE
+"Fisheries management is best left to the experts,",left,management,STATIVE
+"said Thor Lassen, president of Ocean Trust, a research and conservation foundation",said,Lassen,DYNAMIC
+partly financed by the fishing industry.,financed,foundation,STATIVE
+"""It involves very complicated choices",involves,It,STATIVE
+"that have to do with the biology of species, their life cycles,",have,choices,STATIVE
+"how they respond to various changes in the oceans, etc.""",respond,cycles,DYNAMIC
+"When there's a boycott,",'s,boycott,STATIVE
+"Lassen said,",said,involves,DYNAMIC
+"""it's not environmentalists or chefs making the sacrifice,",'s,it,STATIVE
+"it's coastal communities.""",'s,it,STATIVE
+"Rod Moore, executive director of the West Coast Seafood Processors Association, suggests",suggests,Moore,DYNAMIC
+that activists with an agenda are manipulating chefs and retailers.,manipulating,activists,DYNAMIC
+The conservation groups providing information to chefs and retailers and lists of environmentally appropriate seafoods to consumers are the same groups,are,groups,STATIVE
+"working to affect fisheries management on the political and regulatory level,",working,groups,DYNAMIC
+Moore said.,said,Moore,DYNAMIC
+"That's simply good strategy,",'s,That,STATIVE
+"said James Leape, deputy director of the conservation program for the David and Lucile Packard Foundation in Los Altos, Calif.",said,Leape,DYNAMIC
+"In 2000 and 2001, the Packard Foundation awarded $26 million in marine fisheries conservation grants.",awarded,Foundation,DYNAMIC
+They included support for marine reserves and money for fisheries management reform.,included,They,DYNAMIC
+More than $7 million was given to projects,given,$,DYNAMIC
+aimed at educating the general public.,aimed,projects,STATIVE
+"""One of the principal concerns of the Packard Foundation is the preservation of natural resources, particularly in the oceans,",is,One,STATIVE
+"and one of the greatest threats is overfishing,""",is,one,STATIVE
+Leape said.,said,Leape,DYNAMIC
+"""We have seen",seen,We,DYNAMIC
+"that raising consumer awareness and concern among restaurants and retailers about a particular fishery can really make a difference.""",make,raising,DYNAMIC
+""" (OPTIONAL TRIM FOLLOWS)",,,CANNOT_DECIDE
+"The Monterey Bay Aquarium's Web site rates different species of fish for overfishing, habitat damage and other factors.",rates,FOLLOWS,DYNAMIC
+"The California aquarium also created ""Seafood Watch"" wallet cards",created,aquarium,DYNAMIC
+designed to take to restaurants.,designed,cards,DYNAMIC
+"More than 600,000 of the cards and seafood guides have been distributed since 2000,",distributed,guides,DYNAMIC
+"said Jennifer Dianto, Seafood Watch program manager at the aquarium.",said,Dianto,DYNAMIC
+Chefs and retailers around the country know,know,Chefs,STATIVE
+they must be prepared to deal with customers,prepared,they,STATIVE
+who arrive with the aquarium's seafood card in hand.,arrive,customers,DYNAMIC
+"But in a business in which 12-hour shifts are the norm, some chefs worry about their lack of time to stay informed about complicated, rapidly changing fisheries management issues.",worry,chefs,STATIVE
+Some working chefs say,say,chefs,DYNAMIC
+"they routinely review conservation group Web sites, government reports and industry sources.",review,they,DYNAMIC
+"""For me, it's very difficult to be certain that the information",'s,it,STATIVE
+"which is given to me is real,""",is,information,DYNAMIC
+"said Eric Ripert, chef at Le Bernardin, a four-star seafood restaurant in Manhattan.",said,me,DYNAMIC
+"""I don't know.",know,I,STATIVE
+"I don't have enough information to know, for example,",have,I,STATIVE
+if Chilean seabass is really disappearing,disappearing,seabass,DYNAMIC
+"or if it's political pressure.""",'s,it,STATIVE
+"Despite being uncertain of its status, Ripert pulled Chilean seabass.",pulled,Ripert,DYNAMIC
+Le Bernardin's menu also informs diners,informs,menu,DYNAMIC
+that the restaurant will not serve swordfish to support efforts,serve,restaurant,DYNAMIC
+"""to recover the species.""",recover,efforts,CANNOT_DECIDE
+"""I don't wish to be a spokesman for any campaign,""",wish,I,STATIVE
+Ripert said.,said,Ripert,DYNAMIC
+"""I do it as somebody",do,I,DYNAMIC
+who has a conscience,has,somebody,STATIVE
+"and is caring.""",is,somebody,STATIVE
+JL END COLE,COLE,END,CANNOT_DECIDE
+"(Michelle Cole is a staff writer for The Oregonian of Portland, Ore.",is,Cole,STATIVE
+She can be contacted at michellecole,contacted,She,DYNAMIC
+(at)news.oregonian.com.),,,CANNOT_DECIDE
+NYT-07-31-02 1111EDT,,,CANNOT_DECIDE

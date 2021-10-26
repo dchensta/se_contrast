@@ -1,0 +1,179 @@
+Clause,mainVerb,mainReferent,Gold
+The problem,,,CANNOT_DECIDE
+Three published,,,CANNOT_DECIDE
+[ 1 2 3 ] and one recently presented,,,CANNOT_DECIDE
+[ 4 ] randomized placebo-controlled clinical trial have unequivocally demonstrated that 3-Hydroxy-3-methylgluatryl coenzyme,,,DYNAMIC
+A (HMG CoA) reductase,,,CANNOT_DECIDE
+inhibitors (statins),,,CANNOT_DECIDE
+reduce the morbidity and mortality,,,DYNAMIC
+associated with coronary disease.,,,STATIVE
+These trials found,,,DYNAMIC
+"that when compared with placebo,",,,STATIVE
+"statins significantly reduced the incidence of death, myocardial infarction, unstable angina, percutaneous and surgical coronary revascularization, and stroke in persons with stable coronary disease.",,,DYNAMIC
+"Because patients who had experienced an acute coronary syndrome within three to six months of enrollment were excluded, these trials did not assess the effect of lipid-lowering therapy on adverse cardiovascular events in those with recently unstable coronary disease.",,,DYNAMIC
+Whether lipid-lowering therapy would provide incremental benefit,,,DYNAMIC
+if initiated immediately following an acute coronary syndrome is an important issue,,,DYNAMIC
+as the risk of a recurrent adverse cardiac events is much greater in patients with unstable coronary disease than in the stable setting.,,,STATIVE
+The Myocardial Ischemia Reduction with Aggressive Cholesterol Lowering (MIRACL) trial set out to answer this question.,,,DYNAMIC
+The answer?,,,CANNOT_DECIDE
+"MIRACL enrolled 3,086 patients within 24-96 hours",,,DYNAMIC
+(mean 63 hours) of admission for unstable angina or a non-Q-wave myocardial infarction,,,CANNOT_DECIDE
+and randomized them to 16 weeks of atorvastatin 80 mg or placebo once daily [ 5 ] .,,,DYNAMIC
+"The major exclusion criteria were: total cholesterol level greater than 270 mg/dL; Q-wave myocardial infarction on admission or during the previous month; and, coronary revascularization in the months before admission, during the index hospitalization or anticipated following hospital discharge.",,,STATIVE
+"The primary efficacy endpoint was a composite of death, non-fatal myocardial infarction, resuscitated sudden cardiac death or emergent rehospitalization for worsening symptomatic myocardial ischemia.",,,STATIVE
+"Secondary endpoints included stroke, worsening heart failure, need for coronary revascularization and change in lipid levels throughout the study.",,,STATIVE
+"On average, patients were 65 years of age,",,,STATIVE
+"approximately 65% were men,",,,STATIVE
+86% Caucasian and the mean baseline low density lipoprotein (LDL),,,CANNOT_DECIDE
+cholesterol level was 124 mg/dL.,,,STATIVE
+"Atorvastatin treatment was associated with a 2.6% absolute reduction in the risk of the primary endpoint (14.8% vs. 17.4%; RR relative risk [RR] 0.84, 95% confidence interval [CI] 0.70-1.00, p = 0.048).",,,STATIVE
+This reduction was primarily driven by the 2.2% absolute reduction in incidence of emergent rehospitalization for symptomatic myocardial ischemia,,,STATIVE
+"(6.2% vs. 8.4%; RR 0.74, 95% CI 0.57-0.95, p = 0.02).",,,CANNOT_DECIDE
+"The risk of death, nonfatal myocardial infarction and resuscitated sudden cardiac death were each no different between the two groups.",,,STATIVE
+"While there were no significant differences in the incidence of worsening heart failure or need for coronary revascularization, atorvastatin did reduce the incidence of fatal or non-fatal stroke by 0.8% (0.8% vs. 1.6%; RR 0.50, 95% CI 0.26-0.99, p = 0.045).",,,STATIVE
+Atorvastatin also significantly reduced total and LDL cholesterol and triglyceride levels,,,DYNAMIC
+but did not significantly change high density lipoprotein (HDL) cholesterol by 16 weeks.,,,DYNAMIC
+"By 16 weeks, the adjusted mean LDL cholesterol decreased to 72 mg/dL in atorvastatin-treated patients",,,DYNAMIC
+but increased to 135 mg/dL among placebo-treated patients.,,,DYNAMIC
+"No serious adverse events occurred as the result of treatment with atorvastatin,",,,DYNAMIC
+although reversible liver transaminase elevation more than three times the upper limit of normal occurred in 2.5% of atorvastatin-treated versus 0.6% of placebo-treated patients (p < 0.001).,,,DYNAMIC
+The MIRACuLous,,,CANNOT_DECIDE
+The efficacy and safety findings from MIRACL were unique for a number of reasons.,,,STATIVE
+Although lipid-lowering therapy was associated with a significantly lower mortality,,,STATIVE
+when initiated,,,DYNAMIC
+"early after an acute coronary syndrome in two large observational studies [ 6 7 ] , MIRACL was the first randomized trial to suggest",,,STATIVE
+that statins confer clinical benefits in this setting.,,,DYNAMIC
+"It was also the first trial to identify a short-term (ie, within 16 weeks)",,,STATIVE
+"clinical benefit from statin therapy; in previous secondary prevention trials, the benefit of statin therapy was not evident for one to two years.",,,STATIVE
+"And, while clinical trial safety endpoints may be considered less glamorous,",,,STATIVE
+"MIRACL's most important contribution may have been that high-dose statin therapy was not associated with serious harm, despite its use in the unstable setting.",,,STATIVE
+Earlier secondary prevention statin trials had excluded patients with unstable coronary syndromes largely out of theoretical concern,,,DYNAMIC
+that statin-mediated reductions in vascular smooth muscle cell proliferation might destabilize healing plaque.,,,DYNAMIC
+That no harm resulted from this aggressive treatment strategy should allay theoretical fears and by doing so,,,DYNAMIC
+remove a major obstacle to the inpatient initiation of lipid-lowing therapy after coronary events.,,,DYNAMIC
+The not so MIRACuLous,,,CANNOT_DECIDE
+"Despite these unique and important findings, there were a number of inherent study limitations worth noting.",,,STATIVE
+"First and foremost, the possibility of a null treatment effect cannot be ignored given the wide confidence intervals (and hence marginally significant p value of 0.048) for the effect of atorvastatin on the primary efficacy endpoint.",,,DYNAMIC
+"Furthermore, while the number of patients lost to follow up was small,",,,STATIVE
+if adverse events had occurred in those,,,DYNAMIC
+treated with atorvastatin,,,STATIVE
+(n = 3) but not placebo,,,CANNOT_DECIDE
+"(n = 8), the overall trial results may have been neutral rather than positive.",,,STATIVE
+The types of events prevented in MIRACL are also worth noting.,,,STATIVE
+"While rehospitalization for recurrent myocardial ischemia is an important determinant of quality of life and health care costs, other important endpoints were not significantly affected (eg, death, myocardial infarction, resuscitated sudden cardiac death, worsening heart failure, need for coronary revascularization, etc).",,,STATIVE
+The question of whether statins can prevent these and other adverse events,,,DYNAMIC
+when initiated,,,DYNAMIC
+soon after an acute coronary syndrome will require further study.,,,STATIVE
+The short duration of follow-up is also particularly troubling.,,,STATIVE
+While it is impressive,,,STATIVE
+that a clinical benefit was realized,,,DYNAMIC
+"after only 16 weeks of statin therapy, the increased risk of adverse clinical events persists throughout the year following an acute coronary syndrome.",,,STATIVE
+"Without longer clinical follow up,",,,CANNOT_DECIDE
+it is not possible to assess the intermediate-term effect,,,STATIVE
+(if any) of atorvastatin on hard endpoints such as death or myocardial infarction.,,,CANNOT_DECIDE
+To do so would be critical in light of the lack of effect on these important endpoints at 16 weeks.,,,STATIVE
+"Unfortunately, no late clinical follow up is planned.",,,STATIVE
+There were also a number of limitations,,,STATIVE
+that may have hampered the study's generalizability.,,,DYNAMIC
+"First, patients who underwent recent revascularization",,,DYNAMIC
+or in whom it was planned were excluded.,,,DYNAMIC
+"Specifically, patients who underwent percutaneous transluminal coronary angioplasty",,,DYNAMIC
+(PTCA) or coronary artery bypass graft (CABG),,,CANNOT_DECIDE
+surgery within the previous three or six months respectively were not eligible for inclusion.,,,STATIVE
+The investigators reasoned,,,DYNAMIC
+that recurrent ischemic events in this population were likely to result from restenosis or bypass graft closure,,,STATIVE
+and that statins would be less likely to affect these processes [ 8 ] .,,,STATIVE
+"Nevertheless, a number of trials have established the benefits of statin therapy early after coronary revascularization [ 9 10 11 ] .",,,DYNAMIC
+"Furthermore, a number of recent trials have suggested",,,DYNAMIC
+that higher risk patients with non-ST elevation acute coronary syndromes fair better when an early invasive strategy is applied [ 12 13 14 ],,,STATIVE
+and it is not uncommon,,,STATIVE
+for patients to be treated in this fashion.,,,CANNOT_DECIDE
+"Second, patients with Q-wave myocardial infarction were not eligible for enrollment",,,STATIVE
+because it was felt,,,STATIVE
+"that statins would not influence the development of important prognostic determinants such as left ventricular systolic dysfunction, ventricular arrhythmias or mechanical complications [ 5 ] .",,,DYNAMIC
+"Nevertheless, patients who develop electrocardiographic Q-waves represent a substantial proportion of all patients with myocardial infarction.",,,STATIVE
+"While their short-term risk following hospital discharge is lower relative to those with a non-Q-wave myocardial infarction,",,,STATIVE
+it is still much greater,,,STATIVE
+"than in patients with stable coronary disease, and the need for secondary prevention in this population is equally important.",,,STATIVE
+"Third, despite the high risk nature of enrolled patients",,,CANNOT_DECIDE
+"(ie, electrocardiogram [ECG] changes and/or other objective evidence of ischemia), the rate of platelet glycoprotein IIb/IIIa inhibitor utilization was quite low (1.1%).",,,STATIVE
+"Such therapy appears to be cost effective [ 15 16 ] , especially among high risk patients",,,STATIVE
+and is recommended under current American College of Cardiology/American Heart Association guidelines [ 17 ] .,,,STATIVE
+"Fourth, it may not be possible to ascertain",,,STATIVE
+whether these findings apply to all patients with recent acute coronary syndromes regardless of baseline lipid levels.,,,STATIVE
+The small difference in number of primary endpoint events between atorvastatin and placebo groups make it difficult to dissect the relationship between baseline lipid levels and treatment effect further.,,,STATIVE
+"Consequently, it remains uncertain",,,STATIVE
+whether one can extrapolate the MIRACL trial results to those,,,DYNAMIC
+"who undergo coronary revascularization shortly before or after a coronary event, who present with a Q-wave myocardial infarction, who are treated with platelet glycoprotein IIb/IIIa inhibitors,",,,DYNAMIC
+or who have relatively low admission LDL cholesterol levels.,,,STATIVE
+Time to change current practice,,,CANNOT_DECIDE
+Although MIRACL and the two aforementioned cohort studies suggest,,,STATIVE
+that lipid-lowering agents exert short-term clinical benefits,,,DYNAMIC
+when initiated,,,DYNAMIC
+"soon after an acute coronary syndrome, this remains an open question.",,,STATIVE
+Even if these findings are not confirmed,,,DYNAMIC
+"after further study, one could still make",,,DYNAMIC
+a compelling argument that lipid-lowering therapy (barring contraindications) should be initiated early and universally in patients,,,DYNAMIC
+who present with an acute coronary syndrome:,,,STATIVE
+"First, the long-term safety and effectiveness of statins for the secondary prevention of stable coronary disease is well-established [ 1 2 3 ]",,,STATIVE
+"; Second, as evidenced by MIRACL,",,,DYNAMIC
+these agents are safe,,,STATIVE
+when initiated at the time of hospitalization for an acute coronary syndrome;,,,DYNAMIC
+"Third, the in-hospital initiation of lipid-lowering therapy appears to promote greater long-term utilization of these agents [ 18 19 20 21 ] .",,,STATIVE
+"Finally, although lipid levels may be unreliable in the setting of an acute coronary syndrome (excepting total :HDL and LDL:",,,STATIVE
+HDL cholesterol ratios [ 22 ] ) the overwhelming majority of patients with coronary disease will ultimately require both pharmacologic and non-pharmacologic lipid-lowering interventions to attain recommended cholesterol targets [ 23 24 25 ] ; newer guidelines are even more stringent [ 26 ] .,,,STATIVE
+"Furthermore, data from the recently presented Heart Protection Study suggest",,,STATIVE
+that clinical benefits may accrue independent of baseline cholesterol level [ 4 ] .,,,DYNAMIC
+"Thus, to withhold lipid-lowering therapy from patients",,,CANNOT_DECIDE
+"who present with an acute coronary syndrome would be to accept the status quo,",,,STATIVE
+and to date our efforts at cholesterol,,,CANNOT_DECIDE
+lowering in the secondary prevention setting have been dismal [ 27 28 ] .,,,STATIVE
+More MIRACLes ahead?,,,CANNOT_DECIDE
+The ascertainment and quantification of any incremental benefit conferred by statin therapy,,,DYNAMIC
+initiated,,,CANNOT_DECIDE
+early after an acute coronary syndrome will require confirmation.,,,STATIVE
+"There is currently only one ongoing randomized placebo-controlled trial of early versus delayed statin therapy in this setting,",,,STATIVE
+"A-2-Z (Aggrastat to Zocor, Merck)",,,CANNOT_DECIDE
+[ 29 ] .,,,CANNOT_DECIDE
+"The A-2-Z study is evaluating the efficacy of early treatment with simvastatin in 4,500 patients",,,DYNAMIC
+following an episode of unstable angina or a non-Q wave myocardial infarction.,,,STATIVE
+"In the first four months, patients will be randomized to simvastatin 40 mg daily or placebo.",,,DYNAMIC
+"Thereafter, those patients treated with simvastatin in the first phase",,,DYNAMIC
+will receive 80 mg of simvastatin daily and those,,,DYNAMIC
+"treated with placebo, 40 mg of simvastatin daily.",,,DYNAMIC
+"The primary composite endpoint is the occurrence of cardiovascular death, non-fatal myocardial infarction, or rehospitalization for an acute coronary syndrome (ACS) at one year.",,,STATIVE
+"If A-2-Z demonstrates significant reductions in the incidence of adverse events during the first four months,",,,DYNAMIC
+it would suggest an incremental clinical benefit from initiating these agents early after an acute coronary syndrome.,,,DYNAMIC
+"If benefits accrue,",,,DYNAMIC
+"but do so later during follow up,",,,DYNAMIC
+it would be difficult to discriminate between the effects of more aggressive vs. earlier lipid lowering therapy.,,,STATIVE
+The Pravastatin or Atorvastatin Evaluation and Infection Therapy (PROVE IT),,,CANNOT_DECIDE
+"trial is looking at 4,000 patients within 10 days of an acute coronary syndrome",,,DYNAMIC
+and randomizing them to either pravastatin 40 mg or atorvastatin 80 mg daily [ 29 ] .,,,DYNAMIC
+Patients will be observed over at least 1.5 years for the occurrence of myocardial infarction or other cardiovascular events.,,,DYNAMIC
+"Unlike, MIRACL and the A-2-Z trials, this study will not assess the efficacy of early statin therapy after an acute coronary syndrome;",,,DYNAMIC
+"rather, it will examine the role of more vs. less aggressive lipid-lowering in this setting.",,,DYNAMIC
+"In 2002, many would consider it unethical to withhold statins from patients with established coronary disease.",,,STATIVE
+This makes it unlikely,,,STATIVE
+that additional placebo-controlled trials will be carried out in this area.,,,DYNAMIC
+Future secondary prevention studies should look at patients with stable or unstable disease,,,DYNAMIC
+and will need to address the comparative efficacy of different statins,,,STATIVE
+"(or newer agents), assess the incremental benefit of combination therapy [ 30 ]",,,STATIVE
+and determine,,,DYNAMIC
+whether there is a serum cholesterol 'floor' below which reductions are unlikely to provide further clinical benefit.,,,STATIVE
+Competing interests,,,CANNOT_DECIDE
+Dr Aronow has received honoraria as a speaker and advisory board member for Pfizer and as a speaker for Merck.,,,DYNAMIC
+Abbreviations,,,CANNOT_DECIDE
+HMG CoA,,,CANNOT_DECIDE
+= 3-Hydroxy-3-methylgluatryl coenzyme A; MIRACL =,,,CANNOT_DECIDE
+Myocardial Ischemia Reduction with Aggressive Cholesterol Lowering; LDL,,,CANNOT_DECIDE
+= low density lipoprotein; RR =,,,CANNOT_DECIDE
+relative risk; CI,,,CANNOT_DECIDE
+= confidence interval; HDL =,,,CANNOT_DECIDE
+high density lipoprotein; PTCA,,,CANNOT_DECIDE
+= percutaneous transluminal coronary angioplasty; CABG =,,,CANNOT_DECIDE
+coronary artery bypass graft; ECG,,,CANNOT_DECIDE
+= electrocardiogram; A-2-Z =,,,CANNOT_DECIDE
+Aggrastat to Zocor; ACS,,,CANNOT_DECIDE
+= acute coronary syndrome; PROVE IT =,,,CANNOT_DECIDE
+Pravastatin or Atorvastatin Evaluation and Infection Therapy.,,,CANNOT_DECIDE

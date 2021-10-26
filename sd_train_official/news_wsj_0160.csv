@@ -1,0 +1,13 @@
+Clause,mainVerb,mainReferent,Gold
+"Savin Corp. reported a third-quarter net loss of $35.2 million, or 31 cents a share,",reported,Corp.,DYNAMIC
+"compared with year-earlier profit of $3.8 million, or one cent a share.",compared,,STATIVE
+"A spokesman for the Stamford, Conn.based company said",said,spokesman,DYNAMIC
+operations had a loss of $5.5 million for the quarter;,had,operations,STATIVE
+"in addition, the loss was magnified by nonrecurring charges",magnified,loss,DYNAMIC
+totaling $23.5 million and $8.2 million in asset-valuation adjustments,totaling,charges,STATIVE
+"that he described as ""unusual.""",described,$,DYNAMIC
+"The charges were partly offset by a $2 million gain on the sale of investments of two joint ventures,",offset,charges,DYNAMIC
+he said.,said,he,DYNAMIC
+"Revenue declined 8% to $85.7 million, from $93.3 million a year earlier.",declined,Revenue,DYNAMIC
+"Savin cited ""a general softening in the demand for office products in the market segments",cited,Savin,DYNAMIC
+"in which Savin competes.""",competes,Savin,DYNAMIC

@@ -1,0 +1,136 @@
+Clause,mainVerb,mainReferent,Gold
+"The Bloods are a primarily,",are,Bloods,STATIVE
+"though not exclusively, African American street gang founded in Los Angeles, California.",founded,gang,DYNAMIC
+The gang is widely known for its rivalry with the Crips.,known,gang,STATIVE
+They are identified by the red color,identified,They,STATIVE
+"worn by their members and by particular gang symbols,",worn,color,STATIVE
+including distinctive hand signs.,including,,STATIVE
+The Bloods are made up of various sub-groups,made,Bloods,STATIVE
+"known as ""sets""",known,sub-groups,STATIVE
+"between which significant differences exist such as colors, clothing, and operations, and political ideas",exist,sets,STATIVE
+which may be in open conflict with each other.,be,ideas,STATIVE
+"Since their creation, the Blood gangs have branched out throughout the United States.",branched,gangs,DYNAMIC
+"Bloods have been documented in the U.S. military,",documented,Bloods,DYNAMIC
+found in both U.S. and overseas bases.,found,documented,DYNAMIC
+== History ==,,,CANNOT_DECIDE
+The Bloods gang was formed initially to compete against the influence of the Crips in Los Angeles.,formed,gang,DYNAMIC
+"The origin of the Bloods and their rivalry with the Crips dates to the 1970s,",dates,origin,STATIVE
+"where the Pirus street gang, originally a set, or faction, of the Crips, broke off during an internal gang war,",broke,gang,DYNAMIC
+and allied with other smaller gangs to found the gang,allied,gang,DYNAMIC
+that would eventually become known as the Bloods.,become,gang,DYNAMIC
+"At the time, Crips sets outnumbered Bloods sets by three to one.",outnumbered,sets,STATIVE
+"To assert their power despite this difference in numbers,",assert,,CANNOT_DECIDE
+"Bloods sets became increasingly violent, especially against rival Crips members.",became,sets,DYNAMIC
+The Pirus are therefore considered to be the original founders of the Bloods.,considered,Pirus,STATIVE
+"During the rise of crack cocaine, the gang's focus shifted to drug production.",shifted,focus,DYNAMIC
+"Bloods sets operate independently of each other,",sets,Bloods,DYNAMIC
+and are currently located in almost all states.,located,Bloods,STATIVE
+===East Coast===,,,CANNOT_DECIDE
+"Blood sets on the East Coast are often seen as affiliated with the United Blood Nation, a gang",seen,=,DYNAMIC
+which originated in Rikers Island.,originated,gang,DYNAMIC
+"The United Blood Nation, simply called the Bloods,",called,Nation,STATIVE
+"formed in 1993, within the New York City jail system on Rikers Island's GMDC (George Mochen Detention Center),",formed,Bloods,DYNAMIC
+sometimes called C 73.,called,Nation,DYNAMIC
+GMDC was used to segregate problem inmates from the rest of the detention center.,used,GMDC,DYNAMIC
+"Prior to this time period, the Latin Kings were the most prevalent and organized gang in the NYC jail system.",were,Kings,STATIVE
+"The Latin Kings, with mostly Hispanic members, were targeting African American inmates with violence.",targeting,Kings,DYNAMIC
+"These African American inmates, organized by some of the more violent and charismatic inmates,",organized,inmates,STATIVE
+formed a protection group,formed,inmates,DYNAMIC
+which they called the United Blood Nation.,called,they,DYNAMIC
+"This United Blood Nation, which was actually a prison gang,",was,Nation,STATIVE
+was emulating the Bloods street gangs in Los Angeles.,emulating,Nation,DYNAMIC
+Several of the leaders of this recently created prison gang,created,,CANNOT_DECIDE
+formed eight original Blood sets to recruit in their neighborhoods across New York City.,formed,Several,DYNAMIC
+"By 1996, thousands of members of the Blood street gang were establishing themselves as a formidable force among gangs",establishing,thousands,DYNAMIC
+and continued a steady drive for recruitment.,continued,thousands,DYNAMIC
+"At this time, the Bloods were more violent than other gangs but much less organized.",were,Bloods,STATIVE
+Numerous slashings (razor blade or knife attacks),,,CANNOT_DECIDE
+were reported during robberies,reported,slashings,DYNAMIC
+and discovered to be initiations into the Bloods.,discovered,slashings,DYNAMIC
+This blood ritual became the trademark for the Bloods.,became,ritual,DYNAMIC
+Bloods recruited throughout the East Coast.,recruited,Bloods,DYNAMIC
+==Membership==,,,CANNOT_DECIDE
+"Bloods refers to a loosely structured association of smaller street gangs,",refers,Membership,STATIVE
+"known as ""sets,""",known,association,STATIVE
+which has adopted a common gang culture.,adopted,sets,DYNAMIC
+Each set has its own leader,has,set,STATIVE
+and generally operates independently from the others.,operates,set,DYNAMIC
+"Most Bloods members are African American males,",are,members,STATIVE
+although some sets have recruited female members as well as members from other races and ethnic backgrounds.,recruited,sets,DYNAMIC
+Members range in age from early teens to mid-twenties;,range,Members,STATIVE
+"however, some hold leadership positions into their late twenties and occasionally thirties.",hold,some,STATIVE
+There is no known national leader of the Bloods,is,leader,STATIVE
+but individual Bloods sets have a hierarchical leadership structure with identifiable levels of membership.,have,leader,STATIVE
+These levels of membership indicate status within a gang.,indicate,levels,STATIVE
+"A leader, typically an older member with a more extensive criminal background, runs each set.",runs,leader,DYNAMIC
+A set leader is not elected,elected,leader,DYNAMIC
+but rather asserts himself by developing and managing the gang's criminal enterprises through his reputation for violence and ruthlessness and through his personal charisma.,asserts,leader,DYNAMIC
+"The majority of set members are called ""soldiers,""",called,majority,STATIVE
+who are typically between the ages of 16 and 22.,are,soldiers,STATIVE
+Soldiers have a strong sense of commitment to their set,have,Soldiers,STATIVE
+and are extremely dangerous,are,Soldiers,STATIVE
+because of their willingness to use violence,use,willingness,CANNOT_DECIDE
+both to obtain the respect of gang members,obtain,use,CANNOT_DECIDE
+and to respond to any person,respond,use,CANNOT_DECIDE
+"who ""disrespects"" the set.",disrespects,person,DYNAMIC
+"""Associates"" are not full members,",are,Associates,STATIVE
+but they identify with the gang,identify,members,STATIVE
+and take part in various criminal activities.,take,members,DYNAMIC
+"To the extent that women belong to the gang,",belong,women,CANNOT_DECIDE
+they are usually associate members,are,they,STATIVE
+"and tend to be used by their male counterparts to carry weapons, hold drugs, or prostitute",tend,members,STATIVE
+themselves to make money for their set.,make,,CANNOT_DECIDE
+Recruitment is often influenced by a recruitee's environment.,influenced,Recruitment,DYNAMIC
+Bloods recruit heavily among school-age youth in predominantly poor African American communities.,recruit,Bloods,DYNAMIC
+Gang membership offers youth a sense of belonging and protection.,offers,membership,STATIVE
+It also offers immediate gratification to economically disadvantaged youth,offers,It,STATIVE
+"who desire the trappings of gang life: gold jewelry, cash, expensive sports clothing.",desire,youth,STATIVE
+Blood sets have a loose structure of ranks based on how long a person has been involved with a particular set.,have,sets,STATIVE
+"The ranks do not signify leadership or dominance over the set,",signify,ranks,STATIVE
+they merely signify respect for those,signify,they,STATIVE
+who have been in the set longer,been,those,STATIVE
+and have survived the longest.,survived,they,STATIVE
+Those with a higher rank do not have a position of authority over Bloods of a lower rank.,have,Those,STATIVE
+"Bloods with higher rank are often referred to as ""Big Homies"" by Bloods with lower rank.",referred,Bloods,DYNAMIC
+"They also refer to each other as ""relatives"".",refer,They,DYNAMIC
+"Once a person has joined a Blood set,",joined,person,DYNAMIC
+"it is for life,",is,it,STATIVE
+one can not leave the set,leave,one,DYNAMIC
+or flip (switch) to another set.,flip,one,DYNAMIC
+Bloods members commonly refer to themselves as CKs,refer,members,DYNAMIC
+"(an initialism of Crip-Killer), MOBs (an initialism of Member of Bloods), dawgs, or ballers",,,CANNOT_DECIDE
+(meaning drug dealers).,meaning,ballers,STATIVE
+==Identification==,,,CANNOT_DECIDE
+"Bloods members identify themselves through various gang indicators such as colors, clothing, symbols, tattoos, jewelry, graffiti, language, and hand signs.",identify,members,STATIVE
+The Bloods gang color is red.,is,color,STATIVE
+"They like to wear sports clothing,",like,They,STATIVE
+including team jackets,including,,STATIVE
+that show their gang color.,show,jackets,STATIVE
+"Some of their favorite teams include the San Francisco 49ers, the Philadelphia Phillies, and the Chicago Bulls.",include,Some,STATIVE
+"They are also known to wear Dallas Cowboys clothing,",known,They,STATIVE
+whose logo contains a five-pointed star.,contains,logo,STATIVE
+"The most commonly used Bloods symbols include the number 5, the five pointed star, and the five pointed crown.",include,symbols,STATIVE
+"These symbols are meant to show the Bloods affiliation with the People Nation, a large coalition of affiliates",meant,symbols,STATIVE
+created to protect alliance members within the federal and state prison systems.,created,affiliates,STATIVE
+"These symbols may be seen in the tattoos, jewelry, and clothing",seen,symbols,STATIVE
+"that gang members wear as well as in gang graffiti,",wear,members,STATIVE
+which is used by the Bloods to mark their territory.,used,graffiti,DYNAMIC
+"Such graffiti can include gang names, nicknames, declaration of loyalty, threats against rival gangs, or a description of criminal acts",include,graffiti,STATIVE
+in which the gang has been involved.,involved,gang,DYNAMIC
+Bloods graffiti might also include the word Piru,include,graffiti,STATIVE
+which refers to the fact,refers,word,STATIVE
+"that the first known Bloods gang was formed by individuals from Piru Street in Compton, California.",formed,gang,DYNAMIC
+"Finally, Bloods graffiti might include rival gang symbols",include,graffiti,STATIVE
+(particularly those of the Crips) that are drawn upside down.,drawn,symbols,DYNAMIC
+This is meant as an insult to the rival group and its symbols.,meant,This,STATIVE
+Bloods members also have a unique slang.,have,members,STATIVE
+Bloods greet each other,greet,Bloods,DYNAMIC
+using the word Blood,using,,CANNOT_DECIDE
+and often avoid using words with the letter,avoid,Bloods,DYNAMIC
+"C. Finally, Bloods use hand signs to communicate with one another.",use,Bloods,DYNAMIC
+"Hand signs may be a singular movement, like the American Sign Language letter B, or a series of movements",be,signs,STATIVE
+using one or both hands for more complex phrases.,using,movements,DYNAMIC
+"United Blood Nation (UBN) or East Coast Bloods initiates often receive a dog-paw mark,",initiates,East,DYNAMIC
+represented by three dots,represented,mark,STATIVE
+"often burned with a cigarette, on their right shoulder.",burned,dots,DYNAMIC
+Other UBN symbols include a bulldog and a bull.,include,symbols,STATIVE

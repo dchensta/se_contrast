@@ -1,0 +1,126 @@
+Clause,mainVerb,mainReferent,Gold
+"Self-control, Self-efficacy, and New Year's Resolutions Unresolved",Unresolved,Self-efficacy,CANNOT_DECIDE
+I'm not one to make New Year's resolutions.,'m,I,STATIVE
+"I mean, sure,",mean,I,STATIVE
+I could take my pick of popular New Year's resolutions ;,take,I,DYNAMIC
+"I could decide, on the first day of the new year,",decide,I,DYNAMIC
+"that this year, I'll start exercising more",start,I,DYNAMIC
+"and eating better,",eating,,CANNOT_DECIDE
+"or that I'll spend more time with my family and friends,",spend,I,DYNAMIC
+or that I'll learn a new skill.,learn,I,DYNAMIC
+"And if I chose to make resolutions,",chose,I,DYNAMIC
+I'd be far from alone,be,I,STATIVE
+-- a 2008 survey on Dorthy.com found,found,survey,DYNAMIC
+that 66% of the 2000+ adults polled had made resolutions at some point,made,%,DYNAMIC
+(though only 17% managed to keep them).,managed,%,DYNAMIC
+Making resolutions: It's about self-control,Making,this,STATIVE
+The question Anirban Mukhopadhyay of the Hong Kong University and Gita Venkatarmani Johar of the Graduate School of Business at Columbia University asked,asked,It,DYNAMIC
+is this,is,,STATIVE
+: What determines how many goals,determines,this,CANNOT_DECIDE
+"a person will set,",set,determines,DYNAMIC
+and how successful a person will be at achieving those goals?,be,goals,STATIVE
+"They performed a few studies in 2005 to look at the relationship between self-control, goal setting, and goal achievement.",performed,They,DYNAMIC
+They suggested,suggested,They,DYNAMIC
+that what you believe,believe,you,STATIVE
+about self-control affects the goals,affects,believe,DYNAMIC
+you set and achieve [PDF].,set,you,DYNAMIC
+"In the paper, ""self-control"" is used to mean a sense of willpower.",used,self-control,DYNAMIC
+"Mukhopadhyay & Venkatarmani discuss various lay theories of self-control,",discuss,Mukhopadhyay,STATIVE
+noting,noting,Mukhopadhyay,STATIVE
+"that the amount of self-control a person has can be seen as either an inherently limited or unlimited resource,",seen,amount,DYNAMIC
+and that this resource can be seen either,seen,amount,DYNAMIC
+"as malleable or as fixed (the amount of self-control a person has can change over time, or not).",change,person,DYNAMIC
+An important premise to note here is the idea,is,premise,STATIVE
+that the probability of choosing a goal,choosing,probability,CANNOT_DECIDE
+or making a resolution increases,increases,probability,DYNAMIC
+if a person thinks,thinks,person,STATIVE
+that goal can be attained.,attained,goal,DYNAMIC
+So if you think,think,you,STATIVE
+"you'll be able to achieve a goal,",be,you,STATIVE
+you're more likely to set it.,'re,you,STATIVE
+"Combine this with theories of self-control,",Combine,,CANNOT_DECIDE
+"and in general, if you believe",believe,you,STATIVE
+"you have unlimited stores of self-control,",have,you,STATIVE
+you'll set a larger number of goals.,set,you,DYNAMIC
+If you believe,believe,you,STATIVE
+"self-control is malleable but limited,",is,self-control,STATIVE
+you'll set fewer goals.,set,you,DYNAMIC
+Mukhopadhyay & Venkatarmani also discuss self-efficacy:,discuss,Mukhopadhyay,STATIVE
+"belief in one's capabilities, the perceived ability to carry out a desired action.",perceived,,CANNOT_DECIDE
+They propose,propose,They,STATIVE
+that people with high self-efficacy -- people who believe,believe,people,STATIVE
+"that failure is the result of insufficient effort, and thus exhibit increased commitment and persistence --",is,people,STATIVE
+"will achieve more of their goals than people with low self-efficacy,",achieve,people,DYNAMIC
+"who tend to view failure as the result of deficient ability,",tend,people,STATIVE
+and thus may simply give up.,give,people,DYNAMIC
+The studies,,,CANNOT_DECIDE
+"In the first study, 85 participants (all college students) each read one of four passages",read,studies,DYNAMIC
+presenting lay theories of self-control.,presenting,passages,STATIVE
+Each passage contained two paragraphs;,contained,passage,STATIVE
+"the first discussed self-control either as limited or as unlimited,",discussed,first,STATIVE
+and the second discussed self-control as either malleable or fixed.,discussed,,STATIVE
+The participants then answered questions about their belief in each of two theories,answered,participants,DYNAMIC
+"presented,",presented,theories,STATIVE
+"followed by a second questionnaire to assess motivation,",followed,each,DYNAMIC
+in which they listed all their current goals.,listed,they,DYNAMIC
+The study was testing,was,study,DYNAMIC
+"whether a belief in unlimited, malleable self-control would result in most resolutions,",result,belief,DYNAMIC
+"and indeed, this is what was found.",is,study,STATIVE
+The experimenters had some concerns about participants' natural beliefs in relation to the passages,had,experimenters,STATIVE
+"they read, however, so in study two, the order of the two measures",read,they,DYNAMIC
+(lay theories and motivation/goal listing) was varied.,varied,order,DYNAMIC
+Data from 130 new participants revealed,revealed,Data,DYNAMIC
+"that, as hypothesized,",,,DYNAMIC
+"if the motivation & goals questionnaire were assessed first,",assessed,questionnaire,DYNAMIC
+then among the people who believed,believed,people,STATIVE
+"self-control is malleable,",is,self-control,STATIVE
+those who also believed self-control to be unlimited (vs. limited),believed,those,STATIVE
+set more goals.,set,those,DYNAMIC
+"When lay theories were assessed first, this result reversed.",reversed,result,DYNAMIC
+The people who believed,believed,people,STATIVE
+that self-control is fixed were unaffected by order.,unaffected,people,STATIVE
+"The third study moved on to examine goal achievement,",moved,study,DYNAMIC
+adding a measure to look at self-efficacy.,adding,,DYNAMIC
+"The study had two sessions, in November then February.",had,study,STATIVE
+"In the first session , the 159 participants read",read,participants,DYNAMIC
+"passages about lay theories (much like in study one, but with longer passages to strengthen the manipulation), listed the resolutions",strengthen,,DYNAMIC
+"they were planning on making at New Years,",planning,they,DYNAMIC
+rated,rated,theories,DYNAMIC
+"how disappointed they would be if they failed to keep their resolutions,",disappointed,,STATIVE
+and filled out individual difference measures,filled,theories,DYNAMIC
+(which included a self-efficacy scale).,included,theories,STATIVE
+"Only 86 participants successfully returned for the second session,",returned,participants,DYNAMIC
+during which they indicated,indicated,they,DYNAMIC
+how much success they had had at keeping their resolutions.,had,they,STATIVE
+What does this mean for your resolutions?,mean,this,CANNOT_DECIDE
+"The resolutions made by participants across all conditions were qualitatively similar (take a look at any list of popular New Year's resolutions,",were,resolutions,STATIVE
+and you'll see the majority of the goals).,see,look,DYNAMIC
+"As shown in the first two studies, more goals were set by people",set,goals,DYNAMIC
+who believe,believe,people,STATIVE
+self-control is unlimited and malleable than by any other people --,is,self-control,STATIVE
+"that is,",is,that,STATIVE
+"if you expect more success,",expect,you,STATIVE
+you may increase the difficulty and number of tasks,increase,you,DYNAMIC
+that you set for yourself.,set,difficulty,DYNAMIC
+Self-efficacy did not have a significant effect on goal-setting.,have,Self-efficacy,DYNAMIC
+"As far as success goes, only the interaction between lay theory and self-efficacy was significant.",was,interaction,STATIVE
+If participants believed in limited self-control,believed,participants,STATIVE
+"and were low in self-efficacy,",were,participants,STATIVE
+"they tended to give up more often,",tended,they,STATIVE
+failing to achieve their goals.,failing,they,STATIVE
+"But if participants believed in unlimited self-control,",believed,participants,STATIVE
+self-efficacy had no effect;,had,self-efficacy,STATIVE
+"participants achieved just as many goals regardless,",achieved,participants,DYNAMIC
+and people who set more resolutions were marginally more likely to succeed.,were,people,STATIVE
+Mukhopadhyay & Venkatarmani realize,realize,Venkatarmani,DYNAMIC
+"that their research does not directly look at the relationship between lay theories of self-control and beliefs about one's own amount of self-control and self-efficacy,",look,research,STATIVE
+and propose this as an area for future study.,propose,research,DYNAMIC
+"But in general, lay theories about self-control can determine",determine,theories,DYNAMIC
+"how much success you'll expect (and thus, how many goals you'll set),",expect,you,STATIVE
+and self-efficacy beliefs can determine,determine,theories,DYNAMIC
+how much success you'll actually have.,have,you,STATIVE
+References,,,CANNOT_DECIDE
+"Mukhopadhyay, A. & Johar, G.V. (2005).",,,CANNOT_DECIDE
+"Where There Is a Will, Is There a Way?",Is,Way,CANNOT_DECIDE
+Effects of Lay Theories of Self-Control on Setting and Keeping Resolutions.,,,CANNOT_DECIDE
+"Journal of Consumer Research , 31, 779-786 [ PDF ]",,,CANNOT_DECIDE

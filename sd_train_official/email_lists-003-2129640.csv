@@ -1,0 +1,22 @@
+Clause,mainVerb,mainReferent,Gold
+"docno=""lists-003-2129640""",,,CANNOT_DECIDE
+"received=""Mon May 17 15:10:42 1993 EST""",received,,CANNOT_DECIDE
+"sent=""Mon, 17 May 1993 15:05:50 -0700 (PDT)""",sent,,CANNOT_DECIDE
+"name=""Mark Crispin""",name,sent,CANNOT_DECIDE
+"email=""mrc@Tomobiki-Cho.CAC.Washington.EDU""",,,CANNOT_DECIDE
+"subject=""Re: CHARSET considerations""",,,CANNOT_DECIDE
+"id=""MS-C.737676350.662824084.mrc@Tomobiki-Cho.CAC.Washington.EDU""",,,CANNOT_DECIDE
+"inreplyto=""Pine.3.07.9305170958.E23900-b100000@norman.nwnet.net""",,,CANNOT_DECIDE
+To: Laurence Lundblade <lgl@nwnet.net>,,,CANNOT_DECIDE
+"Cc: ietf-charsets@INNOSOFT.COM, scs@adam.mit.edu, TROTH@ricevm1.rice.edu,",,,CANNOT_DECIDE
+Hi Laurence -,,,CANNOT_DECIDE
+Perhaps all that is needed is a list in the system .,is,docno,STATIVE
+"pinerc file of all the valid charsets,",file,pinerc,CANNOT_DECIDE
+and not let the user set her charset to one,let,pinerc,CANNOT_DECIDE
+that is not in the list.,is,one,STATIVE
+"So, perhaps Pine could have US-ASCII, ISO-2022-JP,",have,Pine,STATIVE
+"and the various ISO-8859-x sets wired in as an initial list,",wired,sets,STATIVE
+and the system file specify additional valid sets?,file,Pine,CANNOT_DECIDE
+The concern is to avoid letting users do things like set it to things such as ``Latin-1'' or ``ASCII'' or similar bogons...,is,concern,STATIVE
+What do you think?,think,things,CANNOT_DECIDE
+-- Mark --,,,CANNOT_DECIDE

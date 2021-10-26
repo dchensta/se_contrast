@@ -1,0 +1,12 @@
+Clause,mainVerb,mainReferent,Gold
+"Sony Corp. completed its tender offer for Columbia Pictures Entertainment Inc., with Columbia shareholders tendering 99.3% of all common shares outstanding by the Tuesday deadline.",completed,Corp.,DYNAMIC
+"Sony Columbia Acquisition Corp., formed for the Columbia deal,",formed,Corp.,DYNAMIC
+"will formally take ownership of the movie studio later this month,",take,Corp.,DYNAMIC
+a spokesman said.,said,spokesman,DYNAMIC
+"Sony is paying $27 a share, or $3.55 billion, cash",paying,Sony,DYNAMIC
+and is assuming $1.4 billion of long-term debt.,assuming,Sony,DYNAMIC
+Still unresolved is Sony's effort to hire producers,is,effort,STATIVE
+Jon Peters and Peter Guber to run the studio.,run,Guber,CANNOT_DECIDE
+Sony's planned acquisition of Guber/Peters Entertainment Co. for $200 million is scheduled to close Monday.,scheduled,acquisition,STATIVE
+Guber/Peters has been locked in litigation with Warner Communications Inc. in an attempt to get out of an exclusive production contract with Warner.,locked,Guber/Peters,STATIVE
+Both sides are in talks to settle the dispute.,are,sides,STATIVE

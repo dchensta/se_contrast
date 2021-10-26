@@ -1,0 +1,41 @@
+Clause,mainVerb,mainReferent,Gold
+"docno=""lists-003-2148080""",,,CANNOT_DECIDE
+"received=""Wed May 19 04:11:33 1993 EST""",received,docno,CANNOT_DECIDE
+"sent=""Wed, 19 May 1993 13:07:45 +0200""",sent,EST,CANNOT_DECIDE
+"name=""Harald Tveit Alvestrand""",,,CANNOT_DECIDE
+"email=""harald.t.alvestrand@delab.sintef.no""",,,CANNOT_DECIDE
+"subject=""Re: CHARSET considerations""",,,CANNOT_DECIDE
+"id=""""10241*/I=t/G=harald/S=alvestrand/OU=delab/O=sintef/PRMD=uninett/ADMD=/C=no/""@MHS""",/,*,CANNOT_DECIDE
+"inreplyto=""01GYBXHRZVEA8Y5JAE@INNOSOFT.COM""",,,CANNOT_DECIDE
+To: Rick Troth <TROTH@ricevm1.rice.edu>,,,CANNOT_DECIDE
+"Cc: scs <scs@adam.mit.edu>, pine-info <pine-info@cac.washington.edu>,DMD=/C=no/""@MHS>",,,CANNOT_DECIDE
+Rick Troth writes: Plain text is defined differently from system to system.,writes,Troth,DYNAMIC
+"On UNIX, plain text is ASCII",ASCII,text,STATIVE
+(now ISO-8859-1) with lines delimited by NL (actually LF).,delimited,lines,STATIVE
+"On NT, plain text is 16 bits wide",is,text,STATIVE
+(so I hear).,hear,I,DYNAMIC
+"That ain't ASCII,",ai,That,STATIVE
+"though we could be the high-order 8 bits for much of plain text processing, and that's fine by me.",be,we,STATIVE
+"(memory is cheap) On VM/CMS, plain text is EBCDIC",is,so,STATIVE
+"(now CodePage 1047) and records are handled by the filesystem out-of-band of the data,",CodePage,EBCDIC,DYNAMIC
+so NL (and LF and CR) aren't sacred characters.,are,NL,STATIVE
+"Now ... ""mail is plain-text, not ASCII"".",is,ASCII,STATIVE
+"Please, gentlemen.....read the RFC.",read,.....,CANNOT_DECIDE
+"As long as you send mail over the Internet, claiming MIME compatibility, the bits on the wire have to conform to the MIME convention,",have,bits,STATIVE
+"*NOT* to the local convention,",*,NOT,CANNOT_DECIDE
+whatever that is.,is,that,STATIVE
+The omission of a character set label from text/plain MEANS,,,STATIVE
+THAT THE CHARACTER SET IS US ASCII.,IS,omission,STATIVE
+"A message that contains characters with the high bit set CANNOT BE US-ASCII,",set,message,STATIVE
+"and therefore, a text/plain message without a charset= label in it that has such characters IS NOT LEGAL MIME.",IS,message,STATIVE
+"So, when SMTP strips the 8th bit,",strips,SMTP,DYNAMIC
+it gets,gets,it,DYNAMIC
+what it deserves.,deserves,it,STATIVE
+This was ******NOT******* an oversight.,was,This,STATIVE
+"This was deliberate design,",was,This,STATIVE
+designed to promote interoperability.,designed,design,STATIVE
+The proliferation of mail in strange character sets without labels is *exactly* one of the things,*,proliferation,STATIVE
+that the MIME effort was meant to *remove*.,meant,effort,STATIVE
+"End of flame..............if you want a couple of tons more, read the archives of the SMTP and RFC-822 groups.",read,End,STATIVE
+"The last flareup is hidden under ""unknown-7bit"" and ""unknown-8bit"" discussions.",hidden,flareup,STATIVE
+Harald Tveit Alvestrand,,,CANNOT_DECIDE

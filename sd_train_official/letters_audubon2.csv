@@ -1,0 +1,66 @@
+Clause,mainVerb,mainReferent,Gold
+Office of the President National Audubon Society,,,CANNOT_DECIDE
+700 Broadway,,,CANNOT_DECIDE
+"New York, NY 10003-9562",,,CANNOT_DECIDE
+"This morning, I closed my office door to interruptions,",closed,Office,DYNAMIC
+"sat alone at my desk,",sat,Office,DYNAMIC
+and did something,did,Office,DYNAMIC
+I think,think,I,STATIVE
+will please you and everyone in your home.,please,,DYNAMIC
+"Dear Former Member, When we lose a member like you,",Dear,hurts,DYNAMIC
+it hurts.. .,hurts,it,DYNAMIC
+all of us.,,,CANNOT_DECIDE
+So this morning I sat down,sat,I,DYNAMIC
+and thought about what it would take,thought,I,DYNAMIC
+for you to give us a second chance.,give,you,CANNOT_DECIDE
+"I thought about our new, enhanced local efforts, our expanding scientific research and educational programs, our fresh new writing in AUDUBON magazine.",thought,I,DYNAMIC
+Then I thought about an enticing way,thought,I,DYNAMIC
+"for you to regain your place among Americas most intelligent, concerned and caring citizens",regain,you,CANNOT_DECIDE
+who proudly avow membership in the National Audubon Society.,avow,citizens,DYNAMIC
+Im inviting you back to full membership for just $17 - 51% off the regular rate.,’m,I,DYNAMIC
+"By accepting my personal invitation, youll provide yourself and every member of your family with a fulfilling sense of proprietorship, and a steady flow of priceless enjoyment.",’ll,you,DYNAMIC
+Youll once again be enthralled by the striking photography and insightful environmental journalism,’ll,You,STATIVE
+"that makes our exclusive magazine, AUDUBON, a treasure worth saving.",makes,photography,STATIVE
+"Its already won the prestigious National Magazine Award not once, but four times.",’s,It,DYNAMIC
+__ This award-winning style is evident in every issue,is,__,STATIVE
+"with behind-the-headlines reporting, passionate coverage of the environment, exotic journeys to remote places you may never otherwise experience, and of course, in AUDUBONs famous photography of natures most awe-inspiring creations.",experience,you,CANNOT_DECIDE
+"Bring beauty, mystery, adventure and the natural world back in your life.",Bring,,CANNOT_DECIDE
+You may have missed learning the mysteries of the spectacled eider,missed,You,DYNAMIC
+(a duck with an uncertain future) ... missed traveling with us to Asia,missed,missed,DYNAMIC
+where we found and followed the last wild tigers,found,we,DYNAMIC
+... missed marveling at the magic of mangroves..,missed,missed,DYNAMIC
+missed discovering in Peru the newest bird,missed,barbet,DYNAMIC
+"known to science, the barbet.. .",known,bird,STATIVE
+but you wont miss a thing anymore.,miss,you,DYNAMIC
+Ive had a look at the magazines upcoming subjects,had,I,DYNAMIC
+and I can tell you,tell,I,DYNAMIC
+the best is yet to come.,is,tell,STATIVE
+"From what I see, the magazines editorial staff and fresh new look and content may soon be granted a fifth National Magazine Award.",granted,look,DYNAMIC
+Theres much more to membership than AUDUBON magazine!,’s,more,STATIVE
+"Youll be protecting, preserving and promoting Americas wetlands, endangered species, ancient forests, our National Wildlife Refuges, the Everglades and the Platte River, our Living Oceans Program and much more.",’ll,You,DYNAMIC
+"Youll be supporting sanctuaries, field research, environmental education and legislation and many other vital efforts critical to the protection of wildlife and their habitats.",’ll,You,DYNAMIC
+"Youll also be educating youngsters in 15,000 schools across America  most likely some in your own school district.",’ll,You,DYNAMIC
+"By accepting my special invitation to join again, youll receive special invitations to our sanctuaries and Ecology Camps  and FREE ADMISSION to our Nature Centers.",’ll,you,DYNAMIC
+"There, youll have the rewarding opportunity to study with Audubon experts",have,you,STATIVE
+and take part in workshops of special interest to you.,take,opportunity,DYNAMIC
+"Whats more, youll receive",’ll,you,DYNAMIC
+FREE MEMBERSHIP in your local chapter -there are more than 500 Audubon chapters,are,chapters,STATIVE
+nationwide  with access to field trips and activities,—,chapters,CANNOT_DECIDE
+everyone in your family will enjoy.,enjoy,everyone,DYNAMIC
+Theres still more.,’s,more,STATIVE
+"Special travel opportunities, and special (FREE!)",,,CANNOT_DECIDE
+membership in the Audubon Activist Network will also be yours.,be,membership,STATIVE
+"Incredibly, all this is possible for just 517.",is,this,STATIVE
+Think of all the ways everyone in your household will benefit from your membership in Audubon.,Think,,CANNOT_DECIDE
+"And then, please, take advantage of this opportunity to regain full membership for 51% less than the regular rate.",take,,CANNOT_DECIDE
+We simply cant afford to lose you.,afford,We,STATIVE
+May we become partners once again?,become,May,CANNOT_DECIDE
+Ill be waiting for your reply.,waiting,’ll,STATIVE
+"Sincerely,",,,CANNOT_DECIDE
+John Flicker,,,CANNOT_DECIDE
+"P.S. On behalf of everyone here at the National Audubon Society, we look forward to saying, Welcome back!",“,P.S.,STATIVE
+All of us are excited about sending you your magazine and membership materials.,are,All,STATIVE
+"In advance, please accept my personal Thank you!",please,,CANNOT_DECIDE
+P.P.S.,,,CANNOT_DECIDE
+"As an added gesture of appreciation, Ill also send you our binoculars",’ll,I,DYNAMIC
+-- FREE -- with your permanent membership.,,,CANNOT_DECIDE

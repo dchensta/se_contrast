@@ -1,0 +1,42 @@
+Clause,mainVerb,mainReferent,Gold
+"docno=""lists-003-2125109""",,,CANNOT_DECIDE
+"received=""Mon May 17 09:16:46 1993 EST""",received,docno,CANNOT_DECIDE
+"sent=""Mon, 17 May 1993 09:06:59 -0700 (PDT)""",sent,,CANNOT_DECIDE
+"name=""Laurence Lundblade""",name,sent,CANNOT_DECIDE
+"email=""lgl@nwnet.net""",,,CANNOT_DECIDE
+"subject=""Re: CHARSET considerations""",,,CANNOT_DECIDE
+"id=""Pine.3.07.9305170958.E23900-b100000@norman.nwnet.net""",,,CANNOT_DECIDE
+"inreplyto=""MS-C.737437622.2035015474.mrc@Ikkoku-Kan.Panda.COM""",,,CANNOT_DECIDE
+To: Mark Crispin <mrc@Ikkoku-Kan.Panda.COM>,,,CANNOT_DECIDE
+"Cc: ietf-charsets@INNOSOFT.COM, scs@adam.mit.edu, TROTH@ricevm1.rice.edu,",,,CANNOT_DECIDE
+"I haven't followed this discussion,",followed,I,DYNAMIC
+but Pine does do a few things with character sets.,do,docno,DYNAMIC
+For example if you set Pine to use ISO-8859-1,set,you,DYNAMIC
+and send an all ASCII message,send,Pine,DYNAMIC
+it will tag it US-ASCII (instead of ISO-8859-1).,tag,it,DYNAMIC
+"Also, it's smart enough to display the lower 128 for all incoming messages in the ISO-8859-X characters sets and greek the ones",'s,it,STATIVE
+it can't if the character set of the receiving Pine is US-ASCII or ISO-8859-X.,is,character,STATIVE
+Thought,,,STATIVE
+that was what required for minimal MIME compliance.,was,that,STATIVE
+Hope,,,STATIVE
+I haven't upgraded the sin from omission to comision....,upgraded,I,DYNAMIC
+LL,,,CANNOT_DECIDE
+"On Fri, 14 May 1993, Mark Crispin wrote: Steve -",wrote,Crispin,DYNAMIC
+Thanks for your comments.,,,CANNOT_DECIDE
+You needn't convince me;,need,You,STATIVE
+I've been involved with the MIME charset issue for a long time,involved,I,STATIVE
+(you'll note,note,you,DYNAMIC
+that I am one of the authors of the ISO-2022-JP spec).,am,I,STATIVE
+"In defense of the other Pine team members, the sin is one of omission rather than of comission;",is,sin,STATIVE
+they wanted to do something about character sets,wanted,they,STATIVE
+and didn't want to wire in a table of legal values,want,they,STATIVE
+(since it might change).,change,it,DYNAMIC
+I've suggested,suggested,I,DYNAMIC
+"that as a first pass the charset should only be settable in the system config file,",be,charset,STATIVE
+and that the charset always be coerced to US-ASCII,coerced,charset,DYNAMIC
+unless the text contains,contains,text,STATIVE
+8-bit characters and/or has ``funny'' control characters such as ESC or SI/SO.,has,and/or,STATIVE
+"More work would definitely be needed in thi s area,",needed,work,STATIVE
+but you'll appreciate,appreciate,work,STATIVE
+"that there are other, higher priorities just now...",are,appreciate,STATIVE
+-- Mark --,,,CANNOT_DECIDE

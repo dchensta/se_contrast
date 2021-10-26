@@ -1,0 +1,99 @@
+Clause,mainVerb,mainReferent,Gold
+Fiddle is another name for the bowed string musical instrument,is,Fiddle,STATIVE
+more often called a violin.,called,instrument,DYNAMIC
+It is also a colloquial term for the instrument,is,It,STATIVE
+"used by players in all genres,",used,instrument,DYNAMIC
+including classical music.,including,,STATIVE
+"Fiddle playing, or fiddling, which could refers to various styles of music.",Fiddle,,STATIVE
+"There are no real distinctions between violins and fiddles,",are,distinctions,STATIVE
+though more primitively constructed and smaller violins are more likely to be considered fiddles.,are,violins,STATIVE
+Fiddle is also a common term among musicians,is,Fiddle,STATIVE
+who play folk music on the violin.,play,musicians,DYNAMIC
+The fiddle is part of many traditional,is,fiddle,STATIVE
+"(folk) styles of music which are aural traditions,",are,styles,STATIVE
+taught 'by ear' rather than via written music.,taught,traditions,DYNAMIC
+It is less common,is,It,STATIVE
+"for a classically trained violinist to play folk music,",play,violinist,CANNOT_DECIDE
+"but today, many fiddlers have classical training.",have,It,STATIVE
+==History==,=,History,CANNOT_DECIDE
+"The medieval fiddle emerged in 10th-century Europe, deriving from the Byzantine lira",emerged,fiddle,DYNAMIC
+"(Greek:, Latin:lira, English:lyre),",,,CANNOT_DECIDE
+a bowed string instrument of the Byzantine Empire and ancestor of most European bowed instruments.,,,CANNOT_DECIDE
+The first recorded reference to the bowed,recorded,,CANNOT_DECIDE
+lira was in the 9th century by the Persian geographer Ibn Khurradadhbih,was,reference,STATIVE
+(d. 911); in his lexicographical discussion of instruments he cited the lira (lr) as a typical instrument of the Byzantines and equivalent to the rabb,cited,he,DYNAMIC
+played in the Islamic Empires.,played,rabāb,DYNAMIC
+Lira spread widely westward to Europe;,spread,Lira,DYNAMIC
+in the 11th and 12th centuries European writers use the terms fiddle and lira,use,writers,DYNAMIC
+interchangeably when referring to bowed instruments (Encyclopdia Britannica.,referring,,DYNAMIC
+2009).,,,CANNOT_DECIDE
+"Over the centuries, Europe continued to have two distinct types of fiddles:",continued,Europe,STATIVE
+"one, relatively square-shaped, held in the arms,",held,,STATIVE
+became known as the lira da braccio,became,one,DYNAMIC
+(arm viol) family,,,CANNOT_DECIDE
+and evolved into the violin,evolved,,DYNAMIC
+"; the other, with sloping shoulders",sloping,,CANNOT_DECIDE
+"and held between the knees, was the lira da gamba (leg viol) group.",was,held,STATIVE
+During the Renaissance the gambas were important and elegant instruments;,were,gambas,STATIVE
+they eventually lost ground to the louder (and originally less aristocratic) lira da braccio family.,lost,they,DYNAMIC
+==Etymology==,,,CANNOT_DECIDE
+The etymology of fiddle is uncertain:,is,=,STATIVE
+"the Germanic fiddle may derive from the same early Romance word as does violin,",derive,fiddle,STATIVE
+or it may be natively Germanic.,be,it,STATIVE
+": (as access to the OED online is not free,",is,access,STATIVE
+the relevant excerpt is provided),provided,excerpt,DYNAMIC
+"""The ultimate origin is obscure.",obscure,is,STATIVE
+"The [Teutonic] word bears a singular resemblance in sound to its Latin synonym vitula, vidula, whence French viole, Pr.",bears,word,STATIVE
+"viula, and (by adoption from these [languages]) [Italian], [Spanish], [Portuguese] viola: see [viol].",see,],CANNOT_DECIDE
+The supposition that the early [Romance] vidula was adopted independently in more than one language would account adequately for all the [Teutonic] forms;,account,supposition,STATIVE
+"on the other hand, *fiuln- may be an Teutonic word of native etymology,",be,*,STATIVE
+"though no satisfactory [Teutonic] derivation has been found.""",found,derivation,DYNAMIC
+The name seems however to be related to Icelandic Fila and also Old English fiele.,seems,name,STATIVE
+A native Germanic ancestor of fiddle may even be the ancestor of the early Romance form of violin.,be,ancestor,STATIVE
+"Historically, fiddle also referred to a predecessor of today's violin.",referred,fiddle,STATIVE
+"Like the violin, it tended to have four strings,",tended,it,STATIVE
+but came in a variety of shapes and sizes.,came,it,DYNAMIC
+"Another family of instruments that contributed to the development of the modern fiddle are the viols,",are,family,STATIVE
+which are held between the legs,held,viols,STATIVE
+"and played vertically,",played,viols,DYNAMIC
+and have fretted fingerboards.,fretted,viols,STATIVE
+==Ensembles==,,,CANNOT_DECIDE
+"In performance, a solo fiddler, or one fiddler or two with a group of other instrumentalists, is the norm,",is,fiddler,STATIVE
+"though twin fiddling is represented in some North American, Scandinavian, Scottish and Irish styles.",represented,fiddling,DYNAMIC
+"Violins, on the other hand, are commonly grouped in sections.",grouped,Violins,DYNAMIC
+These contrasting traditions may be vestiges of historical performance settings:,be,traditions,STATIVE
+"large concert halls where violins were played required more instruments, before electronic amplification,",required,halls,STATIVE
+than did more intimate dance halls and houses,did,halls,STATIVE
+that fiddlers played in.,played,fiddlers,DYNAMIC
+The difference was likely compounded by the different sounds expected of violin music and fiddle music.,compounded,difference,DYNAMIC
+"Historically, the majority of fiddle music was dance music,",was,majority,STATIVE
+while violin music had either grown out of dance music,grown,music,DYNAMIC
+or was something else entirely.,was,music,STATIVE
+Violin music came to value a smoothness,came,music,DYNAMIC
+"that fiddling, with its dance-driven clear beat, did not always follow.",follow,fiddling,DYNAMIC
+"In situations that required greater volume, a fiddler (as long as they kept the beat) could push their instrument harder than could a violinist.",push,fiddler,DYNAMIC
+"(Different fiddle traditions have different values,",have,traditions,STATIVE
+as detailed below.,detailed,,DYNAMIC
+These explanations present the differences between fiddle music and other violin music.),present,explanations,DYNAMIC
+"Following the folk revivals of the second half of the 20th century, however,",Following,,STATIVE
+it has become common,become,it,DYNAMIC
+for less formal situations to find large groups of fiddlers,find,situations,CANNOT_DECIDE
+"playing togethersee for example the Calgary Fiddlers, and Swedish Spelmanslag folk-musician clubs, and the worldwide phenomenon of Irish sessions.",see,situations,CANNOT_DECIDE
+===Scottish fiddle with cello===,,,CANNOT_DECIDE
+"In the very late 20th century, a few artists have successfully attempted a reconstruction of the Scottish tradition of violin and ""big fiddle,"" or cello.",attempted,artists,DYNAMIC
+"Notable recorded examples include Iain Fraser and Christine Hanson, Amelia Kaminski and Christine Hanson's Bonnie Lasses and Alasdair Fraser and Natalie Haas' Fire and Grace.",include,examples,STATIVE
+===Balkan fiddle with kontra===,,,CANNOT_DECIDE
+"Hungarian, Slovenian, and Romanian fiddle players are often accompanied by a three-stringed variant of the violaknown as the kontraand by double bass, with cimbalom and clarinet being less standard yet still common additions to a band.",accompanied,players,DYNAMIC
+"In Hungary, a three stringed viola variant with a flat bridge, called the kontra or hromhros brcsa makes up part of a traditional rhythm section in Hungarian folk music.",makes,variant,STATIVE
+The flat bridge allows,allows,bridge,STATIVE
+for three string chords to be played.,played,chords,CANNOT_DECIDE
+A three stringed double bass variant is also used.,used,variant,DYNAMIC
+==Styles==,,,CANNOT_DECIDE
+"To a greater extent than classical violin playing, fiddle playing is characterized by a huge variety of ethnic or folk music traditions,",characterized,playing,STATIVE
+each of which has its own distinctive sound.,has,each,STATIVE
+===Europe===,,,CANNOT_DECIDE
+====Great Britain====,,,CANNOT_DECIDE
+"* English folk music fiddling, including",including,,STATIVE
+"**The Northumbrian fiddle style,",**,fiddling,CANNOT_DECIDE
+"which features ""seconding"",",features,style,STATIVE
+an improvised harmony part played by a second fiddler.,played,part,DYNAMIC

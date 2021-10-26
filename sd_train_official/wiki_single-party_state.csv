@@ -1,0 +1,89 @@
+Clause,mainVerb,mainReferent,Gold
+"A single-party state, one-party state, one-party system, or single-party system is a type of state",is,system,STATIVE
+"in which a single political party has the right to form the government,",has,party,STATIVE
+usually based on the existing constitution.,based,government,STATIVE
+All other parties are either outlawed or allowed to take only a limited and controlled participation in elections.,outlawed,parties,DYNAMIC
+Sometimes the term de facto single-party state is used to describe a dominant-party system,used,state,DYNAMIC
+"that, unlike the single-party state, allows (at least nominally) democratic multiparty elections,",allows,system,STATIVE
+but the existing practices or balance of political power effectively prevent the opposition from winning the elections.,prevent,state,DYNAMIC
+==Concept==,,,CANNOT_DECIDE
+Single-party states justify themselves through various methods.,justify,states,DYNAMIC
+"Most often, proponents of a single-party state argue",argue,proponents,DYNAMIC
+that the existence of separate parties runs counter to national unity.,runs,existence,STATIVE
+Others argue,argue,Others,DYNAMIC
+"that the single party is the vanguard of the people,",is,party,STATIVE
+and therefore its right to rule cannot be legitimately questioned.,questioned,vanguard,DYNAMIC
+"The Marxist theory states that political parties represent the interests,",states,theory,STATIVE
+"most of which, in a liberal system, respond to the economic power",respond,most,STATIVE
+and are part of the system,are,,STATIVE
+(the superstructure) where,,,CANNOT_DECIDE
+"whoever wins there will be no substantial changes, once abolished class distinctions no place for the struggle for multiparty own economic interests, however, an organization",wins,whoever,STATIVE
+that is able to formulate national policies,is,organization,STATIVE
+and manage their reins to ensure the development of socialism,manage,organization,DYNAMIC
+"is necessary,",is,organization,STATIVE
+this organization is the only party to be the only existing single social class and the common interest of progress.,is,organization,STATIVE
+"Some single party states only outlaw opposition parties,",outlaw,states,DYNAMIC
+while allowing subordinate allied parties to exist as part of a permanent coalition such as a popular front.,allowing,,DYNAMIC
+"Examples of this are the People's Republic of China under the United Front, or the National Front in former East Germany.",are,Examples,STATIVE
+"Others may allow non-party members to run for legislative seats,",allow,Others,DYNAMIC
+as was the case with Taiwan's Tangwai movement in the 1970s and 1980s.,was,,STATIVE
+"Within their own countries, dominant parties ruling over single-party states are often referred to simply as the Party.",referred,parties,DYNAMIC
+"For example, in reference to the Soviet Union, the Party meant the Communist Party of the Soviet Union;",meant,Party,STATIVE
+in reference to the former People's Republic of Poland it referred to the Polish United Workers' Party.,referred,it,STATIVE
+Most single-party states have been ruled either by parties,ruled,states,DYNAMIC
+following the ideology of Marxism-Leninism and international solidarity,following,,STATIVE
+"(such as the Soviet Union for most of its existence), or by parties following some type of nationalist or fascist ideology (such as Italy under Benito Mussolini), or by parties",following,,STATIVE
+that came to power in the wake of independence from colonial rule.,came,parties,DYNAMIC
+One-party systems often arise from decolonization,arise,systems,DYNAMIC
+because one party has had an overwhelmingly dominant role in liberation or in independence struggles.,had,party,STATIVE
+"Single-party states are often, but not always,",are,,CANNOT_DECIDE
+considered to be authoritarian or totalitarian.,considered,states,CANNOT_DECIDE
+"However, not all authoritarian or totalitarian states operate based on single-party rule.",operate,states,DYNAMIC
+"Some, especially absolute monarchies and certain military dictatorships, have made all political parties illegal.",made,Some,DYNAMIC
+"The term ""communist state"" is often used in the west to apply to states",used,term,DYNAMIC
+in which the ruling party subscribes to a form of Marxism-Leninism.,subscribes,party,STATIVE
+"However, such states do not use that term themselves,",use,states,DYNAMIC
+"seeing communism as a phase to develop after the full maturation of socialism,",seeing,states,STATIVE
+"and instead often use the titles of ""people's republic"", ""socialist republic"", or ""democratic republic"".",use,communism,DYNAMIC
+"One peculiar example is Cuba,",is,example,STATIVE
+"where the role of the Communist Party is enshrined in the constitution,",enshrined,role,STATIVE
+"and no party is permitted to campaign or run candidates for election,",permitted,role,STATIVE
+including the Communist party.,including,,STATIVE
+Candidates are elected on an individual referendum basis,elected,Candidates,DYNAMIC
+"without formal party involvement, though elected assemblies predominantly consist of members of the dominant party alongside non-affiliated candidates.",consist,assemblies,STATIVE
+==Examples==,=,Examples,CANNOT_DECIDE
+"The True Whig Party of Liberia is considered the founder of the first single-party state in the world,",considered,Examples,STATIVE
+"as despite opposition parties never being outlawed,",outlawed,it,DYNAMIC
+it completely dominated Liberian politics from 1878 until 1980.,dominated,it,DYNAMIC
+The party was conceived by the original Black American settlers and their descendants,conceived,party,DYNAMIC
+who referred to themselves as Americo-Liberians.,referred,descendants,DYNAMIC
+"Initially, its ideology was heavily influenced by that of the Whig Party in the United States.",influenced,ideology,DYNAMIC
+Over time it developed into a powerful Masonic Order,developed,it,DYNAMIC
+that ruled every aspect of Liberian society for well over a century,ruled,Order,DYNAMIC
+until it was overthrown in 1980.,overthrown,it,DYNAMIC
+"While the True Whig Party still exists today,",exists,Party,STATIVE
+its influence has substantially declined.,declined,influence,DYNAMIC
+===Current single-party states===,,,CANNOT_DECIDE
+The following list includes the countries,,,STATIVE
+that are legally constituted as single-party states as of 2013 and the name of the single party in power:,,,STATIVE
+===Former single-party states===,,,CANNOT_DECIDE
+"* Most states in Sub-Saharan Africa after independence,",,,CANNOT_DECIDE
+although all except Eritrea have eventually converted to a de jure multi-party system;,,,DYNAMIC
+** (MPLA) 1975-1991,,,CANNOT_DECIDE
+** (People's Revolutionary Party of Benin) 1975-1990,,,CANNOT_DECIDE
+** Upper Volta (African Democratic Rally) 19601966,,,CANNOT_DECIDE
+** (Union for National Progress) 1966-1992,,,CANNOT_DECIDE
+"** (Cameroon National Union) 1966-1985, (Cameroon People's Democratic Movement) 1985-1990",,,CANNOT_DECIDE
+"** (African Party for the Independence of Guinea and Cape Verde) 1975-1981, (African Party for the Independence of Cape Verde) 1981-1990",,,CANNOT_DECIDE
+"** (Movement for the Social Evolution of Black Africa) 1962-1980, (Central African Democratic Union) 1980-1981, (Central African Democratic Rally) 1987-1991",,,CANNOT_DECIDE
+"** (Chadian Progressive Party) 1962-1973, (National Movement for the Cultural and Social Revolution) 1973-1975, (National Union for Independence and Revolution) 1984-1990",,,CANNOT_DECIDE
+** (Comorian Union for Progress) 1982-1990,,,CANNOT_DECIDE
+** (Congolese Party of Labour) 1969-1990,,,CANNOT_DECIDE
+** Zaire (Popular Movement of the Revolution) 19701990,,,CANNOT_DECIDE
+** (People's Rally for Progress) 1977-1992,,,CANNOT_DECIDE
+"** (Worker's National United Party) 1970-1979, (Democratic Party of Equatorial Guinea) 1987-1991",,,CANNOT_DECIDE
+** (Workers' Party of Ethiopia) 1984-1991,,,CANNOT_DECIDE
+** (Gabonese Democratic Party) 1968-1990,,,CANNOT_DECIDE
+** (Convention People's Party) 1964-1966,,,CANNOT_DECIDE
+** (Democratic Party of Guinea  African Democratic Rally) 1958-1984,,,CANNOT_DECIDE
+** (African Party for the Independence of Guinea and Cape Verde) 1974-1991,,,CANNOT_DECIDE

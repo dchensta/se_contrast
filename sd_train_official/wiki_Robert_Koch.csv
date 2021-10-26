@@ -1,0 +1,91 @@
+Clause,mainVerb,mainReferent,Gold
+Robert Heinrich Herman Koch (; k; 11 December 1843  27 May 1910),,,CANNOT_DECIDE
+was a celebrated German physician and pioneering microbiologist.,was,Koch,STATIVE
+"The founder of modern bacteriology, he is known for his role in identifying the specific causative agents of tuberculosis, cholera, and anthrax and for giving experimental support for the concept of infectious disease.",known,founder,STATIVE
+"In addition to his trail-blazing studies on these diseases, Koch created and improved laboratory technologies and techniques in the field of microbiology,",created,Koch,DYNAMIC
+and made key discoveries in public health.,made,Koch,DYNAMIC
+"His research led to the creation of Kochs postulates, a series of four generalized principles",led,research,DYNAMIC
+linking specific microorganisms to specific diseases,linking,led,STATIVE
+"that remain today the ""gold standard"" in medical microbiology.",remain,diseases,STATIVE
+"As a result of his groundbreaking research on tuberculosis, Koch received the Nobel Prize in Physiology or Medicine in 1905.",received,Koch,DYNAMIC
+==Personal life==,,,CANNOT_DECIDE
+"Robert Koch was born in Clausthal, Hanover, Germany, on 11 December 1843, to Hermann Koch and Mathilde Julie Henriette Biewand.",born,Koch,DYNAMIC
+Koch excelled in academics from an early age.,excelled,Koch,DYNAMIC
+"Before entering school in 1848,",entering,he,DYNAMIC
+he had taught himself,taught,he,DYNAMIC
+how to read and write.,read,himself,CANNOT_DECIDE
+"He graduated from high school in 1862,",graduated,He,DYNAMIC
+having excelled in science and maths.,having,,DYNAMIC
+"At the age of 19, Koch entered the University of Gttingen,",entered,Koch,DYNAMIC
+studying natural science.,studying,Koch,DYNAMIC
+"However, after two semesters, Koch decided to change his area of study to medicine,",decided,Koch,DYNAMIC
+as he aspired to be a physician.,aspired,he,STATIVE
+"During his fifth semester of medical school, Jacob Henle, an anatomist who had published a theory of contagion in 1840, asked him to participate in his research project on uterine nerve structure.",asked,Henle,DYNAMIC
+"In his sixth semester, Koch began to conduct research at the Physiological Institute,",began,Koch,DYNAMIC
+where he studied succinic acid secretion.,studied,he,DYNAMIC
+This would eventually form the basis of his dissertation.,form,This,DYNAMIC
+"In January 1866, Koch graduated from medical school,",graduated,Koch,DYNAMIC
+earning honors of the highest distinction.,earning,,DYNAMIC
+"In July 1867, following his graduation from medical school, Koch married Emma Adolfine Josephine Fraatz,",following,,DYNAMIC
+"and the two had a daughter, Gertrude, in 1868.",had,Koch,DYNAMIC
+"After his graduation in 1866, he worked as a surgeon in the Franco-Prussian War,",worked,he,DYNAMIC
+"and following his service, worked as a physician in Wollstein (now Wolsztyn, Poland).",following,War,DYNAMIC
+"Kochs marriage with Emma Fraatz ended in 1893, and later that same year, he married actress Hedwig Freiberg.",ended,marriage,DYNAMIC
+"From 1885 to 1890, he served as an administrator and professor at Berlin University.",served,he,DYNAMIC
+"Koch suffered a heart attack on 9 April 1910,",suffered,Koch,DYNAMIC
+and never made a complete recovery.,made,Koch,DYNAMIC
+"On 27 May, only three days after giving a lecture on his tuberculosis research at the Berlin Academy of Sciences, Robert Koch died in Baden-Baden at the age of 66.",died,Koch,DYNAMIC
+"Following his death, the Institute named its establishment after him in his honor.",Following,,DYNAMIC
+==Research contributions==,,,CANNOT_DECIDE
+===Anthrax===,,,CANNOT_DECIDE
+"Robert Koch is widely known for his work with anthrax, discovering the causative agent of the fatal disease to be Bacillus anthracis.",known,contributions,STATIVE
+Koch discovered the formation in anthrax bacteria of spores,discovered,Koch,DYNAMIC
+that could remain dormant under specific conditions.,remain,spores,STATIVE
+"However, under optimal conditions, the spores were activated and caused disease.",activated,spores,DYNAMIC
+"To determine this causative agent,",determine,,CANNOT_DECIDE
+"he dry-fixed bacterial cultures onto glass slides,",dry-fixed,he,DYNAMIC
+"used dyes to stain the cultures,",used,he,DYNAMIC
+and observed them through a microscope.,observed,he,DYNAMIC
+Kochs work with anthrax is notable,is,work,STATIVE
+"in that he was the first to link a specific microorganism with a specific disease,",was,rejecting,STATIVE
+rejecting the idea of spontaneous generation,rejecting,first,DYNAMIC
+and supporting the germ theory of disease.,supporting,first,DYNAMIC
+===Koch's four postulates===,,,CANNOT_DECIDE
+Koch accepted a position as government advisor with the Imperial Department of Health in 1880.,accepted,Koch,DYNAMIC
+"During his time as government advisor, he published a report",published,he,DYNAMIC
+in which he stated the importance of pure cultures in isolating disease-causing organisms,stated,he,DYNAMIC
+"and explained the necessary steps to obtain these cultures, methods",explained,he,DYNAMIC
+which are summarized in Kochs four postulates.,summarized,methods,STATIVE
+Kochs discovery of the causative agent of anthrax led to the formation of a generic set of postulates,led,discovery,DYNAMIC
+which can be used in the determination of the cause of any infectious disease.,used,set,DYNAMIC
+"These postulates, which not only outlined a method for linking cause and effect of an infectious disease",outlined,postulates,DYNAMIC
+"but also established the significance of laboratory culture of infectious agents,",established,postulates,DYNAMIC
+are listed here:,listed,postulates,STATIVE
+"1. The organism must always be present, in every case of the disease.",be,organism,STATIVE
+2. The organism must be isolated from a host,isolated,organism,DYNAMIC
+containing the disease,containing,host,STATIVE
+and grown in pure culture.,grown,organism,DYNAMIC
+3. Samples of the organism taken from pure culture must cause the same disease,cause,Samples,DYNAMIC
+"when inoculated into a healthy, susceptible animal in the laboratory.",inoculated,,DYNAMIC
+4. The organism must be isolated from the inoculated animal,be,organism,DYNAMIC
+and must be identified as the same original organism,identified,organism,DYNAMIC
+first isolated from the originally diseased host.,isolated,organism,DYNAMIC
+===Isolating pure culture on solid media===,,,CANNOT_DECIDE
+Koch began conducting research on microorganisms in a laboratory,began,Isolating,DYNAMIC
+connected to his patient examination room.,connected,laboratory,STATIVE
+"Kochs early research in this laboratory proved to yield one of his major contributions to the field of microbiology,",proved,research,DYNAMIC
+as it was there,was,it,STATIVE
+that he developed the technique,developed,he,DYNAMIC
+of growing bacteria.,growing,,CANNOT_DECIDE
+Koch's second postulate calls for the isolation and growth of a selected pathogen in pure laboratory culture.,calls,postulate,DYNAMIC
+"In an attempt to grow bacteria, Koch began to use solid nutrients such as potato slices.",began,Koch,DYNAMIC
+"Through these initial experiments, Koch observed individual colonies of identical, pure cells.",observed,Koch,DYNAMIC
+Coming to the conclusion,Coming,Koch,DYNAMIC
+"that potato slices were not suitable media for all organisms, Koch later began to use nutrient solutions with gelatin.",began,Koch,DYNAMIC
+"However, he soon realized",realized,he,DYNAMIC
+"that gelatin, like potato slices, was not the optimal medium for bacterial growth,",was,gelatin,STATIVE
+"as it did not remain solid at 37C, the ideal temperature for growth of most human pathogens.",remain,it,STATIVE
+"As suggested to him by Walther and Angelina Hesse, Koch began to utilize agar to grow and isolate pure cultures,",began,Koch,DYNAMIC
+"as this polysaccharide remains solid at 37C,",remains,polysaccharide,STATIVE
+"is not degraded by most bacteria,",degraded,polysaccharide,DYNAMIC
+and results in a transparent medium.,results,polysaccharide,DYNAMIC

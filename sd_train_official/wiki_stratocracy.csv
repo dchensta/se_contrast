@@ -1,0 +1,34 @@
+Clause,mainVerb,mainReferent,Gold
+"A stratocracy (from , stratos, ""army"" and , kratos, ""dominion"", ""power"")",,,CANNOT_DECIDE
+is a form of government,is,stratocracy,STATIVE
+headed by military chiefs.,headed,government,STATIVE
+It is not the same as a military dictatorship or military junta,is,It,STATIVE
+where the military's political power is not enforced,enforced,power,DYNAMIC
+or even supported by other laws.,supported,power,STATIVE
+"Rather, stratocracy is a form",is,stratocracy,STATIVE
+"of military government in which the state and the military are traditionally or constitutionally the same entity,",are,state,STATIVE
+and government positions are always occupied by commissioned officers and military leaders.,occupied,form,STATIVE
+"Citizens with mandatory and/or voluntary military service, or who have been honorably discharged, have the right to elect and/or govern.",have,Citizens,STATIVE
+"The military's political power is supported by law, the constitution, and the society.",supported,power,STATIVE
+A stratocracy therefore is more often a meritocracy,is,stratocracy,STATIVE
+and does not have to be autocratic by nature,have,meritocracy,STATIVE
+in order to preserve its right to rule.,preserve,,CANNOT_DECIDE
+==Notable examples of stratocracies==,,,CANNOT_DECIDE
+===Modern stratocracies===,,,CANNOT_DECIDE
+The closest modern equivalent to a stratocracy is the State Peace and Development Council of Myanmar,is,examples,STATIVE
+"(Burma), which is arguably different from most other military dictatorships",is,Burma,STATIVE
+in that it completely abolished the civilian constitution and legislature.,abolished,it,DYNAMIC
+A new constitution that came into effect in 2010 cemented the military's hold on power through mechanisms such as reserving 25% of the seats in the legislature for military personnel.,cemented,constitution,DYNAMIC
+===Historical stratocracies===,,,CANNOT_DECIDE
+Cossacks were predominantly East Slavic people,were,,STATIVE
+"who became known as members of democratic, semi-military and semi-naval communities,",became,Cossacks,DYNAMIC
+predominantly located in Ukraine and in Southern Russia.,located,members,STATIVE
+"They inhabited sparsely populated areas and islands in the lower Dnieper, Don, Terek, and Ural river basins,",inhabited,They,DYNAMIC
+and played an important role in the historical and cultural development of both Russia and Ukraine.,played,They,DYNAMIC
+"From a young age, male Spartans were trained for battle",trained,Spartans,DYNAMIC
+and put through grueling challenges,put,Spartans,DYNAMIC
+intended to craft them into fearless warriors.,intended,challenges,STATIVE
+"In battle, they had the reputation of being the best soldiers in Greece, and the strength of Sparta's hoplite forces",had,they,STATIVE
+let the city become the dominant state in Greece throughout much of the Classical period.,let,they,DYNAMIC
+No other city-state would dare to attack Sparta,dare,city-state,DYNAMIC
+even though it could only muster a force of about 8000 Spartans during the zenith of its dominance.,muster,it,DYNAMIC

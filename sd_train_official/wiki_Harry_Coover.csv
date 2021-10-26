@@ -1,0 +1,62 @@
+Clause,mainVerb,mainReferent,Gold
+"Harry Wesley Coover, Jr. (March 6, 1917  March 26, 2011)",,,CANNOT_DECIDE
+"was the inventor of Eastman 910,",was,Jr.,STATIVE
+commonly known as Super Glue.,known,Eastman,STATIVE
+==Life and career==,,,CANNOT_DECIDE
+"Coover was born in Newark, Delaware,",born,Coover,DYNAMIC
+and received his Bachelor of Science from Hobart College before earning his Master of Science and Ph.,received,Life,DYNAMIC
+D. from Cornell University.,,,CANNOT_DECIDE
+He worked as a chemist for Eastman Kodak from 19441973 and as Vice President of the company from 1973-1984.,worked,He,DYNAMIC
+"He later moved to Kingsport, Tennessee,",moved,He,DYNAMIC
+where he spent the rest of his life.,spent,he,DYNAMIC
+==Superglue==,=,=,CANNOT_DECIDE
+"In 1942, while searching for materials to make clear plastic gun sights,",searching,,DYNAMIC
+"Coover and his team at Eastman Kodak examined cyanoacrylates, a material",examined,searching,DYNAMIC
+"that was used during both World Wars as an alternative to stitches on large cuts and wounds,",used,material,DYNAMIC
+rejecting them as too sticky.,rejecting,,DYNAMIC
+"Nine years later, Coover was overseeing Kodak chemists",overseeing,Coover,DYNAMIC
+investigating heat-resistant polymers for jet canopies,investigating,Coover,DYNAMIC
+when cyanoacrylates were once again tested,tested,cyanoacrylates,DYNAMIC
+and proved too sticky.,proved,cyanoacrylates,DYNAMIC
+"That time around, however, Coover recognized",recognized,time,DYNAMIC
+that he had discovered a unique adhesive.,discovered,he,DYNAMIC
+"In 1958, the adhesive, marketed by Kodak as Super Glue,",marketed,adhesive,DYNAMIC
+was introduced for sale.,introduced,adhesive,DYNAMIC
+"Generally, cyanoacrylate is an acrylic resin",is,resin,STATIVE
+which rapidly polymerises in the presence of water,polymerises,resin,DYNAMIC
+"(specifically hydroxide ions), forming long, strong chains,",forming,resin,DYNAMIC
+joining the bonded surfaces together.,joining,forming,DYNAMIC
+"Because the presence of moisture causes the glue to set, exposure to moisture in the air can cause a tube or bottle of glue to become unusable over time.",cause,exposure,DYNAMIC
+"To prevent an opened container of glue from setting before use,",prevent,,CANNOT_DECIDE
+it must be stored in an airtight jar or bottle with a package of silica gel.,stored,it,STATIVE
+Another convenient way is attaching a hypodermic needle on the opening of glue.,attaching,way,STATIVE
+"After applying, residual glue soon clogs the needle,",clogs,glue,DYNAMIC
+keeping moisture out.,keeping,glue,DYNAMIC
+The clog is removed by heating the needle,removed,clog,DYNAMIC
+(e.g. by a lighter) before use.,e.g.,needle,CANNOT_DECIDE
+"Cyanoacrylate is used as a forensic tool to capture latent fingerprints on non-porous surfaces like glass, plastic, etc.",used,Cyanoacrylate,DYNAMIC
+Cyanoacrylate is warmed to produce fumes,warmed,Cyanoacrylate,DYNAMIC
+which react with the invisible fingerprint residues and atmospheric moisture to form a white polymer,react,fumes,DYNAMIC
+(polycyanoacrylate) on the fingerprint ridges.,,,CANNOT_DECIDE
+The ridges can then be recorded.,recorded,ridges,DYNAMIC
+"The developed fingerprints are, on most surfaces",are,except,STATIVE
+"(except on white plastic or similar), visible to the naked eye.",,,CANNOT_DECIDE
+Invisible or poorly visible prints can be further enhanced by applying a luminescent or non-luminescent stain.,enhanced,prints,DYNAMIC
+"While much attention was given to the glue's capacity to bond solid materials, Coover was also the first to recognize and patent cyanoacrylates as a tissue adhesive.",was,Coover,STATIVE
+"First used in the Vietnam War to temporarily patch the internal organs of injured soldiers until conventional surgery could be performed,",used,adhesives,DYNAMIC
+tissue adhesives are now used worldwide for a variety of sutureless surgical applications.,used,adhesives,DYNAMIC
+==Other inventions==,,,CANNOT_DECIDE
+"Coover held 460 patents,",held,Coover,DYNAMIC
+and Super Glue was just one of his many discoveries.,was,Glue,STATIVE
+"He viewed ""programmed innovation,"" a management methodology emphasizing research and development, among his most important work.",viewed,He,STATIVE
+"Implemented at Kodak,",Implemented,innovation,DYNAMIC
+programmed innovation resulted in the introduction of 320 new products and sales growth from $1.8 billion to $2.5 billion.,resulted,innovation,DYNAMIC
+"Coover later formed an international management consulting practice,",formed,Coover,DYNAMIC
+advising corporate clients around the world on programmed innovation methodology.,advising,Coover,DYNAMIC
+Coover received the Southern Chemist Man of the Year Award for his outstanding accomplishments in individual innovation and creativity.,received,Coover,DYNAMIC
+"He also held the Earle B. Barnes Award for Leadership in Chemical Research Management, the Maurice Holland Award, the IRI Achievement Award,",held,He,DYNAMIC
+and was a medalist for the Industrial Research Institute.,was,,STATIVE
+"In 2004, Coover was inducted into the National Inventor's Hall of Fame.",inducted,Coover,DYNAMIC
+"In 2010, Coover received the National Medal of Technology and Innovation.",received,Coover,DYNAMIC
+"Coover died of natural causes at his home in Kingsport, Tennessee, on March 26, 2011.",died,Coover,DYNAMIC
+==References==,,,CANNOT_DECIDE

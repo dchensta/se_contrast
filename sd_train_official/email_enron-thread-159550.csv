@@ -1,0 +1,56 @@
+Clause,mainVerb,mainReferent,Gold
+"Kim: I have completed the invoices for April, May and June",completed,Kim,DYNAMIC
+"and we owe Pasadena each month for a total of $3,615,910.62.",owe,I,STATIVE
+I am waiting to hear back from Patti on May and June to make sure,waiting,I,STATIVE
+they are okay with her.,are,they,STATIVE
+Do you want me to pay Pasadena on Friday for these months or do you want me to hold off,want,you,CANNOT_DECIDE
+until I finish July and August?,finish,I,DYNAMIC
+"Again, I do not have all of the information for July and August,",have,I,STATIVE
+so I cannot give you any numbers.,give,I,DYNAMIC
+"If I go by what is currently in the system as a guide, Pasadena would owe Enron a little over $1 mil.",owe,Pasadena,DYNAMIC
+"I need to forecast the money today,",need,I,DYNAMIC
+so please let me know,let,please,CANNOT_DECIDE
+what you would like to do.,like,you,STATIVE
+FYI-I will be out of the office all next week.,be,FYI-I,STATIVE
+Megan,,,CANNOT_DECIDE
+Subject: RE: City of Pasadena,,,CANNOT_DECIDE
+Thanks you so much for working on these as fast as you have -,Thanks,Subject,CANNOT_DECIDE
+there was a priority in getting them out.,was,priority,STATIVE
+"However, as you know,",know,you,STATIVE
+the less cash outlay that we have right now the better.,have,outlay,STATIVE
+Lets wait,wait,Lets,CANNOT_DECIDE
+and try to offset the amount,try,Lets,CANNOT_DECIDE
+we owe them with what they owe us -,owe,we,STATIVE
+so I say wait,say,I,DYNAMIC
+until you get July and August done.,get,you,DYNAMIC
+What do you think,think,you,CANNOT_DECIDE
+the time frame is on this?,is,frame,CANNOT_DECIDE
+And when would be the earliest,be,,CANNOT_DECIDE
+that we would make the payment?,make,we,CANNOT_DECIDE
+"Thanks, Kim",,,CANNOT_DECIDE
+Subject: RE: City of Pasadena,,,CANNOT_DECIDE
+"Patti is the one with the details,",is,Thanks,STATIVE
+I'm just the deal maker,'m,I,STATIVE
+and don't have access to any of the systems.,have,maker,STATIVE
+All I know is what fixed priced baseload deals we have.,is,All,STATIVE
+I have no idea,have,I,STATIVE
+what flows.,flows,what,DYNAMIC
+I hope,hope,I,STATIVE
+Patti can help you soon.,help,Patti,DYNAMIC
+Let me know,Let,,CANNOT_DECIDE
+if you don't hear from her today.,hear,you,DYNAMIC
+Subject: RE: City of Pasadena,,,CANNOT_DECIDE
+"If I can get all of the information today,",get,I,DYNAMIC
+I can tell you this afternoon.,tell,Subject,DYNAMIC
+It doesn't take long to create the calc sheets.,take,It,DYNAMIC
+I understand from Janine,understand,I,STATIVE
+that you or Patti can provide me with the detail,provide,you,DYNAMIC
+that I need.,need,I,STATIVE
+"If necessary, I can come pick it up.",come,I,DYNAMIC
+I have sent Patti a list.,sent,I,DYNAMIC
+"For payment, we have to forecast the money two days out.",have,we,DYNAMIC
+"So, if I know today,",know,I,STATIVE
+I can pay on Friday.,pay,I,DYNAMIC
+Megan,,,CANNOT_DECIDE
+Subject: RE: City of Pasadena,,,CANNOT_DECIDE
+thats fine - we can't pay them anyway,pay,Subject,STATIVE

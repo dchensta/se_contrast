@@ -1,0 +1,357 @@
+Clause,mainVerb,mainReferent,Gold
+Clean Joke,,,CANNOT_DECIDE
+"Waiter: ""Tea or coffee, gentlemen?""",,,CANNOT_DECIDE
+"1st customer: ""I'll have tea.""",have,customer,DYNAMIC
+"2nd customer: ""Me, too.",,,CANNOT_DECIDE
+And be sure,be,,CANNOT_DECIDE
+"the glass is clean!""",is,glass,STATIVE
+"(Waiter exits, returns)",,,DYNAMIC
+"Waiter: ""Two teas.",,,CANNOT_DECIDE
+"Now which one of you gentlemen wanted the clean glass?""",wanted,one,CANNOT_DECIDE
+That's Easy!,'s,That,STATIVE
+Q: How do you identify a bald eagle?,identify,you,CANNOT_DECIDE
+A: All of his feathers are combed to one side.,combed,A,STATIVE
+Subject: Little Known Facts,,,CANNOT_DECIDE
+1. Barbie's full name is Barbara Millicent Roberts,is,name,STATIVE
+2. It is impossible to lick your elbow,is,It,STATIVE
+3. A crocodile can't stick its tongue out,stick,crocodile,DYNAMIC
+4. A shrimp's heart is in their head,is,heart,STATIVE
+"5. People say ""Bless you""",say,People,DYNAMIC
+when you sneeze,sneeze,you,DYNAMIC
+"because when you sneeze,",sneeze,you,DYNAMIC
+your heart stops for a millisecond,stops,heart,DYNAMIC
+"6. In a study of 200,000 ostriches over a period of 80 years, no one reported a single case",reported,one,DYNAMIC
+where an ostrich buried its head in the sand,buried,ostrich,DYNAMIC
+(or attempted to do so),attempted,buried,DYNAMIC
+7. It is physically impossible,is,It,STATIVE
+for pigs to look up into the sky,look,pigs,CANNOT_DECIDE
+8. A pregnant goldfish is called a twit,called,goldfish,STATIVE
+9. Between 1937 and 1945 Heinz produced a version of Alphabetti Spaghetti especially for the German market,produced,Heinz,DYNAMIC
+that consisted solely of little pasta swastikas,consisted,market,STATIVE
+"10. By law, every child in Belgium must take harmonica lessons at Primary school",take,child,DYNAMIC
+"11. On average, a human being will have sex more than 3,000 times",have,human,DYNAMIC
+and spend two weeks,spend,human,STATIVE
+kissing in their lifetime,kissing,,CANNOT_DECIDE
+12. More than 50% of the people in the world have never made or received a telephone call,made,%,DYNAMIC
+13. Rats and horses can't vomit,vomit,Rats,DYNAMIC
+"14. The ""sixth sick sheik's sixth sheep's sick"" is said to be the toughest tongue twister in the English language",said,sick,STATIVE
+"15. If you sneeze too hard,",sneeze,you,DYNAMIC
+you can fracture a rib.,fracture,you,DYNAMIC
+"If you try to suppress a sneeze,",try,you,DYNAMIC
+you can rupture a blood vessel in your head or neck and die.,rupture,you,DYNAMIC
+"If you keep your eyes open by force,",keep,you,DYNAMIC
+they will pop out,pop,they,DYNAMIC
+"16. Rats multiply so quickly that in 18 months, two rats could have over a million descendants",multiply,Rats,STATIVE
+17. Wearing headphones for just an hour will increase the bacteria in your ear by 700 times,increase,Wearing,DYNAMIC
+"18. If the government has no knowledge of aliens, then why does Title 14, Section 1211 of the Code of Federal Regulations,",does,,STATIVE
+"implemented on July 16, 1969, make it illegal",make,Title,CANNOT_DECIDE
+for U.S. citizens to have any contact with extraterrestrials or their vehicles?,have,citizens,CANNOT_DECIDE
+19. In every episode of Seinfeld there is a Superman somewhere,is,Superman,STATIVE
+20. The cigarette lighter was invented before the match,invented,lighter,DYNAMIC
+21. Thirty-five percent of the people who use,use,people,DYNAMIC
+personal ads for dating are already married,married,percent,STATIVE
+"22. A duck's quack doesn't echo anywhere,",echo,quack,DYNAMIC
+and no one knows why,knows,quack,STATIVE
+23. 23% of all photocopier faults worldwide are caused by people,caused,%,DYNAMIC
+sitting on them,sitting,people,CANNOT_DECIDE
+and photocopying their buttocks,photocopying,people,DYNAMIC
+"24. In the course of an average lifetime you will, while sleeping,",,,STATIVE
+eat 70 assorted insects and 10 spiders,eat,you,DYNAMIC
+25. Most lipstick contains fish scales,contains,lipstick,STATIVE
+26. Cat's urine glows under a black light,glows,urine,DYNAMIC
+"27. Like fingerprints, everyone's tongue print is different.",is,print,STATIVE
+"Now, when was the last time you left your tongue print someplace,",left,you,CANNOT_DECIDE
+or tried to lick your elbow?,tried,you,DYNAMIC
+From Ashes to Ashes,,,CANNOT_DECIDE
+Two widows were visiting in the lounge of the Seniors' Center.,visiting,widows,DYNAMIC
+"""Well,"" one said,",said,one,DYNAMIC
+"""Mary has just cremated her third husband.""",cremated,Mary,DYNAMIC
+"""Yeah, that's the way",'s,Yeah,STATIVE
+"it goes,""",goes,it,DYNAMIC
+replied the other widow.,replied,widow,DYNAMIC
+"""Some of us can't find a husband,",find,Some,DYNAMIC
+"and others have husbands to burn!""",have,Some,STATIVE
+How To Wash the Cat,Wash,,CANNOT_DECIDE
+1. Thoroughly clean the toilet.,,,CANNOT_DECIDE
+2. Lift both lids,Lift,,CANNOT_DECIDE
+and add shampoo.,add,,CANNOT_DECIDE
+3. Find and soothe cat,Find,,CANNOT_DECIDE
+as you carry him to the bathroom.,carry,you,DYNAMIC
+"4. In one swift move, place cat in toilet,",place,,CANNOT_DECIDE
+close both lids,close,,CANNOT_DECIDE
+and stand on top so cat cannot escape.,stand,,CANNOT_DECIDE
+5. The cat will self agitate and produce ample suds.,self,cat,DYNAMIC
+(Ignore ruckus from inside toilet.,,,CANNOT_DECIDE
+Cat is actually enjoying this).,enjoying,Cat,STATIVE
+"6. Flush 3 or 4 times, this provides power rinse",provides,this,CANNOT_DECIDE
+which is quite effective.,is,rinse,STATIVE
+"7. Have someone open outside door,",Have,,CANNOT_DECIDE
+stand as far from toilet as possible,stand,,CANNOT_DECIDE
+and quickly lift both lids.,lift,,CANNOT_DECIDE
+"8. Clean cat will rocket out of the toilet and outdoors, where he will air dry.",rocket,cat,DYNAMIC
+"Sincerely, The Dog",,,CANNOT_DECIDE
+New Arrivals,Arrivals,New,CANNOT_DECIDE
+One day a Pope and a lawyer died and went to heaven.,died,Pope,DYNAMIC
+"God came and said,",came,God,DYNAMIC
+"""Follow",Follow,,CANNOT_DECIDE
+"me and I will give you your rooms.""",give,I,DYNAMIC
+So they both followed.,followed,they,DYNAMIC
+First God gave the Pope his room;,gave,God,DYNAMIC
+it was very small with a small bed and a small desk.,was,it,STATIVE
+"""Thank you,",Thank,,CANNOT_DECIDE
+"thank you my lord,""",thank,you,CANNOT_DECIDE
+said The Pope.,said,Pope,DYNAMIC
+Then God gave the lawyer his room;,gave,God,DYNAMIC
+it was big room with a big bed and a big deck with a pool and a pretty woman.,was,it,STATIVE
+"""Mr. God, why are you giving this room to me and the other little one to The Pope?""",God,Mr.,CANNOT_DECIDE
+the lawyer asked.,asked,lawyer,DYNAMIC
+"""Well, popes we get regular as clockwork,",get,regular,DYNAMIC
+"but you're our first lawyer.""",'re,you,STATIVE
+Prezackly!,,,CANNOT_DECIDE
+"A Zen master once said to me,",said,master,DYNAMIC
+"""Do the opposite of whatever I tell you.""",Do,,CANNOT_DECIDE
+So I didn't.,did,I,DYNAMIC
+--Unknown,Unknown,,CANNOT_DECIDE
+"""My doctor tells me",tells,doctor,DYNAMIC
+I suffer from extreme hypochondria.,suffer,tells,STATIVE
+"He prescribed a strong placebo,",prescribed,He,DYNAMIC
+but I don't think,think,He,STATIVE
+"it's working.""",working,it,STATIVE
+-Fred Marcum,-,Marcum,CANNOT_DECIDE
+"""The sooner you fall behind, the more time",fall,you,DYNAMIC
+"you'll have to catch up.""",have,time,DYNAMIC
+--Unknown,,,CANNOT_DECIDE
+You Gotta be Quick,be,You,STATIVE
+A New Yorker was being shown around the back country of Louisiana by his cousin.,shown,Yorker,DYNAMIC
+"""Is it true that an alligator won't attack you",Is,,CANNOT_DECIDE
+"if you carry a flashlight?""",carry,you,DYNAMIC
+he asked.,asked,he,DYNAMIC
+"The cousin smirked,",smirked,cousin,DYNAMIC
+"""Well thatall depends on how fast ya carry it.""",depends,thatall,STATIVE
+Home on the Range,,,CANNOT_DECIDE
+Two buffalo were standing on the range,standing,Home,STATIVE
+"when a passing tourist said,",said,tourist,DYNAMIC
+"""Those are the mangiest, scroungiest, most moth-eaten, miserable beasts",are,Those,STATIVE
+"I have ever seen.""",seen,I,DYNAMIC
+One of the buffalo turned to the other,turned,One,DYNAMIC
+"and said,",said,One,DYNAMIC
+"""You know,",know,said,STATIVE
+I think,think,I,STATIVE
+"I just heard a discouraging word.""",heard,I,DYNAMIC
+Fast Thinking,,,CANNOT_DECIDE
+A wild dog is running through the jungle.,running,Thinking,DYNAMIC
+While wandering about,wandering,,DYNAMIC
+he notices a leopard heading in his direction with the intention of having lunch.,notices,he,DYNAMIC
+"The dog thinks,",thinks,dog,STATIVE
+"""Boy, now I'm in deep trouble.""",'m,I,STATIVE
+Then he sees some bones on the ground,sees,he,DYNAMIC
+"close by, and immediately settles down to chew on the remains with his back to the approaching cat.",settles,he,DYNAMIC
+"Just as the leopard is about to leap, the dog exclaims loudly,",exclaims,dog,DYNAMIC
+"""Hey, that was one delicious leopard.",was,that,STATIVE
+I wonder,wonder,I,STATIVE
+"if there are any more like that around here?""",are,,STATIVE
+"Hearing this the leopard halts his attack in mid stride,",Hearing,,DYNAMIC
+and he slinks away into the trees.,slinks,he,DYNAMIC
+"""Whew"", says the leopard.",says,leopard,DYNAMIC
+"""That was close.",close,That,STATIVE
+"That dog could've nearly had me.""",had,dog,STATIVE
+"Meanwhile, a monkey who had been watching all this from a nearby tree, figures",figures,monkey,DYNAMIC
+he can put this knowledge to good use,put,he,DYNAMIC
+and trade it for protection from the leopard.,trade,he,DYNAMIC
+"So, he goes chasing after the leopard.",goes,he,DYNAMIC
+"But the dog saw him heading after the leopard with great speed,",saw,dog,DYNAMIC
+and figured,figured,dog,DYNAMIC
+that something must be up.,be,something,STATIVE
+"The monkey soon catches up with the leopard,",catches,monkey,DYNAMIC
+spills the beans,spills,monkey,DYNAMIC
+and strikes a deal for himself with the leopard.,strikes,monkey,DYNAMIC
+The cat is furious at being made a fool of,is,cat,STATIVE
+"and says,",says,cat,DYNAMIC
+"""Here monkey, hop on my back and see",monkey,Here,CANNOT_DECIDE
+"what's going to happen to that smart aleck dog.""",going,what,DYNAMIC
+Now the dog sees the leopard,sees,dog,DYNAMIC
+"coming with the monkey on his back, and thinks,""",coming,sees,DYNAMIC
+"What am I going to do now?""",going,I,CANNOT_DECIDE
+"But instead of running, the dog sits down with his back to his attackers",sits,dog,DYNAMIC
+pretending,pretending,dog,STATIVE
+he hasn't seen them yet.,seen,he,DYNAMIC
+"And just when they get close enough to hear,",get,close,DYNAMIC
+"the dog says,",says,dog,DYNAMIC
+"""Where's that cheeky monkey.",'s,monkey,CANNOT_DECIDE
+I can never trust him.,trust,I,STATIVE
+"I sent him off half an hour ago to bring me a fresh leopard,",sent,I,DYNAMIC
+"and he's still not back!""",'s,I,STATIVE
+How it Pans Out,Pans,it,CANNOT_DECIDE
+"""The difference between involvement and commitment is like a ham and egg breakfast.",is,difference,STATIVE
+"The chicken was involved,",involved,chicken,STATIVE
+"but the pig was really committed!""",committed,chicken,STATIVE
+High Strikes,,,CANNOT_DECIDE
+"""Opera is when a guy gets stabbed in the back,",is,High,STATIVE
+"and instead of bleeding, he sings.""",sings,Opera,DYNAMIC
+- Ed Gardner,,,CANNOT_DECIDE
+High Living,Living,High,CANNOT_DECIDE
+"A man goes into his local building supply store and orders 10,054 bricks.",goes,Living,DYNAMIC
+"""May I ask",ask,I,CANNOT_DECIDE
+"what you're building?""",building,you,DYNAMIC
+asks the man behind the counter.,asks,,DYNAMIC
+"""It's going to be a barbecue.""",going,It,STATIVE
+"""Wow, that's a lot of bricks for one barbecue,""",'s,that,STATIVE
+"""Not really; I live on the 12th floor.""",live,I,STATIVE
+Word Pundit Says.,,,STATIVE
+1. Marathon runners with bad footwear suffer an agony of defeat.,suffer,runners,STATIVE
+2. What's the definition of a will?,'s,definition,CANNOT_DECIDE
+(It's a dead giveaway).,'s,It,STATIVE
+3. Time flies like an arrow.,flies,Time,STATIVE
+Fruit flies like a banana.,flies,Fruit,STATIVE
+4. A backwards poet writes inverse.,writes,poet,DYNAMIC
+5. In democracy it's your vote,'s,it,STATIVE
+that counts.,counts,,STATIVE
+In feudalism it's your count,'s,votes,STATIVE
+that votes.,,,DYNAMIC
+"6. She had a boyfriend with a wooden leg,",had,She,STATIVE
+but broke it off.,broke,She,DYNAMIC
+7. A chicken crossing the road is poultery in motion.,is,chicken,STATIVE
+8. If you don't pay your exorcist,pay,you,DYNAMIC
+you get repossessed.,get,you,DYNAMIC
+9. With her marriage she got a new name and a dress.,got,she,DYNAMIC
+10. Show me a piano,Show,,CANNOT_DECIDE
+falling down a mineshaft,falling,Show,DYNAMIC
+and I'll show you A-flat minor.,show,piano,DYNAMIC
+11. When a clock is hungry,hungry,clock,STATIVE
+it goes back four seconds.,goes,it,DYNAMIC
+12. The man who fell into an upholstery machine is fully recovered.,recovered,man,STATIVE
+13. A bomb in a French kitchen would result in Linoleum Blownapart.,result,bomb,DYNAMIC
+14. You feel stuck with your debt,feel,You,STATIVE
+if you can't budge it.,budge,you,DYNAMIC
+15. Local Area Network in Australia: the LAN down under.,,,CANNOT_DECIDE
+16. He often broke into song,broke,He,DYNAMIC
+because he couldn't find the key.,find,he,DYNAMIC
+17. Every calendar's days are numbered.,numbered,days,STATIVE
+18. A lot of money is tainted.,is,lot,STATIVE
+'Taint yours and 'taint mine.,yours,Taint,STATIVE
+19. A boiled egg in the morning is hard to beat.,is,egg,STATIVE
+20. He had a photographic memory,had,He,STATIVE
+but it was never developed.,developed,He,DYNAMIC
+21. A plateau is a high form of flattery.,is,plateau,STATIVE
+22. The short fortuneteller who escaped from prison became a small medium at large.,became,fortuneteller,DYNAMIC
+23. Those who get too big for their britches will be exposed in the end.,exposed,Those,DYNAMIC
+24. Once you've seen one shopping center,seen,you,DYNAMIC
+you've seen a mall.,seen,you,DYNAMIC
+25. Those who jump off a Paris bridge are in Seine.,are,Those,STATIVE
+26. When an actress saw her first strands of grey hair,saw,actress,DYNAMIC
+she thought,thought,she,STATIVE
+she'd dye.,dye,she,DYNAMIC
+27. Bakers trade bread recipes on a knead to know basis.,trade,Bakers,DYNAMIC
+28. Santa's elves could be defined as subordinate clauses.,defined,elves,DYNAMIC
+Take a Bough,Take,,CANNOT_DECIDE
+Question.,,,CANNOT_DECIDE
+"""If trees could scream, would we be quite so cavalier about cutting them down""?",be,we,CANNOT_DECIDE
+Answer.,,,CANNOT_DECIDE
+"""Well if they screamed all the time",screamed,they,DYNAMIC
+"it would definitely make life a lot more comfortable to cut them all down.""",make,it,DYNAMIC
+"""Hey, Lady""",,,CANNOT_DECIDE
+A lady was walking past a pet store,walking,lady,DYNAMIC
+"when a parrot said, ''Hey, lady!",lady,Hey,DYNAMIC
+"You're really ugly!""",'re,You,STATIVE
+She was understandably furious and continued on her way.,was,She,STATIVE
+"On the way home, she passed by the pet store again",passed,she,DYNAMIC
+"and the parrot once more said ""Hey, lady!",said,she,DYNAMIC
+"You're really ugly!""",'re,You,STATIVE
+"She was really ticked by now,",ticked,She,STATIVE
+so she went into the store,went,she,DYNAMIC
+and said,said,she,DYNAMIC
+that she would sue the store owner,sue,she,DYNAMIC
+and strangle the bird.,strangle,she,DYNAMIC
+The store manager apologized profusely,apologized,manager,DYNAMIC
+and promised,promised,manager,DYNAMIC
+he would make sure,make,he,DYNAMIC
+the parrot didn't say it again.,say,parrot,DYNAMIC
+"The next day, she deliberately passed by the store to test the parrot.",deliberately,she,DYNAMIC
+"""Hey, lady!""",,,CANNOT_DECIDE
+it said.,said,it,DYNAMIC
+"""Yes?""",,,CANNOT_DECIDE
+"""You know.""",know,You,STATIVE
+Reality Check,,,CANNOT_DECIDE
+A student comes to a young professor's office after hours.,comes,Reality,DYNAMIC
+"She glances down the hall,",glances,She,DYNAMIC
+"closes his door,",closes,She,DYNAMIC
+and kneels pleadingly.,kneels,She,DYNAMIC
+"""I would do anything to pass this exam.""",do,I,DYNAMIC
+"She leans closer to him,",leans,She,DYNAMIC
+"flips back her hair,",flips,leans,DYNAMIC
+gazes meaningfully into his eyes.,gazes,leans,DYNAMIC
+"""I mean..."",",mean,I,STATIVE
+"she whispers,",,,DYNAMIC
+"""...I would do...ANYTHING.""",do,I,DYNAMIC
+He returns,returns,He,DYNAMIC
+her gaze.,,,CANNOT_DECIDE
+"""Anything ?""",,,CANNOT_DECIDE
+"""*Anything*.""","""",,CANNOT_DECIDE
+His voice softens.,softens,voice,DYNAMIC
+"""Anything ?""",,,CANNOT_DECIDE
+"""Anything.""","""",,CANNOT_DECIDE
+His voice turns to a husky whisper.,turns,voice,DYNAMIC
+"""Would you ...........",.....,you,CANNOT_DECIDE
+"study?""",,,CANNOT_DECIDE
+Spectacular Job,Job,Spectacular,CANNOT_DECIDE
+One day a man spotted a lamp by the roadside.,spotted,man,DYNAMIC
+"He picked it up,",picked,He,DYNAMIC
+"rubbed it vigorously,",rubbed,picked,DYNAMIC
+and a genie appeared.,appeared,He,DYNAMIC
+"""I'll grant you your fondest wish,""",grant,I,DYNAMIC
+the genie said.,said,genie,DYNAMIC
+"The man thought for a moment,",thought,man,DYNAMIC
+"then said,",said,thought,DYNAMIC
+"""I want a spectacular job --a job",want,I,STATIVE
+that no man has ever succeeded at,succeeded,man,DYNAMIC
+"or has ever even dared try.""",dared,man,DYNAMIC
+"""That's easy"",",'s,That,STATIVE
+said the genie.,said,genie,DYNAMIC
+"""Poof!",,,CANNOT_DECIDE
+"You're a housewife.""",'re,You,STATIVE
+Wisdom from the Top,,,CANNOT_DECIDE
+"""It's not me",'s,It,STATIVE
+who can't keep a secret,keep,me,STATIVE
+it's the people,'s,it,STATIVE
+"I tell that can't.""",tell,I,STATIVE
+- Lincoln,,,CANNOT_DECIDE
+"""I have found",found,I,DYNAMIC
+the best way to give advice to your children is to find out,is,Lincoln,STATIVE
+what they want,want,they,STATIVE
+"and then advise them to do that.""",advise,Lincoln,CANNOT_DECIDE
+- Truman,-,Truman,CANNOT_DECIDE
+"""There's one thing about being a president -",'s,thing,STATIVE
+nobody can tell you,tell,president,DYNAMIC
+"when to sit down.""",sit,you,CANNOT_DECIDE
+- Eisenhower,,,CANNOT_DECIDE
+"""Things are more",are,Things,STATIVE
+like they are now,are,they,STATIVE
+"than they have ever been before.""",been,they,STATIVE
+- Eisenhower,,,CANNOT_DECIDE
+Dead Horse,,,CANNOT_DECIDE
+"The tribal wisdom of the North American Indians, passed on from one generation to the next, says",says,wisdom,DYNAMIC
+that when you discover,discover,you,DYNAMIC
+"that you are riding a dead horse, the best strategy",riding,you,DYNAMIC
+is to dismount.,is,strategy,STATIVE
+"But in modern management (and organisations and government); because of the heavy investment of time, money and energy which has gone into the establishment and maintenance of these critters; other strategies are often tried with these dead horses,",tried,strategies,DYNAMIC
+including the following:,including,,STATIVE
+"1. Buying a bigger, stronger whip.",Buying,,CANNOT_DECIDE
+2. Changing riders.,,,CANNOT_DECIDE
+3. Threatening the horse with termination.,Threatening,,CANNOT_DECIDE
+4. Appointing various committees to study the horse.,Appointing,,CANNOT_DECIDE
+5. Arranging to visit other sites to see,Arranging,,CANNOT_DECIDE
+how they ride dead horses.,ride,they,DYNAMIC
+6. Lowering the standards,Lowering,,CANNOT_DECIDE
+so that dead horses can be included.,included,horses,STATIVE
+"7. Reclassifying the dead horse as ""living-impaired.""",Reclassifying,,CANNOT_DECIDE
+8. Hiring outside contractors to ride the dead horse.,Hiring,,CANNOT_DECIDE
+9. Harnessing two or more dead horses together to increase speed.,together,Harnessing,CANNOT_DECIDE
+10. Providing additional funding and/or training to increase the dead horse's performance.,training,and/or,CANNOT_DECIDE
+11. Doing a productivity study to see,Doing,,CANNOT_DECIDE
+if lighter riders would improve the dead horse's performance.,improve,riders,DYNAMIC
+12. Declaring,Declaring,younger,CANNOT_DECIDE
+that the dead horse carries lower overhead,carries,horse,CANNOT_DECIDE
+"and therefore contributes more to the bottom line then younger, more vigorous horses.",contributes,Declaring,CANNOT_DECIDE
+13. Rewriting the expected performance requirements for all horses.,Rewriting,,CANNOT_DECIDE
+"And, as a final strategy:",,,CANNOT_DECIDE
+14. Promoting the dead horse to a supervisory position.,Promoting,,CANNOT_DECIDE

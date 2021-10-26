@@ -1,0 +1,18 @@
+Clause,mainVerb,mainReferent,Gold
+"DD Acquisition Corp., a partnership of Unicorp Canada Corp. 's Kingsbridge Capital Group and Cara Operations Ltd., extended to Nov. 20 its $45-a-share offer for all Dunkin' Donuts Inc. shares outstanding.",extended,Corp.,DYNAMIC
+"The offer, which was due to expire yesterday,",,,STATIVE
+"is conditional on 50.1% of Dunkin' common shares, on a fully diluted basis,",is,offer,STATIVE
+being tendered and on the withdrawal of the company's poison pill rights plan.,tendered,offer,CANNOT_DECIDE
+DD Acquisition has launched a suit in a Delaware court,launched,Acquisition,DYNAMIC
+"seeking the withdrawal of Dunkin's poison pill rights and employee stock ownership plans,",seeking,court,STATIVE
+which it claims,claims,it,DYNAMIC
+were put in place to deter bidders.,put,withdrawal,DYNAMIC
+DD Acquisition said,said,Acquisition,DYNAMIC
+"2.2 million shares, or about 38.5% of the shares outstanding, have been tendered under its offer.",tendered,%,DYNAMIC
+The partners said,said,partners,DYNAMIC
+they already hold 15% of all shares outstanding.,hold,they,STATIVE
+Dunkin' has set Nov. 10 as the deadline for the receipt of any competing bids.,set,Dunkin',DYNAMIC
+DD Acquisition said,said,Acquisition,DYNAMIC
+the extension is to allow this process to be completed.,is,extension,STATIVE
+"Dunkin' is based in Randolph, Mass.",based,Dunkin',STATIVE
+"Cara, a food services chain operator and Unicorp, a holding company, are based in Toronto.",based,Cara,STATIVE

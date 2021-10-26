@@ -1,0 +1,80 @@
+Clause,mainVerb,mainReferent,Gold
+"The Venus flytrap (also Venus's flytrap or Venus' flytrap), Dionaea muscipula, is a carnivorous plant native to subtropical wetlands on the East Coast of the United States.",is,flytrap,STATIVE
+It catches its preychiefly insects and arachnids with a trapping structure,catches,It,DYNAMIC
+formed by the terminal portion of each of the plant's leaves,formed,structure,DYNAMIC
+and is triggered by tiny hairs on their inner surfaces.,triggered,It,DYNAMIC
+"When an insect or spider crawling along the leaves contacts a hair, the trap closes",closes,trap,DYNAMIC
+if a different hair is contacted within twenty seconds of the first strike.,contacted,hair,DYNAMIC
+The requirement of redundant triggering in this mechanism serves as a safeguard against a waste of energy in trapping objects with no nutritional value.,serves,requirement,DYNAMIC
+"Dionaea is a monotypic genus closely related to the waterwheel plant and sundews,",is,Dionaea,STATIVE
+all of which belong to the family Droseraceae.,belong,of,STATIVE
+==Description==,,,CANNOT_DECIDE
+The Venus flytrap is a small plant,is,=,STATIVE
+"whose structure can be described as a rosette of four to seven leaves,",described,structure,STATIVE
+which arise from a short subterranean stem,arise,leaves,DYNAMIC
+that is actually a bulb-like object.,is,stem,STATIVE
+"Each stem reaches a maximum size of about three to ten centimeters, depending on the time of year;",reaches,stem,DYNAMIC
+longer leaves with robust traps are usually formed after flowering.,formed,leaves,DYNAMIC
+Flytraps that have more than 7 leaves are colonies,are,Flytraps,STATIVE
+formed by rosettes,formed,colonies,DYNAMIC
+that have divided beneath the ground.,divided,rosettes,DYNAMIC
+The leaf blade is divided into two regions:,divided,blade,STATIVE
+"a flat, heart-shaped photosynthesis-capable petiole, and a pair of terminal lobes hinged at the midrib, forming the trap",forming,petiole,STATIVE
+which is the true leaf.,is,trap,STATIVE
+The upper surface of these lobes contains red anthocyanin pigments and its edges secrete mucilage.,contains,surface,STATIVE
+"The lobes exhibit rapid plant movements, snapping shut",exhibit,lobes,STATIVE
+when stimulated by prey.,stimulated,,DYNAMIC
+The trapping mechanism is tripped,tripped,mechanism,DYNAMIC
+when prey contacts one of the three hair-like trichomes,prey,,DYNAMIC
+that are found on the upper surface of each of the lobes.,found,trichomes,STATIVE
+The trapping mechanism is so specialized,is,mechanism,STATIVE
+that it can distinguish between living prey and non-prey stimuli such as falling raindrops;,distinguish,it,DYNAMIC
+two trigger hairs must be touched in succession within 20 seconds of each other or one hair,touched,hairs,DYNAMIC
+"touched twice in rapid succession, whereupon",touched,seconds,DYNAMIC
+the lobes of the trap will snap shut in about one-tenth of a second.,shut,lobes,DYNAMIC
+"The edges of the lobes are fringed by stiff hair-like protrusions or cilia,",fringed,edges,STATIVE
+which mesh together,mesh,cilia,DYNAMIC
+and prevent large prey from escaping.,prevent,protrusions,DYNAMIC
+"(These protrusions, and the trigger hairs, also known as sensitive hairs, are probably homologous with the tentacles found in this plants close relatives, the sundews.)",protrusions,These,STATIVE
+Scientists have concluded,concluded,Scientists,DYNAMIC
+"that the Venus flytrap is closely related to Drosera (sundews),",related,flytrap,STATIVE
+and that the snap trap evolved from a fly-paper trap similar to that of Drosera.,evolved,flytrap,DYNAMIC
+"The holes in the meshwork allow small prey to escape,",allow,holes,DYNAMIC
+presumably because the benefit that would be obtained from them would be less than the cost of digesting them.,be,benefit,STATIVE
+"If the prey is too small and escapes, the trap will reopen within 12 hours.",reopen,trap,DYNAMIC
+"If the prey moves around in the trap,",moves,prey,DYNAMIC
+it tightens and digestion begins more quickly.,tightens,it,DYNAMIC
+"Speed of closing can vary depending on the amount of humidity, light, size of prey, and general growing conditions.",vary,Speed,STATIVE
+The speed with which traps close can be used as an indicator of a plant's general health.,used,speed,DYNAMIC
+Venus flytraps are not as humidity-dependent,are,plants,STATIVE
+"as are some other carnivorous plants, such as Nepenthes, Cephalotus, most Heliamphora, and some Drosera.",are,,STATIVE
+The Venus flytrap exhibits variations in petiole shape and length,exhibits,flytrap,STATIVE
+and whether the leaf lies flat on the ground,lies,exhibits,STATIVE
+or extends up at an angle of about 4060 degrees.,extends,leaf,DYNAMIC
+"The four major forms are: 'typica', the most common, with broad decumbent petioles; 'erecta', with leaves at a 45-degree angle; 'linearis', with narrow petioles and leaves at 45 degrees; and 'filiformis', with extremely narrow or linear petioles.",are,forms,STATIVE
+"Except for 'filiformis', all of these can be stages in leaf production of any plant depending on season",be,all,STATIVE
+"(decumbent in summer versus short versus semi-erect in spring), length of photoperiod (long petioles in spring versus short in summer), and intensity of light (wide petioles in low light intensity versus narrow in brighter light).",,,CANNOT_DECIDE
+"When grown from seed, plants take around four to five years to reach maturity",take,plants,STATIVE
+and will live for 20 to 30 years,live,plants,STATIVE
+if cultivated in the right conditions.,cultivated,,DYNAMIC
+==Etymology==,,,CANNOT_DECIDE
+"The plant's common name refers to Venus, the Roman goddess of love.",refers,=,STATIVE
+"The genus name, Dionaea (""daughter of Dione""),",,,CANNOT_DECIDE
+"refers to the Greek goddess Aphrodite,",refers,name,STATIVE
+"while the species name, muscipula is Latin for ""mousetrap"".",is,name,STATIVE
+"Historically, the plant was also known by the slang term ""tipitiwitchet"" or ""tippity twitchet"", possibly an oblique reference to the plant's resemblance to human female genitalia.",possibly,Historically,STATIVE
+==Carnivory==,,,CANNOT_DECIDE
+===Prey selectivity===,,,CANNOT_DECIDE
+Most carnivorous plants selectively feed on specific prey.,feed,plants,DYNAMIC
+This selection is due to the available prey and the type of trap,is,selection,STATIVE
+used by the organism.,used,type,DYNAMIC
+"With the Venus flytrap, prey is limited to beetles, spiders and other crawling arthropods.",limited,prey,STATIVE
+"In fact, the Dionaea diet is 33% ants, 30% spiders, 10% beetles, and 10% grasshoppers, with fewer than 5%",is,diet,STATIVE
+flying insects.,flying,,CANNOT_DECIDE
+Given that Dionaea evolved from an ancestral form of Drosera (carnivorous plants,Given,becomes,DYNAMIC
+that use a sticky trap instead of a snap trap),use,plants,DYNAMIC
+the reason for this evolutionary branching becomes clear.,becomes,reason,DYNAMIC
+"Whilst Drosera consume smaller, aerial insects,",consume,Drosera,DYNAMIC
+Dionaea consume larger terrestrial bugs.,consume,Dionaea,DYNAMIC
+"From these larger bugs, Dionaea are able to extract more nutrients.",are,Dionaea,STATIVE
+This gives Dionaea an evolutionary advantage over their ancestral sticky trap form.,gives,This,STATIVE

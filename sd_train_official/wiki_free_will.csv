@@ -1,0 +1,126 @@
+Clause,mainVerb,mainReferent,Gold
+Free will is the ability of agents to make choices,is,will,STATIVE
+unimpeded by certain prevailing factors.,unimpeded,make,STATIVE
+Such prevailing factors that have been studied in the past have included metaphysical constraints,included,factors,DYNAMIC
+"(such as logical, nomological, or theological determinism), physical constraints (such as chains or imprisonment), social constraints (such as threat of punishment or censure), and mental constraints (such as compulsions or phobias, neurological disorders, or genetic predispositions).",,,CANNOT_DECIDE
+"The principle of free will has religious, legal, ethical, and scientific implications.",has,principle,STATIVE
+"For example, in the religious realm, free will implies",implies,will,STATIVE
+"that individual will and choices can coexist with an omnipotent, omniscient divinity",coexist,will,STATIVE
+that raises certain injunctions or moral obligations for man.,raises,divinity,DYNAMIC
+"In the law, it affects considerations of punishment and rehabilitation.",affects,it,STATIVE
+"In ethics, it may hold implications for whether individuals can be held morally accountable for their actions.",hold,it,STATIVE
+"In science, neuroscientific findings regarding free will may suggest different ways",suggest,findings,STATIVE
+of predicting human behavior.,predicting,ways,CANNOT_DECIDE
+DeterminismXFreeWill.,,,CANNOT_DECIDE
+svg|right|thumb|350px|A simplified taxonomy of philosophical positions regarding free will and determinism.,|,350px,STATIVE
+Though it is a commonly held intuition,is,it,STATIVE
+"that we have free will,",have,we,STATIVE
+it has been widely debated throughout history,debated,it,DYNAMIC
+"not only whether that is true,",is,that,STATIVE
+but even how to define the concept of free will.,define,that,CANNOT_DECIDE
+"How exactly must the will be free,",be,exactly,CANNOT_DECIDE
+"what exactly must the will be free from,",be,will,CANNOT_DECIDE
+in order for us to have free will?,have,us,CANNOT_DECIDE
+"Historically, the constraint of dominant concern has been determinism of some variety",been,so,STATIVE
+"(such as logical, nomological, or theological), so the most prominent common positions are named for the relation",named,positions,DYNAMIC
+they hold to exist between free will and determinism.,hold,they,STATIVE
+"Those who define free will as freedom from determinism are called incompatibilists,",called,Those,STATIVE
+as they hold determinism to be incompatible with free will.,hold,they,STATIVE
+"The two main incompatibilist positions are metaphysical libertarianism, the claim",are,positions,STATIVE
+"that determinism is false and thus free will is at least possible; and hard determinism,",is,determinism,STATIVE
+the claim that determinism is true and thus free will is not possible.,is,claim,STATIVE
+Hard incompatibilism posits,posits,incompatibilism,STATIVE
+"that indeterminism is also incompatible with free will,",is,indeterminism,STATIVE
+and thus either way free will is not possible.,is,way,STATIVE
+"Those who define free will otherwise,",define,Those,DYNAMIC
+"without reference to determinism, are called compatibilists,",called,Those,STATIVE
+because they hold determinism to be compatible with free will.,hold,they,STATIVE
+Some compatibilists even hold,hold,compatibilists,STATIVE
+"that determinism is necessary for free will,",is,determinism,STATIVE
+arguing,arguing,,DYNAMIC
+"that choice involves preference for one course of action over another, a process",involves,choice,STATIVE
+that requires some sense of how choices will turn out.,requires,process,STATIVE
+Compatibilists thus consider the debate between libertarians and hard determinists over free will vs determinism a false dilemma.,consider,Compatibilists,STATIVE
+"Different compatibilists offer very different definitions of what free will even means,",offer,compatibilists,STATIVE
+taking different types of constraints to be relevant to the issue;,taking,compatibilists,STATIVE
+but because all agree,agree,all,STATIVE
+"that determinism is not the relevant concern,",is,determinism,STATIVE
+they are traditionally grouped together under this common name.,grouped,compatibilists,STATIVE
+==In Western philosophy==,,,CANNOT_DECIDE
+"The underlying issue is: Do we have some control over our actions,",is,issue,STATIVE
+"and if so, what sort of control, and to what extent?",sort,=,CANNOT_DECIDE
+"On one hand, humans have a strong sense of freedom,",have,humans,STATIVE
+which leads us to believe,leads,sense,DYNAMIC
+that we have free will.,have,we,STATIVE
+"On the other hand, an intuitive feeling of free will could be mistaken.",mistaken,feeling,DYNAMIC
+It is difficult to reconcile the intuitive evidence,is,It,STATIVE
+that conscious decisions are causally effective with the scientific view,are,decisions,STATIVE
+that the physical world can be explained to operate perfectly by physical law.,explained,world,DYNAMIC
+The conflict between intuitively felt freedom and natural law arises,felt,conflict,DYNAMIC
+when either causal closure or physical determinism (nomological determinism),,,CANNOT_DECIDE
+is asserted.,asserted,determinism,DYNAMIC
+"With causal closure, no physical event has a cause outside the physical domain,",has,event,STATIVE
+"and with physical determinism, the future is determined entirely by preceding events (cause and effect).",determined,event,DYNAMIC
+The need to reconcile freedom of will with a deterministic universe is known as the problem of free will,known,need,STATIVE
+or sometimes referred to as the dilemma of determinism.,referred,need,DYNAMIC
+This dilemma leads to a moral dilemma as well:,leads,dilemma,DYNAMIC
+How are we to assign responsibility for our actions,are,well,CANNOT_DECIDE
+if they are caused entirely by past events?,caused,they,CANNOT_DECIDE
+The connection between autonomy (self-determination),,,CANNOT_DECIDE
+"and the ideal of developing one's own individual self was adopted within the psychology of Abraham Maslow,",adopted,connection,DYNAMIC
+"who saw the goal of human development as ""self-actualization"".",saw,Maslow,STATIVE
+"For Maslow, the most developed person is the most autonomous,",is,person,STATIVE
+and autonomy is explicitly associated with not being dependent on others.,associated,person,STATIVE
+"For others, true free will must involve self-realization,",involve,will,STATIVE
+which is a maturing of the self,is,self-realization,STATIVE
+"that allows the dissolution of one's counter-productive obsessive, internal pre-occupations and assumptions,",allows,self,DYNAMIC
+"including unrecognized peer-pressure and the like,",including,,STATIVE
+"all of which reduce our actual choices,",reduce,of,DYNAMIC
+thus reduce our freedom.,reduce,reduce,DYNAMIC
+Classical compatibilists have addressed the dilemma of free will by arguing,addressed,compatibilists,DYNAMIC
+that free will holds as long as we are not externally constrained or coerced.,holds,will,STATIVE
+"Modern compatibilists make a distinction between freedom of will and freedom of action,",make,compatibilists,DYNAMIC
+"that is,",is,that,STATIVE
+separating freedom of choice from the freedom to enact it.,separating,,CANNOT_DECIDE
+"Given that humans all experience a sense of free will, some modern compatibilists think",think,compatibilists,STATIVE
+it is necessary to accommodate this intuition.,is,it,STATIVE
+"For example, some modern compatibilists in psychology have tried to revive traditionally accepted struggles of free will with the formation of character.",tried,compatibilists,DYNAMIC
+"Compatibilist free will has also been attributed to our natural sense of agency,",attributed,will,DYNAMIC
+where one must believe,believe,one,STATIVE
+they are an agent,are,they,STATIVE
+in order to function and develop a theory of mind.,function,,CANNOT_DECIDE
+"A different approach to the dilemma is that of incompatibilists, namely,",is,approach,STATIVE
+"that if the world is deterministic then, our feeling",is,world,STATIVE
+that we are free to choose,are,we,STATIVE
+an action is simply an illusion.,is,feeling,STATIVE
+Fundamental debate continues over,continues,debate,DYNAMIC
+whether the physical universe is in fact deterministic.,is,debate,STATIVE
+"Physical models offered at present are both deterministic and indeterministic,",are,models,STATIVE
+and are subject to interpretations of quantum mechanics,are,models,STATIVE
+- which themselves are being constrained by ongoing experimentation.,constrained,themselves,DYNAMIC
+"Yet even with physical indeterminism, arguments have been made against the feasibility of incompatibilist free will",made,arguments,DYNAMIC
+"in that it is difficult to assign Origination (responsibility for ""free"" indeterministic choices).",is,it,STATIVE
+"Since the term ""free will"" (liberum arbitrium) was introduced by Christian philosophy (4th century CE)",introduced,will,DYNAMIC
+it has always meant (until the Enlightenment proposed its own meanings),meant,it,STATIVE
+"lack of necessity in human will, so that ""the will is free"" meant",meant,that,STATIVE
+"""the will does not have to be such",have,will,STATIVE
+"as it is.""",is,it,STATIVE
+This view was universally embraced by both incompatibilists and compatibilists.,embraced,view,DYNAMIC
+"Despite our attempts to understand nature, a complete understanding of reality remains open to philosophical speculation.",remains,understanding,STATIVE
+"For example, the laws of physics (deterministic or not) have yet to resolve the hard problem of consciousness:",have,laws,DYNAMIC
+"""Solving the hard problem of consciousness",Solving,,CANNOT_DECIDE
+involves determining how physiological processes such as ions,involves,Solving,STATIVE
+"flowing across the nerve membrane cause us to have experiences.""",cause,processes,DYNAMIC
+"According to some,",According,,STATIVE
+"""Intricately related to the hard problem of consciousness, the hard problem of free will represents the core problem of conscious free will",represents,problem,STATIVE
+": Does conscious volition impact the material world?""",impact,will,CANNOT_DECIDE
+"Although incompatibilist metaphysical libertarianism generally represents the bulk of non-materialist constructions, including the popular claim of being able to consciously veto an action or competing desire, compatibilist theories have been developed based on a form",including,,DYNAMIC
+"of identity dualism in which ""the experience of conscious free will is the first-person perspective of the neural correlates of choosing.""",is,experience,STATIVE
+It is however apparent,is,It,STATIVE
+"that, even disregarding the hard problem of consciousness,",disregarding,plays,CANNOT_DECIDE
+"""consciousness plays a far smaller role in human life",plays,consciousness,DYNAMIC
+"than Western culture has tended to believe.""",tended,culture,STATIVE
+"Free will here is predominately treated with respect to physical determinism in the strict sense of nomological determinism,",treated,Free,STATIVE
+although other forms of determinism are also relevant to free will.,are,forms,STATIVE
+"For example, logical and theological determinism challenge metaphysical libertarianism with ideas of destiny and fate, and biological, cultural and psychological determinism feed the development of compatibilist models.",challenge,determinism,DYNAMIC
+Separate classes of compatibilism and incompatibilism may even be formed to represent these.,formed,classes,DYNAMIC

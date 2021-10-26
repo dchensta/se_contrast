@@ -1,0 +1,54 @@
+Clause,mainVerb,mainReferent,Gold
+"docno=""lists-034-10082707""",,,CANNOT_DECIDE
+"name=""Tom Stephens""",,,CANNOT_DECIDE
+"email=""tomste@microsoft.com""",,,CANNOT_DECIDE
+"sent=""Mon, 22 Apr 1996 12:10:54 -0700""",sent,tomste@microsoft.com,CANNOT_DECIDE
+"subject=""RE: Status (if any) of STLP?""",,,CANNOT_DECIDE
+"To: ""'sanders_james@tandem.com'"" <sanders_james@tandem.com>",sanders_james@tandem.com',,CANNOT_DECIDE
+"Cc: ""'ietf-tls@w3.org'"" <ietf-tls@w3.org>, ""'tls-draft@w3.org'""<tls-draft@w3.org>",ietf-tls@w3.org',confusion,CANNOT_DECIDE
+"Jim,",,,CANNOT_DECIDE
+"As you pointed out, there has been some confusion over this issue.",been,ietf-tls@w3.org',DYNAMIC
+It was unfortunate,was,It,STATIVE
+that the strawman document was labeled as a draft in the press and by others.,labeled,document,DYNAMIC
+That was never our intention.,was,That,STATIVE
+"For that confusion, we apologize.",apologize,we,DYNAMIC
+Tom,,,CANNOT_DECIDE
+----------,,,CANNOT_DECIDE
+From: sanders_james@tandem.com[SMTP:sanders_james@tandem.com],,,CANNOT_DECIDE
+"Sent: Monday, April 22, 1996 10:39 AM",,,CANNOT_DECIDE
+To: Tom Stephens,,,CANNOT_DECIDE
+Cc: ietf-tls@w3.org; tls-draft@w3.org,,,CANNOT_DECIDE
+Subject: RE: Status (if any) of STLP?,,,CANNOT_DECIDE
+"Jim,",,,CANNOT_DECIDE
+Win Treese and representatives from Microsoft and Netscape met a couple of weeks ago to begin hammering out some of the components for the foundation of a spec.,met,representatives,DYNAMIC
+"At that meeting, Microsoft precented our STLP strawman document.",precented,Microsoft,DYNAMIC
+That document was an experiment by Microsoft to determine,was,document,STATIVE
+how well SSL and PCT could be merged into one protocol,merged,SSL,DYNAMIC
+- using SSL as a base,using,merged,DYNAMIC
+and adding PCT deltas.,adding,merged,DYNAMIC
+Our goal was to deal with the differences Microsoft and Netscape quickly,was,goal,STATIVE
+so that the normal IETF process would move forward without any detractions from either Microsoft or Netscape.,move,process,DYNAMIC
+Tom,,,CANNOT_DECIDE
+-----------------------------,,,CANNOT_DECIDE
+"Thanks Tom,",,,CANNOT_DECIDE
+I have no dispute with the events,have,Tom,STATIVE
+"you describe,",describe,you,DYNAMIC
+but process,,,CANNOT_DECIDE
+integrity would have been better served if you,served,Tom,DYNAMIC
+or Win,,,CANNOT_DECIDE
+"had described this intent up front,",described,Win,DYNAMIC
+and answered the queries by other folks,answered,integrity,DYNAMIC
+"who, like me, could not figure out",figure,folks,DYNAMIC
+what was going on.,going,what,DYNAMIC
+"This was especialy true in light of the press reports of ""Draft",was,This,STATIVE
+"submitted to IETF.""",submitted,reports,DYNAMIC
+I believe,believe,I,STATIVE
+that what you are saying,saying,you,DYNAMIC
+"is that no draft was ""submitted,"" but rather ""made available for review,"" albeit with rather late instructions as to location and ownership.",is,saying,DYNAMIC
+All the above reflects my personal belief,reflects,the,STATIVE
+"that this particular BOF-cum-WG should stretch to maintain the status of ""Caesar's wife;""",stretch,BOF-cum-WG,DYNAMIC
+and also reflects my concern at the questions,reflects,the,STATIVE
+being raised by others last week.,raised,questions,DYNAMIC
+Thanks again for your prompt response.,Thanks,,CANNOT_DECIDE
+--Jim--,,,CANNOT_DECIDE
+"<< Jim Sanders, Staff Scientist - Transaction Security << Network Application Services, Tandem Computers << Voice: 408-285-4192; E-mail: sanders_james@tandem.com",,,CANNOT_DECIDE

@@ -1,0 +1,196 @@
+Clause,mainVerb,mainReferent,Gold
+Cattle (colloquially cows),,,CANNOT_DECIDE
+are the most common type of large domesticated ungulates.,are,Cattle,STATIVE
+"They are a prominent modern member of the subfamily Bovinae,",are,They,STATIVE
+"are the most widespread species of the genus Bos,",are,,STATIVE
+and are most commonly classified collectively as Bos taurus.,classified,member,STATIVE
+Cattle are raised as livestock for meat,raised,Cattle,DYNAMIC
+"(beef and veal), as dairy animals for milk and other dairy products, and as draft animals (oxen or bullocks) (pulling carts,",pulling,,DYNAMIC
+plows and the like).,,,CANNOT_DECIDE
+Other products include leather and dung for manure or fuel.,include,products,STATIVE
+"In some regions, such as parts of India, cattle have significant religious meaning.",have,cattle,STATIVE
+"From as few as 80 progenitors domesticated in southeast Turkey about 10,500 years ago, an estimated 1.3 billion cattle are in the world today.",are,cattle,STATIVE
+"In 2009, cattle became the first livestock animal to have a fully mapped genome.",became,cattle,DYNAMIC
+== Species ==,,,CANNOT_DECIDE
+Cattle were originally identified as three separate species:,identified,Species,DYNAMIC
+"Bos taurus, the European or ""taurine"" cattle (including similar types from Africa and Asia); Bos indicus, the zebu; and the extinct Bos primigenius, the aurochs.",including,,STATIVE
+The aurochs is ancestral to both zebu and taurine cattle.,is,aurochs,STATIVE
+"Now, these have been reclassified as one species, with Bos taurus primigenius and Bos taurus indicus.",reclassified,these,DYNAMIC
+Complicating the matter is the ability of cattle to interbreed with other closely related species.,is,Complicating,STATIVE
+"Hybrid individuals and even breeds exist, not only between taurine cattle and zebu",exist,individuals,STATIVE
+"(such as the sanga cattle, Bos taurus africanus), but also between one or both of these and some other members of the genus Bosyaks (the dzo or yattle), banteng, and gaur.",,,CANNOT_DECIDE
+"Hybrids such as the beefalo breed can even occur between taurine cattle and either species of bison,",occur,Hybrids,DYNAMIC
+"leading some authors to consider them part of the genus Bos, as well.",leading,,STATIVE
+"The hybrid origin of some types may not be obvious  for example, genetic testing of the Dwarf Lulu breed, the only taurine-type cattle in Nepal,",be,origin,STATIVE
+"found them to be a mix of taurine cattle, zebu, and yak.",found,testing,DYNAMIC
+"However, cattle cannot successfully be hybridized with more distantly related bovines such as water buffalo or African buffalo.",hybridized,cattle,DYNAMIC
+"The aurochs originally ranged throughout Europe, North Africa, and much of Asia.",ranged,aurochs,STATIVE
+"In historical times, its range became restricted to Europe,",became,range,DYNAMIC
+"and the last known individual died in Masovia, Poland, in about 1627.",died,range,DYNAMIC
+"Breeders have attempted to recreate cattle of similar appearance to aurochs by crossing traditional types of domesticated cattle,",attempted,Breeders,DYNAMIC
+creating the Heck cattle breed.,creating,crossing,DYNAMIC
+=== Etymology ===,,,CANNOT_DECIDE
+"""Cattle"" did not originate as the term for bovine animals.",originate,=,DYNAMIC
+"It was borrowed from Anglo-Norman xno, itself from Latin la, head, and originally meant movable personal property, especially livestock of any kind,",borrowed,It,DYNAMIC
+as opposed to real property,opposed,property,STATIVE
+"(the land, which also included wild or small free-roaming animals such as chickens ",included,land,STATIVE
+they were sold as part of the land).,sold,they,DYNAMIC
+"The word is closely related to ""chattel"" (a unit of personal property) and ""capital"" in the economic sense.",is,word,STATIVE
+The term replaced earlier Old English,replaced,term,DYNAMIC
+"ang ""cattle, property"",",,,CANNOT_DECIDE
+"which survives today as fee (also Vieh, vee, faihu).",survives,replaced,STATIVE
+"The word ""cow"" came via Anglo-Saxon ang",came,cow,DYNAMIC
+"(plural c), from Common Indo-European gws (genitive gows) = ""a bovine animal"",",,,CANNOT_DECIDE
+"compare Persian per, Sanskrit san, Welsh cy.",,,CANNOT_DECIDE
+"The plural c became ki or kie in Middle English,",became,cȳ,DYNAMIC
+"and an additional plural ending was often added,",added,cȳ,DYNAMIC
+"giving kine, kien, but also kies, kuin and others.",giving,,DYNAMIC
+"This is the origin of the now archaic English plural of ""kine"".",is,This,STATIVE
+"The Scots language singular is coo or cou,",is,singular,STATIVE
+"and the plural is ""kye"".",is,plural,STATIVE
+"In older English sources such as the King James Version of the Bible, ""cattle"" refers to livestock,",refers,cattle,STATIVE
+"as opposed to ""deer""",opposed,,STATIVE
+which refers to wildlife.,refers,deer,STATIVE
+"""Wild cattle"" may refer to feral cattle or to undomesticated species of the genus Bos.",refer,cattle,STATIVE
+"Today, when used",used,,DYNAMIC
+"without any other qualifier, the modern meaning of ""cattle"" is usually restricted to domesticated bovines.",restricted,meaning,STATIVE
+== Terminology ==,,,CANNOT_DECIDE
+The Ongole Bull of Moses.,,,CANNOT_DECIDE
+jpg|thumb|An Ongole bull,|,thumb,CANNOT_DECIDE
+Hereford bull large.,,,CANNOT_DECIDE
+jpg|thumb|A Hereford bull,|,thumb,CANNOT_DECIDE
+"In general, the same words are used in different parts of the world, but with minor differences in the definitions.",used,words,DYNAMIC
+"The terminology described here contrasts the differences in definition between the United Kingdom and other British-influenced parts of world such as Canada, Australia, New Zealand, Ireland, and the United States.",contrasts,terminology,STATIVE
+"* An ""intact"" (i.e., not castrated)",,,CANNOT_DECIDE
+adult male is called a bull.,called,adult,STATIVE
+"A wild, young, unmarked bull is known as a ""micky"" in Australia.",known,bull,STATIVE
+"An unbranded bovine of either sex is called a ""maverick"" in the USA and Canada.",called,unbranded,STATIVE
+* An adult female that has had a calf,had,female,DYNAMIC
+"(or two, depending on regional usage)",depending,,CANNOT_DECIDE
+is a cow.,is,female,STATIVE
+* A young female,,,CANNOT_DECIDE
+before she has had a calf of her own,had,female,DYNAMIC
+and is under three years of age is called a heifer ( ).,called,female,STATIVE
+A young female that has had only one calf is occasionally called a first-calf heifer.,called,female,STATIVE
+* Young cattle of both sexes are called calves,called,cattle,STATIVE
+"until they are weaned,",are,they,DYNAMIC
+then weaners,,,CANNOT_DECIDE
+"until they are a year old in some areas; in other areas, particularly with male beef cattle,",are,they,STATIVE
+they may be known as feeder calves or simply feeders.,known,they,STATIVE
+"After that, they are referred to as yearlings or stirks if between one and two years of age.",referred,they,DYNAMIC
+* A castrated male is called a steer in the United States;,called,male,STATIVE
+older steers,,,CANNOT_DECIDE
+"are often called bullocks in other parts of the world,",called,steers,STATIVE
+but in North America this term refers to a young bull.,refers,steers,STATIVE
+Piker bullocks are micky bulls,are,bullocks,STATIVE
+"(uncastrated young male bulls) that were caught, castrated",caught,bulls,DYNAMIC
+and then later lost.,lost,bulls,DYNAMIC
+"In Australia, the term ""Japanese ox"" is used for grain-fed steers in the weight range of 500 to 650 kg",used,term,DYNAMIC
+that are destined for the Japanese meat trade.,destined,kg,STATIVE
+"In North America, draft cattle under four years old are called working steers.",called,cattle,STATIVE
+Improper or late castration on a bull results in it becoming a coarse,results,Improper,DYNAMIC
+"steer known as a stag in Australia, Canada and New Zealand.",known,steer,STATIVE
+"In some countries, an incompletely castrated male is known also as a rig.",known,male,STATIVE
+* A castrated male (occasionally a female or in some areas a bull) kept for draft purposes is called an ox,called,*,STATIVE
+"(plural oxen); ""ox"" may also be used to refer to some carcass products from any adult cattle, such as ox-hide, ox-blood, oxtail, or ox-liver.",used,ox,DYNAMIC
+* A springer is a cow or heifer close to calving.,is,springer,STATIVE
+"* In all cattle species, a female twin of a bull usually becomes an infertile partial intersex,",becomes,twin,DYNAMIC
+and is called a freemartin.,called,twin,STATIVE
+"* Neat (horned oxen, from which neatsfoot oil is derived), beef",horned,Neat,STATIVE
+(young ox) and beefing,,,CANNOT_DECIDE
+"(young animal fit for slaughtering) are obsolete terms,",are,beefing,STATIVE
+"although poll, pollard or polled cattle are still terms in use for naturally hornless animals, or in some areas also for those",are,cattle,STATIVE
+that have been disbudded or dehorned.,disbudded,those,DYNAMIC
+* Cattle raised,raised,Cattle,CANNOT_DECIDE
+for human consumption are called beef cattle.,called,Cattle,STATIVE
+"Within the American beef cattle industry, the older term beef (plural beeves) is still used to refer to an animal of either sex.",used,beef,DYNAMIC
+"Some Australian, Canadian, New Zealand and British people use the term beast, especially for single animals",use,Zealand,DYNAMIC
+when the sex is unknown.,is,sex,STATIVE
+* Cattle of bred specifically,bred,Cattle,CANNOT_DECIDE
+for milk production are called milking or dairy cattle;,called,Cattle,STATIVE
+a cow kept to provide milk,kept,cow,CANNOT_DECIDE
+for one family may be called a house cow or milker.,called,family,STATIVE
+"A ""fresh cow"" is a dairy term for a cow or first-calf heifer",is,cow,STATIVE
+"who has recently given birth, or ""freshened.""",given,heifer,DYNAMIC
+* The adjective applying to cattle in general is usually bovine.,is,adjective,STATIVE
+"The terms ""bull"", ""cow"" and ""calf"" are also used by extension to denote the sex or age of other large animals,",used,terms,DYNAMIC
+"including whales, hippopotamuses, camels, elk and elephants.",including,,STATIVE
+=== Singular terminology issue ===,,,CANNOT_DECIDE
+Cattle can only be used in the plural and not in the singular:,used,=,DYNAMIC
+it is a plurale tantum.,is,it,STATIVE
+"Thus one may refer to ""three cattle"" or ""some cattle"", but not ""one cattle"".",refer,one,DYNAMIC
+"No universally used singular form in modern English of ""cattle"" exists, other than the sex- and age-specific terms such as cow, bull, steer and heifer.",exists,form,STATIVE
+"Historically, ""ox"" was not a sex-specific term for adult cattle,",was,Historically,STATIVE
+"but generally this is now used only for draft cattle, especially adult castrated males.",used,term,DYNAMIC
+"The term is also incorporated into the names of other species, such as the musk ox and ""grunting ox""",incorporated,term,STATIVE
+"(yak), and is used in some areas to describe certain cattle products such as ox-hide and oxtail.",used,term,DYNAMIC
+Brahman Baby.,,,CANNOT_DECIDE
+jpg|thumb|A Brahman calf,|,thumb,CANNOT_DECIDE
+"""Cow"" is in general use as a singular for the collective ""cattle"",",is,Cow,STATIVE
+despite the objections by those who insist it to be a female-specific term.,insist,those,STATIVE
+"Although the phrase ""that cow is a bull"" is absurd from a lexicographic standpoint, the word ""cow"" is easy to use",is,cow,STATIVE
+when a singular is needed,needed,singular,STATIVE
+and the sex is unknown or irrelevant ,is,sex,STATIVE
+"when ""there is a cow in the road"", for example.",is,cow,STATIVE
+"Further, any herd of fully mature cattle in or near a pasture is statistically likely to consist mostly of cows,",is,so,STATIVE
+so the term is probably accurate even in the restrictive sense.,is,term,STATIVE
+"Other than the few bulls needed for breeding, the vast majority of male cattle are castrated as calves",castrated,Other,DYNAMIC
+and slaughtered for meat before the age of three years.,slaughtered,Other,DYNAMIC
+"Thus, in a pastured herd, any calves or herd bulls usually are clearly distinguishable from the cows due to distinctively different sizes and clear anatomical differences.",are,bulls,STATIVE
+"Merriam-Webster, a US dictionary, recognizes the sex-nonspecific use of ""cow"" as an alternate definition,",recognizes,Merriam-Webster,STATIVE
+"whereas Collins, a UK dictionary, does not.",does,Collins,STATIVE
+"Colloquially, more general nonspecific terms may denote cattle",denote,terms,STATIVE
+when a singular form is needed.,needed,form,STATIVE
+"Australian, New Zealand and British farmers use the term ""beast"" or ""cattle beast"".",use,Zealand,DYNAMIC
+"""Bovine"" is also used in Britain.",used,Bovine,DYNAMIC
+"The term ""critter"" is common in the western United States and Canada,",is,critter,STATIVE
+particularly when referring to young cattle.,referring,,CANNOT_DECIDE
+"In some areas of the American South (particularly the Appalachian region),",,,CANNOT_DECIDE
+"where both dairy and beef cattle are present, an individual animal was once called a ""beef critter"",",called,animal,STATIVE
+though that term is becoming archaic.,becoming,term,DYNAMIC
+=== Other terminology ===,,,CANNOT_DECIDE
+Cattle raised,raised,Cattle,CANNOT_DECIDE
+"for human consumption are called ""beef cattle"".",called,=,STATIVE
+"Within the beef cattle industry in parts of the United States, the term ""beef"" (plural ""beeves"") is still used in its archaic sense to refer to an animal of either sex.",used,beef,DYNAMIC
+Cows of certain breeds that are kept for the milk,kept,breeds,CANNOT_DECIDE
+they give,give,they,DYNAMIC
+"are called ""dairy cows"" or ""milking cows"" (formerly ""milch cows"").",called,Cows,STATIVE
+"Most young male offspring of dairy cows are sold for veal,",sold,offspring,DYNAMIC
+and may be referred to as veal calves.,referred,offspring,DYNAMIC
+"The term ""dogies"" is used to describe orphaned calves in the context of ranch work in the American West, as in ""Keep them dogies moving"".",used,dogies,DYNAMIC
+"In some places, a cow kept to provide milk",kept,cow,CANNOT_DECIDE
+"for one family is called a ""house cow"".",called,family,STATIVE
+"Other obsolete terms for cattle include ""neat"" (this use survives in ""neatsfoot oil"",",include,terms,STATIVE
+"extracted from the feet and legs of cattle),",extracted,survives,DYNAMIC
+"and ""beefing"" (young animal fit for slaughter).",,,STATIVE
+"An onomatopoeic term for one of the most common sounds made by cattle is ""moo""",is,term,STATIVE
+(also called lowing).,called,moo,STATIVE
+There are a number of other sounds,are,number,STATIVE
+"made by cattle,",made,sounds,DYNAMIC
+"including calves bawling, and bulls bellowing.",including,,STATIVE
+The bullroarer makes a sound similar to a bull's territorial call.,makes,bullroarer,DYNAMIC
+== Anatomy ==,,,CANNOT_DECIDE
+Cattle are large quadrupedal ungulate mammals with cloven hooves.,are,Anatomy,STATIVE
+"Most breeds have horns,",have,breeds,STATIVE
+which can be as large as the Texas Longhorn or small like a scur.,be,horns,STATIVE
+Careful genetic selection has allowed polled (hornless) cattle to become widespread.,allowed,selection,DYNAMIC
+"Cattle are ruminants,",are,Cattle,STATIVE
+meaning,meaning,ruminants,STATIVE
+their digestive system is highly specialized to allow the use of poorly digestible plants as food.,is,system,STATIVE
+"Cattle have one stomach with four compartments, the rumen, reticulum, omasum, and abomasum, with the rumen being the largest compartment.",have,Cattle,STATIVE
+"Cattle are known for regurgitating and re-chewing their food,",known,Cattle,STATIVE
+"known as ""cud"" chewing.",known,food,STATIVE
+"The reticulum, the smallest compartment, is known as the ""honeycomb"".",known,reticulum,STATIVE
+Cattle sometimes consume metal objects,consume,Cattle,DYNAMIC
+which are deposited in the reticulum and irritation from the metal objects causes hardware disease.,causes,objects,DYNAMIC
+The omasum's main function is to absorb water and nutrients from the digestible feed.,is,function,STATIVE
+"The omasum is known as the ""many plies"".",known,omasum,STATIVE
+The abomasum is like the human stomach;,is,abomasum,STATIVE
+"this is why it is known as the ""true stomach"".",is,this,STATIVE
+The cud is then reswallowed and further digested by specialized microorganisms in the rumen.,reswallowed,cud,DYNAMIC
+These microbes are primarily responsible for decomposing cellulose and other carbohydrates into volatile fatty acids cattle use as their primary metabolic fuel.,are,microbes,STATIVE
+"The microbes inside the rumen also synthesize amino acids from non-protein nitrogenous sources, such as urea and ammonia.",synthesize,microbes,DYNAMIC
+"As these microbes reproduce in the rumen, older generations die and their cells continue on through the digestive tract.",die,generations,DYNAMIC
+"These cells are then partially digested in the small intestines,",digested,cells,DYNAMIC
+allowing cattle to gain a high-quality protein source.,allowing,,DYNAMIC
+These features allow cattle to thrive on grasses and other vegetation.,allow,features,STATIVE

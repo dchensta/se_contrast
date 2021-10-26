@@ -1,0 +1,109 @@
+Clause,mainVerb,mainReferent,Gold
+Jet Lag: Pathophysiology and Cures The longest Monday of my life,,,CANNOT_DECIDE
+I recently returned to the US from Australia.,returned,I,DYNAMIC
+"The 14-hour flight took me from Monday morning in Sydney to Monday morning, again,",took,messed,DYNAMIC
+in L.A. Crossing the date line messed up my sense of time enough,messed,line,DYNAMIC
+without the added bonus of thinking,added,,CANNOT_DECIDE
+I should be heading to bed,heading,I,DYNAMIC
+just as the sun began to climb into the California sky.,began,sun,DYNAMIC
+You may be familiar with the concept: Jet lag.,be,You,STATIVE
+"The catch-all name for circadian misalignment, the disruption of sleep cycles and circadian rhythms.",,,CANNOT_DECIDE
+"If you've had the pleasure of crossing time zones in a jet plane,",had,you,STATIVE
+"whether it was a mere three-hour hop from one coast of the US to the other or a trip to another continent, chances are,",are,chances,STATIVE
+you've experienced some amount of jet lag.,experienced,you,DYNAMIC
+The pathophysiology of jet lag,lag,pathophysiology,CANNOT_DECIDE
+"Normally, two systems -- the homeostatic system and the circadian system -- work together to produce a 24-hour sleep cycle.",work,systems,DYNAMIC
+"During the day, the homeostatic system slowly accumulates a 'sleep drive,' a desire to sleep",accumulates,system,DYNAMIC
+that increases as a function of time spent awake.,spent,time,DYNAMIC
+"The circadian system generates an alerting signal in opposition to this sleep drive,",generates,system,DYNAMIC
+"which, during the day, keeps a person from feeling increasingly sleepy.",keeps,drive,STATIVE
+"An hour or two before bedtime, this signal subsides, and s/he realizes",signal,this,DYNAMIC
+it's time to hit the pillow.,hit,time,STATIVE
+The sleep drive dissipates,dissipates,drive,DYNAMIC
+as a person sleeps,sleeps,person,CANNOT_DECIDE
+"and by morning (assuming a full night's rest and possibly some coffee), s/he will be feeling alert and ready to go again.",feeling,drive,STATIVE
+"Robert Sack wrote a delightful paper [PDF] on jet lag,",wrote,Sack,DYNAMIC
+"by the way, which is where I'm getting much of my information.",is,way,STATIVE
+So we've got a nice cycle of sleep.,got,we,STATIVE
+Jet lag is what happens,is,lag,STATIVE
+when the homeostatic and circadian processes are misaligned.,misaligned,processes,STATIVE
+"For example, the circadian system may signal a person to be alert",signal,system,DYNAMIC
+"when it's not actually morning,",'s,it,STATIVE
+"or may be reduced during daytime hours,",reduced,system,STATIVE
+causing daytime sleepiness,causing,,DYNAMIC
+because the homeostatic sleep drive is no longer cancelled out.,cancelled,drive,STATIVE
+But I don't want to be sleepy!,want,I,STATIVE
+How do you beat jet lag?,beat,you,CANNOT_DECIDE
+Robert Sack lists three primary approaches:,lists,Sack,STATIVE
+Reset the body clock,,,CANNOT_DECIDE
+Prescribed sleep scheduling Medication to counteract daytime sleepiness or insomnia,sleep,Reset,CANNOT_DECIDE
+"Let's start with the first one,",,,CANNOT_DECIDE
+as it turns out to be the most complicated.,turns,it,DYNAMIC
+Resetting the body clock,Resetting,,CANNOT_DECIDE
+"The two most effective ways to reset the body clock are 1) through bright light exposure, and 2) timed melatonin administration.",timed,Resetting,STATIVE
+Light is one of the most important cues about time of day,is,Light,STATIVE
+and has the greatest effect on circadian timing,has,Light,STATIVE
+"(much smaller effects are seen from regular activities and meals, for example).",seen,one,DYNAMIC
+Studies have shown,shown,Studies,DYNAMIC
+"that without light cues, totally blind people tend to have free-running circadian rhythms with an average period of 24.5 hours, instead of the usual 24.",tend,people,STATIVE
+"If a person is exposed to bright light early in the day,",exposed,person,DYNAMIC
+the person's internal clock is reset to an earlier time;,is,clock,DYNAMIC
+"if exposure is instead in the evening,",is,exposure,STATIVE
+the internal clock is reset to a later time.,is,,DYNAMIC
+Brighter light has more of an effect,has,light,STATIVE
+"(such as the sun, at 3000 to 10,000 lux), though lower intensities (e.g., 100-550 lux)",,,CANNOT_DECIDE
+can produce changes.,produce,intensities,DYNAMIC
+"Artificial light sources can be used to supplement daylight, to help reset a person's internal clock to the correct new time zone",used,sources,DYNAMIC
+when traveling.,traveling,,DYNAMIC
+"Alternatively, a person could wear very dark glasses,",wear,person,STATIVE
+as light avoidance could help minimize the problems of light exposure at the wrong time of day or night.,help,avoidance,DYNAMIC
+"Resetting the body clock, Part 2: Melatonin",Resetting,hormone,CANNOT_DECIDE
+Melatonin is a hormone,is,Part,STATIVE
+that has been linked to the regulation of circadian rhythms and sleep cycles [PDF].,linked,hormone,DYNAMIC
+Melatonin is secreted by the pineal gland at night;,secreted,Melatonin,DYNAMIC
+"secretion is suppressed by light exposure,",suppressed,secretion,DYNAMIC
+"and as such, the hormone can be thought of as a ""darkness signal.""",thought,secretion,STATIVE
+"If doses of melatonin are administered in the morning, circadian rhythms will be shifted later; evening doses shift rhythms earlier.",shifted,rhythms,DYNAMIC
+"Timing of the doses is more important than amount per dose,",is,Timing,STATIVE
+though it remains to be seen,remains,it,STATIVE
+what the optimal dose and optimal time of administration is,is,time,STATIVE
+"-- trials have been done with doses from 0.5 to 10mg, at times",done,trials,DYNAMIC
+ranging from three days before departure to five days after arrival in the new time zone.,ranging,times,STATIVE
+"If doses of melatonin are combined with light exposure, the results are what you might expect: synergistic",expect,you,STATIVE
+if both are administered to produce a time shift in the same direction (both earlier or both later); antagonistic otherwise.,administered,both,DYNAMIC
+"Sleep, wake, sleep, wake",sleep,Sleep,CANNOT_DECIDE
+The second way to beat jet lag: Sleep at weird times.,beat,Sleep,CANNOT_DECIDE
+"Slowly adjust your sleep schedule to match that of your destination,",adjust,Slowly,CANNOT_DECIDE
+or keep your home sleep schedule for a while,keep,Slowly,CANNOT_DECIDE
+after you arrive.,arrive,you,DYNAMIC
+"The problem with this is that your sleep-wake schedule won't match up with that of the people around you,",is,problem,STATIVE
+"and if you need to be awake for breakfast at 7am or for a meeting in the afternoon, your sleep schedule may interfere.",interfere,problem,DYNAMIC
+Use this method at your own risk.,Use,,CANNOT_DECIDE
+Drugs for everything,,,CANNOT_DECIDE
+"Lastly, we have sleep medicines.",have,Drugs,STATIVE
+"As you might guess, hypnotic medications combat insomnia and stimulants fight off daytime sleepiness pretty well,",medications,hypnotic,DYNAMIC
+"because by definition, that's what they do.",'s,that,DYNAMIC
+Both benzodiazepine and non-benzodiazepine drugs have been shown to be effective in the first case;,shown,drugs,DYNAMIC
+"for the latter, the most common solution is to consume more coffee [PDF].",is,solution,STATIVE
+This works!,,,DYNAMIC
+"In the study linked, subjects were treated with slow-release caffeine or with melatonin prior to a long eastward flight;",treated,subjects,DYNAMIC
+the caffeine subjects were less sleepy than either melatonin or placebo.,were,subjects,STATIVE
+"Granted, caffeine subjects also took longer to fall asleep later",took,subjects,STATIVE
+"and awoke more frequently,",awoke,subjects,DYNAMIC
+but that may be a risk,be,that,STATIVE
+you have to take.,have,you,STATIVE
+Lagging behind,,,CANNOT_DECIDE
+"Light, melatonin, drugs, strange sleep schedules.",,,CANNOT_DECIDE
+"Of course, the only solution that will always work is time.",is,solution,STATIVE
+"The homeostatic and circadian processes need to realign,",need,processes,STATIVE
+"and while the aforementioned ways of beating jet lag can fast track the process,",track,ways,DYNAMIC
+it still takes time.,takes,processes,STATIVE
+UPDATE: ; I was alerted by a friend of the existence further research,alerted,I,DYNAMIC
+of which I was unaware:,was,I,STATIVE
+Another way to reset,reset,way,CANNOT_DECIDE
+your sleep-wake cycle is to stop eating .,is,way,STATIVE
+"If you fast for about 12 to 16 hours, your body clock will reset, with whatever time you break your fast as morning.",reset,clock,DYNAMIC
+"The Fuller, Lu, & Saper paper [PDF], published in Science ,",published,],DYNAMIC
+"discusses the mechanism,",discusses,Lu,STATIVE
+though a more recent paper argues,argues,paper,STATIVE
+that the Fuller et al. results are inconclusive .,are,results,STATIVE

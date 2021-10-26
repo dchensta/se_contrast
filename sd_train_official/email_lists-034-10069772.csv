@@ -1,0 +1,30 @@
+Clause,mainVerb,mainReferent,Gold
+"docno=""lists-034-10069772""",,,CANNOT_DECIDE
+"name=""Tom Stephens""",,,CANNOT_DECIDE
+"email=""tomste@microsoft.com""",=,email,CANNOT_DECIDE
+"sent=""Sun, 21 Apr 1996 23:08:33 -0700""",sent,tomste@microsoft.com,CANNOT_DECIDE
+"subject=""RE: Merged Transport Layer Protocol Development""",,,CANNOT_DECIDE
+"To: ""'Holger.Reif@PrakInf.TU-Ilmenau.DE'""<Holger.Reif@prakinf.tu-ilmenau.de>",Holger.Reif@PrakInf.TU-Ilmenau.DE',,CANNOT_DECIDE
+"Cc: ""'tls-draft@w3.org'"" <tls-draft@w3.org>",tls-draft@w3.org',standards,CANNOT_DECIDE
+"No, there will not be two standards.",be,tls-draft@w3.org',STATIVE
+Microsoft and Netscape are working with the IETF to create one IETF standard,working,Netscape,STATIVE
+which both companies can support.,support,companies,STATIVE
+----------,,,CANNOT_DECIDE
+From:,,,CANNOT_DECIDE
+Holger.Reif@PrakInf.TU-Ilmenau.DE[SMTP:Holger.Reif@PrakInf.TU-Ilmenau.D,,,CANNOT_DECIDE
+E],,,CANNOT_DECIDE
+"Sent: Sunday, April 21, 1996 11:02 PM",,,CANNOT_DECIDE
+To: Tom Stephens,,,CANNOT_DECIDE
+Cc: tls-draft@w3.org,,,CANNOT_DECIDE
+Subject: RE: Merged Transport Layer Protocol Development,,,CANNOT_DECIDE
+strawman document is not an official IETF document.,is,document,STATIVE
+"Win Treese, Microsoft and Netscape did not want this document to be confused in any way",want,Netscape,STATIVE
+with the actual spec that is being developed by the working group.,developed,spec,DYNAMIC
+I'm yet to read the document in detail,'m,I,STATIVE
+but this sounds,sounds,read,STATIVE
+like we are going to have a IETF-Standard and an a separate NS/MS standard ???,going,we,STATIVE
+This is not a good thing.,is,This,STATIVE
+read you later - Holger Reif ---------------------------------------- Signaturprojekt Deutsche Einheit TU Ilmenau - Informatik - Telematik,read,,CANNOT_DECIDE
+"(Verdamp lang her) Holger.Reif@PrakInf.TU-Ilmenau.DE Alt wie ein Baum werden, um ueber",um,Ilmenau,CANNOT_DECIDE
+http://Remus.PrakInf.TU-Ilmenau.DE/Reif/ alle 7 Bruecken gehen zu,,,CANNOT_DECIDE
+koennen,,,CANNOT_DECIDE

@@ -1,0 +1,51 @@
+Clause,mainVerb,mainReferent,Gold
+"docno=""lists-046-11489622""",,,CANNOT_DECIDE
+"name=""Dave Raggett""",,,CANNOT_DECIDE
+"email=""dsr@w3.org""",,,CANNOT_DECIDE
+"sent=""Fri, 22 Mar 1996 18:19:06 -0500""",sent,dsr@w3.org,CANNOT_DECIDE
+"subject=""Minutes for 18th March""",,,CANNOT_DECIDE
+To: w3c-math-erb@w3.org,,,CANNOT_DECIDE
+Meeting Notes of Math-ERB Teleconference: Thursday 18th March '96,,,CANNOT_DECIDE
+Present:,,,CANNOT_DECIDE
+"Bruce Smith, Wolfram Neil Soiffer, Wolfram T.V. Raman, Adobe Dave Raggett, W3C",,,CANNOT_DECIDE
+Meeting time/frequency,,,CANNOT_DECIDE
+Dave has been unable to find any time,been,Dave,STATIVE
+that all of us can make.,make,all,DYNAMIC
+The new time will be every Monday at 1300 EST until further notice.,be,time,STATIVE
+Dave will attempt to keep Nico in the loop via email on the mailing list and separate phone calls.,attempt,Dave,DYNAMIC
+Adding further People to the Math-ERB,,,CANNOT_DECIDE
+Stu Weibel of OCLC sends his regrets,sends,People,DYNAMIC
+that they are too busy to accept the invitation at this time.,are,they,STATIVE
+Elsevier have contacted the AMS.,contacted,Elsevier,DYNAMIC
+"Ralph Youngen, Associate Director, Electronic Product Development for AMS has accepted the invitation to join the group, along with a couple of his colleagues.",accepted,Youngen,DYNAMIC
+The need for full SGML?,,,CANNOT_DECIDE
+We discussed,discussed,We,DYNAMIC
+whether it was necessary to use SGML for the math notation.,was,it,STATIVE
+"Basically, we have a preference for an extensible operator precedence notation.",have,we,STATIVE
+This can be included in HTML documents,included,This,DYNAMIC
+and handled correctly by SGML processing applications via the NOTATION mechanism.,handled,This,DYNAMIC
+"When using operator precedence, there is a need to constrain the context",is,need,DYNAMIC
+in which given operators can be used.,used,operators,DYNAMIC
+Niel said,said,Niel,DYNAMIC
+this wasn't as simple,was,this,STATIVE
+as at first it might appear.,appear,simple,STATIVE
+Dave will work on a formal mechanism for this.,work,Dave,DYNAMIC
+It is also unclear as to when macro processing is applied.,is,It,STATIVE
+Further discussion on this is needed.,needed,discussion,STATIVE
+It should be practical,be,It,STATIVE
+for parsers to deal with missing arguments sensibly.,deal,parsers,CANNOT_DECIDE
+This in general depends on the context.,depends,general,STATIVE
+Raman voiced a concern on Bruce's comment on 2D pictures.,voiced,Raman,DYNAMIC
+"We agreed however,",agreed,We,DYNAMIC
+"that a fixed set of ""layout"" idioms are sufficient for HTML-math.",are,set,STATIVE
+Raman promised to propose some new wording.,promised,Raman,DYNAMIC
+"He also gave us a URL for his test suite,",gave,He,DYNAMIC
+which I have added to the math-erb home page.,added,I,DYNAMIC
+We ended by discussing some of the parsing issues for mismatched brackets and number literals.,ended,We,DYNAMIC
+It seems clear,seems,It,STATIVE
+that bracket matching can't in general be required.,required,bracket,STATIVE
+Authors should be able to control the settings for this and for literals.,be,Authors,STATIVE
+Dave has posted a dump of his understanding as a result of this conference call.,posted,Dave,DYNAMIC
+See: current thoughts.,,,CANNOT_DECIDE
+"Dave Raggett, 22nd March.",,,CANNOT_DECIDE
+"-- Dave Raggett <dsr@w3.org> tel: +1 (617) 258 5741 fax: +1 (617) 258 5999 World Wide Web Consortium, 545 Technology Square, Cambridge, MA 02139 url = http://www.w3.org/People/Raggett",MA,Consortium,CANNOT_DECIDE

@@ -1,0 +1,102 @@
+Clause,mainVerb,mainReferent,Gold
+The clavichord is a European stringed keyboard instrument,is,clavichord,STATIVE
+"known from the late Medieval, through the Renaissance, Baroque and Classical eras.",known,instrument,STATIVE
+"Historically, it was mostly used as a practice instrument and as an aid to composition,",used,it,DYNAMIC
+not being loud enough for larger performances,being,,STATIVE
+(a problem that was solved,solved,problem,DYNAMIC
+when the Clavinet was invented in the mid-20th century).,invented,Clavinet,DYNAMIC
+The clavichord produces sound by striking brass or iron strings with small metal blades,produces,clavichord,DYNAMIC
+called tangents.,called,blades,STATIVE
+Vibrations are transmitted through the bridge(s) to the soundboard.,transmitted,Vibrations,DYNAMIC
+"The name is derived from the Latin word clavis,",derived,name,STATIVE
+"meaning ""key""",meaning,,STATIVE
+"(associated with more common clavus, meaning ""nail, rod, etc."") and chorda (from Greek ) meaning ""string, especially of a musical instrument"".",associated,key,STATIVE
+==History and use==,,,CANNOT_DECIDE
+The clavichord was invented in the early fourteenth century.,invented,clavichord,DYNAMIC
+"In 1504, the German poem ""de"" mentions the terms clavicimbalum",mentions,poem,DYNAMIC
+(a term used mainly for the harpsichord),used,term,DYNAMIC
+"and clavichordium, designating them as the best instruments to accompany melodies.",clavichordium,terms,DYNAMIC
+"One of the earliest references to the clavichord in England occurs in the privy-purse expenses of Elizabeth of York, queen of Henry VII, in an entry",occurs,One,DYNAMIC
+dated August 1502:,dated,entry,STATIVE
+Item.,,,CANNOT_DECIDE
+"The same day, Hugh Denys for money by him delivered to a stranger",Denys,Hugh,DYNAMIC
+that gave the queen a payre of clavycordes.,gave,stranger,DYNAMIC
+In crowns form his reward iiii libres.,form,,CANNOT_DECIDE
+"The clavichord was very popular from the 16th century to the 18th century,",was,clavichord,STATIVE
+"but mainly flourished in German-speaking lands, Scandinavia, and the Iberian Peninsula in the latter part of this period.",flourished,clavichord,DYNAMIC
+It had fallen out of use by 1850.,fallen,It,DYNAMIC
+"In the late 1890s, Arnold Dolmetsch revived",revived,Dolmetsch,DYNAMIC
+"clavichord construction and Violet Gordon-Woodhouse, among others, helped to popularize the instrument.",helped,revived,DYNAMIC
+Although most of the instruments built before the 1730s were small,were,most,STATIVE
+"(four octaves, four feet long), the latest instruments were built up to seven feet long with a six octave range.",built,instruments,DYNAMIC
+"Today clavichords are played primarily by Renaissance, Baroque, and Classical music enthusiasts.",played,clavichords,DYNAMIC
+"They attract many interested buyers,",attract,They,DYNAMIC
+and are manufactured worldwide.,manufactured,They,DYNAMIC
+"There are now numerous clavichord societies around the world,",are,societies,STATIVE
+and some 400 recordings of the instrument have been made in the past 70 years.,made,societies,DYNAMIC
+"Leading modern exponents of the instrument include Derek Adlam, Christopher Hogwood, Richard Troeger, and Miklos Spnyi.",include,exponents,STATIVE
+===Modern music===,,,CANNOT_DECIDE
+"The clavichord has also gained attention in other genres of music, in the form of the Clavinet,",gained,=,DYNAMIC
+which is essentially an electric clavichord,is,Clavinet,STATIVE
+that uses a magnetic pickup to produce a signal for amplification.,uses,clavichord,DYNAMIC
+"Stevie Wonder uses a Clavinet in many of his songs, such as ""Superstition"" and ""Higher Ground"".",uses,Wonder,DYNAMIC
+"A Clavinet played through an instrument amplifier with guitar effect pedals is often associated with funky, disco-infused 1970s rock.",played,Clavinet,DYNAMIC
+"Guy Sigsworth has played clavichord in a modern setting with Bjrk, notably on the studio recording of ""All Is Full of Love"".",played,Sigsworth,DYNAMIC
+Bjrk also made extensive use of,made,Björk,DYNAMIC
+"and even played the instrument herself on the song ""My Juvenile"" of her 2007 album Volta.",played,Björk,DYNAMIC
+"Tori Amos uses the instrument on ""Little Amsterdam"" from the album Boys for Pele and on the song ""Smokey Joe"" from her 2007 album American Doll Posse.",uses,Amos,DYNAMIC
+"Amos also featured her use of the Clavinet on her 2004 recording ""Not David Bowie"",",featured,Amos,DYNAMIC
+"released as part of her 2006 box set, A Piano: The Collection.",released,Amos,DYNAMIC
+In 1976 Oscar Peterson played (with Joe Pass on acoustic guitar) songs from Porgy And Bess on the clavichord.,played,Peterson,DYNAMIC
+Keith Jarrett also recorded an album,recorded,Jarrett,DYNAMIC
+entitled Book of Ways (1987),entitled,album,STATIVE
+in which he plays a series of clavichord improvisations.,plays,he,DYNAMIC
+"The Beatles' ""For No One"" (1966) features Paul McCartney",features,Beatles,STATIVE
+playing the clavichord.,playing,,DYNAMIC
+"Rick Wakeman plays the clavichord in the track ""The Battle"" from the album Journey to the Centre of the Earth.",plays,Wakeman,DYNAMIC
+==Structure and action==,,,CANNOT_DECIDE
+"In the clavichord, strings run transversely from the hitchpin rail at the left-hand end to tuning pegs on the right.",pegs,strings,STATIVE
+Towards the right end they pass over a curved wooden bridge.,Towards,,STATIVE
+"The action is simple, with the keys being levers with a small brass tangent, a small piece of metal similar in shape and size to the head of a flat-bladed screwdriver, at the far end.",is,action,STATIVE
+"The strings, which are usually of brass, or else a combination of brass and iron,",are,strings,STATIVE
+"are usually arranged in pairs, like a lute or mandolin.",arranged,strings,STATIVE
+"When the key is pressed, the tangent strikes the strings above,",strikes,tangent,DYNAMIC
+causing them to sound in a similar fashion to the hammering technique on a guitar.,causing,tangent,DYNAMIC
+"Unlike in a piano action, the tangent does not rebound from the string;",rebound,tangent,DYNAMIC
+"rather, it stays in contact with the string",stays,it,STATIVE
+"as long as the key is held,",held,key,STATIVE
+acting as both the nut and as the initiator of sound.,acting,,DYNAMIC
+"The volume of the note can be changed by striking harder or softer,",changed,volume,DYNAMIC
+and the pitch can also be affected by varying the force of the tangent against the string,affected,volume,DYNAMIC
+(known as Bebung).,known,,STATIVE
+"When the key is released,",released,key,DYNAMIC
+the tangent loses contact with the string,loses,tangent,DYNAMIC
+and the vibration of the string is silenced by strips of damping cloth.,silenced,tangent,DYNAMIC
+The action of the clavichord is unique among all keyboard instruments in that one part,is,action,STATIVE
+of the action simultaneously initiates the sound vibration,initiates,part,DYNAMIC
+"while at the same time defining the endpoint of the vibrating string, and thus its pitch.",defining,time,DYNAMIC
+"Because of this intimate contact between the player's hand and the production of sound, the clavichord has been referred to as the most intimate of keyboard instruments.",referred,clavichord,DYNAMIC
+"Despite its many (serious) limitations,",,,CANNOT_DECIDE
+"including extremely low volume,",including,,STATIVE
+"it has considerable expressive power,",has,it,STATIVE
+"the player being able to control attack, duration, volume,",being,,STATIVE
+and even provide certain subtle effects of swelling of tone and a type of vibrato unique to the clavichord.,provide,it,CANNOT_DECIDE
+==Fretting==,,,CANNOT_DECIDE
+Clavichord-JA Haas 007 reworked.,,,CANNOT_DECIDE
+"jpg|thumb|Large five-octave unfretted clavichord by Paul Maurici, after J.A. Hass",clavichord,unfretted,CANNOT_DECIDE
+"Since the string vibrates from the bridge only as far as the tangent, multiple keys with multiple tangents can be assigned to the same string.",assigned,keys,DYNAMIC
+This is called fretting.,called,This,STATIVE
+"Early clavichords frequently had many notes played on each string,",had,clavichords,STATIVE
+even going so far as the keyed monochord &mdash; an instrument with only one stringthough,going,,STATIVE
+most clavichords were triple- or double-fretted.,were,clavichords,STATIVE
+"Since only one note can be played at a time on each string, the fretting pattern is generally chosen",chosen,pattern,DYNAMIC
+so that notes rarely heard together,heard,,DYNAMIC
+(such as C and C) share a string pair.,share,notes,STATIVE
+The advantages of this system compared with unfretted instruments,compared,,STATIVE
+(see below) include relative ease of tuning,include,advantages,STATIVE
+"(with around half as many strings to keep in tune), greater volume (though still not really enough for use in chamber music), and a clearer, more direct sound.",keep,strings,CANNOT_DECIDE
+Among the disadvantages: temperament could not be re-set without bending the tangents;,be,temperament,DYNAMIC
+"and playing required a further refinement of touch,",required,temperament,STATIVE
+since notes sharing a single string,sharing,notes,STATIVE
+"played in quick succession had to be slightly separated to avoid a disagreeable deadening of the sound,",had,notes,STATIVE
+potentially disturbing a legato line.,disturbing,,DYNAMIC

@@ -1,0 +1,68 @@
+Clause,mainVerb,mainReferent,Gold
+Democracy is a form,is,Democracy,STATIVE
+"of government in which all eligible citizens are meant to participate equallyin the proposal, development and establishment of the laws",meant,citizens,STATIVE
+by which their society is run.,run,society,STATIVE
+The term originates from the Greek grc,originates,term,STATIVE
+"(grc-Latn) ""rule of the people"", which was found from  (dmos)",found,rule,DYNAMIC
+"""people"" and  (kratos) ""power"" or ""rule"" in the 5th century BCE to denote the political systems then existing in Greek city-states, notably Athens;",denote,term,CANNOT_DECIDE
+"the term is an antonym to  (aristokratia) ""rule of an elite"".",is,term,STATIVE
+"While theoretically these definitions are in opposition, in practice the distinction has been blurred historically.",blurred,distinction,DYNAMIC
+"The political system of Classical Athens, for example, granted democratic citizenship to an elite class of free men and excluded slaves and women from political participation.",granted,system,DYNAMIC
+"In virtually all democratic governments throughout ancient and modern history, democratic citizenship consisted of an elite class",consisted,citizenship,STATIVE
+until full enfranchisement was won for all adult citizens in most modern democracies through the suffrage movements of the 19th and 20th centuries.,won,enfranchisement,DYNAMIC
+"The English word dates to the 16th century, from the older Middle French and Middle Latin equivalents.",dates,word,STATIVE
+==Types==,,,CANNOT_DECIDE
+"Democracy has taken a number of forms, both in theory and practice.",taken,Types,DYNAMIC
+Some varieties of democracy provide better representation and more freedom for their citizens than others.,provide,varieties,DYNAMIC
+"However, if any democracy is not structured",structured,democracy,STATIVE
+"so as to prohibit the government from excluding the people from the legislative process, or any branch of government from altering the separation of powers in its own favour,",prohibit,democracy,CANNOT_DECIDE
+then a branch of the system can accumulate too much power,accumulate,branch,DYNAMIC
+and destroy the democracy.,destroy,branch,DYNAMIC
+The following kinds of democracy are not exclusive of one another:,are,kinds,STATIVE
+many specify details of aspects,specify,many,DYNAMIC
+that are independent of one another,are,aspects,STATIVE
+and can co-exist in a single system.,co-exist,aspects,STATIVE
+===Variants===,,,CANNOT_DECIDE
+====Socialist====,,,CANNOT_DECIDE
+Socialist thought has several different views on democracy.,has,thought,STATIVE
+"Social democracy, democratic socialism, and the dictatorship of the proletariat (usually exercised through Soviet democracy) are some examples.",are,dictatorship,STATIVE
+Many democratic socialists and social democrats believe in a form,believe,democrats,STATIVE
+of participatory democracy and/or workplace democracy combined with a representative democracy.,combined,democracy,STATIVE
+"Within Marxist orthodoxy there is a hostility to what is commonly called ""liberal democracy"",",is,hostility,STATIVE
+which they simply refer to as parliamentary democracy because of its often centralised nature.,refer,they,DYNAMIC
+Because of their desire to eliminate the political elitism,eliminate,desire,CANNOT_DECIDE
+"they see in capitalism, Marxists, Leninists and Trotskyists believe in direct democracy",believe,Leninists,STATIVE
+implemented through a system of communes,implemented,democracy,DYNAMIC
+(which are sometimes called soviets).,called,communes,DYNAMIC
+This system ultimately manifests itself as council democracy,manifests,system,DYNAMIC
+and begins with workplace democracy.,begins,system,DYNAMIC
+(See Democracy in Marxism.),See,,CANNOT_DECIDE
+====Anarchist====,,,CANNOT_DECIDE
+"Anarchists are split in this domain, depending on whether they believe",split,=,STATIVE
+that a majority-rule is tyrannic or not.,is,majority-rule,STATIVE
+The only form of democracy considered acceptable to many anarchists is direct democracy.,is,form,STATIVE
+Pierre-Joseph Proudhon argued,argued,Proudhon,DYNAMIC
+that the only acceptable form of direct democracy is one,is,form,STATIVE
+in which it is recognised,recognised,it,STATIVE
+"that majority decisions are not binding on the minority, even when unanimous.",are,decisions,STATIVE
+"However, anarcho-communist Murray Bookchin criticised individualist anarchists for opposing democracy,",criticised,Bookchin,DYNAMIC
+and says,says,Bookchin,DYNAMIC
+"""majority rule"" is consistent with anarchism.",is,rule,STATIVE
+"Some anarcho-communists oppose the majoritarian nature of direct democracy,",oppose,anarcho-communists,STATIVE
+feeling,feeling,anarcho-communists,STATIVE
+that it can impede individual liberty,impede,it,DYNAMIC
+"and opt in favour of a non-majoritarian form of consensus democracy, similar to Proudhon's position on direct democracy.",opt,it,DYNAMIC
+"Henry David Thoreau, who did not self-identify as an anarchist",did,,STATIVE
+"but argued for ""a better government""",argued,Thoreau,DYNAMIC
+"and is cited as an inspiration by some anarchists,",cited,Thoreau,DYNAMIC
+argued,argued,Thoreau,DYNAMIC
+that people should not be in the position of ruling others,be,people,STATIVE
+or being ruled,ruled,be,STATIVE
+when there is no consent.,is,consent,STATIVE
+"Anarcho-capitalists, voluntaryists and other right-anarchists oppose institutional democracy",oppose,right-anarchists,STATIVE
+as they consider it in conflict with widely held moral values and ethical principles and their conception of individual rights.,consider,they,STATIVE
+The a priori Rothbardian argument is that the state is a coercive institution,is,argument,STATIVE
+which necessarily violates the non-aggression principle (NAP).,violates,institution,DYNAMIC
+"Some right-anarchists also criticise democracy on a posteriori consequentialist grounds, in terms of inefficiency or disability in bringing about maximisation of individual liberty.",criticise,right-anarchists,DYNAMIC
+They maintain,maintain,They,STATIVE
+the people who participate in democratic institutions are foremost driven by economic self-interest.,driven,people,DYNAMIC

@@ -1,0 +1,105 @@
+Clause,mainVerb,mainReferent,Gold
+Fetal Viability,,,CANNOT_DECIDE
+"""Viability"" has become the focus of the abortion debate.",become,Viability,DYNAMIC
+"Last week, the Senate rejected Majority Leader Tom Daschle's bill",rejected,Senate,DYNAMIC
+"banning the abortion of ""viable fetuses.""",banning,bill,DYNAMIC
+But William Bennett and William Safire hailed Daschle's bill as the great compromise,hailed,Safire,DYNAMIC
+that might settle a quarter century of arguments about abortion.,settle,compromise,DYNAMIC
+Forty-one states already restrict the abortion of viable fetuses.,restrict,states,STATIVE
+What is a viable fetus?,is,fetus,CANNOT_DECIDE
+How is the concept of viability relevant to the moral and legal issues of abortion?,is,concept,CANNOT_DECIDE
+"Roe vs. Wade , the 1973 case legalizing abortion,",legalizing,case,CANNOT_DECIDE
+made fetal viability an important legal concept .,made,Wade,DYNAMIC
+The Supreme Court ruled,ruled,Court,DYNAMIC
+that states cannot put the interests of a fetus ahead of the interests of the pregnant woman,put,states,DYNAMIC
+"until the fetus is ""viable.""",is,fetus,STATIVE
+The court defined viable to mean capable of prolonged life outside the mother's womb.,defined,court,DYNAMIC
+It said,said,It,DYNAMIC
+this included fetuses,included,this,STATIVE
+that doctors expected to be sustained by respirators.,expected,doctors,STATIVE
+The court accepted the conventional medical wisdom,accepted,court,DYNAMIC
+"that a fetus becomes viable at the start of the last third of a pregnancy, the third trimester, sometime between the 24 th and 28 th week",becomes,fetus,DYNAMIC
+(a pregnancy usually lasts 38 weeks).,lasts,week,STATIVE
+"Because the point of viability varies,",varies,point,STATIVE
+"the court ruled,",ruled,court,DYNAMIC
+it could only be determined case by case and by the woman's own doctor.,determined,it,DYNAMIC
+"Even if the fetus is viable,",is,fetus,STATIVE
+"the court said,",said,court,DYNAMIC
+states could not outlaw an abortion,outlaw,states,DYNAMIC
+if the woman's life or health was at stake.,was,,STATIVE
+Justice Sandra Day O'Connor argued in a 1983 decision,argued,O'Connor,DYNAMIC
+"that Roe was on a ""collision course with itself.""",was,decision,STATIVE
+She said,said,She,DYNAMIC
+"that improvements in technology would continually push the point of fetal viability closer to the beginning of the pregnancy,",push,improvements,DYNAMIC
+allowing states greater opportunity to regulate the right to an abortion.,allowing,improvements,DYNAMIC
+And this seems to be the case -- up to a point.,seems,this,STATIVE
+Doctors now believe,believe,Doctors,STATIVE
+a fetus can become viable during the 23 rd week -- a week earlier,become,fetus,DYNAMIC
+than was thought 24 years ago.,thought,week,STATIVE
+Most hospitals will only perform abortions through the 22 nd week of pregnancy.,perform,hospitals,DYNAMIC
+But no baby has ever been successfully delivered before the middle of the 22 nd week.,delivered,baby,DYNAMIC
+Babies delivered during the 22 nd and 23 rd weeks weigh just over a pound.,delivered,Babies,STATIVE
+Their lungs have barely formed,formed,lungs,DYNAMIC
+and their airways are not developed enough to inhale.,are,airways,STATIVE
+Circulation depends on the use of ventilators and injections of hormones.,depends,Circulation,STATIVE
+A baby born during the 22 nd week has a 14.8 percent chance of survival.,has,baby,STATIVE
+"And about half of these survivors are brain-damaged, either by lack of oxygen",are,from,STATIVE
+(from poor initial respiration) or too much oxygen (from the ventilator).,,,CANNOT_DECIDE
+Neonatologists predict,predict,Neonatologists,DYNAMIC
+"that no baby will ever be viable before the 22 nd week,",be,baby,STATIVE
+because before then the lungs are not fully formed.,formed,lungs,STATIVE
+"Probability of survival increases for babies born later in pregnancy: 25 percent in the 23 rd week, 42 percent in the 24 th week, 57 percent in 25 th week.",born,babies,DYNAMIC
+"By the 30 th week, when a newborn doesn't require a ventilator to breathe,",require,newborn,STATIVE
+it has a 90 percent chance of survival.,has,it,STATIVE
+And only after the 30 th week do the risks of long-term brain damage begin to substantially subside.,begin,risks,DYNAMIC
+"Because premature babies depend on technology, survival rates vary based on access to that technology .",vary,rates,STATIVE
+"For instance, in rural communities, which commonly lack expensive infant intensive-care units, survival rates in these early weeks are much lower.",are,rates,STATIVE
+Doctors assess a fetus's viability by attempting to guess,assess,Doctors,DYNAMIC
+whether its lungs have formed.,formed,lungs,DYNAMIC
+"Sonograms allow doctors to estimate the fetus's weight,",allow,Sonograms,STATIVE
+"which correlates with the lungs' development,",correlates,weight,STATIVE
+and to look for signs,look,doctors,CANNOT_DECIDE
+-- such as the development of functioning eyelids and creases in the skin --,functioning,,CANNOT_DECIDE
+that coincide with the onset of a functioning respiratory system.,coincide,signs,STATIVE
+None of the methods for predicting viability are very precise.,are,None,STATIVE
+"Despite important Supreme Court decisions since 1973 modifying the doctrine of Roe , the court's thinking about fetal viability has remained fairly constant .",remained,thinking,STATIVE
+The only significant revision came in the Casey decision,came,revision,DYNAMIC
+"(1992), which made viability even more important.",made,decision,DYNAMIC
+The court said,said,court,DYNAMIC
+that state laws could require a woman and her doctor to perform tests to prove,require,laws,STATIVE
+that a fetus is not viable,is,fetus,STATIVE
+before she obtains an abortion.,obtains,she,DYNAMIC
+Forty-one states now have laws,have,states,STATIVE
+restricting post-viability abortions.,restricting,laws,STATIVE
+Some allow doctors to decide for themselves,allow,Some,STATIVE
+if the fetus is viable.,is,fetus,STATIVE
+Some require doctors to perform tests to prove,require,Some,STATIVE
+a fetus is pre-viable,is,fetus,STATIVE
+and require multiple doctors to certify the findings.,require,doctors,STATIVE
+Eleven states have banned the procedure,banned,states,DYNAMIC
+called intact dilation and extraction,called,procedure,STATIVE
+(IDE) -- also known as partial-birth abortion -- in the belief,known,,STATIVE
+that this procedure is used mainly post-viability.,used,belief,DYNAMIC
+Banning IDEs nationwide is a major goal of the pro-life movement.,is,Banning,STATIVE
+Movement adherents claim that the IDE procedure,claim,adherents,STATIVE
+"-- in which delivery is induced,",induced,procedure,DYNAMIC
+"the fetus's skull is crushed, and its brains are suctioned",crushed,delivery,DYNAMIC
+-- amounts to infanticide.,amounts,procedure,STATIVE
+Barring this procedure is also the only regulation of abortion,is,procedure,STATIVE
+that public-opinion polls say,say,polls,STATIVE
+has a majority of support.,has,regulation,STATIVE
+Pro-choicers say,say,Pro-choicers,DYNAMIC
+"the ban on IDEs is inconsistent with Roe ,",is,ban,STATIVE
+because the procedure can be used to abort pre-viable fetuses.,used,procedure,DYNAMIC
+Some medical ethicists and constitutional scholars say,say,ethicists,DYNAMIC
+that the Supreme Court was wrong to create the pre-viability/post-viability distinction in the first place.,was,Court,STATIVE
+"Why, they ask,",ask,change,DYNAMIC
+does the fact,does,,CANNOT_DECIDE
+"that a fetus can survive outside the womb with the help of vast medical technology change either of the interests at war in the abortion debate: the fetus's own claim to ""human-ness"" and a woman's right to control her body?",change,fact,CANNOT_DECIDE
+"Even if viability is an important moral line, is it drawn in the right place?",drawn,it,STATIVE
+Keeping alive,,,CANNOT_DECIDE
+a baby born in the 22 nd week costs several hundred thousand dollars,costs,baby,STATIVE
+"and usually fails, regardless of the effort.",fails,baby,DYNAMIC
+The fuss over post-viability abortions ultimately concerns only a very small number of procedures .,concerns,fuss,STATIVE
+Less than one percent of all abortions performed take place after the 21 st week.,performed,percent,DYNAMIC
+"In 1992, only 1,070 abortions were performed after the 25 th week.",performed,abortions,DYNAMIC

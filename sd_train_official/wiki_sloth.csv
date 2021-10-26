@@ -1,0 +1,199 @@
+Clause,mainVerb,mainReferent,Gold
+"Sloths (/slo/ SLOH-th, /sl/ SLO-th)[2] are medium-sized mammals",[,Sloths,STATIVE
+belonging to the families Megalonychidae,belonging,mammals,STATIVE
+"(two-toed sloth) and Bradypodidae (three-toed sloth),",,,CANNOT_DECIDE
+classified into six species.,classified,Bradypodidae,STATIVE
+They are part of the order Pilosa,are,They,STATIVE
+"and are therefore related to anteaters, which sport a similar set of specialized claws.",related,part,STATIVE
+Extant sloths are arboreal,are,sloths,STATIVE
+"(tree-dwelling) residents of the jungles of Central and South America, and are known for being slow-moving,",known,residents,STATIVE
+"and hence named ""sloths"".",named,residents,STATIVE
+"Extinct sloth species include many ground sloths, some of which attained the size of elephants.",include,species,STATIVE
+"Sloths make a good habitat for other organisms,",make,Sloths,STATIVE
+"and a single sloth may be home to moths, beetles, cockroaches, ciliates, fungi, and algae.",be,sloth,STATIVE
+==Taxonomy and names==,=,Taxonomy,CANNOT_DECIDE
+"The sloth's taxonomic suborder is Folivora,",is,Taxonomy,STATIVE
+"sometimes also called Phyllophaga (Owen, 1842) or Tardigrada (Latham and Davies, 1795).",called,,DYNAMIC
+"The first two names both mean ""leaf-eaters""; derived from Latin and Greek, respectively.",mean,names,STATIVE
+"Names for the animals used by tribes in Ecuador include ritto, rit, and ridette, mostly forms of the word ""sleep"", ""eat"", and ""dirty"" from Tagaeri tribe of Huaorani.",include,Names,STATIVE
+==Ecology==,,,CANNOT_DECIDE
+"Sloths are classified as folivores,",classified,Sloths,STATIVE
+"as the bulk of their diets consist of buds, tender shoots, and leaves, mainly of Cecropia trees.",consist,bulk,STATIVE
+"Some two-toed sloths have been documented as eating insects, small reptiles, and birds as a small supplement to their diets.",documented,sloths,DYNAMIC
+Linnaeus's two-toed sloth has recently been documented eating human faeces from open latrines.,documented,sloth,DYNAMIC
+They have made extraordinary adaptations to an arboreal browsing lifestyle.,made,They,DYNAMIC
+"Leaves, their main food source, provide very little energy or nutrients,",provide,Leaves,DYNAMIC
+and do not digest easily.,digest,Leaves,DYNAMIC
+"Sloths, therefore, have large, specialized, slow-acting stomachs with multiple compartments",have,Sloths,STATIVE
+in which symbiotic bacteria break down the tough leaves.,break,bacteria,DYNAMIC
+"Sloths' tongues have the unique ability to protrude from their mouths 10 to 12 inches, an ability",have,tongues,STATIVE
+that is useful for collecting leaves just out of reach.,is,ability,STATIVE
+"As much as two-thirds of a well-fed sloth's body weight consists of the contents of its stomach,",consists,two-thirds,STATIVE
+and the digestive process can take a month or more to complete.,take,two-thirds,STATIVE
+"Since leaves provide little energy,",provide,leaves,DYNAMIC
+sloths deal with this by a range of economy measures:,deal,sloths,DYNAMIC
+they have very low metabolic rates (less than half of that,have,they,STATIVE
+"expected for a mammal of their size),",expected,that,STATIVE
+and maintain low body temperatures when active,maintain,they,STATIVE
+"(3034C or 8693F), and still lower temperatures when resting.",,,STATIVE
+"Although unable to survive outside the tropical rainforests of South and Central America, within that environment sloths are outstandingly successful creatures.",are,sloths,STATIVE
+"On Barro Colorado Island in Panama, sloths have been estimated to comprise 70% of the biomass of arboreal mammals.",estimated,sloths,DYNAMIC
+Four of the six living species are presently rated,rated,Four,STATIVE
+"""least concern""; the maned three-toed sloth (Bradypus torquatus), which inhabits Brazil's dwindling Atlantic Forest, is classified as ""endangered"",",classified,sloth,STATIVE
+while the island-dwelling pygmy three-toed sloth (B. pygmaeus) is critically endangered.,endangered,sloth,STATIVE
+==Physiology==,,,CANNOT_DECIDE
+Sloth fur exhibits specialized functions: the outer hairs grow in a direction opposite from that of other mammals.,exhibits,fur,STATIVE
+"In most mammals, hairs grow toward the extremities,",grow,hairs,DYNAMIC
+"but because sloths spend so much time with their legs above their bodies,",spend,sloths,DYNAMIC
+their hairs grow away from the extremities to provide protection from the elements,grow,hairs,DYNAMIC
+while the sloth hangs upside down.,hangs,sloth,STATIVE
+"In most conditions, the fur hosts two species of symbiotic cyanobacteria,",hosts,fur,STATIVE
+which provide camouflage.,provide,species,DYNAMIC
+"Because of the cyanobacteria, sloth fur is a small ecosystem of its own,",is,fur,STATIVE
+hosting many species of non-parasitic insects.,hosting,ecosystem,STATIVE
+"Sloths have short, flat heads, big eyes; short snouts, long legs, and tiny ears.",have,Sloths,STATIVE
+Some species have stubby tails,have,species,STATIVE
+(67 cm long).,,,CANNOT_DECIDE
+"Altogether, sloths' bodies usually are between 50 and 60 cm long.",are,bodies,STATIVE
+Sloths' claws serve as their only natural defense.,serve,claws,DYNAMIC
+A cornered sloth may swipe at its attackers in an effort to scare them away,swipe,sloth,DYNAMIC
+or wound them.,wound,effort,CANNOT_DECIDE
+"Despite sloths' apparent defenselessness, predators do not pose special problems:",pose,predators,DYNAMIC
+sloths blend in with the trees,blend,sloths,STATIVE
+"and, moving only slowly,",moving,,DYNAMIC
+do not attract attention.,attract,sloths,DYNAMIC
+Only during their infrequent visits to ground level do they become vulnerable.,do,,DYNAMIC
+"The main predators of sloths are the jaguar, the harpy eagle, and humans.",are,predators,STATIVE
+The majority of recorded sloth deaths in Costa Rica are due to contact with electrical lines and poachers.,are,majority,STATIVE
+Their claws also provide a further unexpected deterrent to human hunters;,provide,claws,DYNAMIC
+"when hanging upside-down in a tree,",hanging,,STATIVE
+they are held in place by the claws themselves,held,they,STATIVE
+and often do not fall down,fall,they,DYNAMIC
+even if shot from below.,shot,,DYNAMIC
+"Despite their adaptation to living in trees, sloths",living,adaptation,CANNOT_DECIDE
+(like many other rainforest animals) make competent swimmers.,make,sloths,STATIVE
+"This is likely to have been true of the extinct ground sloths, as well,",is,This,STATIVE
+as evidenced by the fact,evidenced,,STATIVE
+"that megalonychid sloths were able to colonise the Antilles by the Oligocene,",were,sloths,STATIVE
+"and that the megalonychid Pliometanastes and the mylodontid Thinobadistes were able to colonise North America about 9 million years ago, well before the existence of the Isthmus of Panama.",were,Thinobadistes,STATIVE
+"Additionally, the nothrotheriid Thalassocnus of the west coast of South America became adapted to a semiaquatic marine lifestyle.",became,Thalassocnus,DYNAMIC
+Sloths move,move,Sloths,DYNAMIC
+only when necessary and even then very slowly; they have about a quarter as much muscle tissue as other animals of similar weight.,have,they,STATIVE
+They can move at a marginally higher speed,move,They,DYNAMIC
+if they are in immediate danger from a predator,are,they,STATIVE
+"(4 m or 13 ft per minute for the three-toed sloth), but they burn large amounts of energy doing so.",burn,They,DYNAMIC
+"Their specialised hands and feet have long, curved claws to allow them to hang upside down from branches without effort.",have,feet,STATIVE
+"While they sometimes sit on top of branches,",sit,they,STATIVE
+"they usually eat,",eat,they,DYNAMIC
+"sleep,",sleep,they,DYNAMIC
+and even give birth hanging from limbs.,give,they,DYNAMIC
+They sometimes remain hanging from branches after death.,remain,They,STATIVE
+"On the ground, the maximum speed of the three-toed sloth is 2 m or 6.5 ft per minute.",is,speed,STATIVE
+"Sloths were thought to be among the most somnolent animals,",thought,Sloths,STATIVE
+sleeping from 15 to 18 hours each day.,sleeping,animals,DYNAMIC
+"Recently, however, Dr. Neil Rattenborg and his colleagues from the Max Planck Institute for Ornithology in Starnberg, Germany, published a study",published,Rattenborg,DYNAMIC
+testing sloth sleep patterns in the wild;,testing,study,DYNAMIC
+this is the first study of its kind.,is,this,STATIVE
+The study indicated,indicated,study,DYNAMIC
+that sloths sleep just under 10 hours a day.,sleep,sloths,DYNAMIC
+"Three-toed sloths are mostly diurnal,",are,sloths,STATIVE
+while two-toed sloths are nocturnal.,are,sloths,STATIVE
+"Sloths go to the ground to urinate and defecate about once a week, digging a hole",go,Sloths,DYNAMIC
+and covering it afterwards.,covering,urinate,DYNAMIC
+They go to the same spot each time,go,They,DYNAMIC
+and are vulnerable to predation,are,They,STATIVE
+while doing so.,doing,,DYNAMIC
+"The reason for this risky behaviour is unknown,",is,reason,STATIVE
+although some believe,believe,some,STATIVE
+it is to avoid making noise,is,it,STATIVE
+while defecating from up high,defecating,,DYNAMIC
+that would attract predators.,attract,high,DYNAMIC
+"Consistent with this, they reportedly relieve themselves from their branches during storms in the rainy season.",relieve,they,DYNAMIC
+"Another possible explanation is that the middens provide the sloths with one of their few methods of finding one another for breeding purposes,",is,explanation,STATIVE
+since their sense of smell is far more acute than their eyesight or hearing.,is,sense,STATIVE
+Still other recent studies have suggested,suggested,studies,DYNAMIC
+that it might be relevant for maintaining the ecosystem,be,it,STATIVE
+"in the sloths' fur Individual sloths tend to spend the bulk of their time feeding on a single ""modal"" tree;",tend,sloths,STATIVE
+"by burying their excreta near the trunk of that tree,",burying,they,DYNAMIC
+they may help nourish it.,help,they,DYNAMIC
+Recently there has been some speculation,been,go,STATIVE
+that sloths go to the ground to defecate because of their mutually beneficial relationships with moths.,go,speculation,DYNAMIC
+"While the sloth defecates, female moths",defecates,sloth,DYNAMIC
+that otherwise live on a sloth will get off,get,moths,DYNAMIC
+"and immediately lay their eggs directly on the fecal matter,",lay,moths,DYNAMIC
+on which the larvae survive,survive,larvae,STATIVE
+until they mature to adulthood,mature,they,DYNAMIC
+and are able to fly onto sloths.,are,they,STATIVE
+"Incidentally, it appears",appears,it,STATIVE
+that sloths benefit from their relationship with moths,benefit,sloths,STATIVE
+"because the moths are responsible for fertilizing algae on the sloth,",are,moths,STATIVE
+which provides them with nutrients.,provides,sloth,DYNAMIC
+"Infant sloths normally cling to their mothers' fur,",cling,sloths,DYNAMIC
+but occasionally fall off.,fall,sloths,DYNAMIC
+Sloths are very sturdily built,built,Sloths,STATIVE
+and rarely die from a fall.,die,Sloths,DYNAMIC
+"In some cases, they die from a fall",die,they,DYNAMIC
+indirectly because the mothers prove unwilling to leave the safety of the trees to retrieve the young.,prove,mothers,STATIVE
+"Females normally bear one baby every year,",bear,Females,DYNAMIC
+but sometimes sloths' low level of movement actually keeps females from finding males for longer than one year.,keeps,Females,DYNAMIC
+Almost all mammals have seven cervical vertebrae,have,mammals,STATIVE
+"(neck bones), including those with very short necks, such as elephants or whales, and those with very long necks, such as giraffes).",including,,STATIVE
+"The few exceptions include manatees and two-toed sloths,",include,exceptions,STATIVE
+"which each have only six cervical vertebrae, and three-toed sloths with 9 cervical vertebrae.",have,each,STATIVE
+==Evolution==,,,CANNOT_DECIDE
+"Sloths are members of the superorder Xenarthra, a group of mammals",are,Sloths,STATIVE
+that appeared in South America about 60 million years ago,appeared,mammals,DYNAMIC
+"(Mya), although at least one source puts the date",puts,source,DYNAMIC
+at which sloths and related animals broke off from other placental mammals at about 100 Mya.,broke,sloths,DYNAMIC
+Also included among the Xenarthra are anteaters and armadillos.,are,included,STATIVE
+"The earliest xenarthrans were arboreal herbivores with sturdy spines, fused pelvises, stubby teeth, and small brains.",were,xenarthrans,STATIVE
+"The living sloths belong to one of two families,",belong,sloths,STATIVE
+known as the Megalonychidae,known,families,STATIVE
+"(""two-toed"" sloths) and the Bradypodidae (three-toed sloths).",,,CANNOT_DECIDE
+All living sloths have in fact three toes;,have,sloths,STATIVE
+"the ""two-toed"" sloths, however, have only two fingers.",have,sloths,STATIVE
+Two-toed sloths are generally faster-moving than three-toed sloths.,faster-moving,sloths,STATIVE
+Both types tend to occupy the same forests;,tend,types,STATIVE
+"in most areas, one species of three-toed sloth and one species of the larger two-toed type will jointly predominate.",predominate,species,STATIVE
+"However, their adaptations belie the actual relationships of the living sloth genera,",belie,adaptations,STATIVE
+which are more distant from each other,are,genera,STATIVE
+than their outward similarity suggests.,suggests,similarity,STATIVE
+"The common ancestor of the two genera apparently lived 3540 Mya,",lived,ancestor,STATIVE
+making the living forms stunning examples of convergent or parallel evolution.,making,ancestor,DYNAMIC
+The two-toed sloths of today are far more closely related to one particular group of ground sloths than to the living three-toed sloths.,related,sloths,STATIVE
+Whether these ground-dwelling Megalonychidae were descended from tree-climbing ancestors,descended,Megalonychidae,DYNAMIC
+or whether the two-toed sloths are really miniature ground sloths converted (or reverted) to arboreal life cannot presently be determined to satisfaction.,determined,descended,DYNAMIC
+"The latter possibility seems slightly more likely,",seems,possibility,STATIVE
+"because the small ground sloths Acratocnus and Neocnus, which were also able to climb,",sloths,ground,STATIVE
+"are among the closer relatives of the two-toed sloths,",are,sloths,STATIVE
+and these together were related to the huge ground sloths Megalonyx and Megalocnus.,related,Acratocnus,STATIVE
+The evolutionary history of the three-toed sloths is not well known.,known,history,STATIVE
+"No particularly close relatives, ground-dwelling or not, have yet been identified.",identified,relatives,DYNAMIC
+The ground sloths do not constitute a monophyletic group.,constitute,sloths,STATIVE
+"Rather, they make up a number of lineages,",make,they,STATIVE
+"and as far as is known,",known,,STATIVE
+"until the Holocene, most sloths were in fact ground-dwellers.",were,they,STATIVE
+"The famous Megatherium, for example, belonged to a lineage of ground sloths",belonged,Megatherium,STATIVE
+"that was not very close to the living sloths and their ground-living relatives, like the small Neocnus or the massive Megalonyx.",was,lineage,STATIVE
+"Meanwhile, Mylodon, among the last ground sloths to disappear, was only very distantly related to either of these.",was,Mylodon,STATIVE
+==Extinctions==,,,CANNOT_DECIDE
+"Until about 10,000 years ago, ground sloths such as Megatherium lived in South America as well as in much of North America;",lived,sloths,STATIVE
+they colonized the latter as part of the Great American Interchange.,colonized,they,DYNAMIC
+"Along with many other animals, however, they disappeared shortly after the appearance of humans on both continents.",disappeared,they,DYNAMIC
+Much evidence suggests,suggests,evidence,STATIVE
+"human hunting contributed to the extinction of the American megafauna, like that of far northern Asia, Australia, New Zealand, and Madagascar.",contributed,hunting,DYNAMIC
+Simultaneous climate change that came with the end of the last ice age may have also played a role in some cases.,played,change,DYNAMIC
+"However, the survival of ground sloths on the Antilles until about 5000 years ago (after these islands were finally settled by humans),",settled,until,DYNAMIC
+"long after they had died out on the mainland, points toward human activities as the agency of extinction.",points,survival,STATIVE
+"In Peru and Chile, sloths of the genus Thalassocnus adapted to a coastal marine lifestyle beginning in the late Miocene.",adapted,sloths,DYNAMIC
+"Initially they just stood in the water,",stood,they,STATIVE
+but over a span of 4 million years they eventually evolved into swimming creatures.,evolved,they,DYNAMIC
+It is thought,thought,It,STATIVE
+that when the Isthmus of Panama closed about 3 million years ago,closed,Isthmus,DYNAMIC
+"the water grew colder,",grew,water,DYNAMIC
+perhaps contributing to their extinction by the late Pliocene.,contributing,water,DYNAMIC
+"The plants these sloths fed on may have grown sparse,",grown,plants,DYNAMIC
+or they may have been unable to adapt to the lower water temperatures.,been,they,STATIVE
+== Conservation ==,,,CANNOT_DECIDE
+"In Costa Rica, the Aviarios Sloth Sanctuary cares for ""wounded and abandoned sloths.",cares,Sanctuary,DYNAMIC
+"About 130 animals have been released back into the wild.""",released,animals,DYNAMIC

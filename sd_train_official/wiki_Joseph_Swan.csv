@@ -1,0 +1,89 @@
+Clause,mainVerb,mainReferent,Gold
+"Sir Joseph Wilson Swan, D.Sc.",,,CANNOT_DECIDE
+"h.c., FRS (31 October 1828  27 May 1914)",–,October,CANNOT_DECIDE
+was a British physicist and chemist.,was,Swan,STATIVE
+He is most famous for inventing an incandescent light bulb.,is,He,STATIVE
+"Swan first demonstrated the light bulb at a lecture in Newcastle upon Tyne on 18 December 1878,",demonstrated,Swan,DYNAMIC
+but he did not receive a patent until 27 November 1880,receive,Swan,DYNAMIC
+(patent No. 4933) after improvement to the original lamp.,,,CANNOT_DECIDE
+"His house (in Gateshead, England)",,,CANNOT_DECIDE
+"was the first in the world to be lit by lightbulb,",was,house,STATIVE
+and the world's first electric-light illumination in a public building was for a lecture Swan,was,house,STATIVE
+gave in 1880.,gave,Swan,DYNAMIC
+"In 1881, the Savoy Theatre in the City of Westminster, London, was lit by Swan incandescent lightbulbs, the first theatre and the first public building in the world to be lit entirely by electricity.",lit,Theatre,DYNAMIC
+"In 1904 Swan was knighted by King Edward VII,",knighted,Swan,DYNAMIC
+"awarded the Royal Society's Hughes Medal,",awarded,knighted,DYNAMIC
+and was made an honorary member of the Pharmaceutical Society.,made,Swan,DYNAMIC
+"He had already received the highest decoration in France, the Lgion d'honneur,",received,He,DYNAMIC
+when he visited an international exhibition in Paris in 1881.,visited,he,DYNAMIC
+"The exhibition included exhibits of his inventions,",included,exhibition,STATIVE
+"and the city was lit with electric light, thanks to Swan's invention.",lit,exhibition,STATIVE
+==Early life==,,,CANNOT_DECIDE
+"Joseph Wilson Swan was born in 1828 at Pallion Hall in Pallion in the Parish of Bishopwearmouth, Sunderland, Tyne and Wear.",born,,DYNAMIC
+His parents were John Swan and Isabella Cameron.,were,parents,STATIVE
+"Davidson, Michael W. and The Florida State University.",,,CANNOT_DECIDE
+"""Molecular expressionsTM.",,,CANNOT_DECIDE
+"Science, optics and you.",,,CANNOT_DECIDE
+Pioneers in optics.,Pioneers,,CANNOT_DECIDE
+"Joseph Swan (18281914).""",Swan,Joseph,CANNOT_DECIDE
+Last modification 26 February 2004.,26,modification,CANNOT_DECIDE
+Retrieved 16 November 2009 He was said to have had an enquiring mind even as a child.,said,He,DYNAMIC
+"He augmented his education with a fascination of his surroundings, the industry of the area and reading.",augmented,He,DYNAMIC
+He attended,attended,He,DYNAMIC
+lectures at the Sunderland Atheneum.,,,CANNOT_DECIDE
+"He later became a partner in Mawson's, a firm of manufacturing chemists in Newcastle upon Tyne,",became,He,DYNAMIC
+"started by John Mawson (9 Sep 1819  17 December 1867) the husband of his sister, Elizabeth Swan (22 Nov 1822  2 August 1905).",started,husband,DYNAMIC
+"This company existed as Mawson, Swan and Morgan until 1973,",existed,company,STATIVE
+formerly located on Grey Street in Newcastle upon Tyne near Grey's Monument.,located,,STATIVE
+The premises are now owned by the Swedish fashion retailer H&M,owned,premises,STATIVE
+and can be identified by a line of Victorian-style electric street lamps in front of the store on Grey Street.,identified,premises,DYNAMIC
+"Swan lived at Underhill, a large house on Kells Lane North, Low Fell, Gateshead,",lived,Swan,STATIVE
+where he conducted most of his experiments in the large conservatory.,conducted,he,DYNAMIC
+"The house was later converted into a private fee paying, grant aided co-educational grammar school",converted,house,DYNAMIC
+named Beaconsfield School.,named,school,STATIVE
+"Here, students could still find examples of Swan's original electrical fittings.",find,students,DYNAMIC
+==Electric light==,,,CANNOT_DECIDE
+In 1850 Swan began working on a light bulb,began,=,DYNAMIC
+using carbonised paper filaments in an evacuated glass bulb.,using,bulb,DYNAMIC
+"By 1860 he was able to demonstrate a working device,",was,he,STATIVE
+and obtained a British patent,obtained,he,DYNAMIC
+"covering a partial vacuum, carbon filament incandescent lamp.",covering,patent,STATIVE
+"However, the lack of a good vacuum and an adequate electric source resulted in an inefficient bulb with a short lifetime.",resulted,source,DYNAMIC
+In 1875 Swan returned to consider the problem of the light bulb with the aid of a better vacuum and a carbonised thread as a filament.,returned,Swan,DYNAMIC
+"The most significant feature of Swan's improved lamp was that there was little residual oxygen in the vacuum tube to ignite the filament,",was,feature,STATIVE
+thus allowing the filament to glow almost white-hot,allowing,,STATIVE
+without catching fire.,catching,filament,DYNAMIC
+"However, his filament had low resistance,",had,filament,STATIVE
+thus needing heavy copper wires to supply it.,needing,filament,STATIVE
+Swan first publicly demonstrated his incandescent carbon lamp at a lecture for the Newcastle upon Tyne Chemical Society on 18 December 1878.,demonstrated,Swan,DYNAMIC
+"However after burning with a bright light for some minutes in his laboratory, the lamp broke down due to excessive current.",broke,lamp,DYNAMIC
+On 17 January 1879 this lecture was successfully repeated with the lamp,repeated,lecture,DYNAMIC
+shown in actual operation;,shown,lamp,DYNAMIC
+Swan had solved the problem of incandescent electric lighting by means of a vacuum lamp.,solved,Swan,DYNAMIC
+"On 3 February 1879 he publicly demonstrated a working lamp to an audience of over seven hundred people in the lecture theatre of the Literary and Philosophical Society of Newcastle upon Tyne, Sir William Armstrong presiding.",demonstrated,he,DYNAMIC
+Swan turned his attention to producing a better carbon filament and the means of attaching its ends.,turned,Swan,DYNAMIC
+"He devised a method of treating cotton to produce ""parchmentised thread""",devised,He,DYNAMIC
+and obtained British Patent 4933 on 27 November 1880.,obtained,He,DYNAMIC
+From that time he began installing light bulbs in homes and landmarks in England.,began,he,DYNAMIC
+"His house, Underhill on Kells Lane in Low Fell, Gateshead, was the world's first to have working light bulbs installed.",was,house,STATIVE
+"The Lit & Phil Library in Westgate Road, Newcastle, was the first public room",was,Library,STATIVE
+lit by electric light during a lecture by Swan on 20 October 1880.,lit,,DYNAMIC
+"In 1881 he founded his own company, The Swan Electric Light Company,",founded,he,DYNAMIC
+and started commercial production.,started,he,DYNAMIC
+"The Savoy, a state-of-the-art theatre in the City of Westminster, London, was the first public building in the world",was,Savoy,STATIVE
+lit entirely by electricity.,lit,world,STATIVE
+"Swan supplied about 1,200 incandescent lamps,",supplied,Swan,DYNAMIC
+powered by an generator on open land near the theatre.,powered,lamps,STATIVE
+"The builder of the Savoy, Richard D'Oyly Carte, explained",explained,builder,DYNAMIC
+"why he had introduced Swan's electric light: ""The greatest drawbacks to the enjoyment of the theatrical performances are, undoubtedly, the foul air and heat",introduced,he,STATIVE
+which pervade all theatres.,pervade,heat,STATIVE
+"As everyone knows, each gas-burner consumes as much oxygen as many people,",consumes,gas-burner,DYNAMIC
+and causes great heat beside.,causes,gas-burner,DYNAMIC
+"The incandescent lamps consume no oxygen,",consume,lamps,DYNAMIC
+"and cause no perceptible heat.""",cause,lamps,DYNAMIC
+"The first generator proved too small to power the whole building,",proved,generator,DYNAMIC
+"and though the entire front-of-house was electrically lit,",lit,front-of-house,STATIVE
+the stage was lit by gas until 28 December 1881.,lit,generator,STATIVE
+"At that performance, Carte stepped onstage",stepped,Carte,DYNAMIC
+and broke a glowing lightbulb before the audience to demonstrate the safety of Swan's new technology.,broke,Carte,DYNAMIC
+"On 29 December 1881, The Times described the electric lighting as superior, visually, to gaslight.",described,Times,DYNAMIC

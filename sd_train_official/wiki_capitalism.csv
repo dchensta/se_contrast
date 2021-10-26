@@ -1,0 +1,202 @@
+Clause,mainVerb,mainReferent,Gold
+Capitalism is an economic system,is,Capitalism,STATIVE
+"in which trade, industry, and the means of production are largely or entirely privately owned and operated for profit.",owned,industry,STATIVE
+"Central characteristics of capitalism include capital accumulation, competitive markets and wage labour.",include,characteristics,STATIVE
+"In a capitalist economy, the parties to a transaction typically determine",determine,parties,DYNAMIC
+"the prices at which assets, goods, and services are exchanged.",exchanged,goods,DYNAMIC
+"The degree of competition, role of intervention and regulation, and scope of public ownership varies across different models of capitalism.",varies,degree,STATIVE
+"Economists, political economists, and historians have taken different perspectives in their analysis of capitalism",taken,economists,DYNAMIC
+and recognized various forms of it in practice.,recognized,Economists,DYNAMIC
+"These include laissez-faire capitalism, welfare capitalism and state capitalism; each",include,These,STATIVE
+"highlighting varying degrees of dependency on markets, public ownership, and inclusion of social policies.",highlighting,each,DYNAMIC
+"The extent to which different markets are free, as well as the rules",are,,STATIVE
+"defining private property, is a matter of politics and policy.",is,extent,STATIVE
+"Many states have what are termed capitalist mixed economies,",have,states,STATIVE
+referring to a mix between planned and market-driven elements.,referring,,STATIVE
+Crony capitalism is an economic system,is,capitalism,STATIVE
+corrupted by a close relationship between businesses and government officials.,corrupted,system,STATIVE
+"In Marxian economics this is considered to be the normal state of mature capitalism,",considered,this,STATIVE
+while in anarcho-capitalist theory it is considered a political distortion of capital and markets.,considered,it,STATIVE
+"Capitalism has existed under many forms of government, in many different times, places, and cultures.",existed,Capitalism,STATIVE
+"Following the demise of feudalism, capitalism became the dominant economic system in the Western world.",Following,,DYNAMIC
+Capitalism was carried across the world by broader processes of globalization such as imperialism,carried,Capitalism,DYNAMIC
+"and, by the end of the nineteenth century, became the dominant global economic system,",became,Capitalism,DYNAMIC
+in turn intensifying processes of economic and other globalization.,intensifying,,DYNAMIC
+"Later, in the 20th century, capitalism overcame a challenge by centrally-planned economies",overcame,capitalism,DYNAMIC
+"and is now the encompassing system worldwide, with the mixed economy being its dominant form in the industrialized Western world.",is,,STATIVE
+Barry Gills and Paul James write:,write,Gills,DYNAMIC
+::,,,CANNOT_DECIDE
+Different economic perspectives emphasize specific elements of capitalism in their preferred definition.,emphasize,write,DYNAMIC
+Laissez-faire and liberal economists emphasize the degree to which government does not have control over markets and the importance of property rights.,emphasize,economists,DYNAMIC
+Neoclassical and Keynesian macro-economists emphasize the need,emphasize,macro-economists,DYNAMIC
+for government regulation to prevent monopolies,prevent,need,CANNOT_DECIDE
+and to soften the effects of the boom and bust cycle.,soften,need,CANNOT_DECIDE
+"Marxian economists emphasize the role of capital accumulation, exploitation and wage labor.",emphasize,economists,DYNAMIC
+"Most political economists emphasize private property as well, in addition to power relations, wage labor, class, and the uniqueness of capitalism as a historical formation.",emphasize,economists,DYNAMIC
+Proponents of capitalism argue,argue,Proponents,DYNAMIC
+"that it creates more prosperity than any other economic system,",creates,it,DYNAMIC
+and that its benefits are mainly to the ordinary person.,mainly,it,STATIVE
+"Critics of capitalism variously associate it with economic instability, an inability to provide for the well-being of all people, and an unsustainable danger to the natural environment.",associate,Critics,DYNAMIC
+Socialists maintain,maintain,Socialists,STATIVE
+"that, although capitalism is superior to all previously existing economic systems",is,capitalism,STATIVE
+"(such as feudalism or slavery), the contradiction between class interests will only be resolved by advancing into a completely social system of production and distribution",resolved,contradiction,DYNAMIC
+in which all persons have an equal relationship to the means of production.,have,persons,STATIVE
+"The term capitalism, in its modern sense, is often attributed to Karl Marx.",attributed,capitalism,DYNAMIC
+"In his magnum opus Capital, Marx analysed the ""capitalist mode of production""",analysed,Marx,DYNAMIC
+using a method of understanding today,using,mode,DYNAMIC
+known as Marxism.,known,today,STATIVE
+"However, Marx himself rarely used the term capitalism,",used,Marx,DYNAMIC
+"while it was used twice in the more political interpretations of his work,",used,it,DYNAMIC
+primarily authored by his collaborator Friedrich Engels.,authored,interpretations,STATIVE
+In the 20th century defenders of the capitalist system often replaced the term capitalism with phrases such as free enterprise and private enterprise,replaced,defenders,DYNAMIC
+and replaced capitalist with rentier and investor in reaction to the negative connotations,replaced,defenders,DYNAMIC
+associated with capitalism.,associated,connotations,STATIVE
+==History==,,,CANNOT_DECIDE
+Economic trade for profit has existed since at least the second millennium BC.,existed,History,STATIVE
+"However, capitalism in its modern form is usually traced to the emergence of agrarian capitalism and mercantilism of the Early Modern era.",traced,capitalism,DYNAMIC
+===Agrarian capitalism===,,,CANNOT_DECIDE
+The economic foundations of the feudal agricultural system began to shift substantially in 16th century England;,began,=,DYNAMIC
+"the manorial system had broken down by this time,",broken,system,DYNAMIC
+and land began to be concentrated in the hands of fewer landlords with increasingly large estates.,began,system,DYNAMIC
+"Instead of a serf-based system of labor, workers were increasingly being employed as part of a broader and expanding money economy.",employed,workers,DYNAMIC
+The system put pressure on both the landlords and the tenants to increase the productivity of the agriculture to make profit; the weakened coercive power of the aristocracy to extract peasant surpluses,put,system,DYNAMIC
+"encouraged them to try out better methods,",encouraged,power,DYNAMIC
+"and the tenants also had incentive to improve their methods,",had,power,STATIVE
+in order to flourish in an increasingly competitive labor market.,flourish,,CANNOT_DECIDE
+Terms of rent for the land were becoming subject to economic market forces rather than the previous stagnant system of custom and feudal obligation.,becoming,Terms,DYNAMIC
+"By the early 17th-century, England was a centralized state,",was,England,STATIVE
+in which much of the feudal order of Medieval Europe had been swept away.,swept,much,DYNAMIC
+"This centralization was strengthened by a good system of roads and a disproportionately large capital city, London.",strengthened,centralization,DYNAMIC
+"The capital acted as a central market hub for the entire country,",acted,capital,DYNAMIC
+"creating a very large internal market for goods, instead of the fragmented feudal holdings",creating,,DYNAMIC
+that prevailed in most parts of the Continent.,prevailed,holdings,STATIVE
+===Mercantilism===,,,CANNOT_DECIDE
+The economic doctrine that held sway between the sixteenth and eighteenth centuries is commonly described as mercantilism.,held,doctrine,DYNAMIC
+"This period, the Age of Discovery, was associated with the geographic exploration of foreign lands by merchant traders, especially from England and the Low Countries.",associated,period,STATIVE
+"Mercantilism was a system of trade for profit,",was,Mercantilism,STATIVE
+although commodities were still largely produced by non-capitalist production methods.,produced,commodities,DYNAMIC
+"Most scholars consider the era of merchant capitalism and mercantilism as the origin of modern capitalism,",consider,scholars,STATIVE
+although Karl Polanyi argued,argued,Polanyi,DYNAMIC
+"that the hallmark of capitalism is the establishment of generalized markets for what he referred to as the ""fictitious commodities"": land, labor, and money.",is,hallmark,STATIVE
+"Accordingly, he argued",argued,he,DYNAMIC
+"that ""not until 1834 was a competitive labor market established in England, hence industrial capitalism",was,1834,DYNAMIC
+"as a social system cannot be said to have existed before that date.""",said,capitalism,STATIVE
+England began a large-scale and integrative approach to mercantilism during the Elizabethan Era (15581603).,began,England,DYNAMIC
+"A systematic and coherent explanation of balance of trade was made public through Thomas Mun's argument England's Treasure by Forraign Trade,",made,explanation,DYNAMIC
+or the Balance of our Forraign Trade is The Rule of Our Treasure.,is,Balance,STATIVE
+It was written in the 1620s,written,It,DYNAMIC
+and published in 1664.,published,It,DYNAMIC
+"Among the major tenets of mercantilist theory was bullionism, a doctrine stressing the importance of accumulating precious metals.",was,bullionism,STATIVE
+Mercantilists argued,argued,Mercantilists,DYNAMIC
+that a state should export more goods,export,state,DYNAMIC
+than it imported,imported,it,DYNAMIC
+so that foreigners would have to pay the difference in precious metals.,have,foreigners,DYNAMIC
+Mercantilists argued that only raw materials,argued,Mercantilists,DYNAMIC
+that could not be extracted at home should be imported;,imported,materials,DYNAMIC
+"and promoted government subsidies, such as the granting of monopolies and protective tariffs,",promoted,materials,DYNAMIC
+which mercantilists thought were necessary to encourage home production of manufactured goods.,thought,mercantilists,STATIVE
+"European merchants, backed by state controls, subsidies, and monopolies,",backed,merchants,STATIVE
+made most of their profits from the buying and selling of goods.,made,merchants,DYNAMIC
+"In the words of Francis Bacon, the purpose of mercantilism was ""the opening and well-balancing of trade; the cherishing of manufacturers; the banishing of idleness; the repressing of waste and excess by sumptuary laws; the improvement and husbanding of the soil; the regulation of prices ...""",was,purpose,STATIVE
+The British East India Company and the Dutch East India Company inaugurated an expansive era of commerce and trade.,inaugurated,Company,DYNAMIC
+These companies were characterized by their colonial and expansionary powers,characterized,companies,STATIVE
+given to them by nation-states.,given,colonial,DYNAMIC
+"During this era, merchants, who had traded under the previous stage of mercantilism,",traded,merchants,DYNAMIC
+"invested capital in the East India Companies and other colonies,",invested,merchants,DYNAMIC
+seeking a return on investment.,seeking,merchants,DYNAMIC
+===Industrial capitalism===,,,CANNOT_DECIDE
+"A new group of economic theorists, led by David Hume and Adam Smith, in the mid-18th century, challenged fundamental mercantilist doctrines such as the belief",challenged,,DYNAMIC
+that the amount of the world's wealth remained constant and that a state could only increase its wealth at the expense of another state.,remained,amount,STATIVE
+"During the Industrial Revolution, the industrialist replaced the merchant as a dominant factor in the capitalist system",replaced,industrialist,DYNAMIC
+"and affected the decline of the traditional handicraft skills of artisans, guilds, and journeymen.",affected,industrialist,DYNAMIC
+"Also during this period, the surplus generated by the rise of commercial agriculture encouraged increased mechanization of agriculture.",encouraged,surplus,DYNAMIC
+"Industrial capitalism marked the development of the factory system of manufacturing,",marked,capitalism,DYNAMIC
+characterized by a complex division of labor between and within work process and the routine of work tasks;,characterized,capitalism,STATIVE
+and finally established the global domination of the capitalist mode of production.,established,capitalism,DYNAMIC
+"Britain also abandoned its protectionist policy,",abandoned,Britain,DYNAMIC
+as embraced by mercantilism.,embraced,,STATIVE
+"In the 19th century, Richard Cobden and John Bright, who based their beliefs on the Manchester School,",based,Bright,STATIVE
+initiated a movement to lower tariffs.,initiated,Bright,DYNAMIC
+"In the 1840s, Britain adopted a less protectionist policy, with the repeal of the Corn Laws and the Navigation Acts.",adopted,Britain,DYNAMIC
+"Britain reduced tariffs and quotas, in line with David Ricardo's advocacy for free trade.",reduced,Britain,DYNAMIC
+===Globalization===,,,CANNOT_DECIDE
+Industrialization allowed cheap production of household items,allowed,Industrialization,STATIVE
+"using economies of scale,",using,,DYNAMIC
+while rapid population growth created sustained demand for commodities.,created,growth,DYNAMIC
+Globalization in this period was decisively shaped by nineteenth-century imperialism.,shaped,Globalization,STATIVE
+"After the First and Second Opium Wars and the completion of British conquest of India, vast populations of these regions became ready consumers of European exports.",became,populations,DYNAMIC
+It was in this period,was,It,STATIVE
+that areas of sub-Saharan Africa and the Pacific islands were incorporated into the world system.,incorporated,areas,DYNAMIC
+"Meanwhile, the conquest of new parts of the globe, notably sub-Saharan Africa, by Europeans yielded valuable natural resources such as rubber, diamonds and coal",yielded,conquest,DYNAMIC
+"and helped fuel trade and investment between the European imperial powers, their colonies, and the United States.",helped,conquest,DYNAMIC
+The global financial system was mainly tied to the gold standard in this period.,tied,system,STATIVE
+The United Kingdom first formally adopted this standard in 1821.,adopted,Kingdom,DYNAMIC
+"Soon to follow was Canada in 1853, Newfoundland in 1865, and the United States and Germany (de jure) in 1873.",was,follow,STATIVE
+"New technologies, such as the telegraph, the transatlantic cable, the Radiotelephone, the steamship and railway allowed goods and information to move around the world at an unprecedented degree.",allowed,technologies,DYNAMIC
+===Keynesianism and neoliberalism===,,,CANNOT_DECIDE
+"In the period following the global depression of the 1930s,",following,,STATIVE
+the state played an increasingly prominent role in the capitalistic system throughout much of the world.,played,state,DYNAMIC
+The post war era was greatly influenced by Keynesian economic stabilization policies.,influenced,era,STATIVE
+"The postwar boom ended in the late 1960s and early 1970s,",ended,boom,DYNAMIC
+and the situation was worsened by the rise of stagflation.,worsened,boom,DYNAMIC
+"Monetarism, a theoretical alternative to Keynesianism that is more compatible with laissez-faire, gained increasing prominence in the capitalist world, especially under the leadership of Ronald Reagan in the US and Margaret Thatcher in the UK in the 1980s.",gained,Monetarism,DYNAMIC
+"Public and political interest began shifting away from the so-called collectivist concerns of Keynes's managed capitalism to a focus on individual choice,",began,Public,DYNAMIC
+"called ""remarketized capitalism.""",called,focus,STATIVE
+==Economic elements==,=,elements,CANNOT_DECIDE
+The essential feature of capitalism is the investment of money,is,elements,STATIVE
+in order to make a profit.,make,,CANNOT_DECIDE
+"In a capitalist economic system capital assets can be owned and controlled by private persons,",owned,assets,STATIVE
+"labor is purchased for money wages,",purchased,assets,DYNAMIC
+"capital gains accrue to private owners,",accrue,assets,DYNAMIC
+and the price mechanism is utilized to allocate capital goods between competing uses.,utilized,assets,DYNAMIC
+"The extent to which the price mechanism is used, the degree of competitiveness, the balance between the public sector and the private sector, and the extent of government intervention in markets are the factors",are,balance,STATIVE
+which distinguish several forms of capitalism in the modern world.,distinguish,factors,STATIVE
+"In free-market and laissez-faire forms of capitalism, markets are utilized most extensively with minimal or no regulation over the pricing mechanism.",utilized,markets,DYNAMIC
+"In mixed economies, which are almost universal today, markets continue to play a dominant role",continue,markets,STATIVE
+but are regulated to some extent by government,regulated,markets,DYNAMIC
+"in order to correct market failures,",correct,order,CANNOT_DECIDE
+"promote social welfare,",promote,correct,CANNOT_DECIDE
+"conserve natural resources, fund defense and public safety or for other reasons.",conserve,correct,CANNOT_DECIDE
+"In state capitalist systems, markets are relied upon the least, with the state relying heavily on state-owned enterprises or indirect economic planning to accumulate capital.",relied,markets,STATIVE
+"Capitalism and capitalist economics is often contrasted with socialism,",contrasted,economics,DYNAMIC
+though the meaning of the word socialism has changed over time.,changed,meaning,DYNAMIC
+The original meaning of socialism was state ownership of the means of production.,was,meaning,STATIVE
+"Today, the word is often used to mean any state control of economic decision-making.",used,Today,DYNAMIC
+"===Money, capital, and accumulation===",,,CANNOT_DECIDE
+"Money is primarily a standardized medium of exchange, and final means of payment,",is,,STATIVE
+that serves to measure the value of all goods and commodities in a standard of value.,serves,payment,DYNAMIC
+It is an abstraction of economic value and medium of exchange,is,It,STATIVE
+that eliminates the cumbersome system of barter,eliminates,exchange,DYNAMIC
+by separating the transactions,separating,exchange,DYNAMIC
+"involved in the exchange of products,",involved,transactions,STATIVE
+thus greatly facilitating specialization and trade through encouraging the exchange of commodities.,facilitating,abstraction,DYNAMIC
+"Capitalism involves the further abstraction of money into other exchangeable assets and the accumulation of money through ownership, exchange, interest and various other financial instruments.",involves,Capitalism,STATIVE
+"The accumulation of capital refers to the process of ""making money"",",refers,accumulation,STATIVE
+or growing an initial sum of money through investment in production.,growing,of,CANNOT_DECIDE
+"Capitalism is based around the accumulation of capital,",based,Capitalism,STATIVE
+whereby financial capital is invested,invested,capital,DYNAMIC
+in order to realize a profit,realize,capital,CANNOT_DECIDE
+and then reinvested into further production in a continuous process of accumulation.,reinvested,capital,DYNAMIC
+"In Marxian economic theory, this dynamic is called the law of value.",called,dynamic,STATIVE
+===Capital and financial markets===,,,CANNOT_DECIDE
+"The defining feature of capitalist markets, in contrast to markets and exchange in pre-capitalist societies like feudalism, is the existence of a market for capital goods",is,feature,STATIVE
+"(the means of production), meaning",,,STATIVE
+exchange-relations (business relationships),,,CANNOT_DECIDE
+exist within the production process.,exist,exchange-relations,STATIVE
+"Additionally, capitalism features a market for labor.",features,capitalism,STATIVE
+This distinguishes the capitalist market from pre-capitalist societies,distinguishes,This,STATIVE
+which generally only contained market exchange for final goods and secondary goods.,contained,societies,STATIVE
+"The ""market"" in capitalism refers to capital markets and financial markets.",refers,market,STATIVE
+"Thus, there are three main markets in a typical capitalistic economy: labor, goods and services, and financial.",are,markets,STATIVE
+===Wage labor and class structure===,,,CANNOT_DECIDE
+"Wage labor refers to the class-structure of capitalism,",refers,=,STATIVE
+"whereby workers receive either a wage or a salary,",receive,workers,DYNAMIC
+and owners receive the profits,receive,=,DYNAMIC
+generated by the factors of production,generated,profits,DYNAMIC
+employed in the production of economic value.,employed,production,DYNAMIC
+"Individuals who possess and supply financial capital to productive ventures become owners, either jointly (as shareholders) or individually.",become,Individuals,DYNAMIC
+In Marxian economics these owners of the means of production and suppliers of capital are generally called capitalists.,called,owners,STATIVE
+"The description of the role of the capitalist has shifted,",shifted,description,DYNAMIC
+"first referring to a useless intermediary between producers to an employer of producers,",referring,,STATIVE
+and eventually came to refer to owners of the means of production.,came,description,DYNAMIC
+The term capitalist is not generally used by supporters of mainstream economics.,used,capitalist,DYNAMIC

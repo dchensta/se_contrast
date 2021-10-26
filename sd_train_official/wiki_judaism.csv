@@ -1,0 +1,103 @@
+Clause,mainVerb,mainReferent,Gold
+"Judaism (from the Iudaismus, derived from the Greek grc, and ultimately from the Hebrew , Yehudah, ""Judah""; in Hebrew",derived,Iudaismus,STATIVE
+": , Yahadut, the distinctive characteristics of the Judean ethnos) is the religion, philosophy, and way of life of the Jewish people.",is,Judaism,STATIVE
+"Judaism is a monotheistic religion, with the Torah as its foundational text (part of the larger text",is,Judaism,STATIVE
+"known as the Tanakh or Hebrew Bible),",known,text,STATIVE
+and supplemental oral tradition represented by later texts such as the Midrash and the Talmud.,represented,religion,STATIVE
+Judaism is considered by religious Jews to be the expression of the covenantal relationship,considered,Judaism,STATIVE
+that God established with the Children of Israel.,established,God,DYNAMIC
+"Judaism includes a wide corpus of texts, practices, theological positions, and forms of organization.",includes,Judaism,STATIVE
+"Within Judaism there are a variety of movements,",are,variety,STATIVE
+"most of which emerged from Rabbinic Judaism,",emerged,most,DYNAMIC
+which holds,holds,Judaism,STATIVE
+that God revealed his laws and commandments to Moses on Mount Sinai in the form of both the Written and Oral Torah.,revealed,God,DYNAMIC
+"Historically, this assertion was challenged by various groups such as the Sadducees and Hellenistic Judaism during the Second Temple period",challenged,assertion,DYNAMIC
+; the Karaites and Sabbateans during the early and later medieval period; and among segments of the modern reform movements.,,,CANNOT_DECIDE
+Liberal movements in modern times such as Humanistic Judaism may be nontheistic.,be,movements,STATIVE
+"Today, the largest Jewish religious movements are Orthodox Judaism",are,movements,STATIVE
+"(Haredi Judaism and Modern Orthodox Judaism), Conservative Judaism and Reform Judaism.",,,CANNOT_DECIDE
+"Major sources of difference between these groups are their approaches to Jewish law, the authority of the Rabbinic tradition, and the significance of the State of Israel.",are,sources,STATIVE
+Orthodox Judaism maintains,maintains,Judaism,STATIVE
+"that the Torah and Jewish law are divine in origin, eternal and unalterable,",are,Torah,STATIVE
+and that they should be strictly followed.,followed,Torah,DYNAMIC
+"Conservative and Reform Judaism are more liberal,",are,Judaism,STATIVE
+"with Conservative Judaism generally promoting a more ""traditional"" interpretation of Judaism's requirements than Reform Judaism.",promoting,Judaism,DYNAMIC
+A typical Reform position is that Jewish law should be viewed as a set of general guidelines rather than as a set of restrictions and obligations,is,position,DYNAMIC
+whose observance is required of all Jews.,required,observance,STATIVE
+"Historically, special courts enforced Jewish law; today,",enforced,courts,DYNAMIC
+these courts still exist,exist,courts,STATIVE
+but the practice of Judaism is mostly voluntary.,is,practice,STATIVE
+"Authority on theological and legal matters is not vested in any one person or organization,",vested,Authority,DYNAMIC
+but in the sacred texts and rabbis and scholars who interpret them.,interpret,rabbis,DYNAMIC
+Judaism claims a historical continuity,claims,Judaism,STATIVE
+"spanning more than 3,000 years.",spanning,continuity,STATIVE
+Judaism has its roots as a structured religion in the Middle East during the Bronze Age.,has,Judaism,STATIVE
+"Of the major world religions, Judaism is considered one of the oldest monotheistic religions.",considered,Judaism,STATIVE
+"The Hebrews / Israelites were already referred to as ""Jews"" in later books of the Tanakh such as the Book of Esther, with the term Jews",referred,Israelites,DYNAMIC
+"replacing the title ""Children of Israel"".",replacing,Jews,DYNAMIC
+"Judaism's texts, traditions and values strongly influenced later Abrahamic religions,",influenced,values,DYNAMIC
+"including Christianity, Islam and the Baha'i Faith.",including,,STATIVE
+Many aspects of Judaism have also directly or indirectly influenced secular Western ethics and civil law.,influenced,aspects,DYNAMIC
+The Jews are an ethnoreligious group,are,Jews,STATIVE
+and include those born Jewish and converts to Judaism.,include,group,STATIVE
+"In 2012, the world Jewish population was estimated at about 14 million, or roughly 0.2% of the total world population.",estimated,population,DYNAMIC
+About 42% of all Jews reside in Israel,,,STATIVE
+"and about 42% reside in the United States and Canada,",reside,%,STATIVE
+"with most of the remainder living in Europe,",living,remainder,STATIVE
+"and other minority groups spread throughout the world in South America, Asia, Africa, and Australia.",spread,%,STATIVE
+==Defining characteristics and principles of faith==,Defining,=,CANNOT_DECIDE
+===Defining characteristics===,Defining,=,CANNOT_DECIDE
+  -   - Macedonian Hanukkah menorah.,,,CANNOT_DECIDE
+jpg|thumb|250px|A 19th-century silver Macedonian Hanukkah menorah,|,250px,CANNOT_DECIDE
+"Unlike other ancient Near Eastern gods, the Hebrew God is portrayed as unitary and solitary;",portrayed,God,STATIVE
+"consequently, the Hebrew God's principal relationships are not with other gods, but with the world, and more specifically, with the people",are,relationships,STATIVE
+He created.,created,He,DYNAMIC
+Judaism thus begins with ethical monotheism:,begins,Judaism,STATIVE
+the belief that God is one,is,God,STATIVE
+and is concerned with the actions of humankind.,concerned,God,STATIVE
+According to the Tanakh,According,,STATIVE
+"(Hebrew Bible), God promised Abraham to make of his offspring a great nation.",promised,God,DYNAMIC
+"Many generations later, he commanded the nation of Israel to love and worship only one God",commanded,he,DYNAMIC
+"; that is, the Jewish nation is to reciprocate God's concern for the world.",is,nation,DYNAMIC
+He also commanded the Jewish people to love one another;,commanded,He,DYNAMIC
+"that is, Jews are to imitate God's love for people.",are,Jews,DYNAMIC
+These commandments are but two of a large corpus of commandments and laws,are,commandments,STATIVE
+"that constitute this covenant,",constitute,corpus,STATIVE
+which is the substance of Judaism.,is,covenant,STATIVE
+"Thus, although there is an esoteric tradition in Judaism",is,tradition,STATIVE
+"(Kabbalah), Rabbinic scholar Max Kadushin has characterized normative Judaism as ""normal mysticism"",",characterized,Kadushin,DYNAMIC
+because it involves everyday personal experiences of God through ways or modes,involves,it,STATIVE
+that are common to all Jews.,are,ways,STATIVE
+"This is played out through the observance of the Halakha and given verbal expression in the Birkat Ha-Mizvot, the short blessings",played,This,DYNAMIC
+that are spoken every time,spoken,blessings,DYNAMIC
+a positive commandment is to be fulfilled.,is,commandment,DYNAMIC
+":The ordinary, familiar, everyday things and occurrences, we have constitute occasions for the experience of God.",constitute,we,STATIVE
+"Such things as one's daily sustenance, the very day itself, are felt as manifestations of God's loving-kindness,",felt,things,STATIVE
+calling for the Berakhot.,calling,manifestations,STATIVE
+"Kedushah, holiness, which is nothing else than the imitation of God,",is,Kedushah,STATIVE
+"is concerned with daily conduct, with being gracious and merciful, with keeping oneself from defilement by idolatry, adultery, and the shedding of blood.",concerned,Kedushah,STATIVE
+"The Birkat Ha-Mitzwot evokes the consciousness of holiness at a rabbinic rite,",evokes,Ha-Mitzwot,DYNAMIC
+"but the objects employed in the majority of these rites are non-holy and of general character,",are,objects,STATIVE
+while the several holy objects are non-theurgic.,are,objects,STATIVE
+And not only do ordinary things and occurrences bring with them the experience of God.,bring,only,DYNAMIC
+"Everything that happens to a man evokes that experience, evil as well as good,",happens,Everything,DYNAMIC
+for a Berakah is said also at evil tidings.,said,Everything,DYNAMIC
+"Hence, although the experience of God is like none other, the occasions for experiencing Him, for having a consciousness of Him, are manifold,",manifold,occasions,STATIVE
+even if we consider only those that call for Berakot.,consider,we,STATIVE
+Whereas Jewish philosophers often debate,debate,philosophers,DYNAMIC
+"whether God is immanent or transcendent,",is,God,STATIVE
+and whether people have free will,have,immanent,STATIVE
+"or their lives are determined, Halakha is a system",is,Halakha,STATIVE
+through which any Jew acts to bring God into the world.,acts,Jew,DYNAMIC
+Ethical monotheism is central in all sacred or normative texts of Judaism.,is,monotheism,STATIVE
+"However, monotheism has not always been followed in practice.",followed,monotheism,DYNAMIC
+The Jewish Bible (Tanakh),,,CANNOT_DECIDE
+records,records,Bible,STATIVE
+and repeatedly condemns the widespread worship of other gods in ancient Israel.,condemns,Bible,DYNAMIC
+"In the Greco-Roman era, many different interpretations of monotheism existed in Judaism,",existed,interpretations,STATIVE
+including the interpretations,including,,STATIVE
+that gave rise to Christianity.,gave,interpretations,DYNAMIC
+"Moreover, as a non-creedal religion, some have argued",argued,some,DYNAMIC
+that Judaism does not require one to believe in God.,require,Judaism,STATIVE
+"For some, observance of Jewish law is more important than belief in God per se.",is,observance,STATIVE
+"In modern times, some liberal Jewish movements do not accept the existence of a personified deity active in history.",accept,movements,STATIVE

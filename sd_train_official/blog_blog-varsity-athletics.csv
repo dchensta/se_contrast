@@ -1,0 +1,98 @@
+Clause,mainVerb,mainReferent,Gold
+Varsity athletics: Credit or no?,,,CANNOT_DECIDE
+It's a matter of balance,'s,It,STATIVE
+Vassar's varsity athletes may soon receive academic credit for participating in their sports during the school year .,receive,matter,DYNAMIC
+"This proposal has been in the works for nearly two years,",been,proposal,STATIVE
+"and at long last, folks are voting to approve it.",voting,proposal,DYNAMIC
+"Or to not approve it,",approve,,CANNOT_DECIDE
+but the former seems more likely.,seems,former,STATIVE
+"As a member of the Student Athlete Advisory Committee and as a long-time varsity athlete, you might say",say,you,DYNAMIC
+I have particular stake in the proposal.,have,I,STATIVE
+"After all, I could get half a unit a semester for up to four semesters --",get,I,DYNAMIC
+"a typical class is worth one unit,",is,unit,STATIVE
+"and a typical physical education course of any level is worth half a unit, with a maximum of two physical education units",is,course,STATIVE
+counting toward graduation requirements.,counting,units,STATIVE
+It seems justified:,seems,It,STATIVE
+"Students can receive credit for participating in other extracurricular, faculty-supervised activities, such as the orchestra, the choir, and the repertory dance theatre, so why not varsity athletics?",receive,Students,DYNAMIC
+My friend over at Carolyn Blogs agrees:,agrees,friend,STATIVE
+"from the above standpoint, sure, it seems fair to give credit to students .",seems,it,STATIVE
+"If you get credit for introductory P.E. classes,",get,you,DYNAMIC
+you should get credit for varsity athletics.,get,you,DYNAMIC
+"But our school newspaper presents other arguments in favor,",presents,newspaper,STATIVE
+which Carolyn thinks,thinks,Carolyn,STATIVE
+are highly unjustified:,are,arguments,STATIVE
+"On top of everything, we must remember",remember,we,STATIVE
+that varsity athletics present a considerable time commitment.,present,athletics,STATIVE
+It is rare to find another activity,is,It,STATIVE
+on campusacademic or extracurricularthat includes a comparable daily rigor and frequent overnight obligation.,includes,—,STATIVE
+"Varsity athletes regularly travel throughout the northeastern to participate in meets, games and tournaments,",travel,athletes,DYNAMIC
+often gone from campus for an entire weekend at a time.,gone,travel,STATIVE
+And you know what?,know,you,CANNOT_DECIDE
+Although it's certainly frustrating to travel to Boston,'s,it,STATIVE
+"for an all-day competition on the same weekend as a good friend's birthday party, a fascinating-sounding lecture, a dance party, and seventeen other campus events no one in their right mind would ever want to miss,",want,one,STATIVE
+I agree with Carolyn.,agree,I,STATIVE
+The reason I participate in my sport is because I enjoy it.,is,reason,STATIVE
+"If I cared more about other activities,",cared,I,STATIVE
+I'd do those instead.,do,I,DYNAMIC
+Simply being a huge time commitment is not a valid reason for awarding credit.,is,commitment,STATIVE
+"Carolyn's supporting example,",,,CANNOT_DECIDE
+"that higher level courses with more difficult and plentiful homework are worth the same amount of credit as introductory 100-level courses,",are,example,STATIVE
+drives this point home.,drives,example,STATIVE
+And she's backed up by our school's system of awarding units instead of credit hours :,backed,she,STATIVE
+"This systemwhich in its most basic form allots one unit of credit per semester course, regardless of difficulty, hours in class and subject mattermakes Vassar relatively unique in its credit system.",makes,hours,STATIVE
+"According to Registrar Dan Giannini, The rationale behind such a system is to try to send the message",According,,STATIVE
+that all courses are equal in worth,are,courses,STATIVE
+and that one shouldnt try to distinguish between courses based on time,try,system,DYNAMIC
+spent in or out of class.,spent,time,STATIVE
+"The reason time commitment is highlighted is because,",is,reason,STATIVE
+"according to the authors of the article, the faculty ""must consider",according,,STATIVE
+"what it can do to mitigate possible academic pressures on these students.""",do,it,DYNAMIC
+Um.,,,CANNOT_DECIDE
+"No, I don't think",think,I,STATIVE
+the faculty has any obligation whatsoever.,has,faculty,STATIVE
+Students choose to be varsity athletes of their own accord.,choose,Students,DYNAMIC
+"If they can't manage to balance their athletics and their coursework,",manage,they,DYNAMIC
+then perhaps they should reconsider participating in a varsity sport in the first place.,reconsider,they,DYNAMIC
+Athletes shouldn't get special privileges,get,Athletes,DYNAMIC
+simply because they're athletes.,'re,they,STATIVE
+"Personally, I like the fact",like,I,STATIVE
+that even though I dedicate huge chunks of time to my sport (more time,dedicate,I,DYNAMIC
+"than I dedicate to any single course, at least while in-season),",dedicate,time,DYNAMIC
+I can still keep up with my classmates,keep,I,DYNAMIC
+"who are taking comparable course loads, minus the sport.",taking,classmates,DYNAMIC
+"Sacrifices must be made, sure: Dance party on Friday night, or overnight travel to a competition?",made,party,DYNAMIC
+"The question is,",is,question,STATIVE
+what's more important to me?,'s,what,CANNOT_DECIDE
+"You learn stuff, too",learn,You,DYNAMIC
+The article continues:,continues,article,STATIVE
+"While athletes will continue to be held to the Colleges rigorous academic standards, the athletics credit could discourage a varsity athlete from unnecessarily taking on five academic credits while in their athletic season.",discourage,credit,DYNAMIC
+"With the proposed varsity credit, the athlete",proposed,,CANNOT_DECIDE
+"seeking to assume five courses in his or her athletic season will be checked with an overload form,",checked,athlete,DYNAMIC
+thus encouraging the student to think twice about assuming such a large academic and extracurricular load.,encouraging,,DYNAMIC
+I'd like to be known,like,I,STATIVE
+that students who have trouble balancing tough course loads and time-consuming extracurriculars have always had the option of taking a lighter load,had,students,STATIVE
+or dropping an extracurricular.,dropping,option,CANNOT_DECIDE
+Adding the option of a varsity unit to the list doesn't make much of a difference.,make,Adding,STATIVE
+Students who aren't varsity athletes could add an easy P.E. course instead.,add,Students,DYNAMIC
+Students who can balance their work and their sport will continue to do so.,continue,Students,STATIVE
+"And let it be known,",let,have,CANNOT_DECIDE
+varsity athletes don't have to take a half unit for their sport... thus negating the need for an overload form,have,athletes,STATIVE
+if taking five courses.,taking,,STATIVE
+"Carolyn says, in response to the above quote,",says,Carolyn,DYNAMIC
+"that ""participating in sports is optional,",is,participating,STATIVE
+"and should always take second place to academics.""",take,participating,DYNAMIC
+"True, mostly.",,,CANNOT_DECIDE
+Academics are officially,are,Academics,STATIVE
+what college is about.,is,college,STATIVE
+Academics are what get graded.,are,Academics,STATIVE
+"Students' GPAs will, in part, determine",determine,GPAs,DYNAMIC
+what they are able to do with their lives.,are,they,STATIVE
+But academics are only one particular kind of knowledge.,are,academics,STATIVE
+Carolyn's statement assumes,assumes,statement,STATIVE
+that a student can learn more important things from academics than from participation on a sports team.,learn,student,DYNAMIC
+"Personally, though, some of the most important things I've learned about persistence, goal-setting, success and excellence, effort, teamwork, leadership.... these I've learned from my sport and my coaches.",....,some,DYNAMIC
+It's a different kind of knowledge,'s,It,STATIVE
+"than what one typically gains in an academic course, yes.",gains,kind,DYNAMIC
+But it's no less important.,'s,it,STATIVE
+"And that, I think,",think,I,STATIVE
+is the best reason for awarding credit for varsity athletics.,is,that,STATIVE

@@ -1,0 +1,431 @@
+Clause,mainVerb,mainReferent,Gold
+Eternal Truths,Eternal,,CANNOT_DECIDE
+"Once over the hill, you pick up speed.",pick,you,DYNAMIC
+I love cooking with wine.,love,I,STATIVE
+Sometimes I even put it in the food.,put,I,DYNAMIC
+Whatever hits,hits,Whatever,DYNAMIC
+the fan will not be evenly distributed.,distributed,hits,DYNAMIC
+Everyone has a photographic memory.,has,Everyone,STATIVE
+Some just don't have film.,have,Some,STATIVE
+Dogs have owners.,have,Dogs,STATIVE
+Cats have staff.,have,Cats,STATIVE
+"If you're too open-minded, your brains will fall out.",fall,brains,DYNAMIC
+"If you must choose between two evils, pick the one",pick,,DYNAMIC
+you've never tried before.,tried,you,DYNAMIC
+My idea of housework is to sweep the room with a glance.,is,idea,STATIVE
+Not one shred of evidence supports the notion,supports,shred,STATIVE
+that life is serious.,is,life,STATIVE
+A conscience is what hurts,is,conscience,STATIVE
+when all your other parts feel so good.,feel,all,STATIVE
+A balanced diet is a cookie in each hand.,is,diet,STATIVE
+Someone who thinks logically provides a nice contrast to the real world.,provides,Someone,DYNAMIC
+Donkey Deep,,,CANNOT_DECIDE
+One day a farmer's donkey fell down into a well.,fell,day,DYNAMIC
+The animal cried piteously,cried,animal,DYNAMIC
+for hours as the farmer tried to figure out,tried,farmer,DYNAMIC
+what to do.,do,what,CANNOT_DECIDE
+"Finally, he decided",decided,he,DYNAMIC
+the animal was old,was,animal,STATIVE
+"and the well needed to be covered up anyway,",needed,animal,STATIVE
+so it just wasn't worth it to retrieve the donkey.,was,it,STATIVE
+He invited all his neighbours to come over,invited,He,DYNAMIC
+and help him.,help,He,CANNOT_DECIDE
+They all grabbed a shovel,grabbed,They,DYNAMIC
+and began to shovel dirt into the well.,began,They,DYNAMIC
+"At first, the donkey realised",realised,donkey,DYNAMIC
+what was happening,happening,what,DYNAMIC
+and cried horribly.,cried,donkey,DYNAMIC
+"Then, to everyone's amazement, he quieted down.",quieted,he,DYNAMIC
+"A few shovel loads later, the farmer finally looked down the well",looked,farmer,DYNAMIC
+and was astonished at what he saw.,astonished,farmer,STATIVE
+"With every shovelful of dirt that hit his back, the donkey was doing something amazing.",doing,donkey,DYNAMIC
+He would shake it off,shake,He,DYNAMIC
+and take a step up.,take,He,DYNAMIC
+"As the farmer's neighbours continued to shovel dirt on top of the animal,",continued,neighbours,DYNAMIC
+he would shake it off,shake,he,DYNAMIC
+and take a step up.,take,he,DYNAMIC
+"Pretty soon, everyone was amazed",amazed,everyone,STATIVE
+as the donkey stepped up over the edge of the well,stepped,donkey,DYNAMIC
+and thoroughly kicked the guy,kicked,donkey,DYNAMIC
+that tried to bury him before trotting off!,tried,guy,DYNAMIC
+"Life is going to shovel dirt on you, all kinds of dirt.",going,Life,DYNAMIC
+The trick to getting out of the well,getting,trick,CANNOT_DECIDE
+is to shake it off,is,trick,STATIVE
+and take a step up.,take,trick,CANNOT_DECIDE
+Each of our troubles is a stepping stone.,is,Each,STATIVE
+"We can get out of the deepest wells just by not stopping,",get,We,DYNAMIC
+never giving up!,giving,stopping,DYNAMIC
+Shake it off,Shake,,CANNOT_DECIDE
+and take a step up!,take,,CANNOT_DECIDE
+"Moral: When you try to cover your ass,",try,you,DYNAMIC
+it will usually come back to get you,come,Moral,DYNAMIC
+Good Advice:,,,CANNOT_DECIDE
+The Japanese eat very little fat,eat,Japanese,DYNAMIC
+and suffer fewer heart attacks than the British or Americans.,suffer,Japanese,DYNAMIC
+"On the other hand, the French eat a lot of fat",eat,French,DYNAMIC
+and also suffer fewer heart attacks than the British or Americans.,suffer,French,DYNAMIC
+The Japanese drink very little red wine,drink,Japanese,DYNAMIC
+and suffer fewer heart attacks than the British or Americans.,suffer,Japanese,DYNAMIC
+But the Italians drink excessive amounts of red wine,drink,Italians,DYNAMIC
+and also suffer fewer heart attacks than the British or Americans.,suffer,drink,DYNAMIC
+Conclusion: Eat and drink,,,CANNOT_DECIDE
+what you like.,like,Eat,STATIVE
+It's speaking English,speaking,It,STATIVE
+that kills you.,kills,English,DYNAMIC
+Right On.,,,CANNOT_DECIDE
+"""If life was fair,",was,life,STATIVE
+Elvis would be alive,be,Elvis,STATIVE
+"and all the impersonators would be dead.""",be,impersonators,STATIVE
+Johnny Carson,,,CANNOT_DECIDE
+"""Bigamy is having one wife/husband too many.",having,Bigamy,STATIVE
+"Monogamy is the same.""",is,Monogamy,STATIVE
+Oscar Wilde,,,CANNOT_DECIDE
+"""When I die,",die,I,DYNAMIC
+I want to die like my grandfather,want,I,DYNAMIC
+who died peacefully in his sleep.,died,grandfather,DYNAMIC
+"Not yelling and screaming like all the other passengers in his car.""",like,yelling,DYNAMIC
+Jack Handy,,,CANNOT_DECIDE
+"""Instead of getting married again,",married,Handy,CANNOT_DECIDE
+I'm just going to find some woman,going,I,DYNAMIC
+I don't like,like,I,STATIVE
+"and give her a house.""",give,I,DYNAMIC
+- Steven Seagal,,,CANNOT_DECIDE
+Advice for the day: If you have a lot of tension,have,you,STATIVE
+"and you get a headache, do what it says on the aspirin bottle:",do,Advice,CANNOT_DECIDE
+"""Take two aspirin"" and",Take,,CANNOT_DECIDE
+"""Keep away from children.""",,,CANNOT_DECIDE
+- Roseanne,-,,CANNOT_DECIDE
+Hot Air,,,CANNOT_DECIDE
+A man in a hot air balloon realized,realized,man,DYNAMIC
+he was lost.,lost,he,STATIVE
+He reduced altitude,reduced,He,DYNAMIC
+and spotted a woman below.,spotted,He,DYNAMIC
+He descended a bit more,descended,help,DYNAMIC
+"and shouted,",shouted,He,DYNAMIC
+"""Excuse me, can you help me?",help,you,CANNOT_DECIDE
+I promised a friend,promised,I,DYNAMIC
+"I would meet him an hour ago,",meet,promised,DYNAMIC
+but I don't know,know,I,STATIVE
+"where I am.""",am,I,STATIVE
+"The woman below replied,",replied,woman,DYNAMIC
+"""You're in a hot air balloon hovering approximately 30 feet above the ground.",hovering,You,STATIVE
+"You're between 40 and 41 degrees north latitude and between 59 and 60 degrees west longitude.""",'re,You,STATIVE
+"""You must be an engineer,""",be,You,STATIVE
+said the balloonist.,said,,DYNAMIC
+"""I am,""",am,I,STATIVE
+"replied the woman,",replied,,DYNAMIC
+"""How did you know?""",know,you,CANNOT_DECIDE
+"""Well,"" answered the balloonist,",answered,Well,DYNAMIC
+"""everything you told me is, technically correct,",told,you,STATIVE
+but I've no idea,'ve,me,STATIVE
+"what to make of your information,",make,idea,CANNOT_DECIDE
+and the fact is I'm still lost.,is,fact,STATIVE
+"Frankly, you've not been much help at all.",been,you,STATIVE
+"If anything, you've delayed my trip.""",delayed,you,DYNAMIC
+"The woman below responded,",responded,woman,DYNAMIC
+"""You must be in Management.""",be,You,STATIVE
+"""I am,""",am,I,STATIVE
+"replied the balloonist,",balloonist,know,DYNAMIC
+"""but how did you know?""",know,you,CANNOT_DECIDE
+"""Well,"" said the woman, ""you don't know",said,Well,DYNAMIC
+where you are,are,you,STATIVE
+or where you're going.,going,,DYNAMIC
+You have risen to where you are due to a large quantity of hot air.,risen,You,DYNAMIC
+You made a promise,made,You,DYNAMIC
+that you've no idea,'ve,you,STATIVE
+"how to keep,",keep,idea,CANNOT_DECIDE
+and you expect people beneath you to solve your problems.,expect,You,STATIVE
+The fact is you are in exactly the same position,is,fact,STATIVE
+"you were in before we met, but now, somehow,",were,,STATIVE
+"it's my fault.""",'s,it,STATIVE
+Handey Hint,,,CANNOT_DECIDE
+"The face of a child can say it all, especially the mouth part of the face.""",say,Hint,DYNAMIC
+-Jack Handey,-,Efficiency,CANNOT_DECIDE
+Efficiency,,,CANNOT_DECIDE
+"""I just bought a microwave fireplace",bought,I,DYNAMIC
+"...You can spend a whole evening in front of it in only eight minutes.""",spend,You,DYNAMIC
+- Steven Wright,,,CANNOT_DECIDE
+Wrong Tune,Tune,Wrong,CANNOT_DECIDE
+A guy walks into a bar with a small dog.,walks,guy,DYNAMIC
+"The bartender says,",says,bartender,DYNAMIC
+"""Get out of here with that dog!""",Get,,CANNOT_DECIDE
+"The guy says,",says,guy,DYNAMIC
+"""But this isn't just any dog...",is,this,STATIVE
+"this dog can play the piano!""",play,dog,DYNAMIC
+"The bartender replies,",replies,bartender,DYNAMIC
+"""Well, if he can play that piano,",play,he,DYNAMIC
+you both can stay...,stay,you,STATIVE
+"and have a drink on the house!""",have,you,DYNAMIC
+"So the guy sits the dog at the piano,",sits,guy,DYNAMIC
+"and the dog starts playing ragtime, a little swing, some Gershwin.",starts,guy,DYNAMIC
+The bartender is amazed,amazed,bartender,STATIVE
+and patrons are enjoying the music,enjoying,bartender,STATIVE
+"when suddenly a bigger dog runs in, grabs the small dog by the scruff of the neck,",runs,dog,DYNAMIC
+and drags him out.,drags,dog,DYNAMIC
+"The bartender asks the guy,",asks,bartender,DYNAMIC
+"""What was that all about?""",was,guy,CANNOT_DECIDE
+"The guy replies,",,,DYNAMIC
+"""Oh, that was his mother.",was,that,STATIVE
+"She wants him to be a doctor.""",wants,She,STATIVE
+Wired,,,CANNOT_DECIDE
+Then there was the Indian chief,was,Wired,STATIVE
+"who installed electric lights in the tribal latrine,",installed,chief,DYNAMIC
+and thus became the first Indian to wire a head for a reservation.,became,chief,DYNAMIC
+Dead Right,,,CANNOT_DECIDE
+A hospital posted a notice in the nurses' station,posted,Right,DYNAMIC
+saying:,saying,,STATIVE
+"""Remember, the first five minutes of a human being's life are the most dangerous.""",are,minutes,CANNOT_DECIDE
+"And written underneath was,",was,underneath,STATIVE
+"""The last few are pretty risky, too....""",are,few,STATIVE
+It Ain't Fair,Fair,It,STATIVE
+I've never understood,understood,I,STATIVE
+why women love cats.,love,women,STATIVE
+"Cats are independent,",are,Cats,STATIVE
+"they don't listen,",listen,Cats,DYNAMIC
+they don't come in,come,Cats,DYNAMIC
+"when you call,",call,they,DYNAMIC
+"they like to stay out all night,",like,Cats,STATIVE
+and when they are home,are,they,STATIVE
+they either want to be left alone,want,Cats,STATIVE
+"and sleep,",sleep,they,CANNOT_DECIDE
+or they want to eat.,want,Cats,STATIVE
+"In other words, all those things that women hate in a man,",hate,women,STATIVE
+they love in a cat.,love,they,STATIVE
+Too Fly,,,CANNOT_DECIDE
+Two caterpillars are sitting on a leaf,sitting,caterpillars,STATIVE
+"when a butterfly zooms by, startling them.",zooms,butterfly,DYNAMIC
+One turns to the other,turns,One,DYNAMIC
+"and says, ""Boy,",says,One,DYNAMIC
+"you'll never get ME up in one of them things.""",get,you,DYNAMIC
+Give it Eleven,Give,,CANNOT_DECIDE
+"""The English are not very spiritual people,",are,English,STATIVE
+"so they invented cricket to give themselves some idea of eternity.""",invented,they,DYNAMIC
+-George Bernard Shaw,-,,CANNOT_DECIDE
+How's That?,'s,-,CANNOT_DECIDE
+There are some people so addicted to exaggeration,are,people,STATIVE
+that they can't even tell the truth,tell,they,DYNAMIC
+"without lying.""",lying,they,CANNOT_DECIDE
+--Josh Billings,,,CANNOT_DECIDE
+Dig this,Dig,Billings,CANNOT_DECIDE
+"""I don't see",see,I,STATIVE
+why they say,say,they,DYNAMIC
+marriage is the pits,is,marriage,STATIVE
+"- all my marriages have worked fine.""",worked,say,STATIVE
+(Unknown),,,CANNOT_DECIDE
+Mom says.,says,Mom,DYNAMIC
+"""Every teenager should get a good high school education",get,teenager,DYNAMIC
+"; even if they already know everything.""",know,they,STATIVE
+"Right on, Dad.",,,CANNOT_DECIDE
+"""I told him, '",told,I,DYNAMIC
+"Son, what is it with you?",is,what,CANNOT_DECIDE
+Is it ignorance or apathy?',Is,,CANNOT_DECIDE
+"He said,",said,He,DYNAMIC
+"""Man, I don't know",know,said,STATIVE
+"and I don't care.""",care,I,STATIVE
+Revelation or Evolution,,,CANNOT_DECIDE
+"One day, an ape escaped from the Zoo.",escaped,ape,DYNAMIC
+They searched for him everywhere in every district.,searched,They,DYNAMIC
+"They announced his disappearance on the radio and television as well as in the newspapers,",announced,They,DYNAMIC
+but no one reported seeing the ape.,reported,They,DYNAMIC
+"At last, the ape was found in the Public Library.",found,ape,DYNAMIC
+Officials of the zoo and the animal keepers were summoned to the library.,summoned,Officials,DYNAMIC
+They found the ape,found,They,DYNAMIC
+sitting at a desk in the reading room with two books,sitting,ape,STATIVE
+spread out in front of him.,spread,books,STATIVE
+The ape was reading with great concentration.,reading,ape,DYNAMIC
+One book was the Bible;,was,book,STATIVE
+the other was a book written by Darwin.,was,other,STATIVE
+When the zookeepers asked the ape,asked,zookeepers,DYNAMIC
+"what he was doing,",doing,asked,DYNAMIC
+"the ape replied,",replied,ape,DYNAMIC
+"""I'm trying to figure out",trying,I,DYNAMIC
+"whether I am my brother's keeper or my keeper's brother.""",am,I,STATIVE
+Stretched Truth.,,,STATIVE
+"Two guys who worked together were both laid off,",laid,guys,DYNAMIC
+so off they went to the unemployment office.,went,they,DYNAMIC
+"When asked his occupation,",asked,,DYNAMIC
+"the first guy said,",said,stitcher,DYNAMIC
+"""Panty stitcher...I sew the elastic onto women's panties.""",stitcher,Panty,DYNAMIC
+The clerk looked up panty stitcher.,looked,clerk,DYNAMIC
+"Finding it classed as unskilled labor,",Finding,she,STATIVE
+she gave him $300 a week unemployment pay.,gave,she,DYNAMIC
+The second guy was asked his occupation.,asked,guy,DYNAMIC
+"""Diesel fitter,"" he replied.",replied,he,DYNAMIC
+"Diesel fitter is listed as a skilled job,",listed,fitter,STATIVE
+so the clerk gave the second guy $600 a week.,gave,clerk,DYNAMIC
+When the first guy found out,found,guy,DYNAMIC
+he was furious.,was,he,STATIVE
+He stormed into the office to find out,stormed,He,DYNAMIC
+why his friend and co-worker was collecting double his pay.,collecting,co-worker,DYNAMIC
+"The clerk explained,",explained,clerk,DYNAMIC
+"""Panty stitchers are unskilled,",are,stitchers,STATIVE
+"but diesel fitters are skilled labor.""",are,fitters,STATIVE
+"""What skill?!""",skill,What,CANNOT_DECIDE
+yelled the panty stitcher.,yelled,,DYNAMIC
+"""I sew the elastic",sew,I,DYNAMIC
+on and then he stretches it out tight,stretches,he,DYNAMIC
+"and decides,",decides,he,DYNAMIC
+"Yep, dese'll fit 'er.""",fit,I,STATIVE
+Unsettled !,,,CANNOT_DECIDE
+"""A bachelor is a selfish, undeserving guy",is,bachelor,STATIVE
+"who has cheated some woman out of a divorce.""",cheated,guy,DYNAMIC
+Don Quinn,,,CANNOT_DECIDE
+Peace Insurance,,,CANNOT_DECIDE
+"Getting away from their high-stress work,",Getting,Insurance,DYNAMIC
+a couple spend relaxing weekends in their motor home.,spend,couple,STATIVE
+Finding their peace and quiet,Finding,they,DYNAMIC
+"disturbed by well-meaning, but unwelcome, visits from other campers,",,,CANNOT_DECIDE
+they devised a plan to assure themselves some privacy.,devised,they,DYNAMIC
+"Now, when they set up camp,",set,they,DYNAMIC
+they place this sign on the door of their RV:,place,they,DYNAMIC
+"""Insurance agent.",,,CANNOT_DECIDE
+"Ask about our whole of life package.""",,,CANNOT_DECIDE
+Detail,,,CANNOT_DECIDE
+A man walked by a table in a hotel,walked,man,DYNAMIC
+and noticed three men and a dog,noticed,man,DYNAMIC
+playing cards.,playing,dog,DYNAMIC
+The dog was exhibiting an extraordinary performance.,exhibiting,dog,DYNAMIC
+"""That is one smart dog,""",is,That,STATIVE
+the man commented.,commented,man,DYNAMIC
+"""He's not that smart,""",'s,that,STATIVE
+said one of the losing players.,said,one,DYNAMIC
+"""Every time he gets a good hand he wags his tail.""",wags,he,DYNAMIC
+Sounds Fine to me.,Sounds,,STATIVE
+"""What am I supposed to do with this?""",supposed,I,CANNOT_DECIDE
+grumbled a motorist,grumbled,,DYNAMIC
+as the policeman handed him a speeding ticket.,handed,policeman,DYNAMIC
+"""Keep it,""",Keep,said,CANNOT_DECIDE
+"the cop said,",said,cop,DYNAMIC
+"""then when you've collected four of them",collected,you,DYNAMIC
+"you get a bicycle.""",get,you,DYNAMIC
+"Going,",,,CANNOT_DECIDE
+going.,going,Going,CANNOT_DECIDE
+Bidding at a local auction was proceeding furiously,was,Bidding,DYNAMIC
+"when the auctioneer suddenly announced,",announced,auctioneer,DYNAMIC
+"""A gentleman in this room has lost a wallet",lost,gentleman,DYNAMIC
+"containing $10,000.",containing,wallet,STATIVE
+He says,says,He,DYNAMIC
+"that if it is returned,",returned,it,STATIVE
+"he will pay a reward of $2,000.""",pay,he,DYNAMIC
+"There was a moment's silence,",was,cry,STATIVE
+"and then from the back of the room came the cry, ""Two, five!""",came,silence,DYNAMIC
+No Sweat,,,CANNOT_DECIDE
+"This guy says to his buddy,",says,guy,DYNAMIC
+"""You'll never believe",believe,You,STATIVE
+"what happened last night.""",happened,buddy,DYNAMIC
+"His buddy says,",says,buddy,DYNAMIC
+"""Well then, tell me",tell,,CANNOT_DECIDE
+"what happened.""",happened,tell,DYNAMIC
+"The guy says,",says,guy,DYNAMIC
+"""Last night the doorbell rang,",rang,says,DYNAMIC
+"and when I opened the door,",opened,I,DYNAMIC
+"there was my ex-mother-in-law on the front porch.""",was,doorbell,STATIVE
+"She said,",said,She,DYNAMIC
+"""Can I stay here for a few days?""",stay,said,CANNOT_DECIDE
+"I said,",said,I,DYNAMIC
+"""Sure, of course you can,""",,,STATIVE
+and shut the door.,shut,I,DYNAMIC
+Sid Said,,,DYNAMIC
+"""The guy who invented the first wheel was an idiot.",was,Said,STATIVE
+"The guy who invented the other three, HE was a genius.""",was,HE,STATIVE
+-Sid Caesar,,,CANNOT_DECIDE
+Fact and Fallacy,,,CANNOT_DECIDE
+Actions speak louder than words,speak,Fact,DYNAMIC
+but the pen is mightier than the sword.,is,pen,STATIVE
+Look,Look,,CANNOT_DECIDE
+before you leap because he,leap,you,DYNAMIC
+who hesitates is lost.,lost,he,STATIVE
+Many hands make light work,make,hands,DYNAMIC
+while too many cooks spoil the broth.,spoil,cooks,DYNAMIC
+Don't judge a book by its cover because clothes maketh the man.,judge,,CANNOT_DECIDE
+"Nothing ventured, nothing gained, is better safe than sorry.",is,Nothing,STATIVE
+"The bigger, the better and the best things come in small packages.",come,things,DYNAMIC
+"Absence makes the heart grow fonder, out of sight, out of mind.",makes,Absence,DYNAMIC
+"Life is what you make it,",is,Life,STATIVE
+"so what ever will be, will be.",be,it,STATIVE
+Forewarned is forearmed so cross your bridges,forearmed,Forewarned,STATIVE
+when you come to them.,come,you,DYNAMIC
+What's good,'s,What,STATIVE
+for the goose is good for the gander but one man's meat is another man's poison.,is,good,STATIVE
+With age comes wisdom,comes,wisdom,DYNAMIC
+and out of the mouths of babes come all wise sayings.,come,comes,DYNAMIC
+"Two's company, three's a crowd, the more, the merrier,",,,STATIVE
+but take no thought for tomorrow,take,company,CANNOT_DECIDE
+because a stitch in time saves nine!,saves,stitch,DYNAMIC
+A Different Slant..,,,CANNOT_DECIDE
+"The Italian government is considering installing a clock in the Leaning Tower of Pisa because,",considering,government,DYNAMIC
+"""What good is it to have the inclination",have,because,CANNOT_DECIDE
+"if you don't have the time?""",have,you,STATIVE
+Two rules for life:,Two,,CANNOT_DECIDE
+1. Don't tell people everything,tell,,CANNOT_DECIDE
+you know.,know,you,STATIVE
+2.,,,CANNOT_DECIDE
+For Thought,,,CANNOT_DECIDE
+"""Misers aren't much fun to live with,",are,Misers,STATIVE
+"but they do make wonderful ancestors.""",make,fun,STATIVE
+- David Brenner,-,…,CANNOT_DECIDE
+One Way To Get It In The Neck,Get,Way,CANNOT_DECIDE
+"""Most people are pretty scared of werewolves,",scared,people,STATIVE
+but I bet,bet,people,DYNAMIC
+if you saw one crying,saw,you,DYNAMIC
+"because the other wolves had made fun of him,",made,wolves,DYNAMIC
+you'd be like me,be,you,STATIVE
+and would probably feel sorry for him,feel,you,STATIVE
+"and try to pet him.""",try,you,DYNAMIC
+"""That was my first mistake.""",was,That,STATIVE
+--Unknown,,,CANNOT_DECIDE
+Under Done,,,CANNOT_DECIDE
+Did you hear about the cheap skate vampire hunter?,Did,Unknown,CANNOT_DECIDE
+He tried to kill a vampire by driving a pork chop through its heart,tried,He,DYNAMIC
+because steaks were too expensive.,were,steaks,STATIVE
+Eloquence,,,CANNOT_DECIDE
+A distinguished clergyman and a friend were playing golf.,playing,clergyman,DYNAMIC
+"It was a very close match,",was,It,STATIVE
+and at the last hole the two were only one stroke apart.,were,two,STATIVE
+"The clergyman teed up,",teed,clergyman,DYNAMIC
+"addressed the ball,",addressed,clergyman,DYNAMIC
+and swung his driver with great force,swung,clergyman,DYNAMIC
+...slicing the ball deep into the woods.,slicing,clergyman,DYNAMIC
+"The clergyman glared, and bit his lip while his face turned crimson,",glared,clergyman,DYNAMIC
+but said nothing.,said,clergyman,DYNAMIC
+His opponent watched him for a while,watched,opponent,DYNAMIC
+"and then remarked,",remarked,opponent,DYNAMIC
+"""Reverend, that's the most profane silence",'s,Reverend,STATIVE
+"I have ever heard.""",heard,I,DYNAMIC
+Child Psychology,Psychology,Child,CANNOT_DECIDE
+"A teen-aged boy with spiked hair, nose ring and baggy clothes was overheard telling a friend, ""I don't really like to dress like this,",overheard,Psychology,DYNAMIC
+"but it keeps my parents from dragging me everywhere with them.""",keeps,I,STATIVE
+Imprinting,Imprinting,,CANNOT_DECIDE
+Deep within a forest a little turtle began to climb a tree.,began,Imprinting,DYNAMIC
+"After hours of effort he reached the top,",reached,he,DYNAMIC
+jumped into the air,jumped,he,DYNAMIC
+waving his front legs,waving,,DYNAMIC
+and crashed to the ground.,crashed,he,DYNAMIC
+"After recovering,",recovering,he,DYNAMIC
+"he slowly climbed the tree again,",climbed,he,DYNAMIC
+"jumped,",jumped,he,DYNAMIC
+and fell to the ground.,fell,he,DYNAMIC
+The turtle tried again and again,tried,turtle,DYNAMIC
+while a couple of birds sitting on a branch watched his sad efforts.,watched,couple,DYNAMIC
+"Finally, the female bird turned to her mate.",turned,bird,DYNAMIC
+"""Dear,"" she chirped, """,chirped,she,DYNAMIC
+I really do think,think,I,STATIVE
+it's time to tell him,tell,time,STATIVE
+"he was adopted.""",adopted,tell,DYNAMIC
+Quickies,Quickies,,CANNOT_DECIDE
+"""I know",know,I,STATIVE
+what men want.,want,men,STATIVE
+"Men want to be really, really close to someone",want,Men,STATIVE
+"who will leave them alone.""",leave,someone,DYNAMIC
+"--Elayne Boosle""Men who have pierced ears are better prepared for marriage.",prepared,Men,STATIVE
+"They've experienced pain and bought jewellery.""",experienced,They,DYNAMIC
+-Unknown,Unknown,,CANNOT_DECIDE
+"""Remember",Remember,,CANNOT_DECIDE
+that as a teenager you are in the last stage of your life,are,you,STATIVE
+in which you will be happy to hear,be,you,STATIVE
+"that the phone is for you.""",is,phone,STATIVE
+-Fran Lebowitz,,,CANNOT_DECIDE
+Sounds Reasonable to Me,Sounds,Lebowitz,STATIVE
+What did the mama buffalo say to the little buffalo,say,buffalo,CANNOT_DECIDE
+when he went off to college?,went,he,DYNAMIC
+"""Bison.""",,,CANNOT_DECIDE

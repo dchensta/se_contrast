@@ -1,0 +1,96 @@
+Clause,mainVerb,mainReferent,Gold
+"A confederation, also known as confederacy or league,",known,confederation,STATIVE
+is a union of political units for common action in relation to other units.,is,confederation,STATIVE
+Usually created by treaty,created,confederations,DYNAMIC
+"but often later adopting a common constitution,",adopting,later,DYNAMIC
+confederations tend to be established for dealing with critical issues,tend,confederations,STATIVE
+"(such as defense, foreign affairs, or a common currency), with the central government being required to provide support for all members.",required,government,STATIVE
+The nature of the relationship among the states constituting a confederation varies considerably.,varies,nature,STATIVE
+"Likewise, the relationship between the member states, the central government, and the distribution of powers among them is highly variable.",is,relationship,STATIVE
+Some looser confederations are similar to intergovernmental organizations,are,confederations,STATIVE
+and even may permit secession from the confederation.,permit,confederations,DYNAMIC
+Other confederations with stricter rules may resemble federations.,resemble,confederations,STATIVE
+A unitary state or federation may decentralize powers to regional or local entities in a confederal form.,decentralize,state,DYNAMIC
+"In a non-political context, confederation is used to describe a type of organization",used,confederation,DYNAMIC
+which consolidates authority from other autonomous (or semi-autonomous) bodies.,consolidates,type,STATIVE
+Examples include sports confederations or confederations of pan-European trades unions.,include,Examples,STATIVE
+"In Canada, the word confederation has an additional, unrelated meaning.",has,confederation,STATIVE
+"""Confederation"" refers to the process of (or the event of) establishing or joining the Canadian federal state.",refers,Confederation,STATIVE
+"In the context of the history of the indigenous peoples of the Americas, a confederacy may refer to a semi-permanent political and military alliance",refer,confederacy,STATIVE
+"consisting of multiple nations (or ""tribes"", ""bands"", or ""villages"")",consisting,alliance,STATIVE
+which maintained their separate leadership.,maintained,nations,STATIVE
+"One of the most well-known is the Iroquois Confederacy,",is,One,STATIVE
+but there were many others during different eras and locations across North America;,were,Confederacy,STATIVE
+"these include the Wabanaki Confederacy, Western Confederacy, Powhatan Confederacy, Seven Nations of Canada, Pontiac's Confederacy, Illinois Confederation, Tecumseh's Confederacy, Great Sioux Nation, Blackfoot Confederacy, Iron Confederacy and Council of Three Fires.",include,these,STATIVE
+== Examples ==,,,CANNOT_DECIDE
+===Belgium===,,,CANNOT_DECIDE
+Many scholars have proposed,proposed,=,DYNAMIC
+that Belgium has some characteristics of a confederation.,has,Belgium,STATIVE
+"For example, C. E. Lagasse declared",declared,Lagasse,DYNAMIC
+"that Belgium was ""near the political system of a Confederation",was,Belgium,STATIVE
+""" regarding the agreements between Belgian regions and communities,",regarding,system,CANNOT_DECIDE
+"while Centre de recherche et d'information socio-politiques (CRISP) director Vincent de Coorebyter called Belgium ""undoubtedly a federation...[with] some aspects of a confederation"" in Le Soir.",called,socio-politiques,DYNAMIC
+"Also in Le Soir, Professor Michel Quvit of the Catholic University of Leuven wrote",wrote,Quévit,DYNAMIC
+"that the ""Belgian political system is already in dynamics of a Confederation"".",is,system,STATIVE
+"Nevertheless, the Belgian regions and communities lack the necessary autonomy to leave the Belgian state.",lack,regions,STATIVE
+"As such, the federal aspects seem to dominate.",seem,aspects,STATIVE
+"Also for fiscal policy and public finances, the federal state dominates the other levels of government.",dominates,state,STATIVE
+"The limited confederal aspects appear to be a meager political reflection of the profound sociological, cultural and economic differences between Flemings and Walloons (or French-speaking Belgians).",appear,aspects,STATIVE
+"As an example, in the last several decades, over 95% of the Belgians have voted for political parties",voted,%,DYNAMIC
+that represent voters from only one community.,represent,parties,STATIVE
+Parties that advocate Belgian unity and appeal to voters of both communities systematically get only a few percent of the votes.,get,Parties,DYNAMIC
+"This makes Belgium fundamentally different from federal countries like Switzerland, Canada, Germany and Australia.",makes,This,STATIVE
+"In those countries, national parties get over 90% of the votes.",get,parties,DYNAMIC
+"The only comparable places with Belgium are Catalonia, the Basque Country, Northern Ireland and Scotland,",are,places,STATIVE
+"where there is majority voter turnout for local political parties,",is,turnout,STATIVE
+while national parties draw less (sometimes much less) than half of the votes.,draw,parties,DYNAMIC
+===Canada===,,,CANNOT_DECIDE
+"In modern terminology, Canada is a federation and not a confederation.",is,Canada,STATIVE
+"However, at the time the Constitution Act, 1867, confederation was the normal British and Canadian term for a single sovereign nation-state of federating provinces.",was,confederation,STATIVE
+"Canadian Confederation generally refers to the Constitution Act, 1867",refers,Confederation,STATIVE
+"which formed the Dominion of Canada from three of the colonies of British North America, and to the subsequent incorporation of other colonies and territories.",formed,Act,DYNAMIC
+"Therefore on July 1, 1867, Canada became a self-governing dominion of the British Empire with a federal structure under the leadership of Sir John A. Macdonald.",became,Canada,DYNAMIC
+The provinces involved were the Province of Canada,were,comprising,STATIVE
+"(comprising Canada West, now Ontario, formerly Upper Canada; and Canada East now Quebec, formerly Lower Canada), Nova Scotia, and New Brunswick.",comprising,Province,STATIVE
+"Later participants were Manitoba, British Columbia, Prince Edward Island, Alberta and Saskatchewan",were,participants,STATIVE
+"(the latter two created as provinces from the Northwest Territories in 1905),",created,,DYNAMIC
+and finally Newfoundland (now Newfoundland and Labrador) in 1949.,,,CANNOT_DECIDE
+"Canada is an unusually decentralized federal state and not a confederate association of sovereign states, (the usual meaning of confederation in modern terms).",is,Canada,STATIVE
+"A Canadian law, the Clarity Act, and a court ruling, Reference re Secession of Quebec, set forth the conditions",set,Act,DYNAMIC
+for negotiations to allow Canadian provinces (though not territories) to leave the Canadian federal state;,allow,negotiations,CANNOT_DECIDE
+"however, as this would require a constitutional amendment, there is no current ""constitutional"" method for withdrawal.",is,method,STATIVE
+===European Union===,,,CANNOT_DECIDE
+"Due to its unique nature, and the political sensitivities surrounding it, there is no common or legal classification for the European Union (EU).",is,classification,STATIVE
+"However, it does bear some resemblance to both a confederation (or ""new"" type of confederation) and a federation.",bear,it,STATIVE
+"The EU operates common economic policies with hundreds of common laws,",operates,EU,DYNAMIC
+"which enable a single economic market, open internal borders, a common currency and allow for numerous other areas",enable,hundreds,STATIVE
+where powers have been transferred,transferred,powers,DYNAMIC
+and directly applicable laws are made.,made,powers,DYNAMIC
+"However, unlike a federation, the EU does not have exclusive powers over foreign affairs, defence and taxation.",have,EU,STATIVE
+"Furthermore, laws sometimes must be transcribed into national law by national parliaments;",transcribed,laws,DYNAMIC
+decisions by member states are taken by special majorities with blocking,taken,laws,DYNAMIC
+minorities accounted for;,accounted,minorities,STATIVE
+and treaty amendment requires ratification by every member state,requires,laws,STATIVE
+before it can come into force.,come,it,DYNAMIC
+"However, academic observers more usually discuss the EU in the terms of it being a federation.",discuss,observers,DYNAMIC
+"As international law professor Joseph H. H. Weiler (of the Hague Academy and New York University) wrote,",wrote,Weiler,DYNAMIC
+"""Europe has charted its own brand of constitutional federalism"".",charted,Europe,DYNAMIC
+Jean-Michel Josselin and Alain Marciano see the European Court of Justice as being a primary force behind building a federal legal order in the Union[http,see,Josselin,STATIVE
+://www.springerlink.com/content/f3vw032557232l64/ How the [ECJ] court made a federation of the EU] Josselin,made,see,DYNAMIC
+(U de Rennes-1/CREM) and Marciano (U de Reims CA/CNRS).,,,CANNOT_DECIDE
+with Josselin stating,stating,states,DYNAMIC
+"that a ""complete shift from a confederation to a federation would have required to straightforwardly replace the principality of the member states vis--vis the Union by that of the European citizens",vis-à-vis,states,STATIVE
+"...As a consequence, both confederate and federate features coexist in the judicial landscape"".",coexist,citizens,STATIVE
+Rutgers political science professor R. Daniel Kelemen observed:,observed,,DYNAMIC
+"""Those uncomfortable using",using,Those,DYNAMIC
+the 'F' word in the EU context should feel free to refer to it as a quasi-federal or federal-like system.,the,',STATIVE
+Nevertheless...the EU has the necessary attributes of a federal system.,has,EU,STATIVE
+It is striking,is,view,STATIVE
+"that while many scholars of the EU continue to resist analyzing it as a federation,",continue,scholars,DYNAMIC
+"most contemporary students of federalism view the EU as a federal system"".",view,striking,STATIVE
+Thomas Risse and Tanja A. Brzel claim,claim,Börzel,STATIVE
+"that the ""EU only lacks two significant features of a federation.",lacks,EU,STATIVE
+"First, the Member States remain the 'masters' of the treaties, i.e.,",remain,States,STATIVE
+they have the exclusive power to amend or change the constitutive treaties of the EU.,have,they,STATIVE
+"Second, the EU lacks a real 'tax and spend' capacity,",lacks,EU,STATIVE
+"in other words, there is no fiscal federalism.""",is,federalism,STATIVE

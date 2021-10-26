@@ -1,0 +1,21 @@
+Clause,mainVerb,mainReferent,Gold
+"Intelogic Trace Inc., San Antonio, Texas, said",said,Inc.,DYNAMIC
+"it bought 2.7 million shares, or about 18%, of its common stock from an unaffiliated shareholder for $3.625 a share, or $9.9 million.",bought,it,DYNAMIC
+The move boosts Intelogic Chairman Asher Edelman's stake to 20% from 16.2%,boosts,move,DYNAMIC
+and may help prevent Martin Ackerman from making a run at the computer-services concern.,help,move,DYNAMIC
+"Mr. Ackerman already is seeking to oust Mr. Edelman as chairman of Datapoint Corp., an Intelogic affiliate.",seeking,Ackerman,DYNAMIC
+The action followed by one day an Intelogic announcement,followed,action,DYNAMIC
+"that it will retain an investment banker to explore alternatives ""to maximize shareholder value,""",retain,it,DYNAMIC
+including the possible sale of the company.,including,,STATIVE
+"In New York Stock Exchange composite trading yesterday, Intelogic shares rose 37.5 cents to close at $2.75.",rose,shares,DYNAMIC
+Mr. Edelman declined to specify,declined,Edelman,DYNAMIC
+"what prompted the recent moves,",prompted,what,DYNAMIC
+saying,saying,,DYNAMIC
+"they are meant only to benefit shareholders when """,meant,they,STATIVE
+"the company is on a roll.""",is,company,STATIVE
+"He added,",added,He,DYNAMIC
+"""This has nothing to do with Marty Ackerman",has,added,STATIVE
+"and it is not designed, particularly, to take the company private.""",designed,This,STATIVE
+But Mr. Ackerman said,said,Ackerman,DYNAMIC
+"the buy-back, and the above-market price paid, prove",prove,price,STATIVE
+that Mr. Edelman is running scared.,running,Edelman,DYNAMIC

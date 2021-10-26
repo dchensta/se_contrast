@@ -1,0 +1,634 @@
+Clause,mainVerb,mainReferent,Gold
+WARTIME,,,CANNOT_DECIDE
+"After the attacks had occurred,",occurred,attacks,DYNAMIC
+"while crisis managers were still sorting out a numberof unnerving false alarms, Air Force One flew to Barksdale Air Force Base in Louisiana.",flew,Force,DYNAMIC
+"One of these alarms was of a reported threat against Air Force One itself, a threat",was,One,STATIVE
+eventually run down to a misunderstood communication in the hectic White House Situation Room that morning.,run,One,DYNAMIC
+"While the plan at the elementary school had been to return to Washington, by the timeAir Force One was airborne at 9:55 A.M.",was,Force,STATIVE
+"the Secret Service, the President's advisers, and Vice President Cheney were strongly advising against it.",advising,Force,DYNAMIC
+President Bush reluctantly acceded to this advice,acceded,Bush,DYNAMIC
+"and, at about 10:10, Air Force One changed course",changed,Bush,DYNAMIC
+and began heading due west.,began,Force,DYNAMIC
+The immediate objective was to find a safe location-not too far away-where the President could land and speak to the American people.,was,objective,STATIVE
+The Secret Service was also interested in refueling the aircraft,was,Service,STATIVE
+and paring down the size of the traveling party.,paring,Service,CANNOT_DECIDE
+"The President's military aide, an Air Force officer, quickly researched the options and, sometime around 10:20,",researched,aide,DYNAMIC
+identified Barksdale Air Force Base as an appropriate interim destination.,identified,aide,DYNAMIC
+"When Air Force One landed at Barksdale at about 11:45, personnel from the localSecret Service office were still en route to the airfield.",were,personnel,DYNAMIC
+The motorcade consisted of a military police lead vehicle and a van;,consisted,motorcade,STATIVE
+the proposed briefing theater had no phones or electrical outlets.,had,theater,STATIVE
+"Staff scrambled to prepare another room for the President's remarks,",scrambled,Staff,DYNAMIC
+while the lead Secret Service agent reviewed the security situation with superiors in Washington.,reviewed,agent,DYNAMIC
+"The President completed his statement,",completed,President,DYNAMIC
+which for security reasons was taped,taped,statement,DYNAMIC
+"and not broadcast live,",broadcast,President,DYNAMIC
+and the traveling party returned to Air Force One.,returned,President,DYNAMIC
+The next destination was discussed:,discussed,destination,DYNAMIC
+"once again the Secret Service recommended against returning to Washington,",recommended,Service,DYNAMIC
+and the Vice President agreed.,agreed,Service,DYNAMIC
+"Offutt Air Force Base in Nebraska was chosen because of its elaborate command and control facilities,",chosen,Base,DYNAMIC
+and because it could accommodate overnight lodging for 50 persons.,accommodate,Base,STATIVE
+The Secret Service wanted a place,wanted,Service,STATIVE
+"where the President could spend several days, if necessary.",spend,President,DYNAMIC
+Air Force One arrived at Offutt at 2:50 P.M.,arrived,Force,DYNAMIC
+"At about 3:15, President Bush met withhis principal advisers through a secure video teleconference.",met,Bush,DYNAMIC
+Rice said,said,Rice,DYNAMIC
+"President Bush began the meeting with the words,",began,Bush,DYNAMIC
+"""We're at war,""",'re,We,STATIVE
+and that Director of Central Intelligence George Tenet saidthe agency was still assessing,assessing,Bush,DYNAMIC
+"who was responsible,",was,who,STATIVE
+but the early signs all pointed to al Qaeda.,pointed,Rice,STATIVE
+That evening the Deputies Committee returned to the pending presidential directive,returned,Committee,DYNAMIC
+they had labored over during the summer.,labored,they,DYNAMIC
+"The secretary of defense directed the nation's armed forces to Defense Condition 3,an increased state of military readiness.",directed,secretary,DYNAMIC
+"For the first time in history, all nonemergency civilian aircraft in the UnitedStates were grounded,",grounded,aircraft,DYNAMIC
+stranding tens of thousands of passengers across the country.,stranding,,DYNAMIC
+Contingency plans for the continuity of government and the evacuation of leaders had been implemented.,implemented,plans,DYNAMIC
+The Pentagon had been struck;,struck,Pentagon,DYNAMIC
+the White House or the Capitol had narrowly escaped direct attack.,escaped,Capitol,DYNAMIC
+Extraordinary security precautions were put in place at the nation's borders and ports.,put,precautions,DYNAMIC
+"In the late afternoon, the President overruled his aides' continuing reluctance tohave him return to Washington",overruled,President,DYNAMIC
+and ordered Air Force One back to Andrews Air Force Base.,ordered,reluctance,DYNAMIC
+"He was flown by helicopter back to the White House,",flown,He,DYNAMIC
+passing over the still-smoldering Pentagon.,passing,,DYNAMIC
+"At 8:30 that evening, President Bush addressed the nation from the White House.",addressed,Bush,DYNAMIC
+After emphasizing,emphasizing,he,DYNAMIC
+that the first priority was to help the injured,was,priority,STATIVE
+"and protect against any further attacks,",protect,priority,CANNOT_DECIDE
+he said:,said,he,DYNAMIC
+"""We will make no distinction between the terrorists",make,We,STATIVE
+who committed these acts and those,committed,terrorists,DYNAMIC
+"who harbor them.""",harbor,those,STATIVE
+He quoted Psalm 23-,quoted,He,DYNAMIC
+"""though I walk through the valley",walk,I,DYNAMIC
+"of the shadow of death . . ."" No American, he said,",said,he,DYNAMIC
+"""will ever forget this day.""",forget,walk,DYNAMIC
+"Following his speech, President Bush met again with his National Security Council",Following,,DYNAMIC
+"(NSC), expanded to include Secretary of Transportation Norman Mineta and Joseph Allbaugh, the director of the Federal Emergency Management Agency.",expanded,Council,STATIVE
+"Secretary of State Colin Powell, who had returned from Peru after hearing of the attacks,",returned,Powell,DYNAMIC
+joined the discussion.,joined,Powell,DYNAMIC
+They reviewed the day's events.,reviewed,They,DYNAMIC
+IMMEDIATE RESPONSES AT HOME,,,CANNOT_DECIDE
+"As the urgent domestic issues accumulated, White House Deputy Chief of Staff JoshuaBolten chaired a temporary ""domestic consequences"" group.",chaired,Chief,STATIVE
+"The agenda in those first days is worth noting, partly as a checklist for futurecrisis planners.",is,agenda,STATIVE
+It began with problems of how to help victims,began,It,DYNAMIC
+"and stanch the flowing losses to the American economy, such as",stanch,problems,CANNOT_DECIDE
+Organizing federal emergency assistance.,,,CANNOT_DECIDE
+One question was what kind of public health advice to give about the air quality in Lower Manhattan in the vicinity of the fallen buildings.,was,question,STATIVE
+Compensating victims.,,,CANNOT_DECIDE
+"They evaluated legislative options,",evaluated,They,DYNAMIC
+eventually setting up a federal compensation fund,setting,evaluated,DYNAMIC
+and defining the powers of a special master to run it.,defining,evaluated,DYNAMIC
+Determining federal assistance.,,,CANNOT_DECIDE
+"On September 13, President Bush promised to provide $20 billion for New York City, in addition to the $20 billion",promised,Bush,DYNAMIC
+his budget director had already guessed,guessed,director,DYNAMIC
+might be needed for the country as a whole.,needed,,STATIVE
+Restoring civil aviation.,Restoring,,CANNOT_DECIDE
+"On the morning of September 13, the national airspace reopened for use by airports",reopened,airspace,DYNAMIC
+that met newly improvised security standards.,met,use,STATIVE
+Reopening the financial markets.,Reopening,,CANNOT_DECIDE
+"After extraordinary emergency efforts involving the White House, the Treasury Department, and the Securities and Exchange Commission, aided by unprecedented cooperation among the usually competitive firms of the financial industry, the markets reopened on Monday, September 17.",aided,Commission,STATIVE
+Deciding,Deciding,,CANNOT_DECIDE
+when and how to return border and port security to more normal operations.,return,,CANNOT_DECIDE
+Evaluating legislative proposals to bail out the airline industry and cap its liability.,Evaluating,,CANNOT_DECIDE
+The very process of reviewing these issues underscored the absence of an effectivegovernment organization,underscored,process,DYNAMIC
+dedicated to assessing vulnerabilities and handling problems of protection and preparedness.,dedicated,organization,STATIVE
+"Though a number of agencies had some part of the task, none had security as its primary mission.",had,none,STATIVE
+"By September 14, Vice President Cheney had decided to recommend, at least as a first step, a new White House entity to coordinate all the relevant agencies",decided,Cheney,DYNAMIC
+rather than tackle the challenge of combining them in a new department.,tackle,entity,CANNOT_DECIDE
+This new White House entity would be a homeland security adviser and Homeland Security Council-paralleling the National Security Council system.,be,system,STATIVE
+Vice President Cheney reviewed the proposal with President Bush and other advisers.,reviewed,Cheney,DYNAMIC
+President Bush announced the new post and its first occupant- Pennsylvania governor Tom Ridge-in his address to a joint session of Congress on September 20.,announced,Bush,DYNAMIC
+"Beginning on September 11, Immigration and Naturalization Service agents working incooperation with the FBI began arresting individuals for immigration violations",began,agents,DYNAMIC
+whom they encountered,encountered,they,DYNAMIC
+while following up leads in the FBI's investigation of the 9/11 attacks.,leads,violations,DYNAMIC
+"Eventually, 768 aliens were arrested as ""special interest"" detainees.",arrested,aliens,DYNAMIC
+Some (such as Zacarias Moussaoui),,,CANNOT_DECIDE
+were actually in INS custody before 9/11;,were,Some,STATIVE
+most were arrested after.,arrested,most,DYNAMIC
+Attorney General John Ashcroft told us,told,Ashcroft,DYNAMIC
+"that he saw his job in directing this effort as ""risk minimization,""",saw,he,STATIVE
+both to find out,find,directing,CANNOT_DECIDE
+who had committed the attacks,committed,who,DYNAMIC
+and to prevent a subsequent attack.,prevent,directing,CANNOT_DECIDE
+Ashcroft ordered all special interest immigration hearings,ordered,Ashcroft,DYNAMIC
+"closed to the public, family members, and press",closed,hearings,CANNOT_DECIDE
+; directed government attorneys to seek denial of bond until such time,directed,Ashcroft,DYNAMIC
+"as they were ""cleared"" of terrorist connections by the FBI and other agencies;",cleared,they,DYNAMIC
+and ordered the identity of the detainees,ordered,Ashcroft,DYNAMIC
+kept secret.,kept,identity,CANNOT_DECIDE
+INS attorneys charged with prosecuting the immigration violations had trouble,had,attorneys,STATIVE
+getting information about the detainees and any terrorist connections;,getting,trouble,DYNAMIC
+"in the chaos after the attacks, it was very difficult to reach law enforcement officials,",was,it,STATIVE
+who were following up on other leads.,following,officials,DYNAMIC
+"The clearance process approved by the Justice Department was time-consuming,",was,process,STATIVE
+lasting an average of about 80 days.,lasting,,STATIVE
+"We have assessed this effort to detain aliens of ""special interest.""",assessed,We,DYNAMIC
+The detaineeswere lawfully held on immigration charges.,held,detaineeswere,DYNAMIC
+Records indicate,indicate,Records,STATIVE
+"that 531 were deported,",deported,531,DYNAMIC
+"162 were released on bond,",released,Records,DYNAMIC
+"24 received some kind of immigration benefits,",received,Records,DYNAMIC
+"12 had their proceedings terminated,",had,Records,DYNAMIC
+and 8-one of whom was Moussaoui-were,was,whom,STATIVE
+remanded to the custody of the U.S. Marshals Service.,remanded,Records,DYNAMIC
+The inspector general of the Justice Department found significant problems in the way,found,general,DYNAMIC
+the 9/11 detainees were treated.,treated,detainees,DYNAMIC
+"In response to a request about the counterterrorism benefits of the 9/11 detaineeprogram, the Justice Department cited six individuals on the special interest detainee list,",cited,Department,DYNAMIC
+noting,noting,Department,DYNAMIC
+that two (including Moussaoui),including,,STATIVE
+were linked directly to a terrorist organization,linked,two,STATIVE
+and that it had obtained new leads helpful to the investigation of the 9/11 terrorist attacks.,obtained,two,DYNAMIC
+A senior al Qaeda detainee has stated,stated,detainee,DYNAMIC
+"that U.S. government efforts after the 9/11attacks to monitor the American homeland, including review of Muslims' immigration files and deportation of nonpermanent residents, forced al Qaeda to operate less freely in the United States.",including,,DYNAMIC
+"The government's ability to collect intelligence inside the United States, and thesharing of such information between the intelligence and law enforcement communities, was not a priority before 9/11.",was,thesharing,STATIVE
+Guidelines on this subject issued in August 2001 by Deputy Attorney General LarryThompson essentially recapitulated prior guidance.,recapitulated,Guidelines,STATIVE
+"However, the attacks of 9/11 changed everything.",changed,attacks,DYNAMIC
+"Less than one week after September 11, an early version of what was to become the Patriot Act",was,version,CANNOT_DECIDE
+"(officially, the USA PATRIOT Act) began to take shape.",began,version,DYNAMIC
+"A central provision of the proposal was the removal of ""the wall"" on informationsharing between the intelligence and law enforcement communities",was,provision,STATIVE
+(discussed in chapter 3).,discussed,removal,STATIVE
+Ashcroft told us,told,Ashcroft,DYNAMIC
+"he was determined to take every conceivable action, within the limits of the Constitution, to identify potential terrorists",determined,told,STATIVE
+and deter additional attacks.,deter,he,CANNOT_DECIDE
+The administration developed a proposal,developed,administration,DYNAMIC
+that eventually passed both houses ofCongress by large majorities,passed,proposal,DYNAMIC
+and was signed into law on October 26.,signed,houses,DYNAMIC
+Flights of Saudi Nationals Leaving the United States,Leaving,Nationals,CANNOT_DECIDE
+Three questions have arisen with respect to the departure of Saudi nationals from theUnited States in the immediate aftermath of 9/11:,arisen,questions,DYNAMIC
+(1) Did any flights of Saudi nationals take place,take,flights,CANNOT_DECIDE
+"before national airspace reopened on September 13, 2001?",reopened,airspace,DYNAMIC
+(2) Was there any political intervention to facilitate the departure of Saudi nationals?,Was,2,CANNOT_DECIDE
+(3) Did the FBI screen Saudi nationals thoroughly before their departure?,Did,,CANNOT_DECIDE
+"First, we found no evidence",found,we,DYNAMIC
+"that any flights of Saudi nationals, domestic orinternational, took place before the reopening of national airspace on the morning of September 13, 2001.",took,flights,DYNAMIC
+"To the contrary, every flight we have identified occurred",occurred,flight,DYNAMIC
+after national airspace reopened.,reopened,airspace,DYNAMIC
+"Second, we found no evidence of political intervention.",found,we,DYNAMIC
+We found no evidence,found,We,DYNAMIC
+thatanyone at the White House above the level of Richard Clarke,,,CANNOT_DECIDE
+participated in a decision on the departure of Saudi nationals.,participated,level,DYNAMIC
+The issue came up in one of the many video teleconferences of the interagency group,came,issue,DYNAMIC
+"Clarke chaired,",chaired,Clarke,DYNAMIC
+and Clarke said,said,issue,DYNAMIC
+he approved of how the FBI was dealing with the matter,approved,he,STATIVE
+when it came up for interagency discussion at his level.,came,it,DYNAMIC
+"Clarke told us,",told,Clarke,DYNAMIC
+"""I asked the FBI, Dale Watson . . . to handle that, to check to see",asked,told,DYNAMIC
+"if that was all right with them, to see",was,that,STATIVE
+"if they wanted access to any of these people,",wanted,they,STATIVE
+and to get back to me.,get,asked,CANNOT_DECIDE
+"And if they had no objections,",had,they,STATIVE
+"it would be fine with me.""",be,it,STATIVE
+"Clarke added,",added,Clarke,DYNAMIC
+"""I have no recollection of clearing it with anybody at the White House.""",have,I,STATIVE
+Although White House Chief of Staff Andrew Card remembered someone,remembered,Chief,STATIVE
+"telling him aboutthe Saudi request shortly after 9/11,",telling,someone,DYNAMIC
+he said,said,he,DYNAMIC
+he had not talked to the Saudis,talked,he,DYNAMIC
+and did not ask anyone to do anything about it.,ask,he,DYNAMIC
+The President and Vice President told us,told,President,DYNAMIC
+they were not aware of the issue at all,were,they,STATIVE
+until it surfaced much later in the media.,surfaced,it,DYNAMIC
+None of the officials we interviewed recalled any intervention or direction on this matter from any political appointee.,recalled,None,STATIVE
+"Third, we believe",believe,we,STATIVE
+that the FBI conducted a satisfactory screening of Saudi nationalswho left the United States on charter flights.,conducted,FBI,DYNAMIC
+The Saudi government was advised of,advised,government,DYNAMIC
+and agreed to the FBI's requirements,agreed,government,DYNAMIC
+thatpassengers be identified and checked against various databases,identified,thatpassengers,DYNAMIC
+before the flights departed.,departed,flights,DYNAMIC
+The Federal Aviation Administration representative working in the FBI operations center made sure,made,representative,DYNAMIC
+that the FBI was aware of the flights of Saudi nationals,was,FBI,STATIVE
+and was able to screen the passengers,was,FBI,STATIVE
+before they were allowed to depart.,allowed,they,STATIVE
+The FBI interviewed all persons of interest on these flights prior to theirdepartures.,interviewed,FBI,DYNAMIC
+They concluded,concluded,They,DYNAMIC
+that none of the passengers was connected to the 9/11 attacks,was,none,STATIVE
+and have since found no evidence to change that conclusion.,found,none,DYNAMIC
+Our own independent review of the Saudi nationals involved confirms,confirms,review,STATIVE
+that no one with known links to terrorism departed on these flights.,departed,one,DYNAMIC
+PLANNING FOR WAR,PLANNING,President,CANNOT_DECIDE
+"By late in the evening of September 11, the President had addressed the nation on theterrible events of the day.",addressed,President,DYNAMIC
+Vice President Cheney described the President's mood as somber.,described,Cheney,DYNAMIC
+The long day was not yet over.,was,day,STATIVE
+"When the larger meeting that included his domestic department heads broke up,",broke,meeting,DYNAMIC
+"President Bush chaired a smaller meeting of top advisers, a group",chaired,Bush,DYNAMIC
+"he would later call his ""war council.""",call,he,DYNAMIC
+"This group usually included Vice President Cheney, Secretary of State Powell, Secretary of Defense Donald Rumsfeld, General Hugh Shelton, Vice Chairman of the Joint Chiefs",included,group,STATIVE
+"(later to become chairman) General Myers, DCI Tenet, Attorney General Ashcroft, and FBI Director Robert Mueller.",become,later,CANNOT_DECIDE
+"From the White House staff, National Security Advisor Condoleezza Rice and Chief of Staff Card were part of the core group,",were,Rice,STATIVE
+"often joined by their deputies, Stephen Hadley and Joshua Bolten.",joined,group,DYNAMIC
+"In this restricted National Security Council meeting, the President said",said,President,DYNAMIC
+it was atime for self-defense.,was,it,STATIVE
+"The United States would punish not just the perpetrators of the attacks, but also those",punish,States,DYNAMIC
+who harbored them.,harbored,those,STATIVE
+Secretary Powell said,said,Powell,DYNAMIC
+"the United States had to make it clear to Pakistan, Afghanistan, and the Arab states that the time to act was now.",had,States,DYNAMIC
+He said,said,He,DYNAMIC
+we would need to build a coalition.,need,we,STATIVE
+The President noted,noted,President,DYNAMIC
+that the attacks provided a great opportunity to engage Russia and China.,provided,attacks,STATIVE
+"Secretary Rumsfeld urged the President and the principals to think broadly about who might have harbored the attackers,",urged,Rumsfeld,DYNAMIC
+"including Iraq, Afghanistan, Libya, Sudan, and Iran.",including,,STATIVE
+He wondered aloud,wondered,He,DYNAMIC
+"how much evidence the United States would need in order to deal with these countries,",need,States,STATIVE
+pointing out,pointing,,DYNAMIC
+that major strikes could take up to 60 days to assemble.,take,strikes,STATIVE
+President Bush chaired two more meetings of the NSC on September 12.,chaired,Bush,DYNAMIC
+"In the firstmeeting, he stressed",stressed,he,DYNAMIC
+that the United States was at war with a new and different kind of enemy.,was,States,STATIVE
+The President tasked principals to go beyond their pre-9/11 work,tasked,President,DYNAMIC
+and develop a strategy to eliminate terrorists,develop,President,CANNOT_DECIDE
+and punish those,punish,strategy,CANNOT_DECIDE
+who support them.,support,those,STATIVE
+"As they worked on defining the goals and objectives of the upcoming campaign,",worked,they,DYNAMIC
+they considered a paper,considered,they,DYNAMIC
+"that went beyond al Qaeda to propose the ""elimination of terrorism as a threat to our way of life,"" an aim",went,paper,STATIVE
+that would include pursuing other international terrorist organizations in the Middle East.,include,aim,STATIVE
+Rice chaired a Principals Committee meeting on September 13 in the Situation Room torefine,chaired,Rice,DYNAMIC
+how the fight against al Qaeda would be conducted.,conducted,chaired,DYNAMIC
+The principals agreed,agreed,principals,DYNAMIC
+that the overall message should be that anyone,be,message,STATIVE
+supporting al Qaeda would risk harm.,supporting,anyone,DYNAMIC
+"The United States would need to integrate diplomacy, financial measures, intelligence, and military actions into an overarching strategy.",need,States,STATIVE
+The principals also focused on Pakistan,focused,principals,STATIVE
+and what it could do to turn the Taliban against al Qaeda.,do,principals,DYNAMIC
+They concluded,concluded,They,DYNAMIC
+"that if Pakistan decided not to help the United States,",decided,Pakistan,DYNAMIC
+it too would be at risk.,be,it,STATIVE
+"The same day, Deputy Secretary of State Richard Armitage met with the Pakistaniambassador to the United States, Maleeha Lodhi, and the visiting head of Pakistan's military intelligence service, Mahmud Ahmed.",met,Secretary,DYNAMIC
+Armitage said,said,Armitage,DYNAMIC
+that the United States wanted Pakistan to take seven steps:,wanted,States,STATIVE
+to stop al Qaeda operatives at its border,stop,steps,CANNOT_DECIDE
+and end all logistical support for Bin Ladin; to give the United States blanket overflight and landing rights for all necessary military and intelligence operations; to provide territorial access to U.S. and allied military intelligence and other personnel to conduct operations against al Qaeda,end,steps,CANNOT_DECIDE
+; to provide the United States with intelligence information; to continue to publicly condemn the terrorist acts; to cut off all shipments of fuel to the Taliban,provide,,CANNOT_DECIDE
+and stop recruits,stop,,CANNOT_DECIDE
+from going to Afghanistan;,going,,CANNOT_DECIDE
+"and, if the evidence implicated",implicated,Armitage,STATIVE
+"bin Ladin and al Qaeda and the Taliban continued to harbor them, to break relations with the Taliban government.",continued,evidence,STATIVE
+Pakistan made its decision swiftly.,made,Pakistan,DYNAMIC
+"That afternoon, Secretary of State Powellannounced at the beginning of an NSC meeting",Powellannounced,Secretary,DYNAMIC
+that Pakistani President Musharraf had agreed to every U.S. request for support in the war on terrorism.,agreed,Musharraf,DYNAMIC
+"The next day, the U.S. embassy in Islamabad confirmed",confirmed,embassy,DYNAMIC
+"that Musharraf and his top military commanders had agreed to all seven demands.""",agreed,Musharraf,DYNAMIC
+Pakistan will need full US support,need,Pakistan,STATIVE
+"as it proceeds with us,""",proceeds,it,DYNAMIC
+"the embassy noted.""",noted,embassy,DYNAMIC
+Musharraf said,said,Musharraf,DYNAMIC
+the GOP [government of Pakistan] was making substantial concessions in allowing use of its territory,making,government,DYNAMIC
+and that he would pay a domestic price.,pay,government,DYNAMIC
+His standing in Pakistan was certain to suffer.,was,standing,STATIVE
+To counterbalance,counterbalance,needed,CANNOT_DECIDE
+that he needed to show,needed,he,STATIVE
+"that Pakistan was benefiting from his decisions.""",benefiting,Pakistan,DYNAMIC
+"At the September 13 NSC meeting, when Secretary Powell described Pakistan's reply,",described,Powell,DYNAMIC
+President Bush led a discussion of an appropriate ultimatum to the Taliban.,led,Bush,DYNAMIC
+He also ordered Secretary Rumsfeld to develop a military plan against the Taliban.,ordered,He,DYNAMIC
+"The President wanted the United States to strike the Taliban,",wanted,President,STATIVE
+"step back,",step,President,CANNOT_DECIDE
+wait to see,wait,President,CANNOT_DECIDE
+"if they got the message,",got,they,DYNAMIC
+and hit them hard,hit,President,CANNOT_DECIDE
+if they did not.,did,they,DYNAMIC
+He made clear,made,He,DYNAMIC
+that the military should focus on targets,focus,military,DYNAMIC
+that would influence the Taliban's behavior.,influence,targets,DYNAMIC
+"President Bush also tasked the State Department,",tasked,Bush,DYNAMIC
+"which on the following day deliveredto the White House a paper titled ""Game Plan for a Political- Military Strategy for Pakistan and Afghanistan.""",titled,House,DYNAMIC
+The paper took it as a given,took,paper,STATIVE
+that Bin Ladin would continue to act against the United States even while under Taliban control.,continue,Ladin,DYNAMIC
+It therefore detailed specific U.S. demands for the Taliban:,detailed,It,STATIVE
+"surrender Bin Ladin and his chief lieutenants,",surrender,demands,CANNOT_DECIDE
+including Ayman al Zawahiri;,including,,STATIVE
+tell the United States,tell,,CANNOT_DECIDE
+what the Taliban knew about al Qaeda and its operations; close all terrorist camps; free all imprisoned foreigners;,knew,tell,STATIVE
+and comply with all UN Security Council resolutions.,comply,,CANNOT_DECIDE
+The State Department proposed delivering an ultimatum to the Taliban:,proposed,Department,DYNAMIC
+produce BinLadin and his deputies,produce,,CANNOT_DECIDE
+"and shut down al Qaeda camps within 24 to 48 hours,",shut,,CANNOT_DECIDE
+or the United States will use all necessary means to destroy the terrorist infrastructure.,use,States,DYNAMIC
+The State Department did not expect the Taliban to comply.,expect,Department,STATIVE
+"Therefore, State and Defense would plan to build an international coalition to go into Afghanistan.",plan,Defense,DYNAMIC
+"Both departments would consult with NATO and other allies and request intelligence, basing, and other support from countries,",consult,departments,DYNAMIC
+according to their capabilities and resources.,according,,STATIVE
+"Finally, the plan detailed a public U.S. stance:",detailed,plan,STATIVE
+"America would use all its resources to eliminate terrorism as a threat,",use,America,DYNAMIC
+"punish those responsible for the 9/11 attacks,",punish,America,DYNAMIC
+"hold states and other actors responsible for providing sanctuary to terrorists,",hold,America,CANNOT_DECIDE
+"work with a coalition to eliminate terrorist groups and networks,",work,America,CANNOT_DECIDE
+"and avoid malice toward any people, religion, or culture.",avoid,America,CANNOT_DECIDE
+President Bush recalled,recalled,Bush,DYNAMIC
+that he quickly realized,realized,he,DYNAMIC
+that the administration would haveto invade Afghanistan with ground troops.,haveto,administration,DYNAMIC
+But the early briefings to the President and Secretary Rumsfeld on military optionswere disappointing.,Rumsfeld,briefings,STATIVE
+"Tommy Franks, the commanding general of Central Command (CENTCOM),",commanding,,CANNOT_DECIDE
+told us,told,Franks,DYNAMIC
+that the President was dissatisfied.,was,President,STATIVE
+"The U.S. military, Franks said,",said,Franks,DYNAMIC
+did not have an off-the-shelf plan to eliminate the al Qaeda threat in Afghanistan.,have,military,STATIVE
+"The existing Infinite Resolve options did not, in his view,",did,,STATIVE
+amount to such a plan.,amount,options,CANNOT_DECIDE
+"All these diplomatic and military plans were reviewed over the weekend of September15-16,",reviewed,plans,DYNAMIC
+as President Bush convened his war council at Camp David.,convened,Bush,DYNAMIC
+"Present were Vice President Cheney, Rice, Hadley, Powell, Armitage, Rumsfeld,Ashcroft, Mueller, Tenet, Deputy Secretary of Defense Paul Wolfowitz, and Cofer Black, chief of the DCI's Counterterrorist Center.",were,Present,STATIVE
+Tenet described a plan for collecting intelligence and mounting covert operations.,described,Tenet,DYNAMIC
+Heproposed inserting CIA teams into Afghanistan to work with Afghan warlords,inserting,Heproposed,DYNAMIC
+who would join the fight against al Qaeda.,join,warlords,DYNAMIC
+These CIA teams would act jointly with the military's Special Operations units.,act,teams,DYNAMIC
+"President Bush later praised this proposal,",praised,Bush,DYNAMIC
+saying,saying,Bush,DYNAMIC
+it had been a turning point in his thinking.,been,it,STATIVE
+General Shelton briefed the principals on the preliminary plan,briefed,Shelton,DYNAMIC
+for Afghanistan thatthe military had put together.,put,military,DYNAMIC
+"It drew on the Infinite Resolve ""phased campaign"" plan",drew,It,STATIVE
+the Pentagon had begun developing in November 2000 as an addition to the strike options,begun,Pentagon,DYNAMIC
+it had been refining since 1998.,refining,it,DYNAMIC
+But Shelton added,added,Shelton,DYNAMIC
+a new element-the possible significant use of ground forces- and that is where President Bush reportedly focused his attention.,is,Shelton,STATIVE
+"After hearing from his senior advisers, President Bush discussed with Rice thecontents of the directives",discussed,Bush,DYNAMIC
+he would issue to set all the plans into motion.,issue,he,DYNAMIC
+Rice prepared a paper,prepared,Rice,DYNAMIC
+"that President Bush then considered with principals on Monday morning, September 17.",considered,Bush,DYNAMIC
+"""The purpose of this meeting,"" he recalled saying,""",recalled,he,DYNAMIC
+is to assign tasks for the first wave of the war against terrorism.,is,purpose,STATIVE
+"It starts today.""",starts,It,DYNAMIC
+"In a written set of instructions slightly refined during the morning meeting,President Bush charged Ashcroft, Mueller, and Tenet to develop a plan for homeland defense.",charged,Bush,DYNAMIC
+President Bush directed Secretary of State Powell to deliver an ultimatum to the Taliban along the lines,directed,Bush,DYNAMIC
+that his department had originally proposed.,proposed,lines,DYNAMIC
+The State Department was also tasked to develop a plan to stabilize Pakistan,tasked,Department,DYNAMIC
+and to be prepared to notify Russia and countries near Afghanistan,be,,CANNOT_DECIDE
+when hostilities were imminent.,were,hostilities,STATIVE
+"In addition, Bush and his advisers discussed new legal authorities for covert actionin Afghanistan,",discussed,Bush,DYNAMIC
+including the administration's first Memorandum of Notification on Bin Ladin.,including,,STATIVE
+"Shortly thereafter, President Bush authorized broad new authorities for the CIA.",authorized,Bush,DYNAMIC
+President Bush instructed Rumsfeld and Shelton to develop further the Camp Davidmilitary plan to attack the Taliban and al Qaeda,instructed,Bush,DYNAMIC
+if the Taliban rejected the ultimatum.,rejected,Taliban,DYNAMIC
+The President also tasked Rumsfeld to ensure,tasked,President,DYNAMIC
+that robust measures to protect American military forces against terrorist attack were implemented worldwide.,implemented,measures,DYNAMIC
+"Finally, he directed Treasury Secretary Paul O'Neill to craft a plan to target al Qaeda's funding",directed,he,DYNAMIC
+and seize its assets.,seize,plan,CANNOT_DECIDE
+NSC staff members had begun leading meetings on terrorist fund-raising by September18.,begun,members,DYNAMIC
+"Also by September 18, Powell had contacted 58 of his foreign counterparts andreceived offers of general aid, search-and-rescue equipment and personnel, and medical assistance teams.",contacted,Powell,DYNAMIC
+"On the same day, Deputy Secretary of State Armitage was called by Mahmud Ahmedregarding a two-day visit to Afghanistan",called,Secretary,DYNAMIC
+during which the Pakistani intelligence chief had met with Mullah Omar,met,chief,DYNAMIC
+and conveyed the U.S. demands.,conveyed,chief,DYNAMIC
+"Omar's response was ""not negative on all these points.""",was,response,STATIVE
+But the administration knew,knew,administration,STATIVE
+that theTaliban was unlikely to turn over Bin Ladin.,was,theTaliban,STATIVE
+"The pre-9/11 draft presidential directive on al Qaeda evolved into a new directive,National Security Presidential Directive 9,",evolved,Qaeda,DYNAMIC
+"now titled ""Defeating the Terrorist Threat to the United States.""",titled,directive,STATIVE
+"The directive would now extend to a global war on terrorism, not just on al Qaeda.",extend,directive,STATIVE
+It also incorporated the President's determination,incorporated,It,STATIVE
+not to distinguish between terrorists and those,distinguish,determination,CANNOT_DECIDE
+who harbor them.,harbor,those,STATIVE
+It included a determination to use military force,included,It,STATIVE
+if necessary to end al Qaeda's sanctuary in Afghanistan.,end,,CANNOT_DECIDE
+"The new directive-formally signed on October 25,",signed,directive-formally,DYNAMIC
+after the fighting in Afghanistan had already begun-included new material,begun-included,directive-formally,DYNAMIC
+followed by annexes,followed,material,STATIVE
+discussing each targeted terrorist group.,discussing,annexes,STATIVE
+"The old draft directive on al Qaeda became, in effect, the first annex.",became,directive,DYNAMIC
+"The United States would strive to eliminate all terrorist networks,",strive,States,STATIVE
+"dry up theirfinancial support,",dry,States,CANNOT_DECIDE
+and prevent them from acquiring weapons of mass destruction.,prevent,States,CANNOT_DECIDE
+"The goal was the ""elimination of terrorism as a threat to our way of life.""",was,goal,STATIVE
+"""PHASE TWO"" AND THE QUESTION OF IRAQ",,,CANNOT_DECIDE
+President Bush had wondered immediately after the attack,wondered,TWO,DYNAMIC
+whether Saddam Hussein'sregime might have had a hand in it.,had,attack,STATIVE
+"Iraq had been an enemy of the United States for 11 years,",been,Iraq,STATIVE
+and was the only place in the world,was,,STATIVE
+where the United States was engaged in ongoing combat operations.,engaged,States,STATIVE
+"As a former pilot, the President was struck by the apparent sophistication of the operation and some of the piloting, especially Hanjour's high-speed dive into the Pentagon.",struck,President,STATIVE
+He told us,told,He,DYNAMIC
+he recalled Iraqi support for Palestinian suicide terrorists as well.,recalled,told,DYNAMIC
+Speculating about other possible states,Speculating,President,CANNOT_DECIDE
+"that could be involved,",involved,states,STATIVE
+the President told us,told,President,DYNAMIC
+he also thought about Iran.,thought,told,STATIVE
+Clarke has written,written,Clarke,DYNAMIC
+"that on the evening of September 12, President Bush told him andsome of his staff to explore possible Iraqi links to 9/11.",told,Bush,DYNAMIC
+"""See",,,CANNOT_DECIDE
+"if Saddam did this,""",did,Saddam,DYNAMIC
+Clarke recalls the President,recalls,Clarke,STATIVE
+"telling them.""",telling,recalls,DYNAMIC
+See,See,,CANNOT_DECIDE
+"if he's linked in any way.""",linked,he,STATIVE
+"While he believed the details of Clarke's account to be incorrect, President Bush acknowledged",acknowledged,Bush,STATIVE
+"that he might well have spoken to Clarke at some point,",spoken,he,DYNAMIC
+asking him about Iraq.,asking,,DYNAMIC
+"Responding to a presidential tasking,",Responding,office,DYNAMIC
+"Clarke's office sent a memo to Rice onSeptember 18,",sent,office,DYNAMIC
+"titled ""Survey of Intelligence Information on Any Iraq Involvement in the September 11 Attacks.""",titled,Rice,STATIVE
+"Rice's chief staffer on Afghanistan, Zalmay Khalilzad, concurred in its conclusion",concurred,staffer,DYNAMIC
+that only some anecdotal evidence linked Iraq to al Qaeda.,linked,evidence,STATIVE
+"The memo found no ""compelling case""",found,memo,STATIVE
+that Iraq had either planned or perpetrated the attacks.,planned,Iraq,DYNAMIC
+"It passed along a few foreign intelligence reports,",passed,It,STATIVE
+including the Czech report,including,,STATIVE
+alleging an April 2001 Prague meeting between Atta and an Iraqi intelligence officer,alleging,report,STATIVE
+(discussed in chapter 7) and a Polish report,discussed,meeting,STATIVE
+that personnel at the headquarters of Iraqi intelligence in Baghdad were told before September 11 to go on the streets to gauge crowd reaction to an unspecified event.,told,personnel,DYNAMIC
+Arguing,Arguing,memo,STATIVE
+"that the case for links between Iraq and al Qaeda was weak,",was,case,STATIVE
+the memo pointed out,pointed,memo,STATIVE
+that Bin Ladin resented the secularism of Saddam Hussein's regime.,resented,Ladin,STATIVE
+"Finally, the memo said,",said,memo,STATIVE
+there was no confirmed reporting on Saddam cooperating with Bin Ladin on unconventional weapons.,was,reporting,STATIVE
+"On the afternoon of 9/11, according to contemporaneous notes, Secretary Rumsfeldinstructed General Myers to obtain quickly as much information as possible.",according,,STATIVE
+The notes indicate,indicate,notes,STATIVE
+that he also told Myers,told,he,DYNAMIC
+that he was not simply interested in striking empty training sites.,was,he,STATIVE
+He thought,thought,He,STATIVE
+the U.S. response should consider a wide range of options and possibilities.,consider,response,STATIVE
+The secretary said,said,secretary,DYNAMIC
+his instinct was to hit Saddam Hussein at the same time-not only Bin Ladin.,was,instinct,STATIVE
+Secretary Rumsfeld later explained,explained,Rumsfeld,DYNAMIC
+"that at the time, he had been considering either one of them, or perhaps someone else, as the responsible party.",considering,he,STATIVE
+"According to Rice,",According,,STATIVE
+"the issue of what, if anything, to do about Iraq was reallyengaged at Camp David.",reallyengaged,issue,DYNAMIC
+"Briefing papers on Iraq, along with many others, were in briefing materials for the participants.",were,papers,STATIVE
+Rice told us,told,Rice,DYNAMIC
+the administration was concerned,concerned,told,STATIVE
+that Iraq would take advantage of the 9/11 attacks.,take,Iraq,DYNAMIC
+She recalled,recalled,She,DYNAMIC
+"that in the first Camp David session chaired by the President, Rumsfeld asked",asked,Rumsfeld,DYNAMIC
+what the administration should do about Iraq.,do,administration,DYNAMIC
+"Deputy Secretary Wolfowitz made the case for striking Iraq during ""this round"" of the war on terrorism.",made,Wolfowitz,DYNAMIC
+"A Defense Department paper for the Camp David briefing book on the strategic conceptfor the war on terrorism specified three priority targets for initial action: al Qaeda, theTaliban, and Iraq.",specified,war,STATIVE
+It argued,argued,It,STATIVE
+"that of the three, al Qaeda and Iraq posed a strategic threat to the United States.",posed,Iraq,STATIVE
+"Iraq's long-standing involvement in terrorism was cited, along with its interest in weapons of mass destruction.",cited,involvement,STATIVE
+Secretary Powell recalled,recalled,Powell,DYNAMIC
+that Wolfowitz-not Rumsfeld-argued that Iraq was ultimatelythe source of the terrorist problem,Rumsfeld-argued,Wolfowitz-not,DYNAMIC
+and should therefore be attacked.,attacked,source,DYNAMIC
+Powell said,said,Powell,DYNAMIC
+that Wolfowitz was not able to justify his belief,was,Wolfowitz,STATIVE
+that Iraq was behind9/11.,was,Iraq,STATIVE
+"""Paul was always of the view",was,Paul,STATIVE
+that Iraq was a problem,was,Iraq,STATIVE
+"that had to be dealt with,""",had,problem,DYNAMIC
+"Powell told us.""",told,Powell,DYNAMIC
+And he saw this as one way,saw,he,STATIVE
+"of using this event as a way to deal with the Iraq problem.""",using,way,DYNAMIC
+Powell said,said,Powell,DYNAMIC
+"that President Bush did not give Wolfowitz's argument ""much weight.""",give,Bush,DYNAMIC
+"Though continuing to worry about Iraq in the following week,",continuing,,STATIVE
+"Powell said,",said,Powell,DYNAMIC
+President Bush saw Afghanistan as the priority.,saw,Bush,STATIVE
+President Bush told Bob Woodward,told,Bush,DYNAMIC
+that the decision not to invade Iraq was made at themorning session on September 15.,made,decision,DYNAMIC
+"Iraq was not even on the table during the September 15 afternoon session,",was,Iraq,STATIVE
+which dealt solely with Afghanistan.,dealt,session,STATIVE
+Rice said,said,Rice,DYNAMIC
+"that when President Bush called her on Sunday, September 16,",called,Bush,DYNAMIC
+he said,said,he,DYNAMIC
+"thefocus would be on Afghanistan,",be,thefocus,STATIVE
+although he still wanted,wanted,he,STATIVE
+plans for Iraq should the country take some action,take,wanted,DYNAMIC
+or the administration eventually determine,determine,take,DYNAMIC
+that it had been involved in the 9/11 attacks.,involved,it,STATIVE
+"At the September 17 NSC meeting, there was some further discussion of ""phase two"" ofthe war on terrorism.",was,discussion,STATIVE
+"President Bush ordered the Defense Department to be ready to deal with Iraq ifBaghdad acted against U.S. interests, with plans to include possibly occupying Iraqi oil fields.",ordered,Bush,DYNAMIC
+"Within the Pentagon, Deputy Secretary Wolfowitz continued to press the case fordealing with Iraq.",continued,Wolfowitz,DYNAMIC
+Writing to Rumsfeld on September 17,Writing,argued,DYNAMIC
+"in a memo headlined ""Preventing More Events,",headlined,memo,STATIVE
+"""he argued",argued,he,DYNAMIC
+that if there was even a 10 percent chance,was,chance,STATIVE
+"that Saddam Hussein was behind the 9/11 attack,",was,Hussein,STATIVE
+maximum priority should be placed on eliminating that threat.,placed,priority,DYNAMIC
+Wolfowitz contended,contended,Wolfowitz,DYNAMIC
+"that the odds were ""far more"" than 1 in 10,",were,odds,STATIVE
+"citing Saddam's praise for the attack, his long record of involvement in terrorism, and theories",citing,,DYNAMIC
+that Ramzi Yousef was an Iraqi agent,was,Yousef,STATIVE
+and Iraq was behind the 1993 attack on the World Trade Center.,was,agent,STATIVE
+"The next day, Wolfowitz renewed the argument,",renewed,Wolfowitz,DYNAMIC
+writing to Rumsfeld about the interest of Yousef 's co-conspirator,writing,Wolfowitz,DYNAMIC
+"in the 1995 Manila air plot in crashing an explosives-laden plane into CIA headquarters,",crashing,plot,DYNAMIC
+and about information from a foreign government regarding Iraqis' involvement in the attempted hijacking of a Gulf Air flight.,regarding,,STATIVE
+"Given this background,",Given,,STATIVE
+he wondered,wondered,he,DYNAMIC
+why so little thought,,,CANNOT_DECIDE
+"had been devoted to the danger of suicide pilots,",devoted,thought,DYNAMIC
+"seeing a ""failure of imagination"" and a mind-set",seeing,,STATIVE
+that dismissed possibilities.,dismissed,mind-set,DYNAMIC
+"On September 19, Rumsfeld offered several thoughts for his commanders",offered,Rumsfeld,DYNAMIC
+as they workedon their contingency plans.,workedon,they,DYNAMIC
+"Though he emphasized the worldwide nature of the conflict, the references to specific enemies or regions named only the Taliban, al Qaeda, and Afghanistan.",named,references,DYNAMIC
+Shelton told us,told,Shelton,DYNAMIC
+the administration reviewed all the Pentagon's war plans andchallenged certain assumptions,reviewed,told,DYNAMIC
+"underlying them,",underlying,,STATIVE
+as any prudent organization or leader should do.,do,leader,DYNAMIC
+"General Tommy Franks, the commanding general of Central Command, recalled receivingRumsfeld's guidance",recalled,Franks,DYNAMIC
+that each regional commander should assess,assess,commander,DYNAMIC
+what these plans meant for his area of responsibility.,meant,plans,STATIVE
+He knew,knew,He,STATIVE
+he would soon be striking the Taliban and al Qaeda in Afghanistan.,striking,he,DYNAMIC
+"But, he told us,",told,he,DYNAMIC
+he now wondered,wondered,he,STATIVE
+"how that action was connected to what might need to be done in Somalia, Yemen, or Iraq.",connected,action,STATIVE
+"On September 20, President Bush met with British Prime Minister Tony Blair,",met,Bush,DYNAMIC
+and thetwo leaders discussed the global conflict ahead.,discussed,Bush,DYNAMIC
+"When Blair asked about Iraq, the President replied",replied,President,DYNAMIC
+that Iraq was not the immediate problem.,was,Iraq,STATIVE
+"Some members of his administration, he commented,",commented,he,DYNAMIC
+"had expressed a different view,",expressed,members,DYNAMIC
+but he was the one responsible for making the decisions.,was,he,STATIVE
+Franks told us,told,denied,DYNAMIC
+that he was pushing independently to do more robust planning onmilitary responses in Iraq during the summer,pushing,he,DYNAMIC
+"before 9/11-a request President Bush denied,",denied,Bush,DYNAMIC
+arguing,arguing,,DYNAMIC
+that the time was not right.,was,time,STATIVE
+"(CENTCOM also began dusting off plans for a full invasion of Iraq during this period, Franks said.)",began,CENTCOM,DYNAMIC
+The CENTCOM commander told us,told,commander,DYNAMIC
+he renewed his appeal,renewed,he,DYNAMIC
+"for further military planning to respond to Iraqi moves shortly after 9/11, both because he personally felt",respond,he,STATIVE
+that Iraq and al Qaeda might be engaged in some form of collusion,engaged,Qaeda,STATIVE
+and because he worried,worried,Qaeda,STATIVE
+"that Saddam might take advantage of the attacks to move against his internal enemies in the northern or southern parts of Iraq,",take,Saddam,DYNAMIC
+where the United States was flying regular missions to enforce Iraqi no-fly zones.,flying,States,DYNAMIC
+Franks said,said,Franks,DYNAMIC
+that President Bush again turned down the request.,turned,Bush,DYNAMIC
+"Having issued directives to guide his administration's preparations for war, onThursday, September 20,",issued,Bush,DYNAMIC
+"President Bush addressed the nation before a joint session of Congress.""",addressed,Bush,DYNAMIC
+"Tonight,"" he said,",said,he,DYNAMIC
+"""we are a country awakened to danger.""",are,we,STATIVE
+The President blamed al Qaeda for 9/11 and the 1998 embassy bombings,blamed,President,DYNAMIC
+"and, for the first time, declared",declared,President,DYNAMIC
+"that al Qaeda was ""responsible for bombing the USS Cole.""",was,Qaeda,STATIVE
+He reiterated the ultimatum,reiterated,He,DYNAMIC
+"that had already been conveyed privately.""",conveyed,ultimatum,DYNAMIC
+"The Taliban must act,",act,Taliban,DYNAMIC
+"and act immediately,""",act,Taliban,CANNOT_DECIDE
+"he said.""",said,he,DYNAMIC
+"They will hand over the terrorists,",,,DYNAMIC
+"or they will share in their fate.""",share,hand,DYNAMIC
+The President added,added,President,DYNAMIC
+that America's quarrel,,,CANNOT_DECIDE
+"was not with Islam: ""The enemy of America is not our many Muslim friends;",was,quarrel,STATIVE
+it is not our many Arab friends.,is,it,STATIVE
+"Our enemy is a radical network of terrorists, and every government",is,enemy,STATIVE
+"that supports them.""",supports,government,STATIVE
+"Other regimes faced hard choices,",faced,regimes,STATIVE
+he pointed out:,pointed,he,DYNAMIC
+"""Every nation, in every region, now has a decision to make:",has,pointed,STATIVE
+"Either you are with us,",are,nation,STATIVE
+"or you are with the terrorists.""",are,nation,STATIVE
+President Bush argued,argued,Bush,DYNAMIC
+"that the new war went beyond Bin Ladin.""",went,war,STATIVE
+"Our war on terrorbegins with al Qaeda, but it does not end there,""",terrorbegins,war,DYNAMIC
+"he said.""",said,he,DYNAMIC
+It will not end,end,It,DYNAMIC
+"until every terrorist group of global reach has been found, stopped,",found,group,DYNAMIC
+"and defeated.""",defeated,group,DYNAMIC
+The President had a message for the Pentagon:,had,President,STATIVE
+"""The hour is coming",coming,hour,DYNAMIC
+"when America will act,",act,America,DYNAMIC
+"and you will make us proud.""",make,hour,DYNAMIC
+"He also had a message for those outside the United States.""",had,He,STATIVE
+"This is civilization's fight,""",is,This,STATIVE
+he said.,said,he,DYNAMIC
+"""We ask every nation to join us.""",ask,We,DYNAMIC
+President Bush approved military plans to attack Afghanistan in meetings with CentralCommand's General Franks and other advisers on September 21 and October 2.,approved,Bush,DYNAMIC
+"Originally titled ""Infinite Justice,""",titled,,STATIVE
+the operation's code word was changed-to avoid the sensibilities of Muslims,was,word,DYNAMIC
+who associate the power of infinite justice with God alone-to the operational name,associate,sensibilities,STATIVE
+"still used for operations in Afghanistan:""Enduring Freedom.""",used,name,DYNAMIC
+The plan had four phases.,had,plan,STATIVE
+"In Phase One, the United States and its allies would move forces into the region",move,allies,DYNAMIC
+and arrange to operate from or over neighboring countries such as Uzbekistan and Pakistan.,arrange,States,DYNAMIC
+This occurred in the weeks,occurred,This,DYNAMIC
+"following 9/11,",following,,STATIVE
+aided by overwhelming international sympathy for the United States.,aided,occurred,DYNAMIC
+"In Phase Two, air strikes and Special Operations attacks would hit key al Qaeda and Taliban targets.",hit,strikes,DYNAMIC
+"In an innovative joint effort, CIA and Special Operations forces would be deployed to work together",deployed,forces,DYNAMIC
+with each major Afghan faction opposed to the Taliban.,opposed,faction,STATIVE
+The Phase Two strikes and raids began on October 7.,began,Phase,DYNAMIC
+The basing arrangements,basing,,CANNOT_DECIDE
+contemplated for Phase One were substantially secured-after arduous effort-by the end of that month.,were,arrangements,DYNAMIC
+"In Phase Three, the United States would carry out ""decisive operations""",carry,States,DYNAMIC
+"using all elements of national power,",using,operations,DYNAMIC
+"including ground troops, to topple the Taliban regime",including,,STATIVE
+and eliminate al Qaeda's sanctuary in Afghanistan.,eliminate,States,CANNOT_DECIDE
+"Mazar-e-Sharif, in northern Afghanistan, fell to a coalition assault by Afghan and U.S. forces on November 9.",fell,Mazar-e-Sharif,DYNAMIC
+Four days later the Taliban had fled from Kabul.,fled,Taliban,DYNAMIC
+"By early December, all major cities had fallen to the coalition.",fallen,cities,DYNAMIC
+"On December 22, Hamid Karzai, a Pashtun leader from Kandahar, was installed as the chairman of Afghanistan's interim administration.",installed,Karzai,DYNAMIC
+Afghanistan had been liberated from the rule of the Taliban.,liberated,Afghanistan,DYNAMIC
+"In December 2001, Afghan forces, with limited U.S. support,",,,STATIVE
+engaged al Qaeda elementsin a cave complex,engaged,forces,DYNAMIC
+called Tora Bora.,called,complex,STATIVE
+"In March 2002, the largest engagement of the war was fought, in the mountainous Shah-i-Kot area south of Gardez, against a large force of al Qaeda jihadists.",fought,engagement,DYNAMIC
+"The three-week battle was substantially successful,",was,battle,STATIVE
+and almost all remaining al Qaeda forces took refuge in Pakistan's equally mountainous and lightly governed frontier provinces.,took,battle,DYNAMIC
+"As of July 2004, Bin Ladin and Zawahiri are still believed to be at large.",believed,Ladin,STATIVE
+"In Phase Four, civilian and military operations turned to the indefinite task of what the armed forces call ""security and stability operations.""",turned,operations,DYNAMIC
+"Within about two months of the start of combat operations, several hundred CIAoperatives and Special Forces soldiers, backed by the striking power of U.S. aircraft and a much larger infrastructure of intelligence and support efforts,",backed,CIAoperatives,STATIVE
+had combined with Afghan militias and a small number of other coalition soldiers to destroy theTaliban regime,combined,CIAoperatives,DYNAMIC
+and disrupt al Qaeda.,disrupt,CIAoperatives,CANNOT_DECIDE
+They had killed or captured about a quarter of the enemy's known leaders.,killed,They,DYNAMIC
+"Mohammed Atef, al Qaeda's military commander and a principal figure in the 9/11 plot, had been killed by a U.S. air strike.",killed,Atef,DYNAMIC
+According to a senior CIA officer,According,,STATIVE
+"who helped devise the overall strategy, the CIA provided intelligence, experience, cash, covert action capabilities,",provided,CIA,DYNAMIC
+and entre to tribal allies.,,,CANNOT_DECIDE
+"In turn, the U.S. military offered combat expertise, firepower, logistics, and communications.",offered,military,DYNAMIC
+"With these initial victories won by the middle of 2002, the global conflict againstIslamist terrorism became a different kind of struggle.",againstIslamist,conflict,DYNAMIC

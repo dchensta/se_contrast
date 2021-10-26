@@ -1,0 +1,245 @@
+Clause,mainVerb,mainReferent,Gold
+Volleyball is a team sport,is,Volleyball,STATIVE
+in which two teams of six players are separated by a net.,separated,teams,STATIVE
+Each team tries to score points by grounding a ball on the other team's court under organized rules.,tries,team,DYNAMIC
+It has been a part of the official program of the Summer Olympic Games since 1964.,been,It,STATIVE
+The complete rules are extensive.,are,rules,STATIVE
+"But simply, play proceeds",proceeds,play,DYNAMIC
+as follows:,follows,,CANNOT_DECIDE
+a player on one of the teams begins a 'rally' by serving the ball,begins,player,DYNAMIC
+(tossing or releasing it,tossing,,DYNAMIC
+"and then hitting it with a hand or arm), from behind the back boundary line of the court, over the net, and into the receiving team's court.",hitting,,DYNAMIC
+The receiving team must not let the ball be grounded within their court.,let,team,DYNAMIC
+The team may touch the ball up to 3 times,touch,team,DYNAMIC
+but individual players may not touch the ball twice consecutively.,touch,team,DYNAMIC
+"Typically, the first two touches are used to set up for an attack, an attempt to direct the ball back over the net in such a way",used,touches,DYNAMIC
+that the serving team is unable to prevent it from being grounded in their court.,is,team,STATIVE
+"The rally continues,",continues,rally,DYNAMIC
+"with each team allowed as many as three consecutive touches,",allowed,team,STATIVE
+"until either (1): a team makes a kill,",makes,team,DYNAMIC
+grounding the ball on the opponent's court,grounding,makes,DYNAMIC
+and winning the rally,winning,makes,DYNAMIC
+; or (2): a team commits a fault,commits,team,DYNAMIC
+and loses the rally.,loses,team,DYNAMIC
+The team that wins,wins,team,CANNOT_DECIDE
+"the rally is awarded a point,",awarded,team,DYNAMIC
+and serves the ball to start the next rally.,serves,team,DYNAMIC
+A few of the most common faults include:,include,few,STATIVE
+* causing the ball to touch the ground or floor outside the opponents' court or without first passing over the net;,causing,*,DYNAMIC
+* catching and throwing the ball;,catching,,CANNOT_DECIDE
+* double hit: two consecutive contacts with the ball made by the same player;,*,,DYNAMIC
+* four consecutive contacts with the ball,*,,CANNOT_DECIDE
+made by the same team;,made,ball,DYNAMIC
+* net foul: touching the net during play;,*,,CANNOT_DECIDE
+* foot fault: the foot crosses over the boundary line,*,,DYNAMIC
+when serving.,serving,,DYNAMIC
+"The ball is usually played with the hands or arms,",played,ball,DYNAMIC
+but players can legally strike or push (short contact) the ball with any part of the body.,strike,ball,DYNAMIC
+"A number of consistent techniques have evolved in volleyball,",evolved,number,DYNAMIC
+including spiking and blocking,including,volleyball,STATIVE
+"(because these plays are made above the top of the net,",made,plays,DYNAMIC
+the vertical jump is an athletic skill,is,jump,STATIVE
+"emphasized in the sport) as well as passing, setting, and specialized player positions and offensive and defensive structures.",emphasized,skill,CANNOT_DECIDE
+== History ==,,,CANNOT_DECIDE
+=== Origin of volleyball ===,,,CANNOT_DECIDE
+"On February 9, 1895, in Holyoke, Massachusetts (USA), William G. Morgan, a YMCA physical education director, created a new game",created,Massachusetts,DYNAMIC
+called Mintonette as a pastime to be played (preferably) indoors and by any number of players.,called,game,STATIVE
+The game took some of its characteristics from tennis and handball.,took,game,DYNAMIC
+"Another indoor sport, basketball, was catching on in the area,",catching,sport,DYNAMIC
+"having been invented just ten miles (sixteen kilometers) away in the city of Springfield, Massachusetts, only four years before.",invented,sport,DYNAMIC
+"Mintonette was designed to be an indoor sport, less rough than basketball, for older members of the YMCA,",designed,Mintonette,DYNAMIC
+while still requiring a bit of athletic effort.,requiring,,STATIVE
+"The first rules, written down by William G Morgan,",written,rules,DYNAMIC
+"called for a net high, a court, and any number of players.",called,rules,DYNAMIC
+"A match was composed of nine innings with three serves for each team in each inning,",composed,match,STATIVE
+and no limit to the number of ball contacts for each team before sending the ball to the opponents court.,sending,match,CANNOT_DECIDE
+"In case of a serving error, a second try was allowed.",allowed,try,STATIVE
+Hitting the ball into the net was considered a foul,considered,Hitting,STATIVE
+(with loss of the point or a side-out)except in the case of the first-try serve.,,,CANNOT_DECIDE
+"After an observer, Alfred Halstead, noticed the volleying nature of the game at its first exhibition match in 1896,",noticed,observer,DYNAMIC
+played at the International YMCA Training School,played,,DYNAMIC
+"(now called Springfield College),",called,School,STATIVE
+the game quickly became known as volleyball,became,game,DYNAMIC
+"(it was originally spelled as two words: ""volley ball"").",spelled,it,STATIVE
+Volleyball rules were slightly modified by the International YMCA Training School,modified,rules,DYNAMIC
+and the game spread around the country to various YMCAs.,spread,rules,DYNAMIC
+=== Refinements and later developments ===,,,CANNOT_DECIDE
+The first official ball used in volleyball is disputed;,disputed,Refinements,STATIVE
+some sources say,say,sources,STATIVE
+"that Spalding created the first official ball in 1896,",created,Spalding,DYNAMIC
+while others claim,claim,others,STATIVE
+it was created in 1900.,created,it,DYNAMIC
+The rules evolved over time:,evolved,rules,DYNAMIC
+"in the Philippines by 1916, the skill and power of the set and spike had been introduced,",introduced,skill,DYNAMIC
+"and four years later a ""three hits"" rule and a rule against hitting from the back row were established.",established,skill,DYNAMIC
+"In 1917, the game was changed from 21 to 15 points.",changed,game,DYNAMIC
+"In 1919, about 16,000 volleyballs were distributed by the American Expeditionary Forces to their troops and allies,",distributed,volleyballs,DYNAMIC
+which sparked the growth of volleyball in new countries.,sparked,troops,DYNAMIC
+The first country outside the United States to adopt volleyball was Canada in 1900.,was,country,STATIVE
+"An international federation, the Fdration Internationale de Volleyball (FIVB), was founded in 1947,",founded,federation,DYNAMIC
+and the first World Championships were held in 1949 for men and 1952 for women.,held,federation,DYNAMIC
+"The sport is now popular in Brazil, in Europe",is,sport,STATIVE
+"(where especially Italy, the Netherlands, and countries from Eastern Europe have been major forces since the late 1980s),",been,Netherlands,STATIVE
+"in Russia, and in other countries including China and the rest of Asia, as well as in the United States.",including,,CANNOT_DECIDE
+"Beach volleyball, a variation of the game played on sand and with only two players per team,",played,variation,DYNAMIC
+became a FIVB-endorsed variation in 1987,became,volleyball,DYNAMIC
+and was added to the Olympic program at the 1996 Summer Olympics.,added,volleyball,DYNAMIC
+Volleyball is also a sport at the Paralympics,is,Volleyball,STATIVE
+managed by the World Organization Volleyball for Disabled.,managed,Paralympics,STATIVE
+Nudists were early adopters of the game with regular organized play in clubs as early as the late 1920s.,were,Nudists,STATIVE
+"By the 1960s, a volleyball court had become standard in almost all nudist/naturist clubs.",become,court,DYNAMIC
+=== Volleyball in the Olympics ===,,,CANNOT_DECIDE
+"The history of Olympic volleyball traces back to the 1924 Summer Olympics in Paris,",,,STATIVE
+where volleyball was played as part of an American sports demonstration event.,played,volleyball,DYNAMIC
+"After the foundation of FIVB and some continental confederations, it began to be considered for official inclusion.",began,it,DYNAMIC
+"In 1957, a special tournament was held at the 53rd IOC session in Sofia, Bulgaria to support such request.",held,tournament,DYNAMIC
+"The competition was a success,",was,competition,STATIVE
+and the sport was officially included in the program for the 1964 Summer Olympics.,included,success,DYNAMIC
+The Olympic volleyball tournament was originally a simple competition:,was,tournament,STATIVE
+"all teams played against each other team and then were ranked by wins, set average, and point average.",played,teams,DYNAMIC
+"One disadvantage of this round-robin system is that medal winners could be determined before the end of the games,",is,disadvantage,STATIVE
+making the audience lose interest in the outcome of the remaining matches.,making,,DYNAMIC
+"To cope with this situation,",cope,,CANNOT_DECIDE
+"the competition was split into two phases with the addition of a ""final round""",split,competition,DYNAMIC
+"elimination tournament consisting of quarterfinals, semifinals, and finals matches in 1972.",matches,consisting,STATIVE
+The number of teams involved in the Olympic tournament has grown steadily since 1964.,grown,number,DYNAMIC
+"Since 1996, both men's and women's events count twelve participant nations.",count,men,STATIVE
+Each of the five continental volleyball confederations has at least one affiliated national federation,has,Each,STATIVE
+involved in the Olympic Games.,involved,federation,STATIVE
+The U.S.S.R. won men's gold in both 1964 and 1968.,won,U.S.S.R.,DYNAMIC
+"After taking bronze in 1964 and silver in 1968, Japan finally won the gold for men's volleyball in 1972.",won,Japan,DYNAMIC
+Women's gold went to Japan in 1964 and again in 1976.,went,gold,DYNAMIC
+"That year, the introduction of a new offensive skill, the backrow attack, allowed Poland to win the men's competition over the Soviets in a very tight five-set match.",allowed,introduction,DYNAMIC
+"Since the strongest teams in men's volleyball at the time belonged to the Eastern Bloc, the American-led boycott of the 1980 Summer Olympics did not have as great an effect on these events",have,boycott,STATIVE
+as it had on the women's.,had,it,STATIVE
+The U.S.S.R. collected their third Olympic Gold Medal in men's volleyball with a 31 victory over Bulgaria,collected,U.S.S.R.,DYNAMIC
+"(the Soviet women won that year as well, their third gold as well).",won,victory,DYNAMIC
+"With the U.S.S.R. boycotting the 1984 Olympic Games in Los Angeles,",boycotting,U.S.,DYNAMIC
+the U.S. was able to sweep Brazil in the finals to win the men's gold medal.,was,U.S.,STATIVE
+Italy won its first medal,won,Italy,DYNAMIC
+"(bronze in the men's competition) in 1984,",bronze,medal,CANNOT_DECIDE
+foreshadowing a rise in prominence for their volleyball teams.,foreshadowing,Italy,DYNAMIC
+"The 1984 women's tournament was also won by a rising force, China.",won,tournament,DYNAMIC
+"At the 1988 Games, Karch Kiraly and Steve Timmons led the U.S. men's team to a second straight gold medal,",led,Kiraly,DYNAMIC
+and the Soviets won the fourth gold in the women's tournament.,won,Kiraly,DYNAMIC
+"In 1992, underrated Brazil upset favourites C.I.S., Netherlands, and Italy in the men's competition for the country's first volleyball Olympic gold medal.",,,DYNAMIC
+"Runner-up Netherlands, men's silver medalist in 1992, came back under team leaders Ron Zwerver and Olof van der Meulen in the 1996 Games for a five-set win over Italy.",came,Netherlands,DYNAMIC
+"A men's bronze medalist in 1996, Serbia and Montenegro (playing in 1996 and 2000 as the Federal Republic of Yugoslavia)",playing,medalist,DYNAMIC
+"beat Russia in the gold medal match in 2000,",beat,medalist,DYNAMIC
+winning their first gold medal ever.,winning,medalist,DYNAMIC
+In all three games the strong Cuban female team lead by Regla Torres and Mireya Luis won the Gold medal.,won,lead,DYNAMIC
+"In 2004, Brazil won its second men's volleyball gold medal beating Italy in the finals,",won,Brazil,DYNAMIC
+while China beat Russia for its second women's title.,beat,China,DYNAMIC
+"In the 2008 Games, the USA beat Brazil in the men's volleyball final.",beat,USA,DYNAMIC
+"Brazil was runner-up again at the 2012 Summer Olympics,",runner-up,Brazil,STATIVE
+this time losing to Russia after losing two match points in the third set.,losing,Brazil,DYNAMIC
+In both games Brazil's women team beat the United States for the gold medal.,beat,team,DYNAMIC
+==Rules of the game==,,,CANNOT_DECIDE
+===The court dimensions===,,,CANNOT_DECIDE
+"A volleyball court is 18 m (59 ft) long and 9 m (29.5 ft) wide,",is,ft,STATIVE
+divided into 9 m  9 m halves by a one-meter (40-inch) wide net.,divided,Rules,STATIVE
+"The top of the net is 2.43 m (8 ft 0 in) above the center of the court for men's competition, and 2.24 m (7 ft 4 in) for women's competition, varied for veterans and junior competitions.",is,ft,STATIVE
+"The minimum height clearance for indoor volleyball courts is 7 m (23 ft),",is,clearance,STATIVE
+although a clearance of 8 m (26 ft) is recommended.,recommended,clearance,STATIVE
+"A line from and parallel to the net is considered the ""attack line"".",considered,line,STATIVE
+"This ""3 meter"" (or ""10-foot"")",,,CANNOT_DECIDE
+"line divides the court into ""back row"" and ""front row"" areas (also back court and front court).",divides,line,STATIVE
+These are in turn divided into 3 areas each:,divided,These,STATIVE
+these are numbered,numbered,these,STATIVE
+"as follows,",follows,,CANNOT_DECIDE
+"starting from area ""1"",",starting,,DYNAMIC
+which is the position of the serving player:,is,which,STATIVE
+"After a team gains the serve (also known as siding out), its members must rotate in a clockwise direction,",rotate,members,DYNAMIC
+"with the player previously in area ""2"" moving to area ""1"" and so on, with the player from area ""1""",moving,area,DYNAMIC
+"moving to area ""6"".",moving,player,DYNAMIC
+The team courts are surrounded by an area,surrounded,courts,STATIVE
+called the free zone,called,area,STATIVE
+which is a minimum of 3 meters wide,is,zone,STATIVE
+and which the players may enter and play within after the service of the ball.,enter,minimum,DYNAMIC
+All lines denoting the boundaries of the team court and the attack zone are drawn or painted within the dimensions of the area,denoting,lines,STATIVE
+and are therefore a part of the court or zone.,are,,STATIVE
+"If a ball comes in contact with the line, the ball is considered to be ""in"".",considered,ball,STATIVE
+An antenna is placed on each side of the net perpendicular to the sideline,placed,antenna,DYNAMIC
+and is a vertical extension of the side boundary of the court.,is,,STATIVE
+A ball passing over the net must pass completely between the antenna,pass,ball,DYNAMIC
+(or their theoretical extensions to the ceiling) without contacting them.,contacting,ball,CANNOT_DECIDE
+=== The ball ===,,,CANNOT_DECIDE
+FIVB regulations state,,,STATIVE
+"that the ball must be spherical,",be,ball,STATIVE
+"made of leather or synthetic leather,",made,,DYNAMIC
+"have a circumference of 6567 cm, a weight of 260280 g and an inside pressure of 0.300.325 kg/cm2.",have,,STATIVE
+Other governing bodies have similar regulations.,have,bodies,STATIVE
+=== Game play ===,,,CANNOT_DECIDE
+Each team consists of six players.,consists,team,STATIVE
+"To get play started,",get,,CANNOT_DECIDE
+a team is chosen to serve by coin toss.,chosen,team,DYNAMIC
+A player from the serving team throws the ball into the air,throws,player,DYNAMIC
+and attempts to hit the ball,attempts,player,DYNAMIC
+so it passes over the net on a course such,passes,it,DYNAMIC
+that it will land in the opposing team's court,land,it,DYNAMIC
+(the serve).,,,CANNOT_DECIDE
+The opposing team must use a combination of no more than three contacts with the volleyball to return the ball to the opponent's side of the net.,use,team,DYNAMIC
+These contacts usually consist first of the bump,consist,contacts,STATIVE
+or pass,pass,contacts,CANNOT_DECIDE
+so that the ball's trajectory is aimed towards the player,aimed,trajectory,STATIVE
+designated as the setter; second of the set,designated,player,STATIVE
+(usually an over-hand pass using wrists to push finger-tips at the ball),using,pass,STATIVE
+by the setter so that the ball's trajectory is aimed towards a spot,aimed,trajectory,STATIVE
+"where one of the players designated as an attacker can hit it,",hit,one,DYNAMIC
+"and third by the attacker who spikes (jumping,",spikes,attacker,DYNAMIC
+raising one arm above the head,raising,,DYNAMIC
+and hitting the ball so it will move quickly down to the ground,hitting,,DYNAMIC
+on the opponent's court) to return the ball over the net.,return,attacker,CANNOT_DECIDE
+The team with possession of the ball that is trying to attack the ball as described is said to be on offense.,said,team,STATIVE
+The team on defense attempts to prevent the attacker from directing the ball into their court:,attempts,team,DYNAMIC
+"players at the net jump and reach above the top (and if possible, across the plane)",jump,players,DYNAMIC
+of the net to block the attacked ball.,block,net,CANNOT_DECIDE
+"If the ball is hit around, above, or through the block, the defensive players",hit,ball,DYNAMIC
+arranged in the rest of the court attempt to control the ball with a dig (usually a fore-arm pass of a hard-driven ball).,attempt,players,DYNAMIC
+"After a successful dig, the team transitions to offense.",transitions,team,DYNAMIC
+"The game continues in this manner,",continues,game,DYNAMIC
+"rallying back and forth, until the ball touches the court within the boundaries",rallying,manner,DYNAMIC
+or until an error is made.,made,ball,DYNAMIC
+"The most frequent errors that are made are either to fail to return the ball over the net within the allowed three touches,",are,errors,STATIVE
+or to cause the ball to land outside the court.,cause,,CANNOT_DECIDE
+"A ball is ""in""",is,ball,STATIVE
+"if any part of it touches a sideline or end-line, and a strong spike may compress the ball enough",touches,part,DYNAMIC
+when it lands that a ball,lands,it,DYNAMIC
+which at first appears to be going out may actually be in.,be,ball,STATIVE
+Players may travel well outside the court to play a ball,travel,Players,DYNAMIC
+that has gone over a sideline or end-line in the air.,gone,ball,DYNAMIC
+"Other common errors include a player touching the ball twice in succession,",include,errors,STATIVE
+"a player ""catching"" the ball,",catching,ball,DYNAMIC
+a player touching the net,touching,player,DYNAMIC
+"while attempting to play the ball, or a player penetrating under the net into the opponent's court.",attempting,while,DYNAMIC
+There are a large number of other errors,are,number,STATIVE
+"specified in the rules,",specified,errors,STATIVE
+although most of them are infrequent occurrences.,are,most,STATIVE
+These errors include back-row or libero players spiking the ball,include,errors,STATIVE
+or blocking (back-row players may spike the ball,blocking,players,DYNAMIC
+"if they jump from behind the attack line), players not being in the correct position",jump,they,STATIVE
+"when the ball is served,",served,ball,DYNAMIC
+"attacking the serve in the front court and above the height of the net,",attacking,spiking,DYNAMIC
+"using another player as a source of support to reach the ball,",using,spiking,DYNAMIC
+stepping over the back boundary line,stepping,spiking,DYNAMIC
+"when serving,",serving,,DYNAMIC
+"taking more than 8 seconds to serve,",taking,spiking,DYNAMIC
+or playing the ball,playing,players,DYNAMIC
+when it is above the opponent's court.,is,it,STATIVE
+=== Scoring ===,,,CANNOT_DECIDE
+"When the ball contacts the floor within the court boundaries or an error is made, the team",made,contacts,DYNAMIC
+"that did not make the error is awarded a point,",awarded,team,DYNAMIC
+whether they served the ball or not.,served,they,DYNAMIC
+"If the ball hits the line, the ball is counted as in.",counted,ball,DYNAMIC
+The team that won the point serves for the next point.,serves,team,DYNAMIC
+If the team that won the point,won,team,DYNAMIC
+"served in the previous point, the same player serves again.",serves,player,DYNAMIC
+"If the team that won the point did not serve the previous point, the players of the team rotate their position on the court in a clockwise manner.",rotate,players,DYNAMIC
+"The game continues,",continues,game,DYNAMIC
+with the first team to score 25 points by a two-point margin is awarded the set.,awarded,team,DYNAMIC
+Matches are best-of-five sets,are,Matches,STATIVE
+"and the fifth set, if necessary, is usually played to 15 points.",played,sets,DYNAMIC
+"(Scoring differs between leagues, tournaments, and levels;",differs,Scoring,STATIVE
+high schools sometimes play best-of-three to 25;,play,schools,DYNAMIC
+in the NCAA matches,,,CANNOT_DECIDE
+are played best-of-five to 25 as of the 2008 season.),played,matches,DYNAMIC

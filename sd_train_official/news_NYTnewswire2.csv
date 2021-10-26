@@ -1,0 +1,206 @@
+Clause,mainVerb,mainReferent,Gold
+NYT20020731.0375 2002-07-31 23:52,,,CANNOT_DECIDE
+A4928 &Cx1f; taf-z u s BC-FIG-OLY-ARREST-1STLD- 07-31 1937,s,u,CANNOT_DECIDE
+BC-FIG-OLY-ARREST-1STLD-WRITETHRU-NYT,,,CANNOT_DECIDE
+OLYMPIC JUDGING SCANDAL DEEPENS WITH ARREST OF RUSSIAN CRIME FIGURE,,,DYNAMIC
+(EDS: SUBS for rewriting throughout.),rewriting,,CANNOT_DECIDE
+By RICHARD SANDOMIR c.2002 New York Times News Service,,,CANNOT_DECIDE
+A Russian accused of being in organized crime was arrested in Italy on Wednesday on an American complaint,arrested,accused,DYNAMIC
+"that he conspired to fix the pairs figure skating and ice dancing competitions at the recent Salt Lake Winter Olympics,",conspired,he,DYNAMIC
+which were dominated by the sport's judging scandals.,dominated,Olympics,STATIVE
+"The Russian, Alimzhan Tokhtakhounov, who was arrested by the Italian authorities at his resort home in Forte dei Marmi,",arrested,Tokhtakhounov,DYNAMIC
+appeared to have a singular motivation for rigging the competitions:,appeared,Tokhtakhounov,STATIVE
+"getting a visa to return to France,",getting,,CANNOT_DECIDE
+where he once lived.,lived,he,STATIVE
+The federal prosecutor in Manhattan alleged in a criminal complaint,alleged,prosecutor,DYNAMIC
+that Tokhtakhounov had conceived and directed a scheme with a second man,conceived,Tokhtakhounov,DYNAMIC
+"alleged to be in the Russian mob and a member of the Russian Skating Federation to secure a gold medal for the top Russian pairs skaters and for the top French ice dancers,",alleged,man,STATIVE
+one of whom is a Russian.,is,one,STATIVE
+"The Russian team of Yelena Berezhnaya and Anton Sikharulidze narrowly won the gold medal over the Canadians Jamie Sale and David Pelletier,",won,team,DYNAMIC
+who were later awarded a duplicate gold medal because of the ensuing judging controversy.,awarded,Sale,DYNAMIC
+Sale and Pelletier declined to comment on Wednesday.,declined,Sale,DYNAMIC
+"The French ice dancers, Marina Anissina and Gwendal Peizerat, later won the gold over a Russian team.",won,Anissina,DYNAMIC
+The complaint casts the Salt Lake City figure skating scandal in a more serious light than the cronyism and vote-swapping,casts,complaint,DYNAMIC
+that have tainted the increasingly troubled sport.,tainted,cronyism,DYNAMIC
+"Over the past four years, four judges have been suspended,",suspended,judges,DYNAMIC
+including a Ukrainian,including,,STATIVE
+who was taped by a Canadian judge,taped,Ukrainian,DYNAMIC
+"detailing the order of finish for the ice dancers before the 1998 Winter Games in Nagano, Japan.",detailing,,DYNAMIC
+If convicted of the charges against him,convicted,,DYNAMIC
+"-- conspiracy to commit wire fraud and conspiracy to commit bribery, both felonies _",commit,conspiracy,CANNOT_DECIDE
+"Tokhtakhounov faces maximum prison time of 10 years and a fine of $500,000 or more.",faces,Tokhtakhounov,STATIVE
+The United States is seeking his extradition from Italy.,seeking,States,DYNAMIC
+"The Italian authorities provided the FBI with information from wiretaps of Tokhtakhounov's home telephone, part of an investigation into his criminal activities.",provided,authorities,DYNAMIC
+The FBI said,said,FBI,DYNAMIC
+"explicit conversations about the scheme had been recorded between Tokhtakhounov and his conspirators, and between him and Anissina,",recorded,conversations,DYNAMIC
+who was born in Russia,born,Anissina,DYNAMIC
+"and skated for France, and her mother.",skated,Anissina,DYNAMIC
+The FBI cited a vivid conversation with Anissina's mother,cited,FBI,DYNAMIC
+in which Tokhtakhounov assured her,assured,Tokhtakhounov,DYNAMIC
+"that even if her daughter ""falls,",falls,daughter,DYNAMIC
+we will make sure,make,we,DYNAMIC
+"she is No. 1.""",is,she,STATIVE
+"After the Winter Olympics, a French judge, Marie-Reine Le Gougne, was suspended by the International Skating Union for not reporting pressure",suspended,judge,DYNAMIC
+she said,said,she,DYNAMIC
+"was put on her by Didier Gailhaguet, president of the French Skating Federation, to vote for the Russian pairs team.",put,,DYNAMIC
+She later recanted,recanted,She,DYNAMIC
+and said,said,She,DYNAMIC
+that Canadian officials had pressured her.,pressured,officials,DYNAMIC
+The ISU later suspended Le Gougne and Gailhaguet for three years.,suspended,ISU,DYNAMIC
+"The federal complaint did not describe the possibility of a wider conspiracy or any contact between Tokhtakhounov, or his unnamed co-conspirators, with Le Gougne.",describe,complaint,DYNAMIC
+"""We have alleged no connection between this man with any officials other than with Russian federation officials,""",alleged,We,DYNAMIC
+"James B. Comey, the U.S. attorney for the Southern District of New York, said at a news conference.",said,Comey,DYNAMIC
+He said,said,He,DYNAMIC
+"that Tokhtakhounov ""reached out to a co-conspirator,",reached,Tokhtakhounov,DYNAMIC
+"somebody connected to the Russian Skating Federation,",connected,somebody,STATIVE
+"who did the legwork for him.""",did,Federation,DYNAMIC
+"Maxwell Miller, Le Gougne's lawyer in Salt Lake City, said",said,Miller,DYNAMIC
+no evidence of organized crime influence came up in her suspension hearings before the ISU,came,evidence,DYNAMIC
+"""I think",think,I,STATIVE
+this situation vindicates the argument,vindicates,situation,DYNAMIC
+"that we've made all along,""",made,we,DYNAMIC
+he said.,said,he,DYNAMIC
+"""She's a scapegoat and a target of a corrupt system",'s,She,STATIVE
+"and was unfairly singled out.""",singled,scapegoat,DYNAMIC
+"Tokhtakhounov, whose age was given by Comey as 53 or 62,",given,age,DYNAMIC
+"is a ""major figure in international Eurasian organized crime,""",is,Tokhtakhounov,STATIVE
+Comey said.,said,Comey,DYNAMIC
+"Born in Tashkent, Uzbekistan, and now a Russian citizen,",Born,he,CANNOT_DECIDE
+"he is known as Taivanchik, or Little Taiwanese, for his Central Asian ethnic background.",known,he,STATIVE
+"Since the collapse of the Soviet Union, he has been implicated in arms trading and Russian art smuggling, and in the Russian news media",implicated,he,DYNAMIC
+he was accused of complicity in a plot to extort $10 million from the head of a Russian sports foundation.,accused,he,DYNAMIC
+"He appears to have moved to France in 1989,",appears,He,STATIVE
+"according to news media reports,",according,,STATIVE
+and is reported to have Israeli citizenship also.,reported,He,STATIVE
+Comey said,said,Comey,DYNAMIC
+"Tokhtakhounov had three residences in Italy: Forte dei Marmi, Rome and Milan.",had,Tokhtakhounov,STATIVE
+"The complaint against Tokhtakhounov's traces his contact with figure skating to 2000, when he proposed to Gailhaguet the creation of a professional hockey team in Paris",traces,complaint,DYNAMIC
+that would provide revenue for the French Skating Federation.,provide,team,DYNAMIC
+"( Gailhaguet and Anissina are not referred to by name in an accompanying FBI agent's affidavit,",referred,Gailhaguet,STATIVE
+but by their descriptions their identities are obvious.),are,identities,STATIVE
+"In return, Gailhaguet told the FBI on Feb. 23",told,Gailhaguet,DYNAMIC
+"as the Olympics were taking place,",taking,Olympics,DYNAMIC
+"Tokhtakhounov asked for Gailhaguet's help in renewing his French visa,",asked,told,DYNAMIC
+which was about to expire.,was,,STATIVE
+"But when Gailhaguet sought guidance from a French government official,",sought,Gailhaguet,DYNAMIC
+he was told,told,he,DYNAMIC
+"that ""Tokhtakhounov's money is bad,""",is,money,STATIVE
+the affidavit said.,said,affidavit,DYNAMIC
+"The federal complaint offers many details of the alleged conspiracy,",offers,complaint,STATIVE
+including excerpts from a transcript of the Italian wiretaps.,including,,STATIVE
+later suspended Le Gougne and Gailhaguet for three years.,suspended,later,DYNAMIC
+"The federal complaint did not describe the possibility of a wider conspiracy or any contact between Tokhtakhounov, or his unnamed co-conspirators, with Le Gougne.",describe,complaint,DYNAMIC
+"""We have alleged no connection between this man with any officials other than with Russian federation officials,""",alleged,We,DYNAMIC
+"James B. Comey, the U.S. attorney for the Southern District of New York, said at a news conference.",said,Comey,DYNAMIC
+He said,said,He,DYNAMIC
+"that Tokhtakhounov ""reached out to a co-conspirator,",reached,Tokhtakhounov,DYNAMIC
+"somebody connected to the Russian Skating Federation,",connected,somebody,STATIVE
+"who did the legwork for him.""",did,Federation,DYNAMIC
+"Maxwell Miller, Le Gougne's lawyer in Salt Lake City, said",said,Miller,DYNAMIC
+no evidence of organized crime influence came up in her suspension hearings before the ISU,came,evidence,DYNAMIC
+"""I think",think,I,STATIVE
+this situation vindicates the argument,vindicates,situation,DYNAMIC
+"that we've made all along,""",made,we,DYNAMIC
+he said.,said,he,DYNAMIC
+"""She's a scapegoat and a target of a corrupt system",'s,She,STATIVE
+"and was unfairly singled out.""",singled,scapegoat,DYNAMIC
+"Tokhtakhounov, whose age was given by Comey as 53 or 62,",given,age,DYNAMIC
+"is a ""major figure in international Eurasian organized crime,""",is,Tokhtakhounov,STATIVE
+Comey said.,said,Comey,DYNAMIC
+"Born in Tashkent, Uzbekistan, and now a Russian citizen,",Born,he,CANNOT_DECIDE
+"he is known as Taivanchik, or Little Taiwanese, for his Central Asian ethnic background.",known,he,STATIVE
+"Since the collapse of the Soviet Union, he has been implicated in arms trading and Russian art smuggling, and in the Russian news media",implicated,he,DYNAMIC
+he was accused of complicity in a plot to extort $10 million from the head of a Russian sports foundation.,accused,he,DYNAMIC
+"He appears to have moved to France in 1989,",appears,He,DYNAMIC
+"according to news media reports,",according,,STATIVE
+and is reported to have Israeli citizenship also.,reported,He,STATIVE
+Comey said,said,Comey,DYNAMIC
+"Tokhtakhounov had three residences in Italy: Forte dei Marmi, Rome and Milan.",had,Tokhtakhounov,STATIVE
+"The complaint against Tokhtakhounov's traces his contact with figure skating to 2000, when he proposed to Gailhaguet the creation of a professional hockey team in Paris",traces,complaint,DYNAMIC
+that would provide revenue for the French Skating Federation.,provide,team,DYNAMIC
+"( Gailhaguet and Anissina are not referred to by name in an accompanying FBI agent's affidavit,",referred,Gailhaguet,DYNAMIC
+but by their descriptions their identities are obvious.),are,identities,STATIVE
+"In return, Gailhaguet told the FBI on Feb. 23",told,Gailhaguet,DYNAMIC
+"as the Olympics were taking place,",taking,Olympics,DYNAMIC
+"Tokhtakhounov asked for Gailhaguet's help in renewing his French visa,",asked,told,DYNAMIC
+which was about to expire.,was,,STATIVE
+"But when Gailhaguet sought guidance from a French government official,",sought,Gailhaguet,DYNAMIC
+"he was told that """,told,he,DYNAMIC
+"Tokhtakhounov's money is bad,""",is,money,STATIVE
+the affidavit said.,said,affidavit,DYNAMIC
+"The federal complaint offers many details of the alleged conspiracy,",offers,complaint,STATIVE
+including excerpts from a transcript of the Italian wiretaps.,including,,STATIVE
+"On Feb. 5, the Italian wiretaps recorded Tokhtakhounov's request to someone",recorded,wiretaps,DYNAMIC
+identified as another Russian mobster to get the number of a Russian Skating Federation official.,identified,someone,DYNAMIC
+The second mobster told Tokhtakhounov,told,mobster,DYNAMIC
+"that the federation official ""is close to us --",is,official,STATIVE
+"he is a good guy,",is,he,STATIVE
+"he will do it.""",do,he,DYNAMIC
+Tokhtakhounov's action apparently came,came,action,DYNAMIC
+soon after he said,said,he,DYNAMIC
+"he received a phone call from the mother of the female ice dancer, presumably Anissina.",received,he,DYNAMIC
+"A week later, after Berezhnaya and Sikharulidze's pairs victory, the mobsters spoke again.",spoke,mobsters,DYNAMIC
+The second mobster expressed satisfaction with the outcome of the competition,expressed,mobster,DYNAMIC
+and suggested,suggested,mobster,DYNAMIC
+"that Tokhtakhounov could call the ice dancer's ""mother or the father",call,Tokhtakhounov,DYNAMIC
+and tell them,tell,Tokhtakhounov,DYNAMIC
+"everything will be OK"" He appears to be referring to Anissina.",be,everything,STATIVE
+"The second mobster added,",added,mobster,DYNAMIC
+"""Our Sikharulidze fell, the Canadians were 10 times better,",fell,added,DYNAMIC
+"and in spite of that the French with their vote gave us first place.""",gave,Sikharulidze,DYNAMIC
+He added:,added,He,DYNAMIC
+"""Everything is going the way",going,Everything,DYNAMIC
+"you need it.""",need,you,STATIVE
+"They also discussed the coming judging in ice dancing,",discussed,They,DYNAMIC
+in which the French and the Italian teams were the favorites.,were,teams,STATIVE
+The second mobster said,said,mobster,DYNAMIC
+"the French pair had ""only three judges,""",had,said,STATIVE
+and of the two judges they needed to win the gold medal,needed,pair,STATIVE
+"""one is ours,",is,one,STATIVE
+"and the other our friends will give them.""",give,pair,DYNAMIC
+Their concern for lining up more votes,lining,concern,CANNOT_DECIDE
+than they thought,thought,votes,DYNAMIC
+the Italian ice dancers had may stem from the Italian team's defeat of Anissina and Peizerat in the 2001 world championships.,stem,concern,DYNAMIC
+But they seemed pleased,seemed,they,STATIVE
+that the Russian pair's victory was achieved with the French judge's vote.,achieved,victory,DYNAMIC
+"""The French have nothing but the ice dancing,""",have,French,STATIVE
+the second mobster said.,said,mobster,DYNAMIC
+"Again, Tokhtakhounov voiced his need to have his French visa extended,",voiced,Tokhtakhounov,DYNAMIC
+and he said,said,Tokhtakhounov,DYNAMIC
+Anissina had tried to help him,tried,said,DYNAMIC
+but Gailhaguet had thwarted her.,thwarted,Anissina,DYNAMIC
+"Also on Feb. 12, a week before the ice dancing finals, Tokhtakhounov told Anissina's mother in a telephone call",told,Tokhtakhounov,DYNAMIC
+"that the Russian federation official ""had called me from America"" to assure",called,official,DYNAMIC
+"that ""we are going to make"" Anissina ""an Olympic champion.""",going,we,DYNAMIC
+He told her,told,He,DYNAMIC
+"that the Russian skating federation official ""will help",help,official,DYNAMIC
+"-- he has two or three judges.""",has,he,STATIVE
+"On or about March 7, in a conversation between Tokhtakhounov and Anissina, she said",said,she,DYNAMIC
+she would have won the event without his assistance,won,she,DYNAMIC
+because the Russian judge did not vote for her and her partner.,vote,judge,DYNAMIC
+She also apologized,apologized,She,DYNAMIC
+"for not calling to thank him earlier,",calling,,DYNAMIC
+but that Gailhaguet had forbidden her.,forbidden,Gailhaguet,DYNAMIC
+She told Tokhtakhounov,told,She,DYNAMIC
+that she knew,knew,she,STATIVE
+the FBI had interviewed Gailhaguet because of information,interviewed,FBI,DYNAMIC
+"that Tokhtakhounov ""was involved with the results"" of the ice dancing.",involved,information,STATIVE
+He assured her,assured,He,DYNAMIC
+"that it was nonsense,",was,it,STATIVE
+"but that Gailhaguet ""knows my name very well --",knows,nonsense,STATIVE
+"he tried to help me,",tried,well,DYNAMIC
+and later he made stuff up to scare you,made,he,DYNAMIC
+"so you would not connect me to him even more.""",connect,you,DYNAMIC
+The conversations seem to indicate a familiarity between Tokhtakhounov and Anissina.,seem,conversations,STATIVE
+"Tass, the official Russian news agency, reported",reported,Tass,DYNAMIC
+that Anissina attended a ceremony in 1999 at a Paris hotel,attended,Anissina,DYNAMIC
+honoring Tokhtakhounov for his philanthropy.,honoring,attended,DYNAMIC
+That Russian organized crime may have infiltrated international sport,infiltrated,crime,DYNAMIC
+"at the Olympics stunned Phyllis Howard, president of the U.S. Figure Skating Association.",stunned,Olympics,DYNAMIC
+"""This is a criminal act",is,This,STATIVE
+"and it certainly puts things in a different league,""",puts,act,DYNAMIC
+Howard said.,said,Howard,DYNAMIC
+"Lloyd Ward, chief executive officer of the U.S. Olympic Committee, said in a statement,",said,Ward,DYNAMIC
+"""Competitors from all nations must be assured",assured,Competitors,DYNAMIC
+"that they compete on a level playing field.""",compete,they,DYNAMIC
+NYT-07-31-02 2352EDT,,,CANNOT_DECIDE

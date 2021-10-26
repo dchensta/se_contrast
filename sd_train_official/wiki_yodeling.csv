@@ -1,0 +1,109 @@
+Clause,mainVerb,mainReferent,Gold
+Yodeling (also yodelling or jodeling),Yodeling,form,CANNOT_DECIDE
+is a form of singing,is,,STATIVE
+which involves repeated changes of pitch during a single note.,involves,form,STATIVE
+The singer quickly switches between the low-pitch chest register,switches,singer,DYNAMIC
+"(or ""chest voice"") and the high-pitch head register or falsetto.",,,CANNOT_DECIDE
+The English word yodel is derived from the German,derived,yodel,STATIVE
+"(and originally Austro-Bavarian) word jodeln, meaning",meaning,jodeln,STATIVE
+"""to utter the syllable jo"" (pronounced ""yo"" in English).",utter,,DYNAMIC
+This vocal technique is used in many cultures worldwide.,used,technique,DYNAMIC
+"Alpine yodeling was a longtime rural tradition in Europe,",was,yodeling,STATIVE
+and became popular in the 1830s as an entertainment in theaters and music halls.,became,tradition,DYNAMIC
+"In Central Africa, yodeling was a form",was,yodeling,STATIVE
+of communication announcing the yodeler's location and identity.,announcing,form,DYNAMIC
+"In the United States, traveling minstrels were yodeling in the 1800s, and in 1920",were,minstrels,DYNAMIC
+the Victor recording company listed 17 yodels in their catalogue.,listed,minstrels,DYNAMIC
+Music historians credit the first country recording to include yodeling to Riley Puckett in 1924.,credit,historians,STATIVE
+"In 1928, blending Alpine yodeling with traditional work, blues, hobo, and cowboy music, Jimmie Rodgers released his recording ""Blue Yodel No. 1"".",released,Rodgers,DYNAMIC
+Rodger's Blue Yodel created an instant national craze for yodeling in the United States,created,Yodel,DYNAMIC
+"and, according to a black musician",according,,STATIVE
+"who lived near Rodgers in Mississippi, everyone, both black and white alike,",lived,musician,STATIVE
+began to copy Rodgers.,began,Yodel,DYNAMIC
+"The popularity lasted through the 1940s,",lasted,popularity,DYNAMIC
+but by the 1950s it became rare to hear yodeling in Country or Western music.,became,popularity,DYNAMIC
+==History==,,,CANNOT_DECIDE
+Most experts agree,agree,experts,STATIVE
+that yodeling was used in the Central Alps by herders calling their stock,used,yodeling,DYNAMIC
+or to communicate between Alpine villages.,communicate,,CANNOT_DECIDE
+"The multi-pitched ""yelling"" later became part of the region's traditional lore and musical expression.",became,yelling,DYNAMIC
+"The earliest record of a yodel is in 1545,",is,record,STATIVE
+"where it is described as ""the call of a cowherd from Appenzell"".",described,it,STATIVE
+"In Persian classical music, singers frequently use tahrir",use,singers,DYNAMIC
+"(""tremolo"" in English), a yodeling technique that oscillates on neighbor tones.",oscillates,technique,DYNAMIC
+"It is similar to the Swiss yodel,",is,It,STATIVE
+and is used as an ornament or trill in phrases,used,It,DYNAMIC
+"which have long syllables,",syllables,phrases,STATIVE
+and usually falls at the end of a phrase.,falls,It,DYNAMIC
+"Tahrir is also prevalent in Azerbaijani, Bulgarian, Macedonian, Turkish, Armenian, Afghan, and Central Asian musical traditions, and to a lesser extent in Pakistani and some Indian music.",is,Tahrir,STATIVE
+"In Georgian traditional music, yodeling takes the form of krimanchuli technique,",takes,yodeling,STATIVE
+and is used as a top part in three/four part polyphony.,used,yodeling,DYNAMIC
+"In Central Africa Pygmy singers use yodels within their elaborate polyphonic singing,",use,singers,DYNAMIC
+and the Shona people of Zimbabwe sometimes yodel,yodel,singers,DYNAMIC
+while playing the mbira.,playing,,DYNAMIC
+The Mbuti of the Congo incorporate distinctive whistles and yodels,incorporate,Mbuti,DYNAMIC
+into their songs.,,,CANNOT_DECIDE
+"Living from hunting and gathering,",Living,they,STATIVE
+they sing hunting and harvest songs,sing,they,DYNAMIC
+and use yodelling to call each other.,use,they,DYNAMIC
+"In 1952, ethnomusicologist Hugh Tracey recorded their songs",recorded,Tracey,DYNAMIC
+and they have been released on compact discs.,released,Tracey,DYNAMIC
+British stage performances by yodelers were common in the nineteenth century.,were,performances,STATIVE
+"Sir Walter Scott wrote in his June 4, 1830, journal entry",wrote,Scott,DYNAMIC
+"that ""Anne wants me to go hear the Tyrolese Minstrels",wants,Anne,STATIVE
+"but...I cannot but think their yodeling...is a variation upon the tones of a jackass.""",think,I,STATIVE
+==Technique==,,,CANNOT_DECIDE
+"Human voices have at least two distinct vocal registers,",have,Technique,STATIVE
+"called the ""head"" and ""chest"" voices.",called,registers,STATIVE
+Most people can sing tones within a certain range of lower pitches in their chest voice and tones within a certain range of higher pitch in their head voice.,sing,people,DYNAMIC
+"Falsetto is an ""unsupported"" register",is,Falsetto,STATIVE
+forcing vocal cords in a higher pitch without any head or chest voice air support.,forcing,register,DYNAMIC
+"The range of overlap between registers,",,,CANNOT_DECIDE
+"called the passaggio, can be challenging for untrained singers.",be,range,STATIVE
+"Experienced singers can control their voices in this range,",control,singers,DYNAMIC
+easily switching between registers.,switching,singers,DYNAMIC
+Yodeling is a version of this technique,is,Yodeling,STATIVE
+in which a singer might change register several times in only a few seconds and at a high volume.,change,singer,DYNAMIC
+Repeated alternation between registers at a singer's passaggio pitch range produces a very distinctive sound.,produces,alternation,DYNAMIC
+"For example, in the famous ""Yodel - Ay - EEE - Oooo"", the ""EEE"" is sung in the head voice",sung,EEE,DYNAMIC
+while all other syllables are in the chest voice.,are,syllables,STATIVE
+"Bart Plantenga, author of Yodel-Ay-Ee-Oooo: The Secret History of Yodeling Around the World, explains the technique:",explains,Plantenga,DYNAMIC
+"""The basic yodel requires sudden alterations of vocal register from a low-pitched chest voice to high falsetto tones",requires,yodel,STATIVE
+"sung on vowel sounds: AH, OH,",sung,tones,DYNAMIC
+OO for chest notes and AY,OO,AH,CANNOT_DECIDE
+or EE for the falsetto.,,,CANNOT_DECIDE
+"Consonants are used as levers to launch the dramatic leap from low to high,",used,Consonants,DYNAMIC
+"giving it its unique ear-penetrating and distance-spanning power.""",giving,launch,DYNAMIC
+The best places for Alpine-style yodelling are those with an echo.,are,places,STATIVE
+"Ideal natural locations include not only mountain ranges but lakes, rocky gorges or shorelines, and high or open areas with one or more distant rock faces.",include,locations,STATIVE
+== Yodeling in the United States ==,,,CANNOT_DECIDE
+It is thought,thought,Yodeling,STATIVE
+that yodeling was first introduced to the United States by German immigrants in Pennsylvania in the early 1800s.,introduced,yodeling,DYNAMIC
+As the new settlers traveled south through the Appalachian Mountains and beyond into the Deep South,traveled,settlers,DYNAMIC
+"they came into contact with Scots-Irish immigrants, Scandinavians",came,settlers,DYNAMIC
+"(practitioners of a unique yodeling called klning),",called,practitioners,STATIVE
+and other nationalities including African slaves,including,,STATIVE
+"who communicated with ""field hollers"", described by Frederick Law Olmsted in 1853 as a ""long, loud, musical shout,",described,nationalities,DYNAMIC
+"rising and falling and breaking into falsetto"".",rising,shout,DYNAMIC
+"In 1839, the Tyrolese Minstrels toured the United States",toured,Minstrels,DYNAMIC
+and started an American craze for Alpine music.,started,Minstrels,DYNAMIC
+"During the 1840s, dozens of German, Swiss, and Austrian singing groups crisscrossed the country entertaining audiences with a combination of singing, yodeling, and Alpine harmony.",crisscrossed,dozens,DYNAMIC
+The success of the European groups led to the formation of many American family singing groups as well.,led,success,DYNAMIC
+The most popular was the Hutchison Family Singers,was,popular,STATIVE
+"who toured,",toured,Singers,DYNAMIC
+singing harmony and yodeling.,singing,,DYNAMIC
+"Minstrel shows parodied the Hutchison's yodeling with their own,",parodied,shows,DYNAMIC
+"calling it ""Tyrolesian business"".",calling,shows,DYNAMIC
+"In 1853, Christy's Minstrels burlesqued (mocked) the Hutchinson Family singing '",burlesqued,Minstrels,DYNAMIC
+We Come from the Hills with Tyrolean Echo'.,Come,We,STATIVE
+Other traveling American minstrels were yodeling in the United States as well.,yodeling,minstrels,DYNAMIC
+"Tom Christian was the first American yodeling minstrel,",was,Christian,STATIVE
+appearing in 1847 in Chicago.,appearing,minstrel,DYNAMIC
+Recordings of yodelers were made in 1892 and in 1920,made,Recordings,DYNAMIC
+"the Victor recording company listed 17 yodels in their catalogue, many of them by George Watson, the most successful yodeler of the time.",listed,Recordings,DYNAMIC
+In 1897 Watson recorded,recorded,Watson,DYNAMIC
+"the song, ""Sleep, Baby, Sleep"" which was later recorded in 1927 by Riley Puckett as the second yodeling record ever made (the first was ""Rock All Our Babies to Sleep"").",Sleep,,DYNAMIC
+"""Sleep Baby Sleep"" was also the first song",was,Sleep,STATIVE
+ever recorded by Jimmie Rodgers (at the Bristol sessions);,recorded,song,DYNAMIC
+Rodgers would eventually come to be known as the father of both country music and American yodeling,come,Rodgers,DYNAMIC
+when he combined the yodel with southern African-American blues.,combined,he,DYNAMIC

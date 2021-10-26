@@ -1,0 +1,95 @@
+Clause,mainVerb,mainReferent,Gold
+Selling Land to Jews,Selling,dealer,CANNOT_DECIDE
+"Last week, a 70-year-old Palestinian real-estate dealer was murdered",murdered,dealer,DYNAMIC
+after he violated a new edict by the Palestinian Authority,violated,he,DYNAMIC
+making the sale of Arab-owned land to Jews a capital crime.,making,he,DYNAMIC
+The issue of land sales has a long history as a subtheme of the Jewish-Arab struggle.,has,issue,STATIVE
+The 19 th century Jewish intellectuals who conceived of Zionism,conceived,intellectuals,STATIVE
+-- the idea that Jewish survival depends on the establishment of a Jewish state in the biblical land of Israel,depends,idea,STATIVE
+-- never worked out their ideology's logistics.,worked,intellectuals,DYNAMIC
+"Jewish settlement in Palestine, then part of the decaying Ottoman Empire, only proceeded piecemeal.",proceeded,settlement,DYNAMIC
+"In the 1880s and 1890s, about 25,000 Jews immigrated to Palestine.",immigrated,Jews,DYNAMIC
+"Most integrated into multiethnic communities in the cities of Jaffa, Tiberias, and Jerusalem.",integrated,,DYNAMIC
+"A second wave of 30,000 immigrants came between 1905 and 1914,",came,wave,DYNAMIC
+many of whom were Labor Zionists,were,of,STATIVE
+who wanted the Jewish state to be socialist.,wanted,Zionists,STATIVE
+"Extolling the virtues of manual labor,",Extolling,they,DYNAMIC
+they acquired huge tracts of farmland from absentee Syrian and Lebanese landlords.,acquired,they,DYNAMIC
+"The ""New Palestinian Jew ,"" they said,",said,they,DYNAMIC
+needed to be physically tougher than the brainy shopkeepers,needed,Jew,STATIVE
+who had been trampled in Europe.,trampled,shopkeepers,DYNAMIC
+The Jewish National Fund was founded in 1904 for the purpose of buying up land from Arabs.,founded,Fund,DYNAMIC
+"After the Ottoman Empire's defeat in World War I, Britain acquired Palestine",acquired,Britain,DYNAMIC
+and promised (in the Balfour Declaration) the creation of a Jewish state.,promised,Britain,DYNAMIC
+"In anticipation, Jews in Palestine began laying the groundwork for a greater sense of national identity.",began,Jews,DYNAMIC
+The Jewish National Fund's charter was amended to mandate,amended,charter,DYNAMIC
+that Jewish land could never be resold to Arabs,resold,land,DYNAMIC
+or opened to non-Jewish employees.,opened,land,DYNAMIC
+"Following Jewish National Fund guidelines, farmers evicted Palestinian peasants",Following,,DYNAMIC
+living on the newly acquired plots.,living,evicted,STATIVE
+The total number displaced was small.,was,number,STATIVE
+"By 1946, Jews owned only 7 percent of Palestine,",owned,Jews,STATIVE
+but the perceived threat of displacement was widespread among Arabs.,was,threat,STATIVE
+"Starting around 1910,",Starting,newspapers,DYNAMIC
+Arab newspapers railed against Jewish land acquisition.,railed,newspapers,DYNAMIC
+"Among the peasantry, rumors spread alleging an Anglo-Jewish conspiracy to remove Muslims from Palestine.",spread,rumors,DYNAMIC
+"Anxious to avoid being blamed for Palestinian landlessness, British officials began imposing token restrictions on Jewish land purchase in 1940.",began,officials,DYNAMIC
+They publicly supported Arab complaints,supported,They,DYNAMIC
+that Jews were driving Arabs off the land.,driving,Jews,DYNAMIC
+Palestinians say evictions destroyed their way,say,Palestinians,DYNAMIC
+"of life, forcing them to move from rural Palestine to crowded cities in search of work.",forcing,evictions,DYNAMIC
+They also say,say,They,DYNAMIC
+that the better-educated Jewish buyers had duped illiterate peasants into selling property.,duped,buyers,DYNAMIC
+"The Arab National Fund, created in 1931 by wealthy Arab families to purchase land for displaced peasants,",created,Fund,DYNAMIC
+was ineffective.,was,Fund,STATIVE
+"During the 1930s, Palestinian responses turned violent .",turned,responses,DYNAMIC
+"In 1934 Jerusalem's mufti, the spiritual leader of the city's Muslims, decreed",decreed,mufti,DYNAMIC
+that believers were duty bound to murder other Muslims,bound,believers,STATIVE
+who sold land to Jews.,sold,Muslims,DYNAMIC
+"Arabs, who outnumbered Jews by more than 2-to-1,",outnumbered,Arabs,STATIVE
+revolted against Jewish land acquisition and British promises of Jewish nationhood.,revolted,Arabs,DYNAMIC
+"About 5,000 Arabs and several hundred Jews were killed in riots and guerrilla attacks between 1936 and 1939.",killed,Arabs,DYNAMIC
+Zionists argued,argued,Zionists,DYNAMIC
+that the land purchases benefited all the territory's residents.,benefited,purchases,DYNAMIC
+"Jewish immigrants introduced modern agricultural technology ,",introduced,immigrants,DYNAMIC
+which increased productivity,increased,technology,DYNAMIC
+and helped fill the markets with food to feed the growing Arab population.,helped,technology,DYNAMIC
+Zionists also maintain,maintain,Zionists,STATIVE
+that Jews became a lucrative market for Arab-manufactured goods.,became,Jews,DYNAMIC
+Some historians trace Palestinian landlessness to Palestine's entry into the world economy in the 1880s.,trace,historians,DYNAMIC
+Urban commerce drew some peasants from their family farms.,drew,commerce,DYNAMIC
+Other subsistence farmers found themselves competing with cash-crop entrepreneurs,found,farmers,DYNAMIC
+(Jews and Arabs) whose successes changed the face of Palestinian agriculture.,changed,successes,DYNAMIC
+"Jewish land purchases were not the primary factor,",were,purchases,STATIVE
+these historians say.,say,historians,DYNAMIC
+Very little of the land owned today by individual Jews and the Israeli government was acquired by purchase.,acquired,little,DYNAMIC
+Jewish sovereignty and ownership were established the way,established,ownership,DYNAMIC
+these things usually are: by war.,are,things,DYNAMIC
+Israel confiscated all land,confiscated,Israel,DYNAMIC
+"owned by the British government, mostly desert and mountains, after the 1948 War of Independence .",owned,land,STATIVE
+"Property owned by Arab refugees,",owned,Property,STATIVE
+who either fled war zones,fled,refugees,DYNAMIC
+"or were forced from their homes by the Israeli army (another long-standing controversy),",forced,refugees,DYNAMIC
+was also taken over by individual Jews,taken,Property,DYNAMIC
+or confiscated by the government.,confiscated,Property,DYNAMIC
+"Many Palestinians, however, stayed put,",stayed,Palestinians,STATIVE
+"retained their land,",retained,Palestinians,DYNAMIC
+and became Israeli citizens.,became,Palestinians,DYNAMIC
+A new school of Jewish historians is more critical of the dislocations,is,school,STATIVE
+"caused by Jewish land acquisition,",caused,dislocations,DYNAMIC
+and concludes,concludes,school,DYNAMIC
+that it was not always fair.,was,it,STATIVE
+One popular theory compares Zionism's imperative to acquire land to the American idea of Manifest Destiny (that it was the United States' God-given right to rule from coast to coast).,compares,theory,DYNAMIC
+Others argue,argue,Others,DYNAMIC
+that it was a mistake for the Jewish National Fund to prohibit non-Jewish laborers from the newly purchased lands.,was,it,STATIVE
+"However, even these revisionists agree",agree,revisionists,STATIVE
+that the Jews had not intended to evict Muslims from Palestine.,intended,Jews,DYNAMIC
+Israeli security officials believed,believed,officials,STATIVE
+that the murdered real-estate dealer was executed by plainclothes Palestinian Authority police.,executed,dealer,DYNAMIC
+"The Palestinian Authority's decision to make the sale of land to Jews a capital crime reflects Palestinian frustration with Israeli land use, specifically the creation of a new Jewish neighborhood now under construction in East Jerusalem.",reflects,decision,STATIVE
+"In the past, death threats have done little to deter sales of land.",done,threats,DYNAMIC
+"According to British land records, the Jerusalem mufti's 1934 decree failed to prevent sales.",According,,DYNAMIC
+But that decree did not have the power of civil law behind it.,have,decree,STATIVE
+"Nevertheless, the incentives to sell at the market price are substantial,",are,incentives,STATIVE
+"and if the threats create new scarcities,",create,threats,DYNAMIC
+higher prices will probably encourage sellers to unload their land.,encourage,incentives,DYNAMIC

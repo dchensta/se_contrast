@@ -1,0 +1,33 @@
+Clause,mainVerb,mainReferent,Gold
+The Yuqui are an indigenous people of Bolivia.,are,Yuqui,STATIVE
+They primarily live in the Santa Cruz and Cochabamba Departments of eastern Bolivia.,live,They,STATIVE
+==Name==,,,CANNOT_DECIDE
+"""Yuqui"" has been used by Spanish-speakers since the colonial period.",used,Yuqui,DYNAMIC
+A possibility is the word,is,possibility,STATIVE
+"derived from ""Yaqui,""",derived,word,DYNAMIC
+"meaning ""younger relative.""",meaning,Yaqui,STATIVE
+"Their autonym is ""Mbia,""",is,autonym,STATIVE
+"a Tupi-Guaran term means ""the people.""",means,Mbia,STATIVE
+"They are also known as the Bia, Yuki, Yuk, or Yuqu people.",known,They,STATIVE
+==Language==,,,CANNOT_DECIDE
+"The Yuqui language is a Guaray language of the Tup-Guaran language family,",is,=,STATIVE
+written in the Latin script.,written,family,DYNAMIC
+The Bible was partially translated into Yuqui in 2000.,translated,Bible,DYNAMIC
+==History==,,,CANNOT_DECIDE
+Their first Spanish contact was in 1548.,was,History,STATIVE
+Linguists believe,believe,Linguists,STATIVE
+that Yuqui people may have separated from the Siriono people in the 17th century.,separated,people,DYNAMIC
+"According to their own history, Yuqui people experienced disease contracted from and warfare with local Bolivians.",According,,DYNAMIC
+In the 1950s the Bolivian government came into conflict with Yuqui people.,came,government,DYNAMIC
+Outsiders thought,thought,Outsiders,STATIVE
+that Yuqui people were part of the Siriono people;,were,people,STATIVE
+"however, after sustained contact in the 1960s, a Siriono language-speaker attempted to communicate to Yuquis",attempted,language-speaker,DYNAMIC
+and discovered,discovered,language-speaker,DYNAMIC
+they were a distinct ethnic group.,were,they,STATIVE
+"In 1953, there were only 43 Yuquis,",were,Yuquis,STATIVE
+"while in 1990, there were 130.",were,130,STATIVE
+==Subsistence==,,,CANNOT_DECIDE
+"Yuqui traditionally have been nomadic and fished, hunted,",been,Yuqui,STATIVE
+and gathered produce instead of farming.,gathered,Yuqui,DYNAMIC
+"Today they hunt fish, farm, sell crafts,",hunt,they,DYNAMIC
+and work as paid laborers.,paid,,DYNAMIC

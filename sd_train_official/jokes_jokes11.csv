@@ -1,0 +1,222 @@
+Clause,mainVerb,mainReferent,Gold
+Airline Joke.,,,CANNOT_DECIDE
+"""This is Captain Sinclair speaking.",is,This,STATIVE
+On behalf of my crew I'd like to welcome you aboard 747 flight 602 from New York to London.,like,I,DYNAMIC
+"We are currently flying at a height of 35,000 feet midway across the Atlantic.""",flying,We,DYNAMIC
+"""If you look out of the windows on the starboard side of the aircraft,",look,you,DYNAMIC
+you will observe,observe,you,DYNAMIC
+that both the starboard engines are on fire.,are,engines,STATIVE
+"If you look out of the windows on the port side,",look,you,DYNAMIC
+you will observe,observe,you,DYNAMIC
+"that the port wing has fallen off.""",fallen,wing,DYNAMIC
+"""If you look back down towards the Atlantic ocean,",look,you,DYNAMIC
+you will see a tiny little yellow life raft with three people in it,see,you,DYNAMIC
+waving at you.,waving,you,DYNAMIC
+"That's is me, your captain, the co-pilot, and the best looking air stewardess.""",is,That,STATIVE
+"""This is a recorded message.",is,This,STATIVE
+This is a recorded message.,is,This,STATIVE
+"This is a re...""""",is,This,STATIVE
+ALWAYS THOUGHT,,,CANNOT_DECIDE
+GREEN SNAKES WERE OK?,,,CANNOT_DECIDE
+READ ON........,,,CANNOT_DECIDE
+"Green Garden Grass snakes can be dangerous, Yes, grass snakes, not rattlesnakes.",be,snakes,STATIVE
+"A couple in Sweetwater, Texas had a lot of potted plants,",had,couple,STATIVE
+"and during a recent cold spell, the wife was bringing a lot of them",bringing,couple,DYNAMIC
+indoors to protect them from a possible freeze.,protect,wife,CANNOT_DECIDE
+It turned out,turned,It,DYNAMIC
+that a little green garden grass snake was hidden in one of the plants,hidden,snake,STATIVE
+"and when it had warmed up,",warmed,it,DYNAMIC
+it slithered out,slithered,It,DYNAMIC
+and the wife saw it go under the sofa.,saw,it,DYNAMIC
+She let out a very loud scream.,let,She,DYNAMIC
+The husband who was taking a shower ran out into the living room,ran,husband,DYNAMIC
+naked to see,see,husband,CANNOT_DECIDE
+what the problem was.,was,problem,STATIVE
+She told him,told,She,DYNAMIC
+there was a snake under the sofa.,was,told,STATIVE
+He got down on the floor on his hands and knees to look for it.,got,He,DYNAMIC
+About that time the family dog came and cold-nosed him on the leg.,came,dog,DYNAMIC
+He thought,thought,He,STATIVE
+the snake had bitten him,bitten,thought,DYNAMIC
+and he fainted.,fainted,snake,DYNAMIC
+His wife thought,thought,wife,STATIVE
+"he had a heart attack,",had,he,DYNAMIC
+so she called an ambulance.,called,she,DYNAMIC
+The attendants rushed in,rushed,attendants,DYNAMIC
+and loaded him on the stretcher,loaded,attendants,DYNAMIC
+and started carrying him out.,started,attendants,DYNAMIC
+About that time the snake came out from under the sofa,came,snake,DYNAMIC
+and the Emergency Medical Technician saw it,saw,snake,DYNAMIC
+and dropped his end of the stretcher.,dropped,Technician,DYNAMIC
+That's when the man broke his leg,'s,That,DYNAMIC
+and why he is in the hospital.,is,man,STATIVE
+"The wife still had the problem of the snake in the house,",had,wife,STATIVE
+so she called on a neighbor man.,called,she,DYNAMIC
+He volunteered to capture the snake.,volunteered,He,DYNAMIC
+He armed himself with a rolled-up newspaper,armed,He,DYNAMIC
+and began poking under the couch.,began,He,DYNAMIC
+Soon he decided,decided,he,DYNAMIC
+"it was gone and told the woman,",gone,it,STATIVE
+who sat down on the sofa in relief.,sat,woman,DYNAMIC
+"But in relaxing, her hand dangled in between the cushions,",dangled,hand,DYNAMIC
+where she felt the snake,felt,she,DYNAMIC
+wriggling around.,wriggling,,DYNAMIC
+"She screamed and fainted,",screamed,She,DYNAMIC
+"the snake rushed back under the sofa, and the neighbor man,",rushed,snake,DYNAMIC
+seeing her laying there passed out tried to use CPR to revive her.,seeing,,DYNAMIC
+"The neighbor's wife, who had just returned from shopping at the grocery store,",returned,wife,DYNAMIC
+saw her husband's mouth on the woman's mouth,saw,wife,DYNAMIC
+"and slammed her husband in the back of the head with a bag of canned goods,",slammed,wife,DYNAMIC
+knocking him out,knocking,,DYNAMIC
+and cutting his scalp to a point,cutting,,DYNAMIC
+where it needed stitches.,needed,it,STATIVE
+An ambulance was again called,called,ambulance,DYNAMIC
+and it was determined,determined,ambulance,DYNAMIC
+that the injury required hospitalization.,required,injury,STATIVE
+The noise woke the woman from her dead faint,woke,noise,DYNAMIC
+and she saw her neighbor lying on the floor with his wife,saw,noise,DYNAMIC
+"bending over him,",bending,she,STATIVE
+so she assumed,assumed,she,DYNAMIC
+he had been bitten by the snake.,bitten,he,DYNAMIC
+"She went to the kitchen,",went,She,DYNAMIC
+"brought back a small bottle of whiskey,",brought,She,DYNAMIC
+and began pouring it down the man's throat.,began,She,DYNAMIC
+By now the police had arrived.,arrived,police,DYNAMIC
+"They saw the unconscious man,",saw,They,DYNAMIC
+"smelled the whiskey,",smelled,They,DYNAMIC
+and assumed,assumed,They,DYNAMIC
+that a drunken fight had occurred.,occurred,fight,DYNAMIC
+"They were about to arrest them all,",were,,STATIVE
+when the two women tried to explain,tried,women,DYNAMIC
+how it all happened over a little green snake.,happened,it,DYNAMIC
+"They called an ambulance,",called,They,DYNAMIC
+which took away the neighbor and his sobbing wife.,took,ambulance,DYNAMIC
+Just then the little snake crawled out from under the couch.,crawled,snake,DYNAMIC
+One of the policemen drew his gun,drew,One,DYNAMIC
+and fired at it.,fired,One,DYNAMIC
+He missed the snake,missed,He,DYNAMIC
+and hit the leg of the end table,hit,He,DYNAMIC
+that was on one side of the sofa.,was,leg,STATIVE
+The table fell over,fell,table,DYNAMIC
+and the lamp on it shattered,shattered,table,DYNAMIC
+"and as the bulb broke,",broke,bulb,DYNAMIC
+it started a fire in the drapes.,started,lamp,DYNAMIC
+The other policeman tried to beat out the flames,tried,policeman,DYNAMIC
+"and fell through the window into the yard on top of the family dog,",fell,policeman,DYNAMIC
+"who startled,",startled,dog,DYNAMIC
+jumped up,jumped,dog,DYNAMIC
+"and raced out into the street,",raced,dog,DYNAMIC
+where an oncoming car swerved to avoid it,swerved,car,DYNAMIC
+and smashed into the parked police car,smashed,car,DYNAMIC
+and set it on fire.,set,car,DYNAMIC
+Meanwhile the burning,burning,,CANNOT_DECIDE
+drapes had spread to the walls,spread,drapes,DYNAMIC
+and the entire house was blazing.,was,house,STATIVE
+Neighbors had called the fire department,called,Neighbors,DYNAMIC
+and the arriving fire-truck had started raising his ladder,started,fire-truck,DYNAMIC
+as they were halfway down the street.,halfway,they,STATIVE
+The rising ladder tore out the overhead wires,tore,ladder,DYNAMIC
+and put out the electricity,put,ladder,DYNAMIC
+and disconnected the telephones in a ten-square city block area.,disconnected,ladder,DYNAMIC
+"Time passed... Both men were discharged from the hospital,",passed,Time,DYNAMIC
+"the house was re-built,",was,house,DYNAMIC
+"the police acquired a new car,",acquired,Time,DYNAMIC
+and all was right with their world -------,-------,police,STATIVE
+About a year later they were watching TV and the weatherman,watching,they,DYNAMIC
+announced a cold snap for that night.,announced,Time,DYNAMIC
+The husband asked his wife,asked,husband,DYNAMIC
+if she thought,thought,she,STATIVE
+they should bring in their plants for the night.,bring,they,DYNAMIC
+She shot him.,shot,She,DYNAMIC
+Birth Control Pill,,,CANNOT_DECIDE
+"Sadie: Doctor, write for me a prescription for birth control pills.",Doctor,Sadie,CANNOT_DECIDE
+"Doctor: You're in your eighties,",'re,Doctor,STATIVE
+you don't need them.,need,you,STATIVE
+Sadie: I know,know,Sadie,STATIVE
+"what I need, write",write,,STATIVE
+for me please the prescription.,please,me,CANNOT_DECIDE
+The doctor gives her the prescription.,gives,doctor,DYNAMIC
+Several weeks later she is again in the doctor's office.,is,she,STATIVE
+Doctor: So how are you feeling Sadie?,Doctor,,CANNOT_DECIDE
+Sadie: I feel wonderful.,feel,Sadie,STATIVE
+Now I sleep like a baby.,sleep,I,STATIVE
+Thank you for the pills.,Thank,,STATIVE
+"Doctor: But those were birth control pills, not sleeping pills.",were,those,STATIVE
+Sadie: Listen to me.,Listen,Sadie,CANNOT_DECIDE
+"Every morning I put one in my granddaughter's orange juice,",put,I,DYNAMIC
+and now I can sleep like a baby.,sleep,I,STATIVE
+Collectibles,,,CANNOT_DECIDE
+"Showing his friend around his home,",Showing,Myrddin,DYNAMIC
+Myrddin started to point out all of the collectibles,started,Myrddin,DYNAMIC
+he and his wife had acquired over their long years of marriage.,acquired,he,DYNAMIC
+"""The day before I die,",die,I,DYNAMIC
+I'd like to sell every piece,like,I,DYNAMIC
+we've got just to see,got,we,STATIVE
+"how much it's all worth.""",'s,it,STATIVE
+"""But you couldn't possibly know",know,you,STATIVE
+"the day before you were going to die, so how could you sell it.""",going,you,CANNOT_DECIDE
+"""Simple: If I sell it,",sell,I,DYNAMIC
+"my wife would kill me!""",,,DYNAMIC
+Memory Clinic,,,CANNOT_DECIDE
+"Two elderly couples were enjoying friendly conversation when one of the men asked the other, ""Fred, how was the memory clinic you went to last month?""",was,clinic,DYNAMIC
+"""Outstanding,"" Fred replied.",replied,Fred,DYNAMIC
+"""They taught us all the latest psychological techniques-visualization, association -",taught,They,DYNAMIC
+"it has made a big difference for me.""",made,it,DYNAMIC
+"""That's great!",'s,That,STATIVE
+"What was the name of that clinic?""",was,name,CANNOT_DECIDE
+Fred went blank.,went,Fred,DYNAMIC
+He thought and thought,thought,He,DYNAMIC
+but couldn't remember.,remember,He,STATIVE
+Then a smile broke across his face,broke,smile,DYNAMIC
+"and he asked,",asked,smile,DYNAMIC
+"""What do you call that flower with the long stem and thorns?""",call,you,CANNOT_DECIDE
+"""You mean a rose?""",mean,"""",CANNOT_DECIDE
+"""Yes, that's it!""",,,STATIVE
+He turned to his wife...,turned,He,DYNAMIC
+"""Rose, what was the name of that clinic?",was,Rose,CANNOT_DECIDE
+Questions,,,CANNOT_DECIDE
+A veterinarian was feeling ill,feeling,veterinarian,STATIVE
+and went to see her doctor.,went,veterinarian,DYNAMIC
+"The doctor asked her all the usual questions, about symptoms,",asked,doctor,DYNAMIC
+"how long had they been occurring, etc.,",occurring,they,DYNAMIC
+"when she interrupted him,",,,DYNAMIC
+"""I'm a veterinarian",'m,I,STATIVE
+and I don't need to ask my patients these kind of questions.,need,doctor,DYNAMIC
+I can tell,tell,I,DYNAMIC
+"what's wrong just by looking.""",'s,what,STATIVE
+"She smugly added, ""Why can't you?""",added,smugly,DYNAMIC
+"The doctor nodded,",nodded,doctor,DYNAMIC
+"stood back,",stood,doctor,DYNAMIC
+and looked her up and down.,looked,doctor,DYNAMIC
+"He then quickly wrote out a prescription,",wrote,He,DYNAMIC
+handed it to her,handed,He,DYNAMIC
+"and said, ""There",said,He,DYNAMIC
+you are.,are,There,STATIVE
+"Of course, if that doesn't work,",work,that,DYNAMIC
+"then we'll just have to have you put to sleep.""",have,we,DYNAMIC
+Rare Pottery,,,CANNOT_DECIDE
+"In front of a delicatessen, an art connoisseur noticed a mangy little kitten",noticed,connoisseur,DYNAMIC
+lapping up milk from a saucer.,lapping,,DYNAMIC
+"The saucer, he realized with a start,",realized,he,DYNAMIC
+was a rare and precious piece of pottery.,was,saucer,STATIVE
+He strolled into the store,strolled,He,DYNAMIC
+and offered two dollars for the cat.,offered,He,DYNAMIC
+"""It's not for sale,""",'s,It,STATIVE
+said the proprietor.,said,proprietor,DYNAMIC
+"""Look,""",,,CANNOT_DECIDE
+"said the collector,",said,collector,DYNAMIC
+"""that cat is dirty and undesirable,",is,cat,STATIVE
+but I'm eccentric.,'m,I,STATIVE
+I like cats that way.,like,I,STATIVE
+"I'll raise my offer to ten dollars.""",raise,I,DYNAMIC
+"""It's a deal,""",'s,It,STATIVE
+"said the proprietor,",said,proprietor,DYNAMIC
+and pocketed the ten on the spot.,,,DYNAMIC
+"""For that sum I'm sure",'m,I,STATIVE
+"you won't mind throwing in the saucer,""",mind,you,STATIVE
+said the connoisseur.,said,connoisseur,DYNAMIC
+"""The kitten seems so happy drinking from it.""",seems,kitten,STATIVE
+"""Nothing doing,""",doing,said,CANNOT_DECIDE
+said the proprietor firmly.,said,proprietor,DYNAMIC
+"""That's my lucky saucer.",'s,That,STATIVE
+"From that saucer, so far this week I've sold 34 cats.""",sold,I,DYNAMIC

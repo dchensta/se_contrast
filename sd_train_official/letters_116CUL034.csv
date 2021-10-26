@@ -1,0 +1,60 @@
+Clause,mainVerb,mainReferent,Gold
+"October 7, 1996",,,CANNOT_DECIDE
+Name,Name,October,CANNOT_DECIDE
+Address,,,CANNOT_DECIDE
+"City, ST Zip",,,CANNOT_DECIDE
+Dear Name:,Name,Dear,CANNOT_DECIDE
+"In the summer of 1993, the Marion County Commission on Youth began",began,Commission,DYNAMIC
+"what can best be described as a ""new era"" in its history.",described,what,DYNAMIC
+"MCCOY was reorganized as an independent, not-for-profit agency, separate from local government.",reorganized,MCCOY,DYNAMIC
+"It retained, however, the same mission",retained,It,STATIVE
+with which it had been charged from its inception,charged,it,DYNAMIC
+": to serve as a catalyst for effective, coordinated, and collaborative service delivery to youth in our community.",serve,mission,CANNOT_DECIDE
+"For the past three years, MCCOY has been actively engaged in accomplishing this declared mission in cooperation with many others:",engaged,MCCOY,DYNAMIC
+"youth service providers, youth, funding bodies, and interested citizens to name a few.",name,MCCOY,CANNOT_DECIDE
+"We have met with a number of successes along the way, most notably the Summer Fun Line, the Metro Summer Bus Pass, and the development of ten neighborhood youth councils.",met,We,DYNAMIC
+A Providers Council and a Youth Coalition are building relationships,building,Council,DYNAMIC
+that will hopefully bear great fruit in the years to come.,bear,relationships,DYNAMIC
+"The formation of The Community Academy, a pilot project directed at expelled students from local school systems, has come about as a result of MCCOY's efforts to mobilize community agencies in response to a pressing issue.",come,formation,DYNAMIC
+McCoy is actively represented,represented,McCoy,STATIVE
+and working with numerous community collaborations,working,McCoy,CANNOT_DECIDE
+where we regularly raise our voice to speak out for the inclusion of young people in both decision-making and program planning processes.,raise,we,DYNAMIC
+One concrete example is a joint project,is,example,STATIVE
+"undertaken in the United Northwest Area in partnership with The Junior League of Indianapolis and Community Partnerships with Youth from Fort Wayne, Indiana.",undertaken,project,DYNAMIC
+"As a team, these three organizations are working with neighborhood youth and adults to build a ""Caring Neighborhood with Youth"" ,",working,organizations,DYNAMIC
+mobilizing the assets of young people and adults as partners to build a better neighborhood for all.,mobilizing,working,DYNAMIC
+"Since its re-organization, MCCOY has established its unique niche within the community by refraining from direct service programming",established,MCCOY,DYNAMIC
+and focusing on what it does best:,focusing,MCCOY,DYNAMIC
+"helping to identify youth needs,",helping,MCCOY,DYNAMIC
+convening groups of individuals and organizations,convening,MCCOY,DYNAMIC
+"which can address those needs,",address,groups,DYNAMIC
+and moving toward collaborative solutions.,moving,MCCOY,DYNAMIC
+McCoy has only one interest:,has,McCoy,STATIVE
+the well being of Marion County's young people.,being,interest,CANNOT_DECIDE
+"McCoy invites the support of The __ Company Foundation in the amount of $10,000.00 to support such activities as: --",invites,McCoy,DYNAMIC
+-- the co-ordination of youth leadership training and youth empowerment efforts at the neighborhood level by means of neighborhood-based youth councils; ---- the promotion of youth employment opportunities; ---- the facilitation of ongoing discussions,----,,CANNOT_DECIDE
+regarding effective and efficient youth service delivery; ---- the provision of technical assistance and guidance to neighborhoods,regarding,,STATIVE
+which seek positive youth-adult relationships; ---- the development of community-wide supports for the positive growth of all Marion County young people.,seek,neighborhoods,DYNAMIC
+"In the last several years, the business and corporate community has recognized",recognized,community,DYNAMIC
+that the positive development of youth is directly related to the development of a competent workforce.,related,development,STATIVE
+Youth who are supported and encouraged by both a family and a society,,,DYNAMIC
+that values,values,society,STATIVE
+Them have a much greater,have,Youth,STATIVE
+likelihood of becoming productive and contributing members of adult society.,becoming,likelihood,CANNOT_DECIDE
+"While we have made significant inroads,",made,we,DYNAMIC
+there remains much to be done,remains,,STATIVE
+and it is clear,is,it,STATIVE
+that we cannot do it alone.,do,we,DYNAMIC
+We seek the financial support of the Foundation to help us be successful in creating the atmosphere in our community,seek,We,DYNAMIC
+where young people can grow,grow,people,DYNAMIC
+and develop well.,develop,people,DYNAMIC
+Your contribution will enable us to both continue and expand the good work,enable,contribution,DYNAMIC
+we have begun in making Indianapolis a city famous for its commitment to youth and families.,begun,we,DYNAMIC
+"In our fund raising efforts to date,",,,CANNOT_DECIDE
+"we have received the support of local government, foundations, and corporations as well as the personal financial commitments of individual MCCOY Board members.",received,we,DYNAMIC
+We believe,believe,We,STATIVE
+there is no more appropriate time to have a coordinated and collaborative effort to financially support the services,is,time,STATIVE
+MCCOY offers to the community as a whole.,offers,MCCOY,STATIVE
+"Thanking you in advance for your support,",Thanking,we,DYNAMIC
+"we remain,",remain,we,STATIVE
+"Sincerely, John T. Neighbours Philip B. Roby President Treasurer John F. Brandon Executive Director",,,CANNOT_DECIDE

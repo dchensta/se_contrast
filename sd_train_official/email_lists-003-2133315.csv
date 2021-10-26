@@ -1,0 +1,31 @@
+Clause,mainVerb,mainReferent,Gold
+"docno=""lists-003-2133315""",,,CANNOT_DECIDE
+"received=""Tue May 18 09:14:52 1993 EST""",received,docno,CANNOT_DECIDE
+"sent=""Tue, 18 May 1993 09:12:46 -0700 (PDT)""",sent,,CANNOT_DECIDE
+"name=""Laurence Lundblade""",name,sent,CANNOT_DECIDE
+"email=""lgl@nwnet.net""",,,CANNOT_DECIDE
+"subject=""Re: CHARSET considerations""",,,CANNOT_DECIDE
+"id=""Pine.3.07.9305180944.C193-a100000@norman.nwnet.net""",,,CANNOT_DECIDE
+"inreplyto=""MS-C.737676350.662824084.mrc@Tomobiki-Cho.CAC.Washington.EDU""",,,CANNOT_DECIDE
+To: Mark Crispin <mrc@Tomobiki-Cho.CAC.Washington.EDU>,,,CANNOT_DECIDE
+"Cc: ietf-charsets@INNOSOFT.COM, scs@adam.mit.edu, TROTH@ricevm1.rice.edu,",,,CANNOT_DECIDE
+"Yes, I think",think,I,STATIVE
+that's exactly right.,'s,lists-003-2133315,STATIVE
+We can probably adjust the comment in the .,adjust,We,DYNAMIC
+pinerc for now.,,,CANNOT_DECIDE
+In the long term the .,,,CANNOT_DECIDE
+pinerc needs a lot of good error checking.,needs,pinerc,STATIVE
+It just hasn't been done because limited resources.,done,It,DYNAMIC
+LL,,,CANNOT_DECIDE
+"On Mon, 17 May 1993, Mark Crispin wrote:",wrote,Crispin,DYNAMIC
+Hi Laurence -,,,CANNOT_DECIDE
+Perhaps all that is needed is a list in the system .,is,all,STATIVE
+"pinerc file of all the valid charsets,",file,pinerc,CANNOT_DECIDE
+and not let the user set her charset to one,let,pinerc,CANNOT_DECIDE
+that is not i n the list.,is,one,STATIVE
+"So, perhaps Pine could have US-ASCII, ISO-2022-JP,",have,Pine,STATIVE
+"and the various ISO-8859-x sets wired in as an initial list,",wired,sets,CANNOT_DECIDE
+and the system file specify additional valid sets?,file,Pine,CANNOT_DECIDE
+The concern is to avoid letting users do things like set it to things such as ``Latin-1'' or ``ASCII'' or similar bogons...,is,concern,STATIVE
+What do you think?,think,things,CANNOT_DECIDE
+-- Mark --,,,CANNOT_DECIDE

@@ -1,0 +1,196 @@
+Clause,mainVerb,mainReferent,Gold
+"Association football, more commonly known as football or soccer,",known,football,STATIVE
+is a sport,is,football,STATIVE
+played between two teams of eleven players with a spherical ball.,played,sport,DYNAMIC
+"It is played by 250 million players in over 200 countries,",played,It,DYNAMIC
+making it the world's most popular sport.,making,,STATIVE
+The game is played on a rectangular field with a goal at each end.,played,game,DYNAMIC
+The object of the game is to score by getting the ball into the opposing goal.,is,object,STATIVE
+The goalkeepers are the only players,are,goalkeepers,STATIVE
+allowed to touch the ball with their hands or arms,allowed,players,STATIVE
+while it is in play and then only in their penalty area.,is,it,STATIVE
+"Outfield players mostly use their feet to strike or pass the ball,",use,players,DYNAMIC
+but may use their head or torso to strike the ball instead.,use,players,DYNAMIC
+The team that scores the most goals by the end of the match wins.,wins,team,DYNAMIC
+"If the score is level at the end of the game,",is,score,STATIVE
+either a draw is declared,declared,draw,DYNAMIC
+or the game goes into extra time and/or a penalty shootout depending on the format of the competition.,goes,draw,DYNAMIC
+The Laws of the Game were originally codified in England by The Football Association in 1863.,codified,Laws,DYNAMIC
+Association football is governed internationally by the International Federation of Association Football,governed,football,STATIVE
+(FIFA; Fdration Internationale de Football Association) which organises a World Cup every four years.,organises,Football,DYNAMIC
+==History==,,,CANNOT_DECIDE
+Two of the earliest recorded football-type games from Europe include Episkyros from Ancient Greece and the Roman version Harpastum,include,History,STATIVE
+"which similar to pre-codified ""Mob Football"", the antecedent of all modern football codes, involved more",involved,codes,STATIVE
+handling the ball than kicking.,handling,,CANNOT_DECIDE
+The earliest competitive game to involve kicking a ball,involve,game,CANNOT_DECIDE
+(rather than handling it),handling,,CANNOT_DECIDE
+"was Cuju,",was,game,STATIVE
+which emerged in China during the Han dynasty (206 BC-220 AD).,emerged,Cuju,DYNAMIC
+"Players were tasked with kicking a ball into a net affixed to bamboo poles, using only their feet, chest, back or shoulders.",tasked,Players,DYNAMIC
+Non-competitive games included kemari in Japan and woggabaliri in Australia.,included,games,STATIVE
+Association football in itself does not have a classical history.,have,football,STATIVE
+Notwithstanding any similarities to other ball games played around the world FIFA have recognised,recognised,FIFA,DYNAMIC
+that no historical connection exists,exists,connection,STATIVE
+with any game played in antiquity outside Europe.,played,game,DYNAMIC
+The modern rules of association football are based on the mid-19th century efforts to standardise the widely varying forms of football,based,rules,STATIVE
+played in the public schools of England.,played,football,DYNAMIC
+The history of football in England dates back to at least the eighth century AD.,dates,history,STATIVE
+"The Cambridge Rules, first drawn up at Cambridge University in 1848,",drawn,Rules,DYNAMIC
+"were particularly influential in the development of subsequent codes,",were,Rules,STATIVE
+including association football.,including,,STATIVE
+"The Cambridge Rules were written at Trinity College, Cambridge, at a meeting",written,Rules,DYNAMIC
+"attended by representatives from Eton, Harrow, Rugby, Winchester and Shrewsbury schools.",attended,meeting,DYNAMIC
+They were not universally adopted.,adopted,They,DYNAMIC
+"During the 1850s, many clubs unconnected to schools or universities were formed throughout the English-speaking world, to play various forms of football.",formed,clubs,DYNAMIC
+"Some came up with their own distinct codes of rules, most notably the Sheffield Football Club,",came,Some,DYNAMIC
+"formed by former public school pupils in 1857,",formed,Club,DYNAMIC
+which led to formation of a Sheffield FA in 1867.,led,Club,DYNAMIC
+"In 1862, John Charles Thring of Uppingham School also devised an influential set of rules.",devised,Thring,DYNAMIC
+These ongoing efforts contributed to the formation of The Football Association,contributed,efforts,DYNAMIC
+"(The FA) in 1863,",,,CANNOT_DECIDE
+"which first met on the morning of 26 October 1863 at the Freemasons' Tavern in Great Queen Street, London.",met,1863,DYNAMIC
+The only school to be represented on this occasion was Charterhouse.,was,school,STATIVE
+"The Freemason's Tavern was the setting for five more meetings between October and December,",was,Tavern,STATIVE
+which eventually produced the first comprehensive set of rules.,produced,December,DYNAMIC
+"At the final meeting, the first FA treasurer, the representative from Blackheath, withdrew his club from the FA over the removal of two draft rules at the previous meeting:",withdrew,treasurer,DYNAMIC
+the first allowed for running with the ball in hand; the second for obstructing such a run by hacking,allowed,,STATIVE
+"(kicking an opponent in the shins), tripping and holding.",kicking,,CANNOT_DECIDE
+Other English rugby clubs followed this lead,followed,clubs,DYNAMIC
+and did not join the FA,join,clubs,DYNAMIC
+and instead in 1871 formed the Rugby Football Union.,formed,clubs,DYNAMIC
+"The eleven remaining clubs, under the charge of Ebenezer Cobb Morley, went on to ratify the original thirteen laws of the game.",went,clubs,DYNAMIC
+"These rules included handling of the ball by ""marks"" and the lack of a crossbar, rules",included,rules,STATIVE
+which made it remarkably similar to Victorian rules football,made,rules,DYNAMIC
+being developed at that time in Australia.,developed,football,DYNAMIC
+The Sheffield FA played by its own rules until the 1870s with the FA,played,FA,DYNAMIC
+absorbing some of its rules,absorbing,,DYNAMIC
+until there was little difference between the games.,was,difference,STATIVE
+1stRoyalEngineers.,,,CANNOT_DECIDE
+png|thumb|The Royal Engineers team who reached the first FA Cup final in 1872,|,thumb,DYNAMIC
+"The world's oldest football competition is the FA Cup,",is,competition,STATIVE
+which was founded by C. W. Alcock,founded,Cup,DYNAMIC
+and has been contested by English teams since 1872.,contested,team,DYNAMIC
+"The first official international football match also took place in 1872, between Scotland and England in Glasgow, again at the instigation of C. W. Alcock.",took,match,DYNAMIC
+"England is also home to the world's first football league,",is,England,STATIVE
+which was founded in Birmingham in 1888 by Aston Villa director William McGregor.,founded,league,DYNAMIC
+The original format contained 12 clubs from the Midlands and Northern England.,contained,format,STATIVE
+The laws of the game are determined by the International Football Association Board (IFAB).,determined,laws,DYNAMIC
+"The Board was formed in 1886 after a meeting in Manchester of The Football Association, the Scottish Football Association, the Football Association of Wales, and the Irish Football Association.",formed,Board,DYNAMIC
+"FIFA, the international football body, was formed in Paris in 1904",formed,FIFA,DYNAMIC
+and declared,declared,FIFA,DYNAMIC
+that they would adhere to Laws of the Game of the Football Association.,adhere,they,DYNAMIC
+The growing popularity of the international game led to the admittance of FIFA representatives to the International Football Association Board in 1913.,led,popularity,DYNAMIC
+The board consists of four representatives from FIFA and one representative from each of the four British associations.,consists,board,STATIVE
+"Today, football is played at a professional level all over the world.",played,Today,DYNAMIC
+"Millions of people regularly go to football stadiums to follow their favourite teams,",go,Millions,DYNAMIC
+while billions more watch the game on television or on the internet.,watch,billions,DYNAMIC
+A very large number of people also play football at an amateur level.,play,number,DYNAMIC
+According to a survey,According,,CANNOT_DECIDE
+conducted by FIFA,conducted,survey,DYNAMIC
+"published in 2001, over 240 million people from more than 200 countries regularly play football.",play,people,DYNAMIC
+Football has the highest global television audience in sport.,has,Football,STATIVE
+In many parts of the world football evokes great passions,evokes,football,DYNAMIC
+"and plays an important role in the life of individual fans, local communities, and even nations.",plays,football,DYNAMIC
+R. Kapuscinski says,says,Kapuscinski,DYNAMIC
+"that people who are polite, modest or even humble in Europe fall easily into rage with playing or watching soccer games.",fall,people,DYNAMIC
+The Cte d'Ivoire national football team helped secure a truce to the nation's civil war in 2006,helped,team,DYNAMIC
+"and it helped further reduce tensions between government and rebel forces in 2007 by playing a match in the rebel capital of Bouak, an occasion",helped,team,DYNAMIC
+that brought both armies together peacefully for the first time.,brought,match,DYNAMIC
+"By contrast, football is widely considered to have been the final proximate cause for the Football War in June 1969 between El Salvador and Honduras.",considered,football,STATIVE
+"The sport also exacerbated tensions at the beginning of the Yugoslav Wars of the 1990s,",exacerbated,sport,DYNAMIC
+when a match between Dinamo Zagreb and Red Star Belgrade degenerated into rioting in May 1990.,degenerated,match,DYNAMIC
+===Women's association football===,,,CANNOT_DECIDE
+thumb|A women's international match between the United States and Germany,,,CANNOT_DECIDE
+Association football has been played by women since at least the time of the first recorded women's games in the late 19th century.,played,match,DYNAMIC
+"It has traditionally been associated with charity games and physical exercise, particularly in the United Kingdom.",associated,It,DYNAMIC
+This perception began to change in the 1970s with the breakthrough of organised women's association football.,began,perception,DYNAMIC
+"Association football is the most prominent team sport for women in several countries, and one of the few women's team sports with professional leagues.",is,football,STATIVE
+The growth in women's football has seen major competitions being launched at both national and international level mirroring the male competitions.,seen,growth,DYNAMIC
+Women's football has faced many struggles.,faced,football,DYNAMIC
+"It had a ""golden age"" in the United Kingdom in the early 1920s",had,It,STATIVE
+"when crowds reached 50,000 at some matches;",reached,crowds,DYNAMIC
+this was stopped on 5 December 1921,stopped,this,DYNAMIC
+when England's Football Association voted to ban the game from grounds,voted,Association,DYNAMIC
+used by its member clubs.,used,grounds,DYNAMIC
+The FA's ban was rescinded in December 1969 with UEFA voting to officially recognise women's football in 1971.,rescinded,ban,DYNAMIC
+The FIFA Women's World Cup was inaugurated in 1991,inaugurated,Cup,DYNAMIC
+"and has been held every four years since,",held,Cup,DYNAMIC
+while women's football has been an Olympic event since 1996.,been,football,DYNAMIC
+==Etymology and names==,,,CANNOT_DECIDE
+<!,,,CANNOT_DECIDE
+--,,,CANNOT_DECIDE
+Keep this overview section streamlined!,Keep,,CANNOT_DECIDE
+Please place details and debate of what name is used where (other,used,details,CANNOT_DECIDE
+than the five nations noted) and other name debate issues in the dedicated article Names for association football rather than here!,noted,used,CANNOT_DECIDE
+-->,,,CANNOT_DECIDE
+The rules of association football were codified in England by the Football Association in 1863,codified,rules,DYNAMIC
+and the name association football was coined to distinguish the game from the other forms of football,coined,rules,DYNAMIC
+"played at the time, specifically rugby football.",played,forms,DYNAMIC
+"The term soccer originated in England,",originated,soccer,DYNAMIC
+"first appearing in the 1880s as an Oxford ""-er"" abbreviation of the word ""association"".",appearing,,DYNAMIC
+"Within the English-speaking world, association football is now usually called football in the United Kingdom, and mainly soccer in Canada and the United States.",called,football,STATIVE
+"People in other countries, such as Australia, Ireland and New Zealand, use either or both terms interchangeably,",use,People,DYNAMIC
+"although Australia and New Zealand's football organisations now primarily use ""football"" for the formal name.",use,organisations,DYNAMIC
+==Gameplay==,,,CANNOT_DECIDE
+Association football is played in accordance with a set of rules,played,football,DYNAMIC
+known as the Laws of the Game.,known,rules,STATIVE
+The game is played using a spherical ball,played,game,DYNAMIC
+"(of circumference in FIFA play), known as the football (or soccer ball).",known,ball,STATIVE
+Two teams of eleven players each compete to get the ball into the other team's goal,compete,teams,DYNAMIC
+"(between the posts and under the bar), thereby scoring a goal.",scoring,,DYNAMIC
+The team that has scored more goals at the end of the game is the winner;,is,team,STATIVE
+if both teams have scored an equal number of goals,scored,teams,DYNAMIC
+then the game is a draw.,is,game,STATIVE
+Each team is led by a captain,led,team,STATIVE
+who has only one official responsibility,has,,STATIVE
+as mandated by the Laws of the Game: to be involved in the coin toss prior to kick-off or penalty kicks.,mandated,captain,DYNAMIC
+"The primary law is that players other than goalkeepers may not deliberately handle the ball with their hands or arms during play,",is,law,STATIVE
+though they do use their hands during a throw-in restart.,use,they,DYNAMIC
+"Although players usually use their feet to move the ball around,",use,players,DYNAMIC
+they may use any part of their body,use,they,DYNAMIC
+"(notably, ""heading"" with the forehead) other than their hands or arms.",notably,part,CANNOT_DECIDE
+"Within normal play, all players are free to play the ball in any direction and move throughout the pitch,",are,players,STATIVE
+though the ball cannot be received in an offside position.,received,ball,DYNAMIC
+20121209 PSG-Juvisy - Kenza Dali 04.,,,CANNOT_DECIDE
+jpg|thumb|A player executing a slide tackle to dispossess an opponent,tackle,thumb,DYNAMIC
+"In game play, players attempt to create goal-scoring opportunities through individual control of the ball, such as by dribbling, passing the ball to a team-mate, and by taking shots at the goal,",attempt,players,DYNAMIC
+which is guarded by the opposing goalkeeper.,guarded,ball,STATIVE
+Opposing players may try to regain control of the ball by intercepting a pass or through tackling the opponent in possession of the ball;,try,players,DYNAMIC
+"however, physical contact between opponents is restricted.",restricted,contact,STATIVE
+"Football is generally a free-flowing game, with play stopping",is,Football,STATIVE
+only when the ball has left the field of play,left,ball,DYNAMIC
+or when play is stopped by the referee for an infringement of the rules.,stopped,ball,DYNAMIC
+"After a stoppage, play recommences with a specified restart.",play,,DYNAMIC
+"At a professional level, most matches produce only a few goals.",produce,matches,DYNAMIC
+"For example, the 200506 season of the English Premier League produced an average of 2.48 goals per match.",produced,season,DYNAMIC
+"The Laws of the Game do not specify any player positions other than goalkeeper,",specify,Laws,STATIVE
+but a number of specialised roles have evolved.,evolved,Laws,DYNAMIC
+"Broadly, these include three main categories:",include,these,STATIVE
+"strikers, or forwards, whose main task is to score goals;",is,task,STATIVE
+"defenders, who specialise in preventing their opponents from scoring;",specialise,defenders,STATIVE
+"and midfielders, who dispossess the opposition",dispossess,midfielders,DYNAMIC
+and keep possession of the ball to pass it to the forwards on their team.,keep,midfielders,STATIVE
+"Players in these positions are referred to as outfield players, to distinguish them from the goalkeeper.",referred,Players,DYNAMIC
+These positions are further subdivided according to the area of the field,subdivided,positions,STATIVE
+in which the player spends most time.,spends,player,STATIVE
+"For example, there are central defenders, and left and right midfielders.",are,defenders,STATIVE
+The ten outfield players may be arranged in any combination.,arranged,players,DYNAMIC
+The number of players in each position determines the style of the team's play;,determines,number,DYNAMIC
+"more forwards and fewer defenders creates a more aggressive and offensive-minded game,",creates,forwards,DYNAMIC
+"while the reverse creates a slower, more defensive style of play.",creates,reverse,DYNAMIC
+"While players typically spend most of the game in a specific position,",spend,players,DYNAMIC
+"there are few restrictions on player movement,",are,restrictions,STATIVE
+and players can switch positions at any time.,switch,restrictions,DYNAMIC
+The layout of a team's players is known as a formation.,known,layout,STATIVE
+Defining the team's formation and tactics is usually the prerogative of the team's manager.,is,Defining,STATIVE
+==Laws==,,,CANNOT_DECIDE
+"There are 17 laws in the official Laws of the Game, each",are,laws,STATIVE
+containing a collection of stipulation and guidelines.,containing,laws,STATIVE
+"The same laws are designed to apply to all levels of football,",designed,laws,STATIVE
+"although certain modifications for groups such as juniors, seniors, women and people with physical disabilities are permitted.",permitted,modifications,STATIVE
+"The laws are often framed in broad terms,",framed,laws,DYNAMIC
+which allow flexibility,allow,terms,STATIVE
+in their application depending on the nature of the game.,depending,,CANNOT_DECIDE
+"The Laws of the Game are published by FIFA,",published,Laws,DYNAMIC
+but are maintained by the International Football Association Board (IFAB).,maintained,Laws,DYNAMIC
+"In addition to the seventeen laws, numerous IFAB decisions and other directives contribute to the regulation of football.",contribute,decisions,DYNAMIC

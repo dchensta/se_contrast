@@ -1,0 +1,82 @@
+Clause,mainVerb,mainReferent,Gold
+"docno=""lists-003-2114716""",,,CANNOT_DECIDE
+"received=""Fri May 14 14:29:45 1993 EST""",received,docno,CANNOT_DECIDE
+"sent=""Fri, 14 May 1993 17:29:24 -0400""",sent,,CANNOT_DECIDE
+"name=""Steve Summit""",name,sent,CANNOT_DECIDE
+"email=""scs@adam.mit.edu""",,,CANNOT_DECIDE
+"subject=""Re: CHARSET considerations""",,,CANNOT_DECIDE
+"id=""9305142129.AA22544@adam.MIT.EDU""",,,CANNOT_DECIDE
+"inreplyto=""9305121752.AA00650@dimacs.rutgers.edu""",,,CANNOT_DECIDE
+"To: TROTH@ricevm1.rice.edu, pine-info@cac.washington.edu",,,CANNOT_DECIDE
+"Cc: ietf-822@dimacs.rutgers.edu, ietf-charsets@INNOSOFT.COM,",,,CANNOT_DECIDE
+"In <9305121752.AA00650@dimacs.rutgers.edu>, Rick wrote:",wrote,Rick,CANNOT_DECIDE
+Any user of Pine 3.05 (and as far as I can tell 3.07 or 2.,tell,far,DYNAMIC
+x) can shoot themself in the foot,shoot,can,DYNAMIC
+(head,,,CANNOT_DECIDE
+if you prefer) by setting character-set = Zeldas_private_codepage.,prefer,you,STATIVE
+"This is almost certainly a bad idea,",is,This,STATIVE
+especially if (as Rick implied in another part of the referenced message) the user can do so,do,user,DYNAMIC
+by setting a default charset value in a user configuration file somewhere.,setting,user,CANNOT_DECIDE
+(If users dink,dink,users,DYNAMIC
+"with the message headers themselves, all bets are off.)",are,bets,STATIVE
+Should the Pine developers remove this feature?,remove,developers,CANNOT_DECIDE
+I'm not sure,'m,I,STATIVE
+"what the feature in question is,",is,feature,STATIVE
+but if it's something,'s,charset,STATIVE
+which lets users specify the value to be sent out as the MIME Content-Type:,lets,something,STATIVE
+"charset, I think",think,I,STATIVE
+"it's a bad idea,",'s,it,STATIVE
+and should be removed,removed,idea,DYNAMIC
+or significantly altered.,altered,idea,DYNAMIC
+An easy mistake to make (I speak from experience) is to assume,is,mistake,DYNAMIC
+that the charset parameter on a MIME Content-Type: line encodes the character set,encodes,parameter,STATIVE
+used by the entity,used,set,DYNAMIC
+"composing the message, or the character",composing,,CANNOT_DECIDE
+set to be used by the entity,set,character,CANNOT_DECIDE
+displaying the message.,displaying,entity,DYNAMIC
+I find,find,I,STATIVE
+that the best way to think about charset is that it is *neither*.,is,way,STATIVE
+charset is an octet-based encoding,is,charset,STATIVE
+used during message transfer;,used,encoding,DYNAMIC
+it need bear no relation to the composing or viewing character sets.,bear,it,STATIVE
+"In the most general case, a message will be composed using some native character set,",composed,message,DYNAMIC
+"translated automatically to a MIME-registered charset,",translated,character,DYNAMIC
+and translated at the other end into a native display character set.,translated,character,DYNAMIC
+It should be more likely,be,It,STATIVE
+"that the charset value be selected by an automaton, not by a human.",selected,value,DYNAMIC
+"(If anyone finds the above paragraph startling,",finds,anyone,STATIVE
+you're welcome to write to me for clarification.,'re,you,STATIVE
+I'm not going to prolong this message with additional explanations right now.),going,I,DYNAMIC
+It's not necessarily *wrong* to think of charset as having something to do with the composing or viewing character set,*,It,STATIVE
+"(in many cases, not coincidentally, all three will be identical),",be,three,STATIVE
+"but it is very easy to make conceptual mistakes,",is,it,STATIVE
+"implement nonconformant software,",implement,it,CANNOT_DECIDE
+or just generally misunderstand,misunderstand,it,CANNOT_DECIDE
+how MIME is supposed to work,supposed,MIME,STATIVE
+if you don't explicitly separate in your mind the concepts of composing/viewing character sets and transmission charsets.,separate,you,DYNAMIC
+(You'll notice,notice,You,DYNAMIC
+"that I reinforce this distinction in my own head and in this message by using the terms ""character set"" and ""charset"" noninterchangeably.)",reinforce,I,DYNAMIC
+The charset situation is much like the canonical CRLF situation:,is,situation,STATIVE
+the fact that the canonical representation is identical to some but not all of the available local representations guarantees misunderstandings.,guarantees,fact,STATIVE
+"To be sure,",be,,CANNOT_DECIDE
+"automated selection of and translation to a registered MIME charset is a non-trivial task, and mailers",is,selection,STATIVE
+which are trying to adopt MIME right away cannot be faulted for deferring development of such functionality for a while.,faulted,task,DYNAMIC
+"However, just letting users specify non-default, non-7-bit-US-ASCII, (non-MIME) charsets is an open invitation to misunderstanding and noninteroperability.",is,charsets,STATIVE
+"For now, composition agents which wish to allow users to use extended character sets",,,STATIVE
+"(such as Latin-1), but which elect to relegate character",elect,allow,DYNAMIC
+"set and/or charset selection to the user,",set,agents,CANNOT_DECIDE
+should either present the user with a menu of registered MIME charsets,present,selection,DYNAMIC
+from which to select,select,charsets,CANNOT_DECIDE
+(presumably it will be up to the user to ensure,be,,STATIVE
+that the editor or composition tool is actually using a character set,set,it,DYNAMIC
+"corresponding to the selected charset),",selected,,STATIVE
+or (in the case of what it sounds,sounds,case,STATIVE
+like PINE is doing) at least filter the user's open-ended charset selection against the list of registered values (and perhaps also the X- pattern).,doing,PINE,DYNAMIC
+I've copied this message to the IETF character sets mailing list,copied,I,DYNAMIC
+"(ietf-charsets@innosoft.com, subscription requests to ietf-charsets-request@innosoft.com); any followup traffic should be sent there,",sent,traffic,DYNAMIC
+and *not* to the ietf-822 list.,*,traffic,DYNAMIC
+Steve Summit scs@adam.mit.edu,,,CANNOT_DECIDE
+P.S. to pine-info@cac.washington.edu:,pine-info@cac.washington.edu:,P.S.,CANNOT_DECIDE
+"despite my e-mail address, I'm actually in Seattle, near UW.",'m,I,STATIVE
+I'd be glad to stop by one day,be,I,STATIVE
+and talk with you guys in person about this stuff.,talk,I,CANNOT_DECIDE

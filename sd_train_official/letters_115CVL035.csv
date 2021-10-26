@@ -1,0 +1,33 @@
+Clause,mainVerb,mainReferent,Gold
+"July30,1999",,,CANNOT_DECIDE
+Name,Name,July30,CANNOT_DECIDE
+Address,,,CANNOT_DECIDE
+"City, ST Zip",,,CANNOT_DECIDE
+Dear Mr. Ratcliff:,,,CANNOT_DECIDE
+CCI is a federation of 13 neighborhood-based multi-service centers,is,CCI,STATIVE
+"whose mission is to identify and meet the human service needs of residents throughout Marion County in the most effective, efficient and comprehensive way possible.",is,mission,STATIVE
+"In 1998, we served a total of 31,484 low-income individuals through job training and placement assistance, youth and senior programming, family counseling, emergency assistance, and much more.",served,we,DYNAMIC
+"As you can see from the enclosed map, your Target store is located in the heart of four of our service areas.",located,store,STATIVE
+"The centers that serve these areas, Mary Rigg Neighborhood Center, Hawthorne Community Center, Southwest Multi-Service Center, and Christamore House, have teamed up to run an exciting job readiness program for 14 and 15 year old area residents",teamed,centers,DYNAMIC
+called the Summer Enrichment Program.,called,run,STATIVE
+"Between June 21 and August 31, 45 youth will spend 20 hours a week",spend,youth,DYNAMIC
+"developing life management and work ethic skills,",developing,spend,DYNAMIC
+"learning the computer,",learning,spend,DYNAMIC
+"visiting area colleges,",visiting,spend,DYNAMIC
+and interacting with guest speakers.,interacting,spend,DYNAMIC
+The end result will be kids,be,result,STATIVE
+"who have a better understanding of and vision for their own future,",have,kids,STATIVE
+be it college or a career.,be,college,STATIVE
+The Summer Enrichment Program will conclude with a celebration,conclude,Program,DYNAMIC
+that includes family and friends.,includes,celebration,STATIVE
+We would like to offer our youth a small reward for their participation by presenting them with gift certificates from Target.,like,We,DYNAMIC
+"Therefore, we are asking you to donate 45, $10 gift certificates",asking,we,DYNAMIC
+"that can be used toward the purchase of school supplies or clothing, in the total amount of $450.",used,certificates,DYNAMIC
+"In return, we will recognize Target as a sponsor during our event and in the event program.",recognize,we,DYNAMIC
+"Target is well known for it's support of the community,",known,Target,STATIVE
+and we believe,believe,Target,STATIVE
+that the Summer Enrichment Program represents your interests and concerns quite well.,represents,Program,STATIVE
+I will be happy to supply any additional information,be,I,STATIVE
+you may need and thank you for your consideration of our request.,need,you,STATIVE
+We look forward to hearing from you.,look,We,STATIVE
+"Sincerely, Valery De Long Director of Development",,,CANNOT_DECIDE

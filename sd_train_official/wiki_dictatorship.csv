@@ -1,0 +1,91 @@
+Clause,mainVerb,mainReferent,Gold
+Dictatorship is a form,is,Dictatorship,STATIVE
+"of government where political authority is monopolized by a single person or political entity,",monopolized,authority,STATIVE
+and exercised through various mechanisms to ensure,exercised,authority,DYNAMIC
+the entity's power remains strong.,remains,power,STATIVE
+"A dictatorship is a type of authoritarianism,",is,dictatorship,STATIVE
+in which politicians regulate nearly every aspect of the public and private behavior of normal people.,regulate,politicians,DYNAMIC
+Dictatorships and totalitarianism generally employ,employ,totalitarianism,DYNAMIC
+political propaganda to decrease the influence of proponents of alternative governing systems.,decrease,propaganda,CANNOT_DECIDE
+==History==,=,=,CANNOT_DECIDE
+"In the 19th and 20th centuries, traditional monarchies gradually declined and disappeared.",declined,monarchies,DYNAMIC
+Dictatorship and constitutional democracy emerged as the world's two major forms of government.,emerged,Dictatorship,DYNAMIC
+"Between the two world wars, four types of dictatorships have been described: constitutional, communist",described,types,DYNAMIC
+"(nominally championing ""dictatorship of the proletariat""), counterrevolutionary, and fascist, and many have questioned the distinctions among these prototypes.",championing,communist,DYNAMIC
+"Since World War II a broader range of dictatorships have been recognized including Third World dictatorships, theocratic or religious dictatorships and dynastic or family-based dictatorships.",recognized,range,DYNAMIC
+=== Roman Empire ===,,,CANNOT_DECIDE
+"In the Roman Empire, a Roman dictator was the incumbent of a political office of legislate of the Roman Republic.",was,dictator,STATIVE
+Roman dictators were allocated absolute power during times of emergency.,allocated,dictators,DYNAMIC
+"Their power was originally neither arbitrary nor unaccountable,",was,power,STATIVE
+being subject to law and requiring retrospective justification.,being,,STATIVE
+"There were no such dictatorships after the beginning of the 2nd century BC,",were,dictatorships,STATIVE
+and later dictators such as Sulla and the Roman Emperors exercised power much more personally and arbitrarily.,exercised,dictatorships,DYNAMIC
+=== 19th century Latin America caudillo ===,,,CANNOT_DECIDE
+"After the collapse of Spanish colonial rule, various dictators emerged in many liberated countries.",emerged,dictators,DYNAMIC
+"Often leading a private army,",,,DYNAMIC
+"these Caudillo or self-appointed political-military leaders, attacked weak national governments",attacked,army,DYNAMIC
+"once they control a regional political and economic powers, with examples such as Antonio Lpez de Santa Anna in Mexico and Juan Manuel de Rosas in Argentina.",control,they,DYNAMIC
+"Such dictators have been also referred to as ""personalismo"".",referred,dictators,DYNAMIC
+The wave of military dictatorships in Latin America in the second half of the twentieth century left a particular mark on Latin American culture.,left,wave,DYNAMIC
+"In Latin American literature, the dictator novel challenging dictatorship and caudillismo, is a significant genre.",is,novel,STATIVE
+There are also many films,are,films,STATIVE
+depicting Latin American military dictatorships.,depicting,films,DYNAMIC
+=== Stalinism and fascism in the 20th century dictatorships ===,,,CANNOT_DECIDE
+"In the first half of the 20th century, Stalinist and fascist dictatorship regimes appeared in a variety of scientifically and technologically advanced countries,",appeared,dictatorships,DYNAMIC
+which are distinct from the dictatorship in Latin America and the post-colonial dictatorships in Africa and Asia.,are,countries,STATIVE
+Leading examples of modern totalitarian dictatorship include: .,include,examples,STATIVE
+"* Adolf Hitler's Nazi Germany, Benito Mussolini's Italy, and other fascist dictatorships;",,,CANNOT_DECIDE
+"* Joseph Stalin's Soviet Union, and other Stalinist and Soviet-style communist dictatorships",,,CANNOT_DECIDE
+"that appeared after World War II in Central Europe, Eastern Europe, China and other countries.",appeared,dictatorships,DYNAMIC
+===Dictatorships of Africa and Asia after World War II===,,,CANNOT_DECIDE
+"After World War II, dictators established themselves in the several new states of Africa and Asia, often at the expense or failure of the constitutions",established,dictators,DYNAMIC
+inherited from the colonial powers.,inherited,constitutions,STATIVE
+These constitutions often failed to work without a strong middle class,failed,constitutions,DYNAMIC
+or work against the preexisting autocratic rule.,work,constitutions,CANNOT_DECIDE
+Some elected presidents and prime ministers captured power by suppressing the opposition,elected,Some,DYNAMIC
+"and installing one-party rule, and some established military dictatorships through army.",installing,ministers,DYNAMIC
+"The often-cited exploitative dictator is the regime of Mobutu Sese Seko,",is,dictator,STATIVE
+"who ruled Zaire from 1965 to 1997,",ruled,Seko,DYNAMIC
+embezzling over $5 billion from his country.,embezzling,Seko,DYNAMIC
+Another classic case is the Philippines under the rule of Ferdinand Marcos.,is,case,STATIVE
+He is reputed to have stolen some US$510 billion.,reputed,He,STATIVE
+More than $400 billion were stolen from the treasury by Nigeria's leaders between 1960 and 1999.,stolen,$,DYNAMIC
+===Democratization===,,,CANNOT_DECIDE
+The global dynamics of democratization has been a central question for political scientists.,been,=,STATIVE
+The Third Wave Democracy was said to turn some dictatorships into democracies.,said,Democracy,DYNAMIC
+(see also the contrast between the two figures of the DD index in 1988 and 2008).,see,,CANNOT_DECIDE
+==Measuring dictatorships==,,,CANNOT_DECIDE
+"The conceptual and methodological differences in the political science literature exist with regards to measuring and classifying regimes into dictatorships and/or democracies, with prominent examples such as Freedom House, Polity IV",exist,dictatorships,STATIVE
+"and DD index, and their validity and reliability being discussed.",discussed,dictatorships,DYNAMIC
+Roughly two research approaches exist: (1) the minimalist approach focuses on whether a country has continued elections,exist,approaches,STATIVE
+"that are competitive,",are,elections,STATIVE
+"and (2) the substantive approach expands the concept of democracy to include human rights, freedom of the press, the rule of law, etc.",expands,approach,STATIVE
+"The DD index is seen as an example of the minimalist approach, whereas the Polity data series, relatively more substantive.",seen,index,STATIVE
+==Types==,,,CANNOT_DECIDE
+"The most general term is despotism, a form",is,=,STATIVE
+of government in which a single entity rules with absolute power.,rules,entity,DYNAMIC
+"That entity may be an individual, as in an autocracy,",be,entity,STATIVE
+"or it may be a group, as in an oligarchy.",be,it,STATIVE
+Despotism can mean tyranny,mean,Despotism,STATIVE
+"(dominance through threat of punishment and violence), or absolutism; or dictatorship (a form of government in which the ruler is an absolute dictator,",is,ruler,STATIVE
+"not restricted by a constitution, laws or opposition, etc.).",restricted,dictator,STATIVE
+Dictatorship may take the form of authoritarianism or totalitarianism.,take,Dictatorship,DYNAMIC
+Dictatorship is 'a form,is,Dictatorship,STATIVE
+of government in which absolute power is concentrated in a dictator or a small clique' or 'a government organisation or group,concentrated,power,STATIVE
+"in which absolute power is so concentrated',",is,power,STATIVE
+"whereas democracy, with which the concept of dictatorship is often compared,",compared,concept,DYNAMIC
+is defined by most people as a form,defined,democracy,STATIVE
+of government where those who govern,govern,those,STATIVE
+are selected through contested elections.,selected,those,DYNAMIC
+Authoritarian dictatorships are those,are,dictatorships,STATIVE
+where there is little political mobilization and,is,mobilization,STATIVE
+"""a small group exercises power within formally ill-defined limits but actually quite predictable ones"".",exercises,mobilization,STATIVE
+"Totalitarian dictatorships involve a ""single party",involve,dictatorships,STATIVE
+"led by a single powerful individual with a powerful secret police and a highly developed ideology.""",led,party,STATIVE
+"Here, the government has ""total control of mass communications and social and economic organizations"".",has,government,STATIVE
+"Hannah Arendt labelled totalitarianism a new and extreme form of dictatorship involving ""atomized, isolated individuals""",labelled,Arendt,DYNAMIC
+in which ideology plays a leading role in defining,plays,ideology,DYNAMIC
+how the entire society should be organised.,organised,society,STATIVE
+Juan Linz argues,argues,Linz,DYNAMIC
+"that the distinction between an authoritarian regime and a totalitarian one is that while an authoritarian one seeks to suffocate politics and political mobilization (depoliticization),",is,distinction,STATIVE
+a totalitarian one seeks to control politics and political mobilization.,seeks,one,DYNAMIC

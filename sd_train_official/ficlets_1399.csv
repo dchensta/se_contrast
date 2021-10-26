@@ -1,0 +1,1051 @@
+Clause,mainVerb,mainReferent,Gold
+The Apartment,,,CANNOT_DECIDE
+g2 (la pianista irlandesa),,,CANNOT_DECIDE
+2008-11-09T14:05:29Z,,,CANNOT_DECIDE
+ID: 45720,,,CANNOT_DECIDE
+Prequels: 45719,,,CANNOT_DECIDE
+Sequels: 45722,,,CANNOT_DECIDE
+"The apartment was nice, for its size.",was,apartment,STATIVE
+"A bookcase lined one wall,",lined,bookcase,STATIVE
+"crammed with hundreds of volumes, files, and notebooks.",crammed,bookcase,STATIVE
+"A few small crates had been converted into a filing system of some sort,",converted,crates,DYNAMIC
+"filled to the brim with papers, clippings, and who knows what else.",filled,converted,STATIVE
+"A nearby table was cluttered with pages of scribbled diagrams and figures, alongside contraption of a singular sort.",was,table,STATIVE
+A mismatched set of chairs sat facing a small fireplace.,sat,mismatched,STATIVE
+A harmonica sat glinting on the mantlepiece.,sat,harmonica,STATIVE
+"Make yourself comfortable,",Make,“,CANNOT_DECIDE
+" Sheila said carelessly,",said,comfortable,DYNAMIC
+but still studying me intently with those penetrating brown eyes.,studying,Make,DYNAMIC
+"Your bedrooms down on the far right, in the corner.",’s,bedroom,STATIVE
+I expect,expect,I,STATIVE
+your things are outside?,are,things,STATIVE
+I nodded.,nodded,I,DYNAMIC
+"Well, I suggest you move them inside;",suggest,I,STATIVE
+one never knows,knows,one,STATIVE
+what neighbors will do.,do,neighbors,DYNAMIC
+"Here, Ill help you.",help,’ll,DYNAMIC
+"Thanks, but theyre all really heavy...",Thanks,“,STATIVE
+Nonsense!,,,CANNOT_DECIDE
+I insist.,,,STATIVE
+The ease with which she picked up two of my jammed suitcases nearly put me to shame.,put,ease,DYNAMIC
+On Her Own,,,CANNOT_DECIDE
+lovinglife307,,,CANNOT_DECIDE
+2008-11-09T14:10:25Z,,,CANNOT_DECIDE
+ID: 45721,,,CANNOT_DECIDE
+Prequels: none,,,CANNOT_DECIDE
+Sequels: 45789,,,CANNOT_DECIDE
+Hello Marie.,,,CANNOT_DECIDE
+What was that?,was,that,CANNOT_DECIDE
+I looked around me feverishly.,looked,I,DYNAMIC
+No one called me Marie anymore.,called,one,DYNAMIC
+My mum was the only person to-,was,mum,STATIVE
+Have you missed me?,missed,person,CANNOT_DECIDE
+"I spun around, certain",spun,I,DYNAMIC
+the voice was coming from behind me.,coming,voice,DYNAMIC
+All I saw was blackness.,was,All,STATIVE
+"I shivered, sure something was crawling up my spine.",shivered,I,DYNAMIC
+Ive missed you.,missed,I,STATIVE
+"I felt a hand grab my shoulder, and then suddenly-",felt,I,DYNAMIC
+"Next stop Bloomfield, New Jersey.",,,CANNOT_DECIDE
+"Ohh... I sat up,",sat,I,DYNAMIC
+rubbing my eyes with the palms of my hands.,rubbing,,DYNAMIC
+I was so tired.,was,I,STATIVE
+I had a right to be tired.,had,I,STATIVE
+"I had just traveled about two hundred and sixty miles, for approximately four and a half hours across the bottom of New Hampshire, through Massachusetts, Connecticut, part of Pennsylvania",traveled,I,DYNAMIC
+and now finally I was arriving in New Jersey.,arriving,I,DYNAMIC
+"I was so tired,",was,I,STATIVE
+"I almost considered going back to sleep,",considered,I,DYNAMIC
+but I remembered,remembered,I,DYNAMIC
+I had to get off soon.,had,I,DYNAMIC
+"Wait, why should I get off?",get,I,CANNOT_DECIDE
+"Ive come this far,",’ve,I,DYNAMIC
+I should just keep going.,keep,come,DYNAMIC
+"Oh, no you dont.",n’t,you,DYNAMIC
+Were here for a reason.,’re,We,STATIVE
+Remember Grandma Rosalie.,,,CANNOT_DECIDE
+I remember.,remember,I,STATIVE
+I could never forget.,forget,I,DYNAMIC
+"Deductions, Deductions",,,CANNOT_DECIDE
+g2 (la pianista irlandesa),,,CANNOT_DECIDE
+2008-11-09T14:24:52Z,,,CANNOT_DECIDE
+ID: 45722,,,CANNOT_DECIDE
+Prequels: 45720,,,CANNOT_DECIDE
+Sequels: 45734,,,CANNOT_DECIDE
+"I trust you had a safe flight, dismal",trust,I,STATIVE
+as the airline was?,was,Deductions,STATIVE
+I nodded.,nodded,I,DYNAMIC
+How can you tell that?,tell,”,CANNOT_DECIDE
+I could tell the moment,tell,I,DYNAMIC
+you walked in.,walked,tell,DYNAMIC
+"Not only was the dust on your shoes suggestive,",was,dust,STATIVE
+but you smell faintly of jet fuel & inferior peanuts.,smell,dust,STATIVE
+"That, & your boarding pass is sticking out of your pocket with the airlines name facing out.",boarding,,STATIVE
+I laughed.,laughed,I,DYNAMIC
+Was it really that easy?,Was,easy,CANNOT_DECIDE
+Of course.,,,CANNOT_DECIDE
+Can you tell anything else?,tell,you,CANNOT_DECIDE
+She studied me intently once more.,studied,She,DYNAMIC
+Id have to get used to that.,have,I,STATIVE
+"Well, youve been well off;",’ve,you,STATIVE
+have been walking a great deal as of late;,walking,,DYNAMIC
+are a frequent writer,are,walking,STATIVE
+and are a lefty.,are,,STATIVE
+Thats all I can tell.,tell,I,STATIVE
+I nearly fell out of my chair.,fell,I,DYNAMIC
+How...?,,,CANNOT_DECIDE
+"Not many lower people, including myself, going around wearing a Rolex like that.",including,,DYNAMIC
+I could see,see,I,DYNAMIC
+"your shoes have been worn a few milimeters,",worn,shoes,DYNAMIC
+but the canvas is fairly new.,is,canvas,STATIVE
+"As far as the writing goes, youve a considerable amout of ink & graphite on the side of your left hand.",goes,far,STATIVE
+Youre a genius!,“,”,STATIVE
+I cried.,cried,I,DYNAMIC
+She shook her head,shook,She,DYNAMIC
+& smiled.,,,DYNAMIC
+"Deductions, my friend.",,,CANNOT_DECIDE
+Serenity in the Music,,,CANNOT_DECIDE
+lovinglife307,,,CANNOT_DECIDE
+2008-11-09T15:09:51Z,,,CANNOT_DECIDE
+ID: 45723,,,CANNOT_DECIDE
+Prequels: 45700,,,CANNOT_DECIDE
+Sequels: none,,,CANNOT_DECIDE
+Hey.,“,ID,CANNOT_DECIDE
+"A girl, sixteen years old, with masses of bright red hair and big gray eyes opened the door.",opened,girl,DYNAMIC
+"She snapped her gum,",snapped,She,DYNAMIC
+leaning comfortably against the doorway.,leaning,She,STATIVE
+Loud music sounded from inside.,sounded,music,DYNAMIC
+"Hey, Beth.",,,CANNOT_DECIDE
+"I walked up the pathway and into Beths mansion of a house,",walked,I,DYNAMIC
+pulling at my camisole nervously.,pulling,,DYNAMIC
+Was I ever going to get over being around her?,going,I,CANNOT_DECIDE
+I held in a sigh.,held,I,DYNAMIC
+Probably not.,Probably,not,CANNOT_DECIDE
+Everyones downstairs.,“,,STATIVE
+Get yourself a beer.,Get,,CANNOT_DECIDE
+"Beth pointed down the stairs, to where the music was blasting from.",pointed,Beth,DYNAMIC
+I strode over to the opening.,strode,I,DYNAMIC
+"I looked back over my shoulder,",looked,I,DYNAMIC
+seeing,seeing,,DYNAMIC
+"if she was coming,",coming,she,DYNAMIC
+"but Beth was already on the couch, absorbed with a cute junior.",was,I,STATIVE
+"I sighed, out loud this time.",sighed,I,DYNAMIC
+She didnt notice.,did,She,DYNAMIC
+I descended the stairs quickly.,descended,I,DYNAMIC
+I couldnt wait to just let go.,wait,I,STATIVE
+I was always the life of the party after a few beers.,was,I,STATIVE
+"Plus, I didnt feel any pain of any sort",feel,I,STATIVE
+when I was at these loud parties.,was,,STATIVE
+It was funny actually.,was,It,STATIVE
+I found serenity in the booming music.,found,I,DYNAMIC
+Regular Routines,,,CANNOT_DECIDE
+lovinglife307,,,CANNOT_DECIDE
+2008-11-09T15:18:34Z,,,CANNOT_DECIDE
+ID: 45724,,,CANNOT_DECIDE
+Prequels: 45646,,,CANNOT_DECIDE
+Sequels: none,,,CANNOT_DECIDE
+I was floating on a cloud.,floating,I,STATIVE
+I was sure of it.,was,I,STATIVE
+"There was nothing under me, nothing over me, and nothing around me.",was,nothing,STATIVE
+Nothing anywhere.,,,CANNOT_DECIDE
+I sighed happily.,sighed,I,DYNAMIC
+I didnt want it to stop.,want,I,STATIVE
+The report wasnt,was,report,STATIVE
+"hard, I had already read the book,",read,I,DYNAMIC
+and so I just jotted down a few notes for him.,jotted,I,DYNAMIC
+He told me,told,He,DYNAMIC
+he would finish it later.,finish,told,DYNAMIC
+"We kissed more,",kissed,We,DYNAMIC
+"sitting there, side by side on the couch.",sitting,more,STATIVE
+"We really got into it,",got,We,DYNAMIC
+"pushing my hands through his hair, his hands all over me.",pushing,,DYNAMIC
+"He pushed his hand under the edge of my shirt,",pushed,He,DYNAMIC
+and I didnt notice,did,He,DYNAMIC
+until his cool hands touched my chest.,touched,hands,DYNAMIC
+"I pulled away abruptly,",pulled,I,DYNAMIC
+jerking upright.,,,DYNAMIC
+What are you doing?,doing,”,CANNOT_DECIDE
+"Oh, cmon Cassie.",,,CANNOT_DECIDE
+You know,know,You,STATIVE
+you want it.,want,you,STATIVE
+"Um, no, I do not.",do,I,STATIVE
+He grabbed my wrist,grabbed,He,DYNAMIC
+and pulled me back down on top of him.,pulled,He,DYNAMIC
+I jerked away.,jerked,I,DYNAMIC
+Stop it Matt!,“,,CANNOT_DECIDE
+"He kissed my sloppily on my neck,",kissed,He,DYNAMIC
+as I tried to throw myself off him.,tried,I,DYNAMIC
+I jerked free,jerked,I,DYNAMIC
+and ran.,,,DYNAMIC
+I just ran.,ran,I,DYNAMIC
+I didnt know where.,know,I,STATIVE
+I just needed to get away.,needed,I,STATIVE
+Evelyn Might,,,CANNOT_DECIDE
+THX 0477,,,CANNOT_DECIDE
+2008-11-09T15:31:02Z,,,CANNOT_DECIDE
+ID: 45725,,,CANNOT_DECIDE
+Prequels: 45667,,,CANNOT_DECIDE
+Sequels: none,,,CANNOT_DECIDE
+"Good, came a disembodied voice from deep in several shadows at once.",came,THX,DYNAMIC
+"Great, I countered.",countered,I,DYNAMIC
+"Rather than really engage,",engage,,CANNOT_DECIDE
+I tried to take better stock of the situation.,tried,I,DYNAMIC
+"Brian was conscious but totally out of it, the poor guy.",was,guy,STATIVE
+"His technical expertise had been invaluable in the past weeks,",been,expertise,STATIVE
+but he just didnt have the stomach for the rough stuff.,have,expertise,STATIVE
+Evelyn was...,was,Evelyn,STATIVE
+You know,know,You,STATIVE
+"what we want, interrupted the voice, booming and echoing through the stark environment of the industrial complex.",want,we,STATIVE
+It had seemed like such a great base of operations at the time.,seemed,It,STATIVE
+I hate,hate,I,STATIVE
+when they say,say,they,DYNAMIC
+"that, I thought,",thought,know,DYNAMIC
+I never know,know,I,STATIVE
+what they want.,want,they,STATIVE
+"Yeah, sure, I tossed back into the shadows carelessly,",“,,DYNAMIC
+but lets pretend I dont.,“,I,CANNOT_DECIDE
+If only I could keep them talking long enough,keep,I,DYNAMIC
+"for Evelyn to wake up, then she might...well, she might...",,,CANNOT_DECIDE
+"The device, Mr. Red.",“,she,CANNOT_DECIDE
+And I suppose,suppose,I,STATIVE
+you expect me to just hand it over?,expect,you,STATIVE
+"That was actually quite unlikely,",was,That,STATIVE
+since I had no idea,had,I,STATIVE
+which device they meant.,meant,they,STATIVE
+We had a lot of devices.,had,We,STATIVE
+Bonfire,,,CANNOT_DECIDE
+XxjerseyxgirlxX,,,CANNOT_DECIDE
+2008-11-09T17:18:21Z,,,CANNOT_DECIDE
+ID: 45726,,,CANNOT_DECIDE
+Prequels: none,,,CANNOT_DECIDE
+Sequels: none,,,CANNOT_DECIDE
+"The group started to get up, walking to their cars",started,group,DYNAMIC
+that awaited them in the parking lot.,awaited,cars,STATIVE
+"One by one, they got up from their spot on the sandallowing",got,they,DYNAMIC
+"their eyes to leave the fire,",leave,eyes,CANNOT_DECIDE
+letting it burn out by itself.,letting,they,STATIVE
+"Two people were left, in their winter coats and denim jeans,",left,people,STATIVE
+"sitting,",sitting,,STATIVE
+watching the fire die out...,watching,sitting,STATIVE
+Only three cars were left in the lot.,left,cars,STATIVE
+"A girl yelled,",yelled,girl,DYNAMIC
+catching their attention.,catching,,DYNAMIC
+They looked at each other,looked,They,DYNAMIC
+"and got up,",got,They,DYNAMIC
+wiping the sand from their legs.,wiping,They,DYNAMIC
+"The walked off the beach together,",walked,The,DYNAMIC
+"arms linked,",linked,arms,STATIVE
+as the last car pulled away.,pulled,car,DYNAMIC
+The boy walked the girl to her car.,walked,boy,DYNAMIC
+Silence.,,,CANNOT_DECIDE
+"Before she stepped inside,",stepped,she,DYNAMIC
+"she looked into his dark blue eyes,",looked,she,DYNAMIC
+and said goodbye.,said,she,DYNAMIC
+He stepped away,stepped,He,DYNAMIC
+as the car backed up.,backed,car,DYNAMIC
+He jumped in his own car,jumped,He,DYNAMIC
+and turned the engine on.,turned,He,DYNAMIC
+"As he turned away from the beach,",turned,he,DYNAMIC
+"he saw the last flame of the fire,",saw,he,DYNAMIC
+what used to be so huge,used,fire,STATIVE
+he was afraid,was,he,STATIVE
+"they wouldnt be able to put it out,",be,they,STATIVE
+go away forever.,go,flame,CANNOT_DECIDE
+Bonfire,,,CANNOT_DECIDE
+XxjerseyxgirlxX,,,CANNOT_DECIDE
+2008-11-09T17:19:10Z,,,CANNOT_DECIDE
+ID: 45727,,,CANNOT_DECIDE
+Prequels: none,,,CANNOT_DECIDE
+Sequels: none,,,CANNOT_DECIDE
+"The group started to get up, walking to their cars",started,group,DYNAMIC
+that awaited them in the parking lot.,awaited,cars,STATIVE
+"One by one, they got up from",got,they,DYNAMIC
+"their spot on the sandallowing their eyes to leave the fire,",leave,eyes,STATIVE
+letting it burn out by itself.,letting,they,STATIVE
+"Two people were left, in",left,people,STATIVE
+"their winter coats and denim jeans, sitting,",sitting,,STATIVE
+watching the fire die out,watching,sitting,STATIVE
+...Only three cars were left in the lot.,left,cars,STATIVE
+A girl,,,CANNOT_DECIDE
+"yelled,",yelled,girl,DYNAMIC
+catching their attention.,,,DYNAMIC
+They looked at each other,looked,They,DYNAMIC
+"and got up,",got,They,DYNAMIC
+wiping the sand from their legs.,wiping,They,DYNAMIC
+The walked off,walked,The,DYNAMIC
+"the beach together, arms linked,",linked,arms,STATIVE
+as the last car pulled away.,pulled,car,DYNAMIC
+The boy walked the girl to her car.,walked,boy,DYNAMIC
+Silence.,,,CANNOT_DECIDE
+Before she,,,CANNOT_DECIDE
+"stepped inside,",stepped,she,DYNAMIC
+"she looked into his dark blue eyes,",looked,she,DYNAMIC
+and said goodbye.,said,she,DYNAMIC
+He stepped away,stepped,He,DYNAMIC
+as the car backed up.,backed,car,DYNAMIC
+He jumped in,jumped,He,DYNAMIC
+his own car and turned the engine on.,turned,He,DYNAMIC
+"As he turned away from the beach,",turned,he,DYNAMIC
+"he saw the last flame of the fire,",saw,he,DYNAMIC
+what used to,used,fire,CANNOT_DECIDE
+be so huge,be,fire,CANNOT_DECIDE
+he was afraid,was,he,STATIVE
+"they wouldnt be able to put it out,",be,they,STATIVE
+go away forever.,go,flame,CANNOT_DECIDE
+Getting Lucky,Getting,tears,CANNOT_DECIDE
+K,,,CANNOT_DECIDE
+2008-11-09T17:28:10Z,,,CANNOT_DECIDE
+ID: 45728,,,CANNOT_DECIDE
+Prequels: none,,,CANNOT_DECIDE
+Sequels: none,,,CANNOT_DECIDE
+You rub her back,rub,You,DYNAMIC
+"as she sniffles,",sniffles,she,DYNAMIC
+tears soaking into your hoodie.,soaking,tears,DYNAMIC
+"""I hope",hope,I,STATIVE
+you're enjoying junior year,enjoying,you,STATIVE
+"while it lasts,""",lasts,it,STATIVE
+"she mumbles bitterly,",mumbles,she,DYNAMIC
+pulling out of your embrace.,pulling,,DYNAMIC
+"Her eyes are rimmed red,",rimmed,eyes,STATIVE
+"with dark bags under them, testifying her",testifying,,STATIVE
+exhaustion.,,,CANNOT_DECIDE
+"""I should be doing my God damn English homework.""",doing,I,DYNAMIC
+"Her hands dance in mid-air,",dance,hands,DYNAMIC
+looking for where she left her,looking,,DYNAMIC
+pen and paper before her breakdown interlude.,,,CANNOT_DECIDE
+"""You should be sleeping, you tell her,",sleeping,You,STATIVE
+pushing strands of blonde hair,pushing,sleeping,DYNAMIC
+away from her face.,,,CANNOT_DECIDE
+"You let your finger tips play across her features,",let,You,DYNAMIC
+traveling from tear stained cheeks up to heavy,traveling,,DYNAMIC
+eyelids.,,,CANNOT_DECIDE
+"""Is my lazy eye getting googly?""",Is,,CANNOT_DECIDE
+"she asks, half a smile",asks,she,DYNAMIC
+gracing her face.,gracing,smile,STATIVE
+"""A little,"" you respond with a grin.",respond,you,DYNAMIC
+"""No wonder I see six of you,""",see,I,DYNAMIC
+she teases.,teases,wonder,DYNAMIC
+"""And here I thought",thought,I,STATIVE
+"I was just getting lucky.""",was,,DYNAMIC
+Copy Ficlet Challenge,,,CANNOT_DECIDE
+Wyatt Aapr,,,CANNOT_DECIDE
+2008-11-09T18:00:26Z,,,CANNOT_DECIDE
+ID: 45729,,,CANNOT_DECIDE
+Prequels: none,,,CANNOT_DECIDE
+Sequels: none,,,CANNOT_DECIDE
+"Ive somehow managed to write 225 ficlets, to me its amazing.",’s,it,DYNAMIC
+"To thoses of you that have written 3, 4 and 500 ficlets or more",ficlets,more,DYNAMIC
+its small potatoes.,’s,it,STATIVE
+"However, Ill throw out a Challenge.",’ll,I,DYNAMIC
+My last one drew,drew,one,DYNAMIC
+so few writers I didnt pick a winner.,pick,I,DYNAMIC
+Maybe this one will do better.,do,one,DYNAMIC
+The Challenge is to write a sequel to another writers ficlet.,is,Challenge,STATIVE
+"But, not to anyone you have sequeled before,",sequeled,you,DYNAMIC
+and it has to be a ficlet,has,you,STATIVE
+that has not been sequeled.,sequeled,ficlet,DYNAMIC
+Enclude the original ficlet name in your sequel.,Enclude,,CANNOT_DECIDE
+"Good Luck, and have fun.",have,and,CANNOT_DECIDE
+I will pick a winner on Nov. 27th (my birthday),pick,I,DYNAMIC
+"Prose of Priscilla, Poetry of Paralee",,,CANNOT_DECIDE
+SaveTheUnicorns,SaveTheUnicorns,Poetry,CANNOT_DECIDE
+2008-11-09T18:00:48Z,,,CANNOT_DECIDE
+ID: 45730,,,CANNOT_DECIDE
+Prequels: none,,,CANNOT_DECIDE
+Sequels: none,,,CANNOT_DECIDE
+"If middle school was a kingdom,",was,school,STATIVE
+then Priscilla would surely be the queen.,be,Priscilla,STATIVE
+"She was tall, graceful, pretty, and interacted well with people.",was,She,STATIVE
+"She wore stylish, trendy clothes,",wore,She,STATIVE
+and was the one,was,,STATIVE
+that people strived to please.,strived,people,DYNAMIC
+"Priscilla was adored by the teachers,",adored,Priscilla,STATIVE
+and she knew,knew,Priscilla,STATIVE
+how to get,get,she,CANNOT_DECIDE
+what she wanted.,wanted,she,STATIVE
+Though she acted kindly,acted,she,DYNAMIC
+"and refrained from malicious acts of meaness most of the time,",refrained,she,DYNAMIC
+she still had a slice of vanity in her essence.,had,she,STATIVE
+She didnt quite fancy the idea of spending time,did,fancy,STATIVE
+with anyone deemed unpopular or stupid.,deemed,anyone,STATIVE
+"Occasionally, she would volunteer her time for charity,",volunteer,she,DYNAMIC
+but she didnt work the hardest.,work,she,DYNAMIC
+"Yet whenever she did even the slightest good deed,",did,she,DYNAMIC
+a newspaper reporter always happened to be around.,happened,reporter,STATIVE
+"Despite the fact that she was deemed an intelligent beauty by many, and as much",deemed,she,STATIVE
+"as she was one, the amazing truth still stood.",stood,truth,STATIVE
+"As much as it appeared,",appeared,it,STATIVE
+"she wasnt the greatest, or the purest, prettiest, or bravest.",was,she,STATIVE
+There was another,was,another,STATIVE
+who was all of this and so much more.,was,another,STATIVE
+"Someday, all would see this.",see,Someday,DYNAMIC
+Cocooned,,,CANNOT_DECIDE
+Stovohobo,,,CANNOT_DECIDE
+2008-11-09T18:04:41Z,,,CANNOT_DECIDE
+ID: 45731,,,CANNOT_DECIDE
+Prequels: 45697,,,CANNOT_DECIDE
+Sequels: 45737,,,CANNOT_DECIDE
+"Contoured metallic parts glided and folded out over me,",glided,parts,DYNAMIC
+emerging from the wall,emerging,,DYNAMIC
+and pushing me back in with them.,pushing,,DYNAMIC
+The androids face was lost,lost,face,STATIVE
+as I was suddenly plunged into darkness.,plunged,I,DYNAMIC
+I screamed.,screamed,I,DYNAMIC
+I screamed,screamed,I,DYNAMIC
+"for all I was worth,",was,I,STATIVE
+claustrophobia rampaging in my stomach like a terrified bull.,terrified,,DYNAMIC
+"My arms and legs vibrated,",vibrated,legs,DYNAMIC
+struggling like crazy to get free.,struggling,,DYNAMIC
+"A voice, genderless and robotic, suddenly filled my head.",filled,voice,DYNAMIC
+Do nOt mO-ove.,mO-ove,nOt,CANNOT_DECIDE
+"Ana-LYzing i-in THREE -e, TWO -oo, WUH -un.",,,CANNOT_DECIDE
+"A sharp blade of light blinded me for a split second,",blinded,blade,DYNAMIC
+then moved down the rest of my body.,moved,split,DYNAMIC
+I could see,see,I,DYNAMIC
+I was totally encased in metal.,encased,I,STATIVE
+Claustrophobia started welling up again.,started,Claustrophobia,DYNAMIC
+"The bar of blue light retracted into the front of my shell,",retracted,bar,DYNAMIC
+"and with a sudden lurch,",,,CANNOT_DECIDE
+the pod hurtled upward.,hurtled,pod,DYNAMIC
+"I was being shot to the top of the building, racing through its walls.",shot,I,DYNAMIC
+It was all one gigantic machine.,was,It,STATIVE
+"Suddenly it stopped,",stopped,it,DYNAMIC
+and I had the sense,had,it,STATIVE
+"I was very, very high up.",was,I,STATIVE
+Stay For the Weekend,,,CANNOT_DECIDE
+K,,,CANNOT_DECIDE
+2008-11-09T18:09:26Z,,,CANNOT_DECIDE
+ID: 45732,,,CANNOT_DECIDE
+Prequels: none,,,CANNOT_DECIDE
+Sequels: 45740,,,CANNOT_DECIDE
+"She ducks into your car,",ducks,She,DYNAMIC
+followed by a cloud of perfume and a burst of autumn air.,followed,car,STATIVE
+Hi!,“,,CANNOT_DECIDE
+"she chirps,",chirps,she,DYNAMIC
+reaching across the center console to wrap her arms around your neck.,reaching,,DYNAMIC
+Her blonde curls tickle at your face,tickle,curls,DYNAMIC
+and you smile into her neck.,smile,curls,DYNAMIC
+"In reality, you saw her two weeks ago,",saw,you,DYNAMIC
+but it feels longer.,feels,you,STATIVE
+"You needed this- orange leaves and winding roads, the sound of her voice and the radio humming softly in the back of the car.",needed,You,STATIVE
+"You both take deep breaths,",take,You,DYNAMIC
+and you are off;,are,you,STATIVE
+scenery rolls by,rolls,scenery,DYNAMIC
+as the two of you chat endlessly.,chat,scenery,DYNAMIC
+She laughs at your drunken tales,laughs,She,DYNAMIC
+and you roll your eyes at the boys,roll,She,DYNAMIC
+who do not realize,realize,boys,DYNAMIC
+they are lucky to have her around.,are,they,STATIVE
+"One day, Ill find someone,",’ll,I,DYNAMIC
+she sighs.,sighs,she,DYNAMIC
+If only she realized,realized,she,DYNAMIC
+that she does not have to look very far....,have,she,DYNAMIC
+You Can't Run on Crutches,Run,You,DYNAMIC
+Wyatt Aapr,,,CANNOT_DECIDE
+2008-11-09T18:33:03Z,,,CANNOT_DECIDE
+ID: 45733,,,CANNOT_DECIDE
+Prequels: 45714,,,CANNOT_DECIDE
+Sequels: 47466,,,CANNOT_DECIDE
+"Mable was the prettiest soiled dove at the Longhorn,",dove,realized,STATIVE
+so naturally Archie wanted to see,wanted,Archie,STATIVE
+what her bloomers looked like.,looked,bloomers,STATIVE
+He couldnt afford anything else,afford,He,STATIVE
+"she might have to offer,",have,she,STATIVE
+but lookin at her bloomers was free.,was,’,STATIVE
+"Archie picked up his crutch,",picked,Archie,DYNAMIC
+"and slowly and carefully, followed Wilber down the alley.",followed,Archie,DYNAMIC
+They had to maneuver around the small pile of broken rail pieces.,had,They,DYNAMIC
+Wilber looked up,looked,Wilber,DYNAMIC
+"and pointed to the landings broken rail,Someone aught a fix",pointed,Wilber,DYNAMIC
+that afor someone gets hurt.,hurt,fix,DYNAMIC
+"Archie mumbled, Idiot.",,,DYNAMIC
+"As they grew closer,",grew,they,DYNAMIC
+they could see some lacy undies,see,they,DYNAMIC
+flapping in the breeze.,flapping,undies,DYNAMIC
+"Would you look at that,",“,”,CANNOT_DECIDE
+ said Wilber.,said,”,DYNAMIC
+"Indeed, the colorful undies were a sight to behold.",were,undies,STATIVE
+"There were six pairs of panties, pink, red, black, purple, white with frilly lace and yellow.",were,pairs,STATIVE
+"Archie, lets steal us a pair, Wilber said",said,Archie,DYNAMIC
+"as he overturned an empty whiskey barrel,",overturned,he,DYNAMIC
+climbed up,climbed,he,DYNAMIC
+and yanked two pairs of panties from the line.,yanked,he,DYNAMIC
+"Here Archie, stick these in your pocket.",“,,CANNOT_DECIDE
+"Then a voice called out, Stop Thief!",called,voice,DYNAMIC
+Wilber ran.,ran,Wilber,DYNAMIC
+Profession,,,CANNOT_DECIDE
+g2 (la pianista irlandesa),,,CANNOT_DECIDE
+2008-11-09T18:38:52Z,,,CANNOT_DECIDE
+ID: 45734,,,CANNOT_DECIDE
+Prequels: 45722,,,CANNOT_DECIDE
+Sequels: 45885,,,CANNOT_DECIDE
+Deductions?,,,CANNOT_DECIDE
+Of course.,Of,“,CANNOT_DECIDE
+"It is one thing to see,",is,It,STATIVE
+it is another entirely to deduce.,is,it,STATIVE
+One must be bold,be,,STATIVE
+"in deductions, must not be afraid of being wrong.",be,,STATIVE
+"But, if one is wrong?",“,”,STATIVE
+She shrugged.,shrugged,She,DYNAMIC
+Scrap it,Scrap,“,CANNOT_DECIDE
+& start over.,,,CANNOT_DECIDE
+"But one always must first observe & gather the facts,",observe,one,DYNAMIC
+then draw conclusions.,draw,gather,DYNAMIC
+"Going in the other direction always bends facts to theories,",Going,,DYNAMIC
+& it always becomes distorted.,becomes,it,DYNAMIC
+Her face scrunched at the very thought.,face,Her,DYNAMIC
+"I wouldve continued,",’ve,I,DYNAMIC
+"but an odd, siren noise rang out.",rang,I,DYNAMIC
+Oh!,,,CANNOT_DECIDE
+"Sheila exclaimed,",exclaimed,Sheila,DYNAMIC
+reaching for her black Alias.,reaching,,DYNAMIC
+"A client, probably.",“,,CANNOT_DECIDE
+Client?,,,CANNOT_DECIDE
+"Oh, yes.",“,,CANNOT_DECIDE
+"You see,",see,You,STATIVE
+"I like to keep my mind busy with small problems,",like,I,STATIVE
+& people will come to me for advice.,come,people,DYNAMIC
+Like a detective?,“,,CANNOT_DECIDE
+She shot me a look.,shot,She,DYNAMIC
+Im not associated with the official police.,’m,I,STATIVE
+Huge difference between the two.,”,difference,CANNOT_DECIDE
+She turned back to her phone.,turned,She,DYNAMIC
+"Ah yes, someones on his way over.",“,”,STATIVE
+I should probably not intrude... I started to get up.,intrude,I,DYNAMIC
+Nonsense!,,,CANNOT_DECIDE
+If anything youll be a help!,be,anything,STATIVE
+"But no matter now, because here comes our client.",matter,no,DYNAMIC
+Him and I,,,CANNOT_DECIDE
+OMGitsBeckii,OMGitsBeckii,I,CANNOT_DECIDE
+2008-11-09T19:01:39Z,,,CANNOT_DECIDE
+ID: 45735,,,CANNOT_DECIDE
+Prequels: none,,,CANNOT_DECIDE
+Sequels: none,,,CANNOT_DECIDE
+I am looking into the eyes of my friend.,looking,I,STATIVE
+The one thing that cheers me up when I am sad.,cheers,thing,STATIVE
+The thing I forgive,forgive,I,DYNAMIC
+when he does things,does,he,DYNAMIC
+that are bad.,are,thing,STATIVE
+The thing I will love until the end.,love,I,STATIVE
+"My dog, my friend.",My,,CANNOT_DECIDE
+~THE END ~,,,CANNOT_DECIDE
+(Serial Killer Challenge) Curtains For Kitty,Curtains,~,CANNOT_DECIDE
+Kermitgorf,,,CANNOT_DECIDE
+2008-11-09T19:05:24Z,,,CANNOT_DECIDE
+ID: 45736,,,CANNOT_DECIDE
+Prequels: 45717,,,CANNOT_DECIDE
+Sequels: none,,,CANNOT_DECIDE
+"A maniacal laugh seemed so clich,",seemed,laugh,STATIVE
+"but that is exactly what Cesar did as he stood before Millicent and her children,",is,~,DYNAMIC
+holding their kitten in his beefy hands.,holding,,STATIVE
+"""One twist is all it will take,",is,twist,STATIVE
+"so tell me,",tell,gon,CANNOT_DECIDE
+"what's it gonna be?""",'s,it,CANNOT_DECIDE
+"Cesar said,",said,Cesar,DYNAMIC
+"""Tell your old pal Cesar",Tell,Cesar,CANNOT_DECIDE
+"where your old man is,",is,man,STATIVE
+"or it's curtains for Kitty.""",'s,it,STATIVE
+The girls cried.,cried,girls,DYNAMIC
+Their mother looked with contempt upon the loathsome slime bag,looked,mother,STATIVE
+holding their kitten.,holding,mother,STATIVE
+The kitten would have to die,have,kitten,DYNAMIC
+before she would tell him,tell,she,DYNAMIC
+where her husband was hiding.,hiding,husband,STATIVE
+"He would threaten the girls next,",threaten,He,DYNAMIC
+she knew.,knew,threaten,STATIVE
+"""Lady, your hubby saw me kill that last girl in the park.",saw,hubby,DYNAMIC
+I watched him,watched,I,DYNAMIC
+as he held her hand,held,he,STATIVE
+as she died.,died,she,DYNAMIC
+I know,know,I,STATIVE
+he saw me.,saw,he,DYNAMIC
+"He can identify me lady,",identify,He,DYNAMIC
+I simply cannot allow that to happen.,allow,identify,DYNAMIC
+"I will snap your daughters necks like little twigs,""",snap,I,DYNAMIC
+Casar said,said,Casar,DYNAMIC
+"as he broke the neck of the kitten,",broke,he,DYNAMIC
+it whimpered softly,whimpered,it,DYNAMIC
+and went slack in his calloused hands.,went,it,DYNAMIC
+He picked up the youngest child by the scruff of her neck,picked,He,DYNAMIC
+"and said, """,said,He,DYNAMIC
+Now tell me,tell,,CANNOT_DECIDE
+"where he is.""",is,he,STATIVE
+Mental Coaching,,,CANNOT_DECIDE
+g2 (la pianista irlandesa),g2,Coaching,CANNOT_DECIDE
+2008-11-09T19:06:04Z,,,CANNOT_DECIDE
+ID: 45737,,,CANNOT_DECIDE
+Prequels: 45731,,,CANNOT_DECIDE
+Sequels: 45743,,,CANNOT_DECIDE
+"I couldnt see anything,",see,I,DYNAMIC
+I was awaiting the pit of my stomach to return.,awaiting,I,STATIVE
+Everything happened so fast.,happened,Everything,DYNAMIC
+Lining up angry wasps wouldve been easier.,’ve,wasps,STATIVE
+I had no idea,had,I,STATIVE
+what was in store for me.,was,idea,STATIVE
+The man had mentioned programming.,mentioned,”,DYNAMIC
+What the heck did that mean?,mean,that,CANNOT_DECIDE
+Was I going to be turned inside out?,going,I,CANNOT_DECIDE
+Was I going to be brainwashed?,going,I,CANNOT_DECIDE
+This felt like a science project,felt,This,STATIVE
+gone wrong.,gone,This,CANNOT_DECIDE
+"Horridly, horridly wrong.",,,CANNOT_DECIDE
+"Get a hold of yourself, Carter!",Get,,CANNOT_DECIDE
+one of my many internal voices yelled.,yelled,,DYNAMIC
+Youll go crazy,go,You,DYNAMIC
+before anythings happened to you!,happened,anything,DYNAMIC
+What does it matter?,matter,it,CANNOT_DECIDE
+I tried to argue back.,tried,I,DYNAMIC
+"Oh, it matters.",matters,it,STATIVE
+You wanna keep your wits about you,wan,You,STATIVE
+if they try to pull a fast one on you.,try,they,DYNAMIC
+"Youve made it three days, right?",made,’ve,CANNOT_DECIDE
+"You survived the before stages, right?",survived,You,CANNOT_DECIDE
+"You can survive now, just keep it together, man!",survive,You,DYNAMIC
+I nodded resolutely to no one in particular.,nodded,I,DYNAMIC
+But how was I going to keep it together?,going,I,CANNOT_DECIDE
+"I began murmuring under my breath, Always look on the bright side of life.",began,I,DYNAMIC
+,“,,CANNOT_DECIDE
+I didnt have too long to perk myself up.,did,,STATIVE
+I heard metal doors opening.,heard,I,DYNAMIC
+oh.,,,CANNOT_DECIDE
+band geek,,,CANNOT_DECIDE
+2008-11-09T19:11:34Z,,,CANNOT_DECIDE
+ID: 45738,,,CANNOT_DECIDE
+Prequels: 45706,,,CANNOT_DECIDE
+Sequels: 45741,,,CANNOT_DECIDE
+"We both laughed,",laughed,geek,DYNAMIC
+and then stopped.,stopped,geek,DYNAMIC
+"An awkward silence filled the air,",filled,silence,STATIVE
+"until I said,",said,air,DYNAMIC
+"""What I can do,",do,I,DYNAMIC
+what you can do --,do,filled,DYNAMIC
+I think,think,I,STATIVE
+"they are related somehow.""",related,they,STATIVE
+"""What?""","""",,CANNOT_DECIDE
+"""I mean,",mean,,STATIVE
+"I can make other things move,",make,I,DYNAMIC
+you can make yourself move.,,,DYNAMIC
+"Same action, different things.""",,,CANNOT_DECIDE
+He thought for a minute.,thought,He,DYNAMIC
+"""Yeah, you're right.",'re,you,STATIVE
+"That makes sense.""",makes,That,STATIVE
+"We both went quiet,",went,We,DYNAMIC
+"then he said,",said,he,DYNAMIC
+"""Have you always been",been,know,CANNOT_DECIDE
+"-- you know, blind?""",know,blind,STATIVE
+"""Yes.""",,,CANNOT_DECIDE
+"""Oh.""",,,CANNOT_DECIDE
+'Oh' seemed to be his response to many things.,seemed,Oh,STATIVE
+I asked myself,asked,I,DYNAMIC
+"why I was even talking to him,",talking,I,DYNAMIC
+why I'd even talked to him in the first place.,talked,I,DYNAMIC
+I didn't really have a reason.,have,I,STATIVE
+"Maybe we did have a connection,",have,we,STATIVE
+maybe our abilities were similar.,were,abilities,STATIVE
+"Before today, I hadn't even known",known,I,STATIVE
+other people could do things like this.,do,people,DYNAMIC
+How many more people out there had these abilities?,had,people,CANNOT_DECIDE
+"If there was us, there were more.",were,more,STATIVE
+There had to be more.,had,,STATIVE
+The Acquaintance,,,CANNOT_DECIDE
+Music-Hearted,,,CANNOT_DECIDE
+2008-11-09T19:13:52Z,,,CANNOT_DECIDE
+ID: 45739,,,CANNOT_DECIDE
+Prequels: none,,,CANNOT_DECIDE
+Sequels: 45742,,,CANNOT_DECIDE
+"I didnt really know Andrew Gail,",know,ID,STATIVE
+and I guess I never will.,guess,I,STATIVE
+"We went to elementary school together, actually.",went,We,STATIVE
+Albertson-Penny Elementary.,,,CANNOT_DECIDE
+He always seemed nice enough.,seemed,He,STATIVE
+"I mean,",mean,I,STATIVE
+"he was kind of a jock, a student-council type, and thats not really my scene,",was,he,STATIVE
+but its,’s,I,STATIVE
+not like I wanted him to die.,like,’s,STATIVE
+Did I ever talk to him?,talk,I,CANNOT_DECIDE
+"Well, I guess.",guess,I,STATIVE
+I think we worked on a project together once.,think,I,STATIVE
+"Look,",,,CANNOT_DECIDE
+Im the girl,’m,I,STATIVE
+"who plays piano for the choir concerts,",plays,girl,DYNAMIC
+and he was the one,was,he,STATIVE
+who the school practically made their poster child.,made,school,DYNAMIC
+We werent exactly of the same world.,were,We,STATIVE
+I guess,guess,I,STATIVE
+the poor guy got caught up in the high school experience.,caught,guy,DYNAMIC
+"Who couldve seen it coming, though?",’ve,though,CANNOT_DECIDE
+Andrew Gail goes home one Friday night after the football game and blows his head off.,goes,Gail,DYNAMIC
+Thats one hell of a twist.,’s,That,STATIVE
+Grey,,,CANNOT_DECIDE
+K,,,CANNOT_DECIDE
+2008-11-09T19:15:43Z,,,CANNOT_DECIDE
+ID: 45740,,,CANNOT_DECIDE
+Prequels: 45732,,,CANNOT_DECIDE
+Sequels: 45783,,,CANNOT_DECIDE
+"When you return to the city one boring train ride later,",return,you,DYNAMIC
+it is stifling.,stifling,it,STATIVE
+The greyness if overwhelming; you should have known,known,you,STATIVE
+you would experience withdrawls from the color of home.,experience,you,DYNAMIC
+You run to Starbucks to grab a Pumpkin Spice latte before delving into piles of schoolwork.,run,You,DYNAMIC
+Procrastination always was your forte.,was,Procrastination,STATIVE
+Your roommate drags you from the room after what feels like an eternity with promises of booze and boobs.,drags,roommate,DYNAMIC
+You roll your eyes,roll,You,DYNAMIC
+but willingly oblige;,oblige,You,DYNAMIC
+your term paper is not moving any further tonight.,moving,paper,DYNAMIC
+One drink too many finds you,finds,drink,DYNAMIC
+fumbling around in the dark with the leggy brunette from three floors up.,fumbling,finds,DYNAMIC
+"In the blackness that is her dorm room,",is,blackness,STATIVE
+all you can see is the whites of her eyes.,is,all,STATIVE
+Your mind flits to the blonde;,flits,mind,DYNAMIC
+she is most likely sleeping at this hour.,sleeping,she,STATIVE
+"You should be sleeping too, but youre too busy",sleeping,You,STATIVE
+trying to find the colors of the city.,trying,,CANNOT_DECIDE
+You wake to another grey morning.,wake,You,DYNAMIC
+Nothing matches the color of home.,matches,Nothing,STATIVE
+wrong.,,,CANNOT_DECIDE
+band geek,geek,band,CANNOT_DECIDE
+2008-11-09T19:17:26Z,,,CANNOT_DECIDE
+ID: 45741,,,CANNOT_DECIDE
+Prequels: 45738,,,CANNOT_DECIDE
+Sequels: 45755,,,CANNOT_DECIDE
+"""So are they going to fix it?""",are,45755,CANNOT_DECIDE
+he asked.,asked,he,DYNAMIC
+"""I doubt it.",doubt,I,STATIVE
+They've said,said,They,DYNAMIC
+they could fix it,fix,they,DYNAMIC
+"before; never worked.""",worked,,DYNAMIC
+"""Do you know",know,you,CANNOT_DECIDE
+"what they're trying this time?""",trying,they,CANNOT_DECIDE
+"""No -- they didn't exactly explain it.",explain,they,DYNAMIC
+They just said,said,They,DYNAMIC
+people on Earth are interested in my ability..,are,people,STATIVE
+"and they might be able to fix it.""",be,they,STATIVE
+"""Oh.""",,,CANNOT_DECIDE
+I stopped tapping the wall.,stopped,I,DYNAMIC
+The switch Karon told me,told,Karon,DYNAMIC
+"about began taking effect,",began,switch,DYNAMIC
+and I didn't have to hold myself down anymore.,have,switch,STATIVE
+"""So is anything wrong with you?""",is,anything,CANNOT_DECIDE
+"""By wrong, you mean?""",mean,you,STATIVE
+"""Like,",,,CANNOT_DECIDE
+"I don't know, a side-effect.",do,a,STATIVE
+"How I'm blind,",'m,I,STATIVE
+"you know.""",know,you,STATIVE
+"""Not really.","""",,CANNOT_DECIDE
+"Things are going to be different for me, but nothing bad.""",going,Things,STATIVE
+"""Yeah.","""",,CANNOT_DECIDE
+"My clock announced, ""1:00 PM.",announced,clock,DYNAMIC
+"Lunch.""",,,CANNOT_DECIDE
+I knew,knew,I,STATIVE
+the voice was going to get annoying after a while.,going,voice,DYNAMIC
+"""Hey, um, do you want me to show you the way?""",do,,CANNOT_DECIDE
+Theo asked.,asked,Theo,DYNAMIC
+"""No, I remember,""",remember,I,STATIVE
+"I said,",said,I,DYNAMIC
+stepping into the hallway.,stepping,,DYNAMIC
+There was enough gravity,was,gravity,STATIVE
+"so that now, I could walk without floating up into the air.",walk,I,DYNAMIC
+I didnt even know,know,I,STATIVE
+how they could create gravity in a spaceship.,create,they,DYNAMIC
+The Friend,,,CANNOT_DECIDE
+Music-Hearted,,,CANNOT_DECIDE
+2008-11-09T19:40:33Z,,,CANNOT_DECIDE
+ID: 45742,,,CANNOT_DECIDE
+Prequels: 45739,,,CANNOT_DECIDE
+Sequels: 45795,,,CANNOT_DECIDE
+Me?,,,CANNOT_DECIDE
+Im Bobby.,’m,I,STATIVE
+Huh?,,,CANNOT_DECIDE
+Oh.,,,CANNOT_DECIDE
+Bobby Erickson.,,,CANNOT_DECIDE
+"Yeah, I knew him.",knew,I,STATIVE
+Didnt everyone?,Did,everyone,CANNOT_DECIDE
+He was a good guy.,was,He,STATIVE
+"Sophomore year, we were the only ones",were,we,STATIVE
+who made Varsity.,made,ones,DYNAMIC
+He helped me out with Spanish and stuff.,helped,He,DYNAMIC
+"I dunno,",dunno,I,STATIVE
+its kind of weird to talk about him.,’s,it,STATIVE
+None of the guys thought anything was wrong.,thought,None,STATIVE
+"I mean, yeah,",mean,I,STATIVE
+"sometimes he would get all deep and stuff,",get,mean,DYNAMIC
+you know?,know,you,CANNOT_DECIDE
+"But, you know, wed get a can of beer in him",get,we,DYNAMIC
+and go hang out with everyone else and then,go,we,DYNAMIC
+he seemed okay.,seemed,we,STATIVE
+Its weird now.,’s,It,STATIVE
+Everyones trying to figure out,trying,’s,DYNAMIC
+what went wrong and crap.,went,what,DYNAMIC
+I dunno,dunno,I,STATIVE
+what to say.,say,what,CANNOT_DECIDE
+"Yeah, if I knew",knew,I,STATIVE
+"he was messed up,",messed,he,STATIVE
+I woulda said something.,woulda,I,DYNAMIC
+"But Andys gone,",gone,’s,STATIVE
+and now we cant do anything about it.,do,’s,DYNAMIC
+Subject IL45094: Status: Analyzed,,,CANNOT_DECIDE
+Stovohobo,,,CANNOT_DECIDE
+2008-11-09T19:54:59Z,,,CANNOT_DECIDE
+ID: 45743,,,CANNOT_DECIDE
+Prequels: 45737,,,CANNOT_DECIDE
+Sequels: 45745,,,CANNOT_DECIDE
+A vast domed room slid into view,slid,room,DYNAMIC
+as the doors of my pod retracted.,retracted,doors,DYNAMIC
+"My restraints unlatched and popped me out,",unlatched,restraints,DYNAMIC
+sending me sprawling on the marble floor.,sending,restraints,DYNAMIC
+"I was in the very top room of the tower, almost one hundred-fifty floors from the ground.",was,I,STATIVE
+"Arched windows surrounded me,",surrounded,windows,STATIVE
+showing me absolutely terrifying views of the rest of the city.,showing,windows,DYNAMIC
+"To the left was the Sears Tower,",was,Tower,STATIVE
+that looked more like the size of my arm from this height.,looked,Tower,STATIVE
+"To the right was the Main Control building,",was,building,STATIVE
+where the computers where maintained and supervised.,maintained,,STATIVE
+And I was in the Chicago Office Tower No.,was,I,STATIVE
+"US14 , the main hub for every Chicago-based company, where business workers would plug in every day (for the sake of the economy, some menial jobs were left to humans, but only about two percent).",plug,workers,DYNAMIC
+I was pulled out of my daydreaming by another emotionless voice.,pulled,I,DYNAMIC
+Subject IL45094 : David Carter.,,,CANNOT_DECIDE
+Height: 62.,,,CANNOT_DECIDE
+Age: 24.,,,CANNOT_DECIDE
+Pulse: elevated; normal.,,,STATIVE
+RBMI : 22.,,,CANNOT_DECIDE
+Mentally and physically healthy.,,,CANNOT_DECIDE
+"There was a whirring, then silence,",was,silence,STATIVE
+and I was alone.,was,I,STATIVE
+Remembering a Thank You,Remembering,ran,CANNOT_DECIDE
+Dreamer,,,CANNOT_DECIDE
+2008-11-09T20:17:03Z,,,CANNOT_DECIDE
+ID: 45744,,,CANNOT_DECIDE
+Prequels: 45445,,,CANNOT_DECIDE
+Sequels: 45747,,,CANNOT_DECIDE
+His fingers ran across the keyboard for a moment.,ran,fingers,DYNAMIC
+"He stared quietly at the screen for a moment,",stared,He,STATIVE
+"and then smiled, nodding to himself.",smiled,He,DYNAMIC
+"I watched him move the mouse,",watched,I,DYNAMIC
+saving the document,saving,move,DYNAMIC
+and then clicking on internet explorer.,clicking,move,DYNAMIC
+"I watched the screen switch to yahoo,",watched,I,DYNAMIC
+and was silent,was,I,STATIVE
+as he sent whatever-it-was to himself.,sent,he,DYNAMIC
+I examined his face in silence.,examined,I,DYNAMIC
+"There were deep bags beneath his eyes,",were,bags,STATIVE
+"and, as he turned to me,",turned,he,DYNAMIC
+I could see,see,bags,DYNAMIC
+how deeply worn he was from the lines on his face.,was,he,STATIVE
+"With a jolt of shock, I realized",realized,I,DYNAMIC
+he looked old.,looked,he,STATIVE
+Drew?,,,CANNOT_DECIDE
+I whispered carefully.,whispered,I,DYNAMIC
+He stood up,stood,He,DYNAMIC
+and walked toward me.,walked,He,DYNAMIC
+"Thank you, he croaked, his throat thick with exhaustion.",Thank,“,DYNAMIC
+"Sure thing, I said,",”,thing,DYNAMIC
+still whispering.,whispering,thing,DYNAMIC
+"Suddenly, in an unexpected movement, he hugged me.",hugged,he,DYNAMIC
+"Shocked, I stood still for a moment",stood,I,STATIVE
+and then hugged him back.,hugged,I,DYNAMIC
+What had happened last night?,happened,What,CANNOT_DECIDE
+"Thank you, he whispered again",Thank,“,DYNAMIC
+and I felt wetness,felt,“,DYNAMIC
+as his eyes overflowed with tears.,overflowed,eyes,DYNAMIC
+I realized,realized,I,DYNAMIC
+that I was crying too.,crying,I,DYNAMIC
+Cynthia had died at exactly seven this morning.,died,Cynthia,DYNAMIC
+Mind Twistings,,,CANNOT_DECIDE
+g2 (la pianista irlandesa),g2,Twistings,CANNOT_DECIDE
+2008-11-09T20:20:48Z,,,CANNOT_DECIDE
+ID: 45745,,,CANNOT_DECIDE
+Prequels: 45743,,,CANNOT_DECIDE
+Sequels: 45750,,,CANNOT_DECIDE
+"It felt weird,",felt,It,STATIVE
+being numbered like that.,numbered,,STATIVE
+Like I was just another thing.,was,I,STATIVE
+Maybe I was just another unimportant thing.,was,I,STATIVE
+The world would go on spinning,go,world,DYNAMIC
+if I was gone.,gone,I,STATIVE
+I thought about the number,thought,I,DYNAMIC
+the metallic voice gave me: IL45094 .,gave,voice,DYNAMIC
+"I began twisting it in my mind, to occupy myself: Ill for five o",began,I,DYNAMIC
+"nine fours... For nine or five, four lies... ill too, to for-ti-five forty nine isles...",lies,four,CANNOT_DECIDE
+"When others were around,",were,others,STATIVE
+"& I began spouting weird combinations of things like that, Id get sidelong glances, raised eyebrows, contorted expressions.",raised,eyebrows,DYNAMIC
+"But now, it didnt matter.",did,it,STATIVE
+"My mind-twistings became verbal, ringing coldly off the windows.",became,mind-twistings,DYNAMIC
+"I spun in a giddy circle, for a moment completely oblivious to my situation.",spun,I,DYNAMIC
+Until I heard sliding metal again.,heard,I,DYNAMIC
+"I dropped to the floor, dizzy.",dropped,I,DYNAMIC
+The man whod apprehended,apprehended,man,DYNAMIC
+"me scurried in, a long tape of figures in his hand.",scurried,me,DYNAMIC
+Do that again.,”,“,CANNOT_DECIDE
+My brow furrowed in confusion.,furrowed,brow,DYNAMIC
+"What, spin in a circle?",,,CANNOT_DECIDE
+He shook his head.,shook,He,DYNAMIC
+"No no, before that.",“,,CANNOT_DECIDE
+With the numbers.,,,CANNOT_DECIDE
+Weve never seen anything like it.,’ve,We,DYNAMIC
+"Stovohobo's Ficlet Challenge the Fifth...No, Sixth?",,,CANNOT_DECIDE
+Something.,,,CANNOT_DECIDE
+"Anyway, It's About Your Tag Cloud.",'s,It,STATIVE
+Stovohobo,,,CANNOT_DECIDE
+2008-11-09T20:27:03Z,,,CANNOT_DECIDE
+ID: 45746,,,CANNOT_DECIDE
+Prequels: none,,,CANNOT_DECIDE
+Sequels: 45772,,,CANNOT_DECIDE
+45939,,,CANNOT_DECIDE
+46160,,,CANNOT_DECIDE
+46354,,,CANNOT_DECIDE
+46854,,,CANNOT_DECIDE
+"Its been forever since Ive done a challenge,",done,ID,STATIVE
+and I think its about time,think,ID,STATIVE
+that I started one up again.,started,I,DYNAMIC
+"Okay, so: click",click,so,CANNOT_DECIDE
+"on the home button, then look at Your Library.",look,,CANNOT_DECIDE
+Youll see a spot labeled tags.,see,You,DYNAMIC
+"If youre like me, and you use a",’re,you,STATIVE
+"fair amount of tags (or a fair amount of ficlets), you might have somewhere in the neighborhood of 2,500.",have,you,STATIVE
+"Problem is,",is,Problem,STATIVE
+the tag page only shows as many tags,shows,page,STATIVE
+"as it can hold (meaning, for me, just numbers and as).",hold,it,STATIVE
+And for the sake of,,,CANNOT_DECIDE
+"characters, my list here cant even go into the as:",go,list,DYNAMIC
+1212 stories tagged with 131 story,tagged,stories,STATIVE
+tagged with 19451 story,tagged,story,STATIVE
+tagged,tagged,story,STATIVE
+with 2001 story tagged with 20011 story,tagged,story,STATIVE
+tagged with 31 story,tagged,story,STATIVE
+tagged with 3001 story,tagged,story,STATIVE
+tagged with 330891 story,tagged,story,STATIVE
+tagged with,tagged,story,STATIVE
+3333 stories tagged with 4351 story,tagged,stories,STATIVE
+tagged with 51 story,tagged,story,STATIVE
+tagged with 5-6 things1 story,tagged,story,STATIVE
+tagged with 6161 story,tagged,story,STATIVE
+tagged,tagged,story,STATIVE
+"with 666 Anyway, go onto that page",go,list,CANNOT_DECIDE
+and pick 7 tags.,pick,list,CANNOT_DECIDE
+Then write your entry,write,,CANNOT_DECIDE
+using those tags somewhere in the story.,using,entry,DYNAMIC
+Challenge ends on 12/1/08.,ends,Challenge,DYNAMIC
+This should be interesting...,be,This,STATIVE
+Remembering Drew's Ending (Part 1),,,CANNOT_DECIDE
+Dreamer,,,CANNOT_DECIDE
+2008-11-09T20:32:04Z,,,CANNOT_DECIDE
+ID: 45747,,,CANNOT_DECIDE
+Prequels: 45744,,,CANNOT_DECIDE
+Sequels: 45748,,,CANNOT_DECIDE
+"My mom, naturally, was pretty freaked by the time",freaked,Ending,STATIVE
+we got back to Nebraska.,got,we,DYNAMIC
+"But Paige was by my side the whole time,",was,Paige,STATIVE
+helping me explain everything.,helping,time,DYNAMIC
+And she stayed there for the rest of the year.,stayed,she,STATIVE
+Litterally.,,,CANNOT_DECIDE
+She was out of money because,was,She,STATIVE
+of the two plane tickets (she insisted on paying Angela back),insisted,was,DYNAMIC
+and she just couldnt pay her morgage anymore.,pay,She,DYNAMIC
+My mother,,,CANNOT_DECIDE
+welcomed her into our household with open arms.,welcomed,mother,DYNAMIC
+"Eventually, when I got up the nerve,",got,I,DYNAMIC
+I showed Paige my memories.,showed,I,DYNAMIC
+She,,,CANNOT_DECIDE
+"cried alot, and held onto me",cried,She,DYNAMIC
+"as we sorted through them,",sorted,we,DYNAMIC
+putting them all in order.,putting,,DYNAMIC
+I began writing about when Paige came,began,I,DYNAMIC
+"into my life, and she helped, writing down her own memories.",helped,I,DYNAMIC
+Paige never ceased to amaze me with her dogged,ceased,Paige,DYNAMIC
+determination to get things done.,get,determination,CANNOT_DECIDE
+"Before I knew it,",knew,I,STATIVE
+we had written a book.,written,we,DYNAMIC
+She still insists,insists,She,STATIVE
+"that it was all my doing,",was,,STATIVE
+but I know better.,know,She,STATIVE
+"Sure, I may have written most of it,",written,I,DYNAMIC
+but Paige was the reason,was,Paige,STATIVE
+"why it was fully completed, and why",completed,reason,DYNAMIC
+its sitting in store windows.,’s,it,STATIVE
+Remembering Drew's Ending (Part 2),Remembering,strange,CANNOT_DECIDE
+Dreamer,,,CANNOT_DECIDE
+2008-11-09T20:36:44Z,,,CANNOT_DECIDE
+ID: 45748,,,CANNOT_DECIDE
+Prequels: 45747,,,CANNOT_DECIDE
+Sequels: 45749,,,CANNOT_DECIDE
+"It was strange,",was,Remembering,STATIVE
+having people read something,having,,CANNOT_DECIDE
+that was so personal.,was,something,STATIVE
+"But soon, we began recieving the letters.",began,we,DYNAMIC
+Letters,Letters,,CANNOT_DECIDE
+from people all over the United States.,,,CANNOT_DECIDE
+"Teenagers, largely, but also adults.",,,CANNOT_DECIDE
+They were people,were,They,STATIVE
+who had gone through,gone,people,DYNAMIC
+similar trials we had.,had,we,DYNAMIC
+"Paige,",,,CANNOT_DECIDE
+"being who she was,",being,Paige,STATIVE
+set up a website,set,Paige,DYNAMIC
+"where you could send us personal stories, bios, etc,",send,you,DYNAMIC
+or just talk to us and the other people about everything.,talk,website,CANNOT_DECIDE
+She named the website after our book:,named,She,DYNAMIC
+Remembering.,,,CANNOT_DECIDE
+It seemed,seemed,It,STATIVE
+appropriate.,,,CANNOT_DECIDE
+We are both attending Nebraska State,attending,We,STATIVE
+"(by some miracle I was accepted),",accepted,I,DYNAMIC
+and working on year three.,working,We,STATIVE
+As for,,,CANNOT_DECIDE
+"Paige, Ive never had a closer friend.",had,I,STATIVE
+We connect on a level,connect,We,STATIVE
+"no one, I think,",think,one,STATIVE
+"including me,",including,,STATIVE
+will ever understand.,understand,one,DYNAMIC
+"Through the years, Ive managed to learn more about her past,",managed,I,DYNAMIC
+and help her,help,I,CANNOT_DECIDE
+as she helped me.,helped,she,DYNAMIC
+But thats another story.,’s,that,STATIVE
+I,,,CANNOT_DECIDE
+dont know,know,I,STATIVE
+"what the future will bring,",bring,future,DYNAMIC
+but I know,know,I,STATIVE
+now that I have the strength to face it.,have,I,STATIVE
+And I wont be alone.,be,I,STATIVE
+Remembering Paige's Ending (part 1),Remembering,are,CANNOT_DECIDE
+Dreamer,,,CANNOT_DECIDE
+2008-11-09T20:48:06Z,,,CANNOT_DECIDE
+ID: 45749,,,CANNOT_DECIDE
+Prequels: 45748,,,CANNOT_DECIDE
+Sequels: 45751,,,CANNOT_DECIDE
+There are several memories,are,memories,STATIVE
+I wish,wish,I,STATIVE
+I could share.,share,I,DYNAMIC
+So many happy times I spent with Drew,spent,I,DYNAMIC
+as the years progressed from that,progressed,times,DYNAMIC
+turbulent time in our Senior year.,,,CANNOT_DECIDE
+"Sometimes its difficult to believe,",’s,it,STATIVE
+"as I look into Drews light face,",look,I,DYNAMIC
+that he was,was,he,STATIVE
+"ever that dark, depressed boy who wore nothing but black",wore,boy,STATIVE
+and listened to the same song over and over again.,listened,boy,DYNAMIC
+His,,,CANNOT_DECIDE
+happiness continues to feed mine,continues,happiness,STATIVE
+as we rebuild our lives.,rebuild,we,DYNAMIC
+I dont think,think,I,STATIVE
+he knows,knows,he,STATIVE
+just how much hes changed me.,’s,he,DYNAMIC
+All he,,,CANNOT_DECIDE
+ever talks about is how Ive changed him.,is,All,DYNAMIC
+"Sometimes, I admit,",admit,I,STATIVE
+I wish,wish,I,STATIVE
+we had that vibrant sort of romance my new college,had,we,STATIVE
+friends rave about having.,rave,friends,DYNAMIC
+But then I dont.,n’t,I,STATIVE
+I love Drew.,love,I,STATIVE
+"I know that,",know,I,STATIVE
+and Ive always known,’ve,I,STATIVE
+that ever since I found him,found,I,DYNAMIC
+waiting for me Christmas Eve night.,waiting,found,STATIVE
+And I know,know,I,STATIVE
+"Drew loves me,",loves,Drew,STATIVE
+"even if he doesnt declare it constantly,",declare,he,DYNAMIC
+or go out of his,go,he,DYNAMIC
+"way to make huge, public displays of it.",make,he,CANNOT_DECIDE
+"Actually, a few of our friends dont even know were dating.",know,few,STATIVE
+But none of this,,,CANNOT_DECIDE
+"matters, because all that does matter",matters,none,STATIVE
+is that we are together.,is,all,STATIVE

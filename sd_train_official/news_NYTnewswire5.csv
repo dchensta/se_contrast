@@ -1,0 +1,45 @@
+Clause,mainVerb,mainReferent,Gold
+NYT20020731.0077 2002-07-31 13:46,,,CANNOT_DECIDE
+A4345 &Cx1f; ttd-z r d BC-PRODUCEBIN-SFCHRON 07-31 0408,,,CANNOT_DECIDE
+BC-PRODUCEBIN-SF,,,CANNOT_DECIDE
+MUST CREDIT THE SAN FRANCISCO CHRONICLE,,,CANNOT_DECIDE
+CHRON EDITORS NOTE:,EDITORS,CHRON,CANNOT_DECIDE
+"Each week, The Chronicle offers readers a look at the more unusual fruits, vegetables and herbs",offers,Chronicle,DYNAMIC
+of each season and how to use them.,use,vegetables,CANNOT_DECIDE
+THE PRODUCE BIN: Bitter melon,,,CANNOT_DECIDE
+BY KAROLA SAEKEL c. 2002 The San Francisco Chronicle,,,CANNOT_DECIDE
+"SAN FRANCISCO -- A staple of Chinese and Indian cooking, these gourds (botanically, Momordica charantia) with skin like toads grow on climbing vines",grow,BIN,DYNAMIC
+that can reach 12 feet.,reach,vines,DYNAMIC
+The Chinese and Indian varieties differ little in taste.,differ,varieties,STATIVE
+"Though they resemble squashes,",resemble,they,STATIVE
+"they are natives to Asia, rather than the Americas,",are,they,STATIVE
+but are now cultivated in many regions of the world,cultivated,natives,DYNAMIC
+that boast moderate to warm climates.,boast,world,STATIVE
+"Hmong farmers grow them in California's Central Valley,",grow,farmers,DYNAMIC
+and Mexico has a substantial crop.,has,farmers,STATIVE
+SEASON Bitter melons can be found in Asian and specialty produce markets primarily from spring through late fall.,found,melons,DYNAMIC
+"Right now, some particularly nice ones are in Bay Area farmers' markets.",are,ones,STATIVE
+HOW TO SELECT,,,CANNOT_DECIDE
+"As the gourd ripens, its color changes from near white-pale green to vivid green,",ripens,SELECT,DYNAMIC
+"often flecked with yellow, and eventually bright orange.",,,STATIVE
+"When young, the flavor is relatively mild, with a fresh, sour note.",is,flavor,STATIVE
+"As it ripens,",ripens,it,DYNAMIC
+it gets progressively more bitter due to the quinine,gets,bitter,DYNAMIC
+it contains.,contains,it,STATIVE
+PRICE Bitter melon was selling for 79 cents to $1.99 a pound last week.,selling,melon,DYNAMIC
+"USES Bitter melons are used in many Asian cuisines, most prominently Indian, Chinese and Vietnamese.",used,melons,DYNAMIC
+"Generally, they are halved lengthwise, the seeds and fibrous pulp removed and the flesh",halved,they,DYNAMIC
+sliced into crescents.,sliced,flesh,DYNAMIC
+They are frequently blanched or salted,blanched,They,DYNAMIC
+"and left to macerate for up to an hour,",left,They,DYNAMIC
+then rinsed and patted dry to tame the bitterness.,rinsed,They,DYNAMIC
+Chinese hot-and-sour soup made with egg white and crabmeat often includes bitter melon.,includes,soup,STATIVE
+"It also appears in stir-frys, especially those",appears,It,DYNAMIC
+based on pork.,based,those,STATIVE
+Black bean sauce is a favorite seasoning.,is,sauce,STATIVE
+"When pickled, bitter melon makes a savory condiment.",makes,melon,DYNAMIC
+"In Vietnam, bitter melon halves are stuffed with meat mixtures, such as ground pork with black mushrooms and cellophane noodles, then braised.",stuffed,halves,DYNAMIC
+"Colin Spencer's ""Vegetable Book"" details an intriguing Indian chapati in which bitter melon, seeds left intact, is sliced, parboiled, then mixed with lightly fried garlic and Indian spices, flour and yogurt.",details,Book,DYNAMIC
+The mixture is fried like a thick pancake,is,,DYNAMIC
+"and served, sliced, with rice, naan and other curries.",served,mixture,DYNAMIC
+NYT-07-31-02 1346EDT,,,CANNOT_DECIDE

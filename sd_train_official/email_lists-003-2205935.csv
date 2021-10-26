@@ -1,0 +1,135 @@
+Clause,mainVerb,mainReferent,Gold
+"docno=""lists-003-2205935""",,,CANNOT_DECIDE
+"received=""Fri Jul 9 09:47:54 1993 EST""",received,docno,CANNOT_DECIDE
+"sent=""Fri, 09 Jul 1993 18:25:04 +0200""",sent,Jul,CANNOT_DECIDE
+"name=""Andr'e PIRARD""",,,CANNOT_DECIDE
+"email=""PIRARD@vm1.ulg.ac.be""",,,CANNOT_DECIDE
+"subject=""Thoughts about characters transmission""",,,CANNOT_DECIDE
+"id=""01H0C1LQB78Y8WWAUK@INNOSOFT.COM""",,,CANNOT_DECIDE
+"inreplyto=""Tue, 6 Jul 93 20:10 GMT""",,,CANNOT_DECIDE
+"To: ""Robert G. Moskowitz"" <0003858921@mcimail.com>, ietf-charsets@INNOSOFT.COM,",,,CANNOT_DECIDE
+"I have not much time to spend on this subject,",have,I,STATIVE
+but I would have felt bad not to express these opinions once.,felt,docno,STATIVE
+I have learned with much interest,learned,I,DYNAMIC
+that people envision solutions for international characters data exchange with a wider point of view,envision,interest,STATIVE
+than usually heard in the networking sphere.,heard,point,DYNAMIC
+I have been spending quite a time of my life with such problems.,spending,I,DYNAMIC
+I thought,thought,I,STATIVE
+I could contribute with a small text,contribute,I,DYNAMIC
+explaining the way,explaining,I,STATIVE
+I have finally come to think of the problem.,come,I,DYNAMIC
+"Nothing totally new, probably, but a different shed of light, maybe.",shed,Nothing,CANNOT_DECIDE
+The text may sound theoretical at first.,sound,text,STATIVE
+It is just terse.,is,It,STATIVE
+The ideas are based on experience.,based,ideas,STATIVE
+They have been put to use in the field of 8-bit characters.,put,They,DYNAMIC
+I participated to the design of Kermit multinational 8-bit characters support and the TCP/IP network,participated,I,DYNAMIC
+I work,work,I,STATIVE
+for is well on the way towards the the same theory,is,,STATIVE
+that every character on the communication line is ISO 8859-1.,is,character,STATIVE
+"Any exception to this, like translating EBCDIC directly to PC code on one machine, is considered",considered,exception,STATIVE
+"harmful to our internetworking, even if convenient.",,,CANNOT_DECIDE
+Every piece working towards a common well defined goal finally pays more,pays,piece,DYNAMIC
+when all parts start to clutch than wandering for immediate interest.,start,parts,DYNAMIC
+And I hope,hope,I,STATIVE
+that saying,saying,,DYNAMIC
+"that my language is French will make the ideas in a difficult to write text even more convincing,",make,saying,DYNAMIC
+despite being short.,being,,STATIVE
+Networking has had for long the problem of a common representation of computer-specific data,had,Networking,STATIVE
+"(numbers, bit strings...) on the wire (rather, on the connection),",,,CANNOT_DECIDE
+because different computers had different conventions for them.,had,computers,STATIVE
+"To solve this problem,",solve,,CANNOT_DECIDE
+"rules like XDR (external data representation) have been devised,",devised,rules,DYNAMIC
+"and, because it was so important, the rules have been adopted.",adopted,rules,DYNAMIC
+Character data caused little problem,caused,data,DYNAMIC
+"because ASCII was assumed, full stop.",assumed,ASCII,DYNAMIC
+There was hardly an expressed rule.,was,rule,STATIVE
+It was tacit computer culture.,was,It,STATIVE
+"Now that networking reaches its real dimension of an international mesh, the problem of national languages usage becomes very real, at least locally, but more and more internationally.",becomes,problem,DYNAMIC
+Any computer has to exchange more than ASCII.,has,computer,DYNAMIC
+Many generous people have spent much time to have system Si with character code,spent,people,DYNAMIC
+Ci translate data for system Sj with code Cj under protocol Pk.,translate,Si,CANNOT_DECIDE
+"With much respect for their work, this is not (no longer) the way to do it.",is,longer,STATIVE
+Supposing,Supposing,effort,STATIVE
+"that N character codes exist on different systems,",exist,codes,STATIVE
+the effort amounts to M*N**2 to reach a complete solution.,amounts,effort,STATIVE
+"Let us count the different character codes (IBM have their share) and protocols,",Let,,CANNOT_DECIDE
+the bill is amazing!,is,bill,STATIVE
+The _most_important_point_ is that a single common representation code be defined _for_the_line_,is,_,STATIVE
+"(suiting the purpose, namely to cover all national languages in one single way)",suiting,_,CANNOT_DECIDE
+and that people be instructed,instructed,code,DYNAMIC
+"that every bit of text should travel in that code on the wire, whatever_the_protocol_is.",travel,bit,DYNAMIC
+(Meaning,,,STATIVE
+that common tools be available to translate present local code).,be,tools,STATIVE
+It is best,is,It,STATIVE
+"for a computer to use the code of interchange internally,",use,computer,CANNOT_DECIDE
+but all computers in the world cannot be modified overnight.,modified,It,DYNAMIC
+What computer Si has to do to abide by the external representation is the sole matter of computer Si,is,has,STATIVE
+: to appear to others,appear,matter,CANNOT_DECIDE
+as if it were using it internally.,using,it,DYNAMIC
+"On any protocol the same way, even during dialog with computer Ti using the same code",Ti,way,DYNAMIC
+"(""One need not know",need,code,STATIVE
+"which kind of system one is sending mail to"").",sending,kind,DYNAMIC
+No tagging of the data nor any need to know any character code other than one's own and the interchange code.,need,tagging,CANNOT_DECIDE
+"The M*N**2 order of magnitude reduces to N. This is the extended ""ASCII culture"" of some future, no doubt.",is,doubt,STATIVE
+It is a very important goal just now.,is,It,STATIVE
+It is a fact,is,It,STATIVE
+"that the choice of a character code has long lasting effects, because of the building software base.",has,choice,STATIVE
+The impact of today's decisions is amplified by time.,amplified,impact,STATIVE
+The sooner the better.,,,CANNOT_DECIDE
+The better the sooner.,sooner,the,CANNOT_DECIDE
+"More theoretically said this time, this local-code to exchange-code translation works",said,time,DYNAMIC
+"much a la OSI layer (or ""a` la"", if you don't mind :-)",mind,la,STATIVE
+"Data is encoded towards a lower layer,",encoded,Data,DYNAMIC
+"exchanged,",exchanged,much,DYNAMIC
+"and decoded back to same level, but possibly to a different local code.",decoded,much,DYNAMIC
+"It probably belongs between level 6 and 7,",belongs,It,STATIVE
+as it could prove,prove,it,DYNAMIC
+that the application layer provides all the textual data.,provides,layer,STATIVE
+"But that's not sure, like for XDR",'s,that,STATIVE
+which can be used from many levels to convert CPU data to line format.,used,XDR,DYNAMIC
+"Should we merge ""presentation"" and ""representation"" layers,",merge,we,CANNOT_DECIDE
+split level 6 like level 2,split,we,CANNOT_DECIDE
+"or not assign it to any level,",assign,we,CANNOT_DECIDE
+I'll leave the discussion to the theoricians.,leave,I,DYNAMIC
+"What seems clear in my mind is that the translation is not in several final protocols, but a protocol by itself",is,seems,STATIVE
+-- like XDR -- that other protocols refer to.,refer,translation,DYNAMIC
+And this may be the most important point.,be,this,STATIVE
+It is a pity to see each protocol tackle the problem its own way.,is,It,STATIVE
+Note,Note,,CANNOT_DECIDE
+"that the ""level 6 or so"" concept applied to text extends slightly beyond the representation of characters (and binary data) towards file structure.",extends,concept,STATIVE
+Think of the line separator problem of NFS for the basic case of text files.,,,CANNOT_DECIDE
+While file structure (including,including,,STATIVE
+file name etc..,etc.,structure,CANNOT_DECIDE
+.),),.,CANNOT_DECIDE
+is clearly a specialized problem,is,opposed,STATIVE
+"(as opposed to communication of streams of text),",opposed,problem,STATIVE
+the impact on systems and protocols design is just as high.,is,impact,STATIVE
+"Clearly, it will take much time to stand in ASCII's shoes.",take,it,DYNAMIC
+But doing otherwise would take even longer to erase and redo.,take,doing,DYNAMIC
+One cannot increase complication eternally.,increase,One,DYNAMIC
+Some intermediate compromises will have to be used like additional encoding on pathes,have,compromises,DYNAMIC
+"some insist to not even try to convert to 8-bit,",insist,some,STATIVE
+asking the rest of the networks to convert to 7-bit instead,asking,,DYNAMIC
+and to rewrite all their programs to use a complicated method for sending plain text,rewrite,,CANNOT_DECIDE
+when the sole problem is that it contains 8-bit data.,is,problem,STATIVE
+The important thing is that the new layer be known and used.,is,thing,STATIVE
+It's the interest of both the software writer and buyer.,'s,It,STATIVE
+It will get void,get,void,DYNAMIC
+when a system will use the interchange code for itself.,use,system,DYNAMIC
+"Now that the international character code ISO 10646 is out, isn't it time",is,it,STATIVE
+for communication systems to be able to not only exchange pictures and sound but also plain text?,be,,CANNOT_DECIDE
+Will ISO 10646 be used by OSI 6?,used,ISO,CANNOT_DECIDE
+Thanks for your interest.,Thanks,,CANNOT_DECIDE
+I go away for holidays today.,go,I,DYNAMIC
+If you write anything,write,you,DYNAMIC
+"you want me to read,",want,you,STATIVE
+please make a personal reply,please,,CANNOT_DECIDE
+and allow for two weeks,allow,please,CANNOT_DECIDE
+before I can read it.,read,I,DYNAMIC
+I have picked addresses from a BOF announcement,picked,I,DYNAMIC
+and sent to mailing lists,sent,I,DYNAMIC
+I am not on.,am,I,STATIVE
+Feel free to forward the text to anyone intersted.,Feel,,CANNOT_DECIDE
+"Andr'e PIRARD SEGI, Univ. de Li`ege | 139.165.0.0 IP (ULg) B26 - Sart Tilman B-4000 Li`ege 1 (Belgium) | Architecture & Adm. pirard@vm1.ulg.ac.be aka PIRARD@BLIULG11.BITNET +32 (41) 564932",B26,Andr,CANNOT_DECIDE
+What is an FAQ is a frequently asked question.,asked,(41) 564932,STATIVE

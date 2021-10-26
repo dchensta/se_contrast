@@ -1,0 +1,47 @@
+Clause,mainVerb,mainReferent,Gold
+AT&T ClassicGoldPlatinum,,,CANNOT_DECIDE
+Dear Cardmember:,,,CANNOT_DECIDE
+Were pleased to send you,pleased,Cardmember,STATIVE
+the enclosed AT&T Universal Card to replace your current card.,replace,,CANNOT_DECIDE
+Please destroy your old card,destroy,,CANNOT_DECIDE
+and begin using your new card as of the valid date,begin,,CANNOT_DECIDE
+printed on your new card.,printed,date,STATIVE
+Please see your card carrier for additional information and instructions.,see,Please,CANNOT_DECIDE
+Delivering your new card gives us an opportunity to remind you,gives,Delivering,DYNAMIC
+how were delivering more ways to make your card more useful.,’re,remind,DYNAMIC
+Weve made your card,made,We,DYNAMIC
+easier to use with features,use,card,CANNOT_DECIDE
+you can customize yourself more valuable with special savings programs.,customize,you,DYNAMIC
+Convenience features,features,Convenience,CANNOT_DECIDE
+"AT&T Calling Card feature Use your card to make local, long distance, even international calls from virtually any phone.",Use,feature,CANNOT_DECIDE
+Simply dial 1 800 CALL ATT,dial,,CANNOT_DECIDE
+and follow the recorded instructions.,follow,,CANNOT_DECIDE
+"Account Online View your statement, see unbilled activity",Online,Account,CANNOT_DECIDE
+or pay your bill on the Internet.,pay,,CANNOT_DECIDE
+"Look for the Instant Access Code on your statement,",Look,,CANNOT_DECIDE
+then go to www.universalcard.com and follow the instructions.,go,Look,CANNOT_DECIDE
+AutoPay EFT Payments Skip writing checks,Skip,Payments,CANNOT_DECIDE
+and have your payment made electronically from your bank account each month.,have,Payments,DYNAMIC
+Enroll on Internetor call Customer Service for details.,call,Enroll,CANNOT_DECIDE
+Personalized features,features,Personalized,CANNOT_DECIDE
+Cycle Date You can time your statement,time,You,DYNAMIC
+and payments to coincide with convenient times of the month by choosing your billing cycle date.,coincide,You,DYNAMIC
+Personal Identification Number (PIN),,,CANNOT_DECIDE
+Choose your own PIN to use for cash access and calling.,Choose,Number,CANNOT_DECIDE
+"Calling Card Number Choose your own calling card number too, to make calling easier.",Choose,Number,CANNOT_DECIDE
+Save on calls with the AT&T One Rate Calling Card Plan.,Save,,CANNOT_DECIDE
+"If you havent already enrolled, sign up for this plan",sign,,CANNOT_DECIDE
+that saves you money on your AT&T Universal Card calls.,saves,that,DYNAMIC
+"You get the low rate of 25 cents a minute anytime, anywhere in the U.S. on all your AT&T Universal Card calls",get,You,DYNAMIC
+when you make the call yourself by dialing 1 800 CALL ATT.,make,you,DYNAMIC
+"To enroll, call 1 800 741-9302.",800 741-9302,call,CANNOT_DECIDE
+"The low, $1 monthly access fee will be conveniently billed to your account.",be,fee,DYNAMIC
+"For more information on any of these features, call us at 1 800 423-4343.",call,,CANNOT_DECIDE
+Thank you for carrying the AT&T Universal Card.,Thank,,CANNOT_DECIDE
+We look forward to continuing to provide you with a card,look,We,DYNAMIC
+that grows with you through the years ahead.,grows,card,DYNAMIC
+"Sincerely,",,,CANNOT_DECIDE
+"A Mark Gilder Vice President, Marketing Universal Card Services Corp.",,,CANNOT_DECIDE
+Calls made from payphones are subject to a surcharge.,are,Calls,STATIVE
+AT&Ts surcharge is up tp $30 per call.,tp,surcharge,STATIVE
+20% POST CONSUMER WASTE,,,CANNOT_DECIDE

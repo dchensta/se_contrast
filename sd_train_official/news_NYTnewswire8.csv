@@ -1,0 +1,75 @@
+Clause,mainVerb,mainReferent,Gold
+NYT20020731.0050 2002-07-31 11:12,,,CANNOT_DECIDE
+A4250 &Cx1f; tab-z r a BC-PSYCHOLOGISTS-DRUGS-S 07-31 0945,,,CANNOT_DECIDE
+BC-PSYCHOLOGISTS-DRUGS-SCIAM-ART-NYTSF,,,CANNOT_DECIDE
+PRESCRIPTION PRIVILEGES MAKE SOME PSYCHOLOGISTS ANXIOUS,,,DYNAMIC
+(FOR IMMEDIATE RELEASE) (Includes color image of a prescription bottle with pills.),,,STATIVE
+(ATTENTION EDITORS: This article is for use by clients of The New York Times Syndicate's SCIENTIFIC AMERICAN NEWS SERVICE.,is,EDITORS,STATIVE
+"For information about becoming a client of this service, contact the New York Times Syndicate sales representatives",becoming,information,CANNOT_DECIDE
+listed at the end of the text.),listed,contact,STATIVE
+BY CHRISTINE SOARES c.2002 Scientific American,SOARES,CHRISTINE,CANNOT_DECIDE
+"Intending to ease consumer access to mental health care, New Mexico legislators in March passed a law",passed,legislators,DYNAMIC
+"allowing psychologists to prescribe psychotropic medications, such as antidepressants.",allowing,law,DYNAMIC
+"The state's action, the first in the nation, has the blessing of the American Psychological Association",has,action,STATIVE
+"(APA), which considers prescriptive authority a logical extension of psychologists' role as health-care providers.",considers,Association,STATIVE
+"But powerful groups, including the American Medical Association, oppose the idea",including,,CANNOT_DECIDE
+and have a surprising source of support:,have,groups,STATIVE
+"psychologists themselves, some of whom call it a radical experiment and fear",call,some,DYNAMIC
+that the most likely victim will be the science of psychology.,be,victim,STATIVE
+"""I am concerned",am,I,STATIVE
+"that nonmedically trained people as legitimate prescribers of drugs will not be accepted by the American public,""",accepted,people,DYNAMIC
+says psychologist Gerald C. Davison of the University of Southern California.,says,Davison,DYNAMIC
+"The APA has spent more than $1 million to help state psychological associations develop and lobby for such prescription privileges -- or ""RxP"" -- legislation.",spent,APA,DYNAMIC
+A total of 31 state psychology associations have task forces dedicated to developing and lobbying for prescription-privileges legislation.,have,total,STATIVE
+"The version endorsed by the APA would license doctoral-level psychologists to independently prescribe psychotropic drugs after completing 300 hours of classroom instruction in neuroscience, physiology and pharmacology,",license,version,DYNAMIC
+followed by four months' supervised treatment of 100 patients.,followed,,STATIVE
+Critics say,say,Critics,DYNAMIC
+that is not nearly enough,is,that,STATIVE
+"compared with other prescribers, such as M.D. psychiatrists or nurse practitioners",compared,,STATIVE
+who have at least six years' medical education and clinical experience.,have,practitioners,STATIVE
+Neither Davison nor most other RxP opponents doubt the efficacy of medications.,doubt,opponents,STATIVE
+Their greatest objection is to the notion of turning psychology into a prescribing profession.,is,objection,STATIVE
+In a field that has struggled long and hard to prove,,,DYNAMIC
+"that mind, mood and behavior can be studied empirically, the past decade,",studied,mood,DYNAMIC
+"Davison says,",says,Davison,DYNAMIC
+"has seen ""exciting developments""",seen,decade,DYNAMIC
+that demonstrate the validity of various psychotherapeutic interventions and the psychosocial-behavioral models,demonstrate,developments,DYNAMIC
+on which they are based.,based,they,STATIVE
+"""The timing is peculiar to abandon psychological science",is,convert,STATIVE
+"or to convert it to a medical science,""",convert,peculiar,CANNOT_DECIDE
+"explains Elaine M. Heiby of the University of Hawaii,",explains,Heiby,DYNAMIC
+"who chairs a committee of the 1,000-member American Association of Applied and Preventive Psychology",chairs,Heiby,STATIVE
+that is concerned about the medicalization of psychology.,concerned,Association,STATIVE
+"""Making sure",Making,,CANNOT_DECIDE
+"that practicing psychologists are giving patients interventions based on the best available psychological science should be the APA's priority,""",be,Making,STATIVE
+"argues Emory University's Scott Lilienfeld, president of the Society for a Science of Clinical Psychology (SSCP).",argues,Lilienfeld,DYNAMIC
+"More than any philosophical betrayal of psychology, RxP opponents fear",fear,opponents,STATIVE
+that the movement will undermine the science,undermine,movement,DYNAMIC
+they love.,love,they,STATIVE
+They believe,believe,They,STATIVE
+"that if prescriptive authority becomes the norm, biomedical requirements will inevitably seep into the psychology curriculum, at the expense of traditional psychological science and methodology.",seep,requirements,DYNAMIC
+Lilienfeld feels,feels,Lilienfeld,STATIVE
+that many clinical psychologists already receive inadequate training in fundamentals such as research design and evaluation.,receive,psychologists,DYNAMIC
+RxP opponents charge the APA with pushing its prescription-privileges agenda,charge,opponents,DYNAMIC
+without adequately assessing support for it in the field.,assessing,,DYNAMIC
+The 300-member SSCP is the only group within the APA to have taken a formal stance against prescription privileges.,is,SSCP,STATIVE
+"The APA has scheduled 30 minutes at its meeting in August for an RxP debate,",scheduled,APA,DYNAMIC
+but its leadership believes,believes,APA,STATIVE
+it already has an accurate sense of support for its RxP policy.,has,it,STATIVE
+"""Except for this small vocal minority, we have just not gotten a lot of groundswell against this from members,""",gotten,we,DYNAMIC
+says APA president Philip G. Zimbardo of Stanford University.,says,Zimbardo,DYNAMIC
+"With prescription privileges now a reality in one state, some RxP opponents concede",concede,opponents,DYNAMIC
+that it may be too late.,be,it,STATIVE
+"This year four states besides New Mexico -- Georgia, Hawaii, Illinois and Tennessee -- have pending legislation for psychologist prescription privileges.",have,states,STATIVE
+"Over the past decade, 14 state legislatures have considered such laws.",considered,legislatures,DYNAMIC
+"Between 1991 and 1997, a U.S. Department of Defense psychopharmacology demonstration project involving two to four years' training produced 10 military psychologists",produced,project,DYNAMIC
+who can write prescriptions.,write,psychologists,DYNAMIC
+"For more information on the topics covered in the Scientific American News Service, visit www.sciam.com.",covered,topics,CANNOT_DECIDE
+(Distributed by New York Times Special Features),Distributed,EDITOR,DYNAMIC
+EDITOR: Visit The New York Times Syndicate Web site at http://www.nytimes.com/syndicate for more information on SCIENTIFIC AMERICAN NEWS SERVICE and other features.,,,CANNOT_DECIDE
+"NONSUBSCRIBERS: To subscribe to SCIENTIFIC AMERICAN NEWS SERVICE,",subscribe,NONSUBSCRIBERS,CANNOT_DECIDE
+please contact the following New York Times Syndicate sales representative:,please,NONSUBSCRIBERS,CANNOT_DECIDE
+-- NORTH AMERICA: Ana Pena at 212-499-3333.,,,CANNOT_DECIDE
+"-- INTERNATIONAL: Claire Saint-Andre, in Paris, 33-1-53-05-76-55 or saint-andre (at) fr.inter.net.",,,CANNOT_DECIDE
+"-- LATIN AMERICA: Isabel Amorim Sicherle, in Sao Paulo, 55-11-30233331 or sicheia (at) nytimes.com.",,,CANNOT_DECIDE
+NYT-07-31-02 1112EDT,,,CANNOT_DECIDE

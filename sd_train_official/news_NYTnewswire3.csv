@@ -1,0 +1,94 @@
+Clause,mainVerb,mainReferent,Gold
+NYT20020731.0371 2002-07-31 23:38,,,CANNOT_DECIDE
+A4917 &x1f; taf-z u f BC-IBM-CHIPS-1STLD-WRITE 07-31 0925,,,CANNOT_DECIDE
+BC-IBM-CHIPS-1STLD-WRITETHRU-(TRIM)-NYT,,,CANNOT_DECIDE
+IBM OPENS $2.5 BILLION CHIP PLANT IN UPSTATE NEW YORK (SUBS 1st graf with CORRECTION.,,,DYNAMIC
+No other changes.),changes,other,CANNOT_DECIDE
+By STEVE LOHR c.2002 New York Times News Service,,,CANNOT_DECIDE
+"EAST FISHKILL, N.Y. -- IBM opened a sprawling and sophisticated semiconductor factory here on Wednesday",opened,N.Y.,DYNAMIC
+"that cost more than $2.5 billion to build and equip, the largest single capital investment",cost,sprawling,STATIVE
+the company has ever made.,made,N.Y.,DYNAMIC
+"The factory, which opens",opens,factory,DYNAMIC
+"as the computer chip business is in a slump,",is,,STATIVE
+is a costly and risky move for IBM.,is,factory,STATIVE
+But it is also an expression of confidence by the company,is,it,STATIVE
+that it can remain a technology leader,remain,it,STATIVE
+"in the highly competitive global semiconductor industry, and a commitment that the best place to execute that strategy is in upstate New York.",is,place,STATIVE
+IBM is an exception among computer makers,is,IBM,STATIVE
+in that it still invests heavily,invests,exception,DYNAMIC
+"in research to advance the design, manufacture and materials",advance,it,CANNOT_DECIDE
+used in semiconductor chips.,used,design,DYNAMIC
+It is spending more than $500 million a year on semiconductor research and development.,spending,It,DYNAMIC
+The factory will produce a wide range of specialized semiconductors,produce,factory,DYNAMIC
+used in everything from the largest mainframe computers to cell phones and video-game consoles.,used,semiconductors,DYNAMIC
+"The new plant is part of IBM's push to gain a strong lead in chip-making beyond the personal computer business,",is,plant,STATIVE
+where Intel and East Asian chip producers hold the advantage.,hold,Intel,STATIVE
+"""The core of our strategy is to lead in technology and attack the high-performance segments of the market,""",is,core,STATIVE
+"said John Kelly, senior vice president in charge of IBM's technology group.",said,Kelly,DYNAMIC
+"An advantage to having the semiconductor fabricating factory here,",having,advantage,CANNOT_DECIDE
+"Kelly explained,",explained,Kelly,DYNAMIC
+"was that it was very close to its research laboratories in nearby Westchester County, N.Y.",was,advantage,STATIVE
+"To stay ahead in advanced chip technology,",stay,it,CANNOT_DECIDE
+"he said,",said,he,DYNAMIC
+moving innovations out of the labs and into the factory as fast as possible is crucial.,is,possible,STATIVE
+"""What we call",call,we,DYNAMIC
+"the lab-to-fab time should be as close to zero as possible,""",be,call,STATIVE
+Kelly said.,said,Kelly,DYNAMIC
+"""If our strategy were anything but to be on the leading edge,",were,strategy,STATIVE
+"we'd have put the plant in Asia.""",put,we,DYNAMIC
+"The new factory, which will begin normal production early next year,",begin,factory,DYNAMIC
+"will employ about 1,000 people.",employ,factory,DYNAMIC
+(BEGIN OPTIONAL TRIM),,,CANNOT_DECIDE
+"In remarks during a ribbon-cutting ceremony here on Wednesday, Gov. George E. Pataki said",said,Pataki,DYNAMIC
+he expected the facility to generate thousands more jobs in the Hudson Valley area for contractors and suppliers,expected,he,DYNAMIC
+catering to the factory.,catering,Pataki,DYNAMIC
+"He praised IBM for being ""a critical partner in our economic development efforts"" in New York state.",praised,He,DYNAMIC
+"In a brief speech, Samuel J. Palmisano, IBM's chief executive, emphasized",emphasized,Palmisano,DYNAMIC
+that it was important to make long-term investments despite the current slump in the technology business.,was,it,STATIVE
+"""To play to win in technology,",play,,CANNOT_DECIDE
+you innovate,innovate,you,DYNAMIC
+"and you lead,""",lead,you,DYNAMIC
+he said.,said,he,DYNAMIC
+But manufacturing technology products is a costly and cyclical business.,is,products,STATIVE
+"In June, IBM announced",announced,IBM,DYNAMIC
+that it was taking a charge of more than $2 billion against earnings.,taking,it,DYNAMIC
+The largest single reasons for the charge were the cost of getting out of the business,were,reasons,STATIVE
+"of manufacturing hard disks for storage,",manufacturing,business,CANNOT_DECIDE
+"which it sold to Hitachi,",sold,it,DYNAMIC
+and closing down some of its older semiconductor operations.,closing,business,CANNOT_DECIDE
+But Kelly said,said,Kelly,DYNAMIC
+"the demand for advanced chips, like those produced at IBM's facility in Burlington, Vt., is strong.",is,demand,STATIVE
+"""I need more capacity in that end of the market,""",need,I,STATIVE
+"he said,",said,need,DYNAMIC
+"""and this is factory is critical to meeting that growing demand.""",is,I,STATIVE
+"If IBM has miscalculated the demand,",miscalculated,IBM,DYNAMIC
+it will suffer badly as both the high operating costs and depreciation on the huge capital investment for the East Fishkill factory drag down earnings.,suffer,it,DYNAMIC
+But industry analysts said,said,analysts,DYNAMIC
+the plant should be insulated from a falloff in one or a few segments of the semiconductor market.,insulated,plant,STATIVE
+(END OPTIONAL TRIM),,,CANNOT_DECIDE
+The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand.,is,TRIM,STATIVE
+"""The diversity is the big difference with this plant,""",is,diversity,STATIVE
+"said Richard Doherty, president of Envisioneering, a research firm.",said,Doherty,DYNAMIC
+"""It gives IBM the capability to make so many different kinds of custom chips,",gives,It,DYNAMIC
+"and the world is going to custom chips.""",going,It,DYNAMIC
+"The 140,000-square-foot plant is a testament to advanced manufacturing technology.",is,plant,STATIVE
+"The 300-millimeter silicon wafers -- about the size of a standard pizza -- are shuttled around the facility in enclosed plastic pods,",shuttled,wafers,DYNAMIC
+which ride on overhead tracks.,ride,pods,DYNAMIC
+"They drop down from wires automatically into machines,",drop,They,DYNAMIC
+"sheathed in stainless steel and glass, for each stage of processing and fabrication.",sheathed,machines,STATIVE
+"Throughout the 500 processing steps, which typically last 20 days, the wafers are not touched by human hands.",touched,wafers,DYNAMIC
+The circuits etched into the chips are less than one thousandth the width of a human hair.,are,circuits,STATIVE
+"Human operators are there to monitor the systems,",are,operators,STATIVE
+catch errors,catch,operators,CANNOT_DECIDE
+and fine-tune the production process for maximum efficiency.,fine-tune,operators,CANNOT_DECIDE
+"Because each of the hundreds of processing machines is self-enclosed, and essentially airtight, the uniforms operators wear",is,each,STATIVE
+"are less constricting than in the previous generation of chip plants,",are,wear,STATIVE
+which looked like space suits.,looked,plants,STATIVE
+"The operators at the East Fishkill factory wear light nylon uniforms, light blue shoe coverings and translucent hair nets",wear,operators,STATIVE
+made of paper.,made,nets,STATIVE
+They look more like workers in a bakery.,look,They,STATIVE
+"Yes, said Richard Brilla, director of the new facility,",said,Brilla,DYNAMIC
+"""but the donuts are a lot more costly here.""",are,lot,STATIVE
+"Each wafer, holding hundreds of chips,",holding,wafer,STATIVE
+"is worth $6,000 to $10,000 apiece, depending on what insulation, circuitry and materials are used.",is,$,STATIVE
+NYT-07-31-02 2338EDT,,,CANNOT_DECIDE

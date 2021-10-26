@@ -1,0 +1,222 @@
+Clause,mainVerb,mainReferent,Gold
+Do This........,Do,,CANNOT_DECIDE
+"1- When computing, whatever happens,",happens,whatever,DYNAMIC
+behave,behave,computing,CANNOT_DECIDE
+as though you meant it to happen.,meant,you,STATIVE
+2- When you get to the point,get,you,DYNAMIC
+"where you really understand your computer,",understand,you,STATIVE
+then it's definitely obsolete.,'s,it,STATIVE
+3- The first place to look for information is in the section of the manual,is,3,STATIVE
+where you least expect to find it.,expect,you,STATIVE
+"4- When the going gets tough, upgrade.",gets,tough,DYNAMIC
+5- For every action there is an equal and opposite malfunction,is,malfunction,STATIVE
+6- To err,err,,CANNOT_DECIDE
+is human...,is,err,STATIVE
+but to completely screw things up requires a computer.,requires,err,STATIVE
+7- He who laughs last has already made a back-up.,made,7,DYNAMIC
+8- A complex system that does not work is invariably found to have evolved from a simpler system,found,8,STATIVE
+that worked just fine.,worked,system,STATIVE
+9- The No. 1 cause of computer problems is computer solutions.,is,9,STATIVE
+"10- A computer program will always do what you tell it to do,",do,10,DYNAMIC
+but rarely what you want it to do.,want,you,STATIVE
+If we Fail,Fail,we,DYNAMIC
+"A customer walks into a restaurant and notices a large sign on the wall, ""$500",walks,Fail,DYNAMIC
+"IF WE FAIL TO FILL YOUR ORDER!""",FILL,Fail,DYNAMIC
+"When his waitress arrives, he orders elephant tail on rye.",arrives,waitress,DYNAMIC
+She calmly writes down his order,writes,She,DYNAMIC
+and walks into the kitchen,walks,She,DYNAMIC
+where all hell breaks loose!,breaks,hell,DYNAMIC
+The restaurant owner comes storming out of the kitchen.,comes,owner,DYNAMIC
+"He runs up to the customer's table,",runs,He,DYNAMIC
+slaps five $100 bills down on it,slaps,He,DYNAMIC
+"and says,",says,He,DYNAMIC
+"""You got me that time buddy,",got,says,DYNAMIC
+but I want you to know,want,You,STATIVE
+that's the first time in ten years,'s,,STATIVE
+"we've been out of rye bread!""",been,we,STATIVE
+Do you remember,Do,,CANNOT_DECIDE
+Grandma and Grandpa were sitting in their porch rockers,sitting,Grandpa,STATIVE
+watching the beautiful sunset,watching,,STATIVE
+"and reminiscing about ""the good old days,""",reminiscing,,DYNAMIC
+when Grandma turned to Grandpa,turned,Grandma,DYNAMIC
+"and said,",said,you,DYNAMIC
+"""Honey, do you remember",remember,you,CANNOT_DECIDE
+when we first started dating,started,we,DYNAMIC
+and you used to just casually reach over,used,we,DYNAMIC
+"and take my hand?""",take,you,CANNOT_DECIDE
+"Grandpa looked over at her,",looked,Grandpa,DYNAMIC
+smiled,smiled,Grandpa,DYNAMIC
+and took her aged hand in his.,took,Grandpa,DYNAMIC
+"With a wry little smile Grandma pressed a little farther, ""Honey, do you remember",do,Honey,DYNAMIC
+how after we were engaged,engaged,we,CANNOT_DECIDE
+you'd sometimes lean over,lean,you,DYNAMIC
+"and suddenly kiss me on the cheek?""",kiss,you,DYNAMIC
+Grandpa leaned slowly toward Grandma,leaned,Grandpa,DYNAMIC
+and gave her a lingering kiss on her wrinkled cheek.,gave,Grandpa,DYNAMIC
+"Growing bolder still, Grandma said,",Growing,,DYNAMIC
+"""Honey, do you remember",Honey,bolder,CANNOT_DECIDE
+"how, after we were first married,",married,we,CANNOT_DECIDE
+"you'd kind of nibble on my ear?""",nibble,you,DYNAMIC
+Grandpa slowly got up from his rocker,got,Grandpa,DYNAMIC
+and headed into the house.,headed,Grandpa,DYNAMIC
+"Alarmed, Grandma said,",said,Grandma,DYNAMIC
+"""Honey, where are you going?""",Honey,Alarmed,CANNOT_DECIDE
+"Grandpa replied,",replied,Grandpa,DYNAMIC
+"""To get my teeth!""",get,Grandpa,CANNOT_DECIDE
+Listening to the Ground,Listening,,CANNOT_DECIDE
+Two cowboys come upon an Indian lying on his stomach with his ear to the ground.,come,Listening,DYNAMIC
+"One of the cowboys stops and says to the other,",stops,One,DYNAMIC
+"""You see that Indian?""",see,other,CANNOT_DECIDE
+"""Yeah,"" says the other cowboy.",says,cowboy,DYNAMIC
+"""Look,""",,,CANNOT_DECIDE
+"says the first one,",says,one,DYNAMIC
+"""he's listening to the ground.",listening,he,STATIVE
+"He can hear things for miles in any direction.""",hear,He,DYNAMIC
+Just then the Indian looks up.,looks,Indian,DYNAMIC
+"""Covered wagon,""",,,STATIVE
+"he says, ""about two miles away.",says,wagon,DYNAMIC
+"Have two horses, one brown, one white.",Have,,STATIVE
+"Man, woman, child, household effects in wagon.""",,,CANNOT_DECIDE
+"""Incredible!""",Incredible,,CANNOT_DECIDE
+says the cowboy to his friend.,says,,DYNAMIC
+"""This Indian knows",knows,Indian,STATIVE
+"how far away they are, how many horses,",are,they,STATIVE
+"what color they are,",are,they,STATIVE
+"who is in the wagon,",is,knows,STATIVE
+and what is in the wagon.,is,who,STATIVE
+"Amazing!""",Amazing,,CANNOT_DECIDE
+The Indian looks up again,looks,Indian,DYNAMIC
+"and says,",says,Indian,DYNAMIC
+"""Ran over me a half a hour ago.""",Ran,,DYNAMIC
+Mistakes,,,CANNOT_DECIDE
+"On his way out of church, Frank stopped at the door to speak to the minister.",stopped,Frank,DYNAMIC
+"""Would it be right,""",be,it,CANNOT_DECIDE
+"he asked,",asked,he,DYNAMIC
+"""for a person to profit from the mistakes of another?""",profit,person,CANNOT_DECIDE
+"""Absolutely not!""",Absolutely,,CANNOT_DECIDE
+replied the pastor.,replied,,DYNAMIC
+"""In that case,"" said the young man,",said,man,DYNAMIC
+"""I wonder",wonder,I,STATIVE
+if you'd consider returning the hundred dollars,consider,you,DYNAMIC
+"I paid you to marry my wife and me last July.""",paid,I,DYNAMIC
+These are all true - probably.,are,These,STATIVE
+"Rome did not create a great empire by having meetings,",create,Rome,DYNAMIC
+they did it by killing anybody,did,create,DYNAMIC
+who opposed them.,opposed,anybody,DYNAMIC
+"If you can stay calm,",stay,you,STATIVE
+while all around you is chaos...,is,you,STATIVE
+then you probably haven't completely understood the seriousness of the situation.,understood,you,STATIVE
+Doing a job RIGHT,Doing,,DYNAMIC
+the first time gets the job,gets,Doing,DYNAMIC
+done.,done,job,CANNOT_DECIDE
+Doing the job,Doing,,DYNAMIC
+WRONG fourteen times gives you job security.,gives,Doing,DYNAMIC
+It is hard to soar like an eagle,is,It,STATIVE
+when you are surrounded by turkeys;,surrounded,you,STATIVE
+"but on the other hand, although eagles may soar, turkeys don't get sucked into jet engines.",sucked,It,DYNAMIC
+A person who smiles in the face of adversity...probably has already figured out,figured,person,STATIVE
+who's the scapegoat.,'s,who,STATIVE
+Plagiarism saves time.,saves,Plagiarism,STATIVE
+Management,,,CANNOT_DECIDE
+"If at first you don't succeed, try management.",try,Management,DYNAMIC
+Never put off until tomorrow,put,,CANNOT_DECIDE
+what you can avoid altogether.,avoid,put,DYNAMIC
+TEAMWORK...means never having to take all the blame yourself.,means,TEAMWORK,STATIVE
+The beatings will continue until morale improves.,continue,beatings,DYNAMIC
+Never underestimate the power of very stupid people in large groups.,underestimate,,CANNOT_DECIDE
+"We waste time,",waste,We,DYNAMIC
+so you don't have to.,have,you,STATIVE
+"Hang in there,",,,CANNOT_DECIDE
+retirement is only thirty years away!,is,retirement,STATIVE
+Go the extra mile.,,,CANNOT_DECIDE
+It makes your boss look like an incompetent slacker.,makes,It,DYNAMIC
+A snooze button is a poor substitute for no alarm clock at all.,is,button,STATIVE
+"When the going gets tough, the tough take a coffee break.",take,tough,DYNAMIC
+INDECISION is the key to FLEXIBILITY.,is,INDECISION,STATIVE
+Succeed in spite of management.,Succeed,,CANNOT_DECIDE
+"Aim Low,",,,CANNOT_DECIDE
+"Reach Your Goals,",,,CANNOT_DECIDE
+Avoid Disappointment,Avoid,Low,CANNOT_DECIDE
+Things To Ponder,,,CANNOT_DECIDE
+"1. Why do they call it a TV set,",call,they,CANNOT_DECIDE
+when you only get one?,get,you,DYNAMIC
+2. Why is the third hand on the watch,is,hand,CANNOT_DECIDE
+called the second hand?,called,watch,STATIVE
+"3. If a word is misspelled in the dictionary, would we ever know?",know,we,CANNOT_DECIDE
+"4. If Webster wrote the first dictionary, where did he find the words?",find,he,CANNOT_DECIDE
+5. Why do we say,say,we,CANNOT_DECIDE
+something is out of whack?,is,say,STATIVE
+What is a whack?,is,whack,CANNOT_DECIDE
+"6. How can ""slow down""",slow,,CANNOT_DECIDE
+"and ""slow up"" mean the same thing?",slow,,CANNOT_DECIDE
+"7. Why do ""fat chance"" and ""slim chance"" mean the same thing?",mean,chance,CANNOT_DECIDE
+8. Why do 'tug' boats push barges?,do,boats,CANNOT_DECIDE
+"9. Why do we sing ""Take me out to the ball game""",sing,we,CANNOT_DECIDE
+when we are already there?,are,we,STATIVE
+"10. Why are they called ""stands""",called,they,CANNOT_DECIDE
+when they are made for sitting?,made,they,STATIVE
+"11. Why is it called ""after dark"" when it really is ""after light""?",called,it,CANNOT_DECIDE
+"12. If one ""expected the unexpected""",expected,,STATIVE
+"then the unexpected couldn't exist, Right?",exist,Right,CANNOT_DECIDE
+13. Why are a 'wise man' and a 'wise guy' opposites?,are,a,CANNOT_DECIDE
+14. Why do 'overlook and 'oversee' mean opposite things?,do,,CANNOT_DECIDE
+15. Why is phonics not spelled the way,spelled,phonics,CANNOT_DECIDE
+it sounds?,sounds,it,STATIVE
+"16. If work is so terrific, why do they have to pay you to do it?",have,they,CANNOT_DECIDE
+"17. If all the world is a stage, where is the audience sitting?",sitting,audience,CANNOT_DECIDE
+"18. If love is blind, why is fancy lingerie so popular?",is,lingerie,CANNOT_DECIDE
+19. If you are cross-eyed,cross-eyed,you,STATIVE
+"and have dyslexia, can you then read all right?",read,you,CANNOT_DECIDE
+20. Why is bra singular and panties plural?,is,plural,CANNOT_DECIDE
+21. Why do you press harder on the buttons of a remote control,press,you,CANNOT_DECIDE
+when you know,know,you,STATIVE
+the batteries are dead?,are,batteries,STATIVE
+22. How come,come,,CANNOT_DECIDE
+abbreviated is such a long word?,is,abbreviated,CANNOT_DECIDE
+What's The Difference??,'s,??,CANNOT_DECIDE
+A young girl who was writing a paper for school came to her father,came,girl,DYNAMIC
+"and asked, ""Dad,",asked,girl,DYNAMIC
+"what is the difference between anger and exasperation?""",is,difference,CANNOT_DECIDE
+"The father replied,",replied,father,DYNAMIC
+"""It is mostly a matter of degree.",is,It,STATIVE
+Let me show you,Let,,CANNOT_DECIDE
+"what I mean.""",mean,show,STATIVE
+With that the father went to the telephone,went,father,DYNAMIC
+and dialed a number at random.,dialed,father,DYNAMIC
+"To the man who answered the phone,",answered,man,DYNAMIC
+"he said, ""Hello,",said,he,DYNAMIC
+"is Melvin there?""",is,Melvin,CANNOT_DECIDE
+"The man answered,",answered,man,DYNAMIC
+"""There is no one",is,living,STATIVE
+living here,,,STATIVE
+named Melvin.,named,living,STATIVE
+Why don't you learn to look up numbers,learn,you,CANNOT_DECIDE
+"before you dial them?""",dial,you,DYNAMIC
+"""See,""",,,CANNOT_DECIDE
+said the father to his daughter.,said,father,DYNAMIC
+"""That man was not a bit happy with our call.",was,man,STATIVE
+He was probably very busy with some-thing,was,He,STATIVE
+and we annoyed him.,annoyed,He,DYNAMIC
+"Now watch....""",watch,,CANNOT_DECIDE
+The father dialed the number again.,dialed,father,DYNAMIC
+"""Hello, is Melvin there?""",is,Hello,CANNOT_DECIDE
+", asked the father.",asked,,DYNAMIC
+"""Now look here!""",look,Now,CANNOT_DECIDE
+came the heated reply.,came,,DYNAMIC
+"""You just called this number",called,You,DYNAMIC
+and I told you,told,You,DYNAMIC
+that there is no Melvin here!,is,Melvin,STATIVE
+You've got a lot of nerve,got,You,STATIVE
+"calling again!""",calling,,DYNAMIC
+The receiver slammed down hard.,slammed,receiver,DYNAMIC
+The father turned to his daughter,turned,father,DYNAMIC
+"and said,",said,father,DYNAMIC
+"""You see,",see,said,STATIVE
+that was anger.,was,that,STATIVE
+Now I'll show you,show,I,DYNAMIC
+what exasperation means.,means,show,STATIVE
+"""He dialed the same number,",dialed,He,DYNAMIC
+"and when a violent voice roared, ""Hello!""",and,dialed,DYNAMIC
+"The father calmly said,",said,father,DYNAMIC
+"""Hello, this is Melvin.",is,this,STATIVE
+"Have there been any calls for me?""",been,,CANNOT_DECIDE

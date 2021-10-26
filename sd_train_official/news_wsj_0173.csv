@@ -1,0 +1,20 @@
+Clause,mainVerb,mainReferent,Gold
+"Coleco Industries Inc., a once high-flying toy maker whose stock peaked at $65 a share in the early 1980s, filed a Chapter 11 reorganization plan",filed,Inc.,DYNAMIC
+that provides just 1.125 cents a share for common stockholders.,provides,plan,DYNAMIC
+"Under the plan, unsecured creditors, who are owed about $430 million,",owed,creditors,STATIVE
+"would receive about $92 million, or 21 cents for each dollar",receive,creditors,DYNAMIC
+they are owed.,owed,they,STATIVE
+"In addition, they will receive stock in the reorganized company,",receive,they,DYNAMIC
+which will be named Ranger Industries Inc.,named,company,DYNAMIC
+"After these payments, about $225,000 will be available for the 20 million common shares outstanding.",be,$,STATIVE
+"The Avon, Conn., company's stock hit a high in 1983",hit,stock,DYNAMIC
+"after it unveiled its Adam home computer,",unveiled,it,DYNAMIC
+but the product was plagued with glitches,plagued,stock,STATIVE
+and the company's fortunes plunged.,plunged,product,DYNAMIC
+"But Coleco bounced back with the introduction of the Cabbage Patch dolls,",bounced,Coleco,DYNAMIC
+whose sales hit $600 million in 1985.,hit,sales,DYNAMIC
+"But as the craze died,",died,craze,DYNAMIC
+Coleco failed to come up with another winner,failed,Coleco,DYNAMIC
+and filed for bankruptcy-law protection in July 1988.,filed,Coleco,DYNAMIC
+The plan was filed jointly with unsecured creditors in federal bankruptcy court in New York,filed,plan,DYNAMIC
+and must be approved by the court.,approved,plan,DYNAMIC

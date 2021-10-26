@@ -1,0 +1,101 @@
+Clause,mainVerb,mainReferent,Gold
+Papyrus is a thin paper-like material,is,Papyrus,STATIVE
+"made from the pith of the papyrus plant, Cyperus papyrus, a wetland sedge",made,material,DYNAMIC
+that was once abundant in the Sudd of Southern Sudan along with the Nile Delta of Egypt.,was,plant,STATIVE
+Papyrus is first known to have been used in ancient Egypt,known,Papyrus,STATIVE
+"(at least as far back as the First Dynasty), but it was also used throughout the Mediterranean region and in Kingdom of Kush.",used,Papyrus,DYNAMIC
+"Ancient Egyptians are thought to have used papyrus as a writing material, as well as employing it commonly in the construction of other artifacts such as reed boats, mats, rope, sandals, and baskets.",thought,Egyptians,STATIVE
+== History ==,,,CANNOT_DECIDE
+Papyrus was first manufactured in Egypt and Southern Sudan as far back as the fourth millennium BCE.,manufactured,History,DYNAMIC
+"The earliest archaeological evidence of papyrus was excavated in 2012-2013 at Wadi al-Jarf, an ancient Egyptian harbor",excavated,evidence,DYNAMIC
+located on the Red Sea coast.,located,harbor,STATIVE
+These documents date from ca.,date,documents,STATIVE
+25602550 BCE (end of the reign of Khufu).,,,CANNOT_DECIDE
+"In the first centuries BCE and CE, papyrus scrolls gained a rival as a writing surface in the form of parchment,",gained,scrolls,DYNAMIC
+which was prepared from animal skins.,prepared,form,DYNAMIC
+Sheets of parchment were folded to form quires,folded,Sheets,DYNAMIC
+from which book-form codices were fashioned.,fashioned,codices,DYNAMIC
+"Early Christian writers soon adopted the codex form,",adopted,writers,DYNAMIC
+"and in the Grco-Roman world, it became common to cut sheets from papyrus rolls to form codices.",became,writers,DYNAMIC
+"Codices were an improvement on the papyrus scroll,",were,Codices,STATIVE
+as the papyrus was not pliable enough to fold without cracking,was,papyrus,STATIVE
+"and a long roll, or scroll, was required to create large-volume texts.",required,papyrus,STATIVE
+"Papyrus had the advantage of being relatively cheap and easy to produce,",had,Papyrus,STATIVE
+but it was fragile and susceptible to both moisture and excessive dryness.,was,it,STATIVE
+"Unless the papyrus was of perfect quality,",was,papyrus,STATIVE
+"the writing surface was irregular,",was,surface,STATIVE
+and the range of media that could be used was also limited.,was,range,STATIVE
+"Papyrus was replaced in Europe by the cheaper, locally produced products parchment and vellum, of significantly higher durability in moist climates,",replaced,Papyrus,DYNAMIC
+though Henri Pirenne's connection of its disappearance with the Muslim overrunning of Egypt is contended.,contended,connection,STATIVE
+"Its last appearance in the Merovingian chancery is with a document of 692,",is,appearance,STATIVE
+though it was known in Gaul until the middle of the following century.,known,it,STATIVE
+The latest certain dates for the use of papyrus are 1057 for a papal decree,are,dates,STATIVE
+"(typically conservative, all papal bulls were on papyrus until 1022), under Pope Victor II, and 1087 for an Arabic document.",were,1057,STATIVE
+Its use in Egypt continued,continued,use,STATIVE
+until it was replaced by more inexpensive paper,replaced,it,DYNAMIC
+introduced by Arabs.,introduced,paper,DYNAMIC
+"By the 12th century, parchment and paper were in use in the Byzantine Empire,",were,parchment,STATIVE
+but papyrus was still an option.,was,papyrus,STATIVE
+Papyrus was made in several qualities and prices;,made,Papyrus,DYNAMIC
+"these are listed, with minor differences, both by Pliny and Isidore of Seville.",listed,these,STATIVE
+"Until the middle of the 19th century, only some isolated documents written on papyrus were known.",known,documents,STATIVE
+They did not contain literary works.,contain,They,STATIVE
+The first discovery of papyri rolls in modern days was made at Herculaneum in 1752.,made,discovery,DYNAMIC
+"Before that date, the only papyri known were a few surviving from medieval times.",were,papyri,STATIVE
+== Etymology ==,,,CANNOT_DECIDE
+"The English word ""papyrus"" derives, via Latin, from Greek ",derives,papyrus,STATIVE
+"(papuros), a loanword of unknown (perhaps Pre-Greek) origin.",,,CANNOT_DECIDE
+"Greek has a second word for it, ",has,Greek,STATIVE
+"(bublos, said to derive from the name of the Phoenician city of Byblos).",bublos,,STATIVE
+"The Greek writer Theophrastus, who flourished during the 4th century BC,",flourished,Theophrastus,DYNAMIC
+uses papuros,uses,Theophrastus,DYNAMIC
+when referring to the plant,referring,,DYNAMIC
+used as a foodstuff and bublos for the same plant,used,plant,DYNAMIC
+"when used for nonfood products, such as cordage, basketry, or writing surfaces.",used,,DYNAMIC
+"The more specific term  biblos, which finds its way into English in such words as 'bibliography', 'bibliophile',",finds,biblos,STATIVE
+"and 'bible', refers to the inner bark of the papyrus plant.",refers,biblos,STATIVE
+"Papyrus is also the etymon of 'paper', a similar substance.",is,Papyrus,STATIVE
+"In the Egyptian language, papyrus was known by the terms wadj",known,papyrus,STATIVE
+"(w3), tjufy (wfy),",,,CANNOT_DECIDE
+and djet (t).,,,CANNOT_DECIDE
+== Documents written on papyrus ==,written,Documents,CANNOT_DECIDE
+The word for the material papyrus is also used to designate documents,used,Documents,DYNAMIC
+"written on sheets of it,",written,documents,STATIVE
+often rolled up into scrolls.,rolled,used,STATIVE
+The plural for such documents is papyri.,is,plural,STATIVE
+"Historical papyri are given identifying namesgenerally the name of the discoverer, first owner or institution",given,papyri,DYNAMIC
+"where they are keptand numbered, such as ""Papyrus Harris I"".",kept,they,DYNAMIC
+"Often an abbreviated form is used, such as ""pHarris I"".",used,form,DYNAMIC
+These documents provide important information on ancient writings;,provide,documents,DYNAMIC
+"they give us the only extant copy of Menander, the Egyptian Book of the Dead, Egyptian treatises on medicine",give,they,DYNAMIC
+"(the Ebers Papyrus) and on surgery (the Edwin Smith papyrus), Egyptian mathematical treatises (the Rhind papyrus), and Egyptian folk tales (the Westcar papyrus).",,,CANNOT_DECIDE
+"When, in the 18th century, a library of ancient papyri was found in Herculaneum, ripples of expectation spread among the learned men of the time.",spread,ripples,DYNAMIC
+"However, since these papyri were badly charred,",were,papyri,STATIVE
+their unscrolling and deciphering is still going on today.,going,deciphering,DYNAMIC
+== Manufacture and use ==,,,CANNOT_DECIDE
+"Papyrus is made from the stem of the papyrus plant, Cyperus papyrus.",made,use,DYNAMIC
+"The outer rind is first removed,",removed,rind,DYNAMIC
+and the sticky fibrous inner pith is cut lengthwise into thin strips of about long.,cut,rind,DYNAMIC
+"The strips are then placed side by side on a hard surface with their edges slightly overlapping,",placed,strips,DYNAMIC
+and then another layer of strips is laid on top at a right angle.,laid,strips,DYNAMIC
+"The strips may have been soaked in water long enough for decomposition to begin,",soaked,strips,DYNAMIC
+"perhaps increasing adhesion,",increasing,,DYNAMIC
+but this is not certain.,is,this,STATIVE
+The two layers possibly were glued together.,glued,layers,DYNAMIC
+"While still moist, the two layers are hammered together,",hammered,layers,DYNAMIC
+mashing the layers into a single sheet.,mashing,,DYNAMIC
+The sheet is then dried under pressure.,dried,sheet,DYNAMIC
+"After drying, the sheet is polished with some rounded object, possibly a stone or seashell or round hardwood.",is,sheet,DYNAMIC
+Sheets could be cut to fit the obligatory size,cut,Sheets,DYNAMIC
+or glued together to create a longer roll.,glued,Sheets,DYNAMIC
+"A wooden stick would be attached to the last sheet in a roll,",attached,stick,DYNAMIC
+making it easier to handle.,making,,DYNAMIC
+To form the long strip scrolls,form,,CANNOT_DECIDE
+"required,",required,scrolls,STATIVE
+"a number of such sheets were united, placed",united,number,DYNAMIC
+so all the horizontal fibres parallel with the roll's length were on one side and all the vertical fibres on the other.,were,parallel,STATIVE
+"Normally, texts were first written on the recto, the lines",written,texts,DYNAMIC
+"following the fibres, parallel to the long edges of the scroll.",following,lines,STATIVE
+"Secondarily, papyrus was often reused,",reused,papyrus,DYNAMIC
+writing across the fibres on the verso.,writing,,DYNAMIC
+Pliny the Elder describes the methods of preparing papyrus in his Naturalis Historia.,describes,Elder,DYNAMIC

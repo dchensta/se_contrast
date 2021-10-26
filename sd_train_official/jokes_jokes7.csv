@@ -1,0 +1,170 @@
+Clause,mainVerb,mainReferent,Gold
+Digging up the facts...,Digging,,CANNOT_DECIDE
+"After digging to a depth of 100m last year, Russian scientists found traces of copper wiring",found,scientists,DYNAMIC
+"dating back 1000 years,",dating,wiring,STATIVE
+and came to the conclusion,came,scientists,DYNAMIC
+that their ancestors already had a telephone network one thousand years ago.,had,ancestors,STATIVE
+"So as not to be outdone, in the weeks",outdone,dug,CANNOT_DECIDE
+"that followed, American scientists dug 200m, and headlines in the US newspapers",dug,scientists,DYNAMIC
+read:,read,scientists,STATIVE
+"""US scientists have found traces of 2000 year old optical fibres,",found,scientists,DYNAMIC
+and have concluded,concluded,scientists,DYNAMIC
+"that their ancestors already had advanced high-tech digital telephone 1000 years earlier than the Russians.""",advanced,ancestors,STATIVE
+"One week later, the Irish press reported the following: ""After digging as deep as 500m, Irish scientists have found absolutely nothing.",reported,press,DYNAMIC
+They have concluded,concluded,They,DYNAMIC
+"that 5000 years ago, their ancestors were already using mobile phones"".",using,concluded,DYNAMIC
+Mr N. Mandela.,,,CANNOT_DECIDE
+Nelson Mandela is sitting at home,sitting,Mandela,STATIVE
+watching TV,watching,Mandela,STATIVE
+and drinking a beer,drinking,Mandela,DYNAMIC
+when he hears a knock at the door.,hears,he,DYNAMIC
+"When he opens it,",opens,he,DYNAMIC
+"he is confronted by a little Chinese man,",confronted,he,DYNAMIC
+clutching a clipboard,clutching,,STATIVE
+"and yelling,",yelling,,DYNAMIC
+"""You Sign!",,,CANNOT_DECIDE
+"You sign!""",,,CANNOT_DECIDE
+Behind him is an enormous truck full of car exhausts.,is,him,STATIVE
+"Nelson is standing there in complete amazement,",standing,Nelson,STATIVE
+when the Chinese man starts to yell louder.,starts,man,DYNAMIC
+"""You Sign!",,,CANNOT_DECIDE
+"You sign!""",,,CANNOT_DECIDE
+"Nelson says to him,",says,Nelson,DYNAMIC
+"""Look,",Look,says,CANNOT_DECIDE
+"you've obviously got the wrong man"",",got,you,STATIVE
+and shuts the door in his face.,,,DYNAMIC
+The next day he hears a knock at the door again.,hears,he,DYNAMIC
+"When he opens it, the little Chinese man is back with a huge truck of brake pads.",is,man,STATIVE
+"He thrusts his clipboard under Nelson's nose, yelling,",thrusts,He,DYNAMIC
+"""You sign!",,,CANNOT_DECIDE
+"You sign!""",,,CANNOT_DECIDE
+Mr Mandela is getting a bit,getting,Mandela,DYNAMIC
+"hacked off by now,",hacked,bit,CANNOT_DECIDE
+"so he pushes the little Chinese man back,",pushes,he,DYNAMIC
+shouting:,shouting,he,DYNAMIC
+"""Look, go away!",go,pushes,CANNOT_DECIDE
+You've got the wrong man!,got,You,STATIVE
+"I don't want them!""",want,I,STATIVE
+Then he slams the door in his face again.,slams,he,DYNAMIC
+"The following day, Nelson is resting,",resting,Nelson,STATIVE
+"and late in the afternoon, he hears a knock on the door again.",hears,Nelson,DYNAMIC
+"On opening the door, there is the same little Chinese man",is,man,STATIVE
+"thrusting a clipboard under his nose,",thrusting,man,DYNAMIC
+"shouting,",shouting,thrusting,DYNAMIC
+"""You sign!",sign,You,CANNOT_DECIDE
+"You sign!""",,,CANNOT_DECIDE
+Behind him are TWO very large trucks full of car parts.,TWO,him,STATIVE
+"This time Nelson loses his temper completely,",loses,Nelson,DYNAMIC
+he picks up the little man by his shirt front,picks,time,DYNAMIC
+and yells at him;,yells,time,DYNAMIC
+"""Look,",,,CANNOT_DECIDE
+I don't want these!,want,I,STATIVE
+Do you understand?,understand,you,CANNOT_DECIDE
+You must have the wrong name!,have,You,STATIVE
+"Who do you want to give these to?""",want,you,CANNOT_DECIDE
+"The little Chinese man looks at him very puzzled,",looks,man,DYNAMIC
+"consults his clipboard,",consults,man,DYNAMIC
+"and says, ""You not Nissan Main Dealer?""",says,man,DYNAMIC
+Prefix La is feminine,is,La,STATIVE
+Prefix Le is masculine,is,Le,STATIVE
+A language instructor was explaining to her class,explaining,instructor,DYNAMIC
+"that in French, nouns unlike their English counterparts, are grammatically designated as masculine or feminine.",designated,,STATIVE
+"""House,"" in French, is feminine - ""la maison.""",is,House,STATIVE
+"""Pencil,"" in French, is masculine ""le crayon.""",is,,STATIVE
+"One puzzled student asked,",asked,Computer,DYNAMIC
+"""What gender is Computer?""",is,asked,CANNOT_DECIDE
+"The teacher did not know,",know,teacher,STATIVE
+and the word wasn't in her French dictionary.,was,teacher,STATIVE
+"So for fun she split the class into two groups appropriately enough,",split,she,DYNAMIC
+by gender and asked them to decide,asked,she,DYNAMIC
+whether Computer should be a masculine or feminine noun.,be,Computer,STATIVE
+Both groups were required to give four reasons for their recommendation.,required,groups,STATIVE
+The boy's group decided,decided,group,DYNAMIC
+"that computers should definitely be of the feminine gender (""la computer""), because:",be,computers,STATIVE
+1. No one but their creator understands their internal logic;,understands,one,STATIVE
+2. The native language they use to communicate with other computers is incomprehensible to everyone else;,is,language,STATIVE
+3. Even the smallest mistakes are stored in long-term memory for possible later retrieval; and,stored,mistakes,STATIVE
+"4. As soon as you make a commitment to one,",make,you,DYNAMIC
+you find yourself spending half your salary on accessories for it.,find,you,DYNAMIC
+"The women's group, however, concluded",concluded,group,DYNAMIC
+"that computers should be masculine(""le computer""), because:",be,computers,STATIVE
+"1. In order to get their attention,",get,,CANNOT_DECIDE
+you have to turn them on;,have,you,DYNAMIC
+2. They have a lot of data,have,They,STATIVE
+but they are still clueless;,clueless,They,STATIVE
+"3. They are supposed to help you solve problems, but half the time",supposed,They,STATIVE
+they ARE the problem; and,ARE,they,STATIVE
+"4. As soon as you commit to one,",commit,you,DYNAMIC
+you realize,realize,you,DYNAMIC
+"that if you'd waited a little longer,",waited,you,DYNAMIC
+you could have gotten a better model.,gotten,you,DYNAMIC
+WHY WE LOVE CHILDREN:,,,STATIVE
+A small boy is sent to bed by his father.,sent,CHILDREN,DYNAMIC
+Five minutes later:,Five,,CANNOT_DECIDE
+"""Da-ad...""",,,CANNOT_DECIDE
+"""What?""",,,CANNOT_DECIDE
+"""I'm thirsty.","""",,STATIVE
+"Can you bring me a drink of water?""",bring,you,CANNOT_DECIDE
+"""No.",,,CANNOT_DECIDE
+You had your chance.,had,You,STATIVE
+"Lights out.""",Lights,,CANNOT_DECIDE
+"Five minutes later: ""Da-aaaad...""",Da-aaaad,,CANNOT_DECIDE
+"""I'm THIRSTY.",'m,I,STATIVE
+"Can I have a drink of water??""",Can,,CANNOT_DECIDE
+"""I told you NO!",told,I,DYNAMIC
+"If you ask again,",ask,you,DYNAMIC
+"I'll have to spank you!!""",have,I,DYNAMIC
+"Five minutes later... ""Daaaa-aaaad...""",,,CANNOT_DECIDE
+"""WHAT??!!""",,,CANNOT_DECIDE
+"""When you come in to spank me, can you bring me a drink of water?""",come,drink,CANNOT_DECIDE
+"An exasperated mother, whose son was always getting into mischief,",getting,son,DYNAMIC
+"finally asked him,",asked,expect,DYNAMIC
+"""How do you expect to get into Heaven?""",expect,you,CANNOT_DECIDE
+The boy thought it over,thought,boy,DYNAMIC
+"and said,",said,boy,DYNAMIC
+"""Well, I'll just run in and out and in",run,I,DYNAMIC
+and out and keep slamming the door,keep,I,DYNAMIC
+"until St. Peter says 'For Heaven's sake, Jimmy,",says,Peter,DYNAMIC
+come in,come,I,CANNOT_DECIDE
+"or stay out!'""",stay,I,CANNOT_DECIDE
+One summer evening during a violent thunderstorm a mother was tucking her small boy into bed.,tucking,mother,DYNAMIC
+She was about to turn off the light,was,,STATIVE
+"when he asked with a tremor in his voice,",asked,he,DYNAMIC
+"""Mommy, will you sleep with me tonight?""",sleep,you,CANNOT_DECIDE
+The mother smiled,smiled,mother,DYNAMIC
+and gave him a reassuring hug.,gave,mother,DYNAMIC
+"I can't, dear,"" she said.",said,she,DYNAMIC
+"""I have to sleep in Daddy's room.""",have,I,STATIVE
+"Little voice: ""The big sissy.""",,,CANNOT_DECIDE
+A mother took her three-year-old daughter to church for the first time.,took,mother,DYNAMIC
+"The church lights were lowered,",lowered,lights,DYNAMIC
+"and then the choir came down the aisle,",came,lights,DYNAMIC
+carrying lighted candles.,carrying,choir,STATIVE
+All was quiet,was,All,STATIVE
+"until the little one started to sing in a loud voice, ""Happy birthday to you.",started,one,DYNAMIC
+Happy,,,CANNOT_DECIDE
+"birthday to you...""",,,CANNOT_DECIDE
+"It was that time during the Sunday morning service for ""the children's sermon,""",was,It,STATIVE
+and all the children were invited to come forward.,invited,birthday,DYNAMIC
+One little girl was wearing a particularly pretty dress,wearing,girl,STATIVE
+"and, as she sat down,",sat,she,DYNAMIC
+the pastor leaned over,leaned,pastor,DYNAMIC
+"and said to her,",said,pastor,DYNAMIC
+"""That is a very pretty dress.",is,That,STATIVE
+"Is it your Easter dress?""",Is,dress,CANNOT_DECIDE
+"The little girl replied, directly into the pastor's clip-on microphone,",replied,girl,DYNAMIC
+"""Yes, and my Mom says",says,girl,DYNAMIC
+"it's a bitch to iron.""",'s,it,STATIVE
+Finding one of her students,Finding,Smith,DYNAMIC
+"making faces at others on the playground,",making,,DYNAMIC
+Ms. Smith stopped to gently reprove the child.,stopped,Smith,DYNAMIC
+"Smiling sweetly,",Smiling,told,STATIVE
+"the Sunday School teacher said,",said,teacher,DYNAMIC
+"""Bobby, when I as a child I was told",told,Bobby,DYNAMIC
+"that if I made ugly faces,",made,I,DYNAMIC
+it would freeze,freeze,it,DYNAMIC
+"and I would stay like that.""",stay,it,STATIVE
+Bobby looked up,looked,Bobby,DYNAMIC
+"and replied,",replied,Bobby,DYNAMIC
+"""Well, Ms. Smith, you can't say",say,you,DYNAMIC
+"you weren't warned.""",warned,you,STATIVE

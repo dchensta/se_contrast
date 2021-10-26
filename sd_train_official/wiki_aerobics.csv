@@ -1,0 +1,50 @@
+Clause,mainVerb,mainReferent,Gold
+Aerobics is a form,is,Aerobics,STATIVE
+"of physical exercise that combines rhythmic aerobic exercise with stretching and strength training routines with the goal of improving all elements of fitness (flexibility, muscular strength, and cardio-vascular fitness).",combines,form,DYNAMIC
+It is usually performed to music,performed,It,DYNAMIC
+and may be practiced in a group setting,practiced,It,DYNAMIC
+"led by an instructor (fitness professional),",led,setting,DYNAMIC
+although it can be done solo and without musical accompaniment.,done,it,DYNAMIC
+With the goal of preventing illness,preventing,goal,CANNOT_DECIDE
+"and promoting physical fitness, practitioners perform various routines",perform,practitioners,DYNAMIC
+comprising a number of different dance-like exercises.,comprising,routines,STATIVE
+Formal aerobics classes are divided into different levels of intensity and complexity.,divided,classes,STATIVE
+Aerobics classes may allow participants to select their level of participation according to their fitness level.,allow,classes,DYNAMIC
+Many gyms offer a variety of aerobic classes.,offer,gyms,STATIVE
+Each class is designed for a certain level of experience,designed,class,STATIVE
+and taught by a certified instructor with a specialty area,taught,class,DYNAMIC
+related to their particular class.,related,area,STATIVE
+==History==,,,CANNOT_DECIDE
+"Both the term and the specific exercise method were developed by Dr. Kenneth Cooper, M.D., an exercise physiologist, and Col. Pauline Potts, a physical therapist, both of the United States Air Force.",developed,=,DYNAMIC
+"Dr. Cooper, an avowed exercise enthusiast, was personally and professionally puzzled about why some people with excellent muscular strength were still prone to poor performance at tasks such as long-distance running, swimming, and bicycling.",was,Cooper,STATIVE
+He began measuring systematic human performance,began,He,DYNAMIC
+"using a bicycle ergometer,",using,performance,DYNAMIC
+and began measuring sustained performance in terms of a person's ability to use oxygen.,began,He,DYNAMIC
+"His groundbreaking book, Aerobics, was published in 1968,",published,book,DYNAMIC
+and included scientific exercise programs,included,book,STATIVE
+"using running, walking, swimming and bicycling.",using,programs,STATIVE
+"The book came at a fortuitous historical moment,",came,book,DYNAMIC
+when increasing weakness and inactivity in the general population was causing a perceived need for increased exercise.,causing,increasing,DYNAMIC
+Aerobics gained world-wide popularity after the release of Jane Fonda's exercise videos in 1982.,gained,Aerobics,DYNAMIC
+==Aerobic gymnastics==,,,CANNOT_DECIDE
+"Aerobic gymnastics, also known as sport aerobics and competitive aerobics,",known,,STATIVE
+is a type of competitive aerobics,is,gymnastics,STATIVE
+"involving complicated choreography, rhythmic and acrobatic gymnastics with elements of aerobics.",involving,aerobics,STATIVE
+"Performance is divided into categories by age, sex and groups (individual, mixed pairs and trios)",divided,Performance,STATIVE
+and are judged on the following elements:,judged,Performance,DYNAMIC
+"dynamic and static strength, jumps and leaps, kicks, balance and flexibility.",,,CANNOT_DECIDE
+"Ten exercises are mandatory: four consecutive high leg kicks, patterns.",are,exercises,STATIVE
+"A maximum of ten elements from following families are allowed: push-ups, supports and balances, kicks and splits, jumps and leaps.",allowed,maximum,STATIVE
+"Elements of tumbling such as handsprings, handstands, back flips,",flips,Elements,CANNOT_DECIDE
+and aerial somersaults are prohibited.,prohibited,Elements,STATIVE
+"Scoring is by judging of artistic quality, creativity, execution, and difficulty of routines.",is,Scoring,STATIVE
+"Sport aerobics has state, national,",has,aerobics,STATIVE
+"and international competitions, but is not an Olympic sport.",is,,STATIVE
+== See also ==,=,See,CANNOT_DECIDE
+*Aerobic exercise,,,CANNOT_DECIDE
+*Freestyle aerobics,,,CANNOT_DECIDE
+*Step aerobics,,,CANNOT_DECIDE
+*Sport aerobics,,,CANNOT_DECIDE
+*Water aerobics,,,CANNOT_DECIDE
+*Yoga postures,postures,Yoga,CANNOT_DECIDE
+==References==,,,CANNOT_DECIDE

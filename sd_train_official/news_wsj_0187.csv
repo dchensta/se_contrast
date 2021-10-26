@@ -1,0 +1,22 @@
+Clause,mainVerb,mainReferent,Gold
+The Finnish government and major creditors of bankrupt shipyard Waertsilae Marine Industries Oy agreed in principle to form a new company to complete most of the troubled shipyard's backlog of 15 ships.,agreed,creditors,DYNAMIC
+"The new company will attempt to limit the shipyard's losses,",attempt,company,DYNAMIC
+participants said.,said,participants,DYNAMIC
+"""The situation is that the bankruptcy court will get out of the shipbuilding business.",is,situation,DYNAMIC
+"Everything will be taken over by the new company,""",taken,Everything,DYNAMIC
+"said Christian Andersson, executive vice president of Oy Waertsilae, former parent of Waertsilae Marine.",said,taken,DYNAMIC
+"Once its ownership is finalized,",finalized,ownership,STATIVE
+the new company will open talks with state-appointed receivers to buy or lease Waertsilae Marine's shipyard facilities.,open,company,DYNAMIC
+Subcontractors will be offered a settlement,offered,Subcontractors,DYNAMIC
+"and a swift transition to new management is expected to avert an exodus of skilled workers from Waertsilae Marine's two big shipyards,",expected,Subcontractors,DYNAMIC
+government officials said.,said,officials,DYNAMIC
+"Under an accord signed yesterday, the government and Union Bank of Finland would become major shareholders in the new company,",become,Bank,DYNAMIC
+each injecting 100 million Finnish markkaa ($23.5 million).,injecting,,DYNAMIC
+"Oy Waertsilae is to contribute 200 million markkaa, most of it as subordinated debt,",is,Waertsilae,DYNAMIC
+and take a minority stake in the new company.,take,Waertsilae,CANNOT_DECIDE
+"Customers holding contracts for Waertsilae Marine's undelivered ships are expected to subscribe most of the remaining 170 million markkaa in share capital,",expected,Customers,DYNAMIC
+government officials said.,said,officials,DYNAMIC
+Waertsilae Marine's biggest creditor is Miami-based Carnival Cruise Lines Inc.,is,creditor,STATIVE
+"Carnival, which has three ships on order from Waertsilae Marine,",has,Carnival,STATIVE
+presented claims for $1.5 billion damages in the bankruptcy court this week.,presented,Carnival,DYNAMIC
+Waertsilae Marine's bankruptcy proceedings began Tuesday in a Helsinki court.,began,proceedings,DYNAMIC

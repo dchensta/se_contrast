@@ -1,0 +1,98 @@
+Clause,mainVerb,mainReferent,Gold
+An empire is a geographically extensive group of states and peoples,is,empire,STATIVE
+"(ethnic groups) united and ruled by a central authority, either by a monarch (emperor, empress) or an oligarchy.",united,states,STATIVE
+The term empire is derived from the Latin term imperium,derived,empire,STATIVE
+"(a rule, a command; authority, control, power; supreme power, sole dominion; military authority; a dominion, realm) from imperare (to command).",,,CANNOT_DECIDE
+"Aside from the traditional usage, the term ""empire"" can also be used to describe a large-scale business enterprise",used,empire,DYNAMIC
+"(e.g., a transnational corporation), a political organisation controlled by a single individual",controlled,organisation,STATIVE
+(a political boss) or a group (political bosses).,,,CANNOT_DECIDE
+An imperial political structure can be established and maintained in two ways,established,structure,DYNAMIC
+": (i) as a territorial empire of direct conquest and control with force or (ii) as a coercive, hegemonic empire of indirect conquest and control with power.",,,CANNOT_DECIDE
+"The former method provides greater tribute and direct political control,",provides,method,DYNAMIC
+yet limits further expansion,limits,method,DYNAMIC
+because it absorbs military forces to fixed garrisons.,absorbs,it,DYNAMIC
+"The latter method provides less tribute and indirect control,",provides,method,DYNAMIC
+but avails military forces for further expansion.,avails,method,DYNAMIC
+"Territorial empires (e.g., the Mongol Empire and Median Empire)",,,CANNOT_DECIDE
+tend to be contiguous areas.,tend,empires,STATIVE
+"The term, on occasion, has been applied to maritime empires or thalassocracies,",applied,term,DYNAMIC
+"(e.g., the Athenian and British empires) with looser structures and more scattered territories.",,,CANNOT_DECIDE
+Empires are usually larger than kingdoms.,are,Empires,STATIVE
+==Definition==,,,CANNOT_DECIDE
+An empire is a multi-ethnic or multinational state with political and/or military dominion of populations,is,=,STATIVE
+who are culturally and ethnically distinct from the imperial (ruling) ethnic group and its culture.,are,populations,STATIVE
+"This is in contrast to a federation,",is,This,STATIVE
+which is an extensive state,is,federation,STATIVE
+voluntarily composed of autonomous states and peoples.,composed,state,STATIVE
+Definitions of what physically and politically constitute an empire vary.,vary,Definitions,STATIVE
+It might be a state,be,It,STATIVE
+affecting imperial policies or a particular political structure.,affecting,state,STATIVE
+"Empires are typically formed from diverse ethnic, national, cultural, and religious components.",formed,Empires,DYNAMIC
+Tom Nairn and Paul James define empires as polities that:,polities,James,DYNAMIC
+extend relations of power across territorial spaces,extend,that,DYNAMIC
+"over which they have no prior or given legal sovereignty,",have,polities,STATIVE
+"and where, in one or more of the domains of economics, politics, and culture, they gain some measure of extensive hegemony over those spaces for the purpose of extracting or accruing value.",gain,they,DYNAMIC
+"Sometimes, an empire is a semantic construction, such as when a ruler assumes the title of ""emperor"".",is,empire,STATIVE
+"That ruler's nation logically becomes an ""empire"",",becomes,nation,DYNAMIC
+despite having no additional territory or hegemony.,having,nation,STATIVE
+Examples of this form of empire are the Central African Empire,are,Examples,STATIVE
+or the Korean Empire proclaimed in 1897,proclaimed,Empire,DYNAMIC
+"when Korea, far from gaining new territory, was on the verge of being annexed by the Empire of Japan, the last to use the name officially.",was,Korea,STATIVE
+"Among the last of the empires in the 20th century were the Central African Empire, Ethiopia, Vietnam, Manchukuo, the German Empire, and Korea.",were,Vietnam,STATIVE
+"The terrestrial empire's maritime analogue is the thalassocracy, an empire",is,analogue,STATIVE
+composed of islands and coasts,composed,empire,STATIVE
+"which are accessible to its terrestrial homeland, such as the Athenian-dominated Delian League.",are,empire,STATIVE
+==Characteristics==,,,CANNOT_DECIDE
+"Empires originated as different types of states,",originated,Empires,DYNAMIC
+although they commonly began as powerful monarchies.,began,they,DYNAMIC
+"The Athenian Empire, the Roman Empire, and the British Empire developed under elective auspices.",developed,Empire,DYNAMIC
+The Empire of Brazil declared itself an empire after separating from the Portuguese Empire in 1822.,declared,Empire,DYNAMIC
+France has twice transitioned from being called the French Republic to being called,transitioned,France,DYNAMIC
+"the French Empire, while France remained an overseas empire.",remained,France,STATIVE
+"Many empires were the result of military conquest,",were,empires,STATIVE
+incorporating the vanquished states into its political union.,incorporating,result,DYNAMIC
+A state could establish imperial hegemony in other ways.,establish,state,DYNAMIC
+A weak state may seek annexation into the empire.,seek,state,DYNAMIC
+An example is the bequest of Pergamon to the Roman Empire by Attalus III.,is,example,STATIVE
+The Unification of Germany as the empire accreted to the Prussian metropole was less a military conquest of the German states than their political divorce from the Austrian Empire.,was,Unification,STATIVE
+"Having convinced the other states of its military prowess,",convinced,Prussia,DYNAMIC
+"and having excluded the Austrians,",excluded,Prussia,DYNAMIC
+Prussia dictated the terms of imperial membership.,dictated,Prussia,DYNAMIC
+"Politically, it was typical",was,it,STATIVE
+"for either a monarchy or an oligarchy, rooted in the original core territory of the empire, to continue to dominate.",rooted,oligarchy,STATIVE
+"If governmental authority was maintained by controlling water supplies,",maintained,authority,STATIVE
+"vital to colonial subjects, such rgimes were called hydraulic empires.",called,régimes,STATIVE
+"Europeans began applying the designation of ""empire"" to non-European monarchies, such as the Qing dynasty and the Mughal Empire, as well as the Maratha Empire,",began,Europeans,DYNAMIC
+"eventually leading to the looser denotations applicable to any political structure meeting the criteria of ""imperium"".",leading,,DYNAMIC
+"Some empires styled themselves as having greater size, scope, and power than the territorial, politico-military, and economic facts support.",styled,empires,DYNAMIC
+"As a consequence, some monarchs assumed the title of ""emperor""",assumed,monarchs,DYNAMIC
+"(or its corresponding translation: tsar, empereur, kaiser, etc.)",,,CANNOT_DECIDE
+"and renamed their states as ""The Empire of ....""",renamed,monarchs,DYNAMIC
+"When possible, empires used a common religion or culture to strengthen the political structure.",used,empires,DYNAMIC
+==History of imperialism==,,,CANNOT_DECIDE
+===Early empires===,,,CANNOT_DECIDE
+"The Akkadian Empire, established by Sargon the Great (24th century BC),",established,Empire,DYNAMIC
+was an early large empire.,was,History,STATIVE
+"In the 15th century BC, the New Kingdom of Ancient Egypt, ruled by Thutmose III, was ancient Africa's major force upon incorporating Nubia and the ancient city-states of the Levant.",was,Kingdom,STATIVE
+The first empire comparable to Rome in organization was the Neo-Assyrian Empire (916612 BC).,was,empire,STATIVE
+The Median Empire was the first empire within the territory of Persia.,was,Empire,STATIVE
+"By the 6th century BC, after having allied with the Babylonians to defeat the Neo-Assyrian Empire, the Medes were able to establish their own empire,",were,Medes,STATIVE
+which was the largest of its day,was,empire,STATIVE
+and lasted for about sixty years.,lasted,empire,DYNAMIC
+"The successful, extensive, and multi-cultural Achaemenid Empire (550330 BC),",,,CANNOT_DECIDE
+"also known as the first Persian Empire, absorbed Mesopotamia, Egypt, parts of Greece, Thrace, the Middle East, much of Central Asia, and Pakistan,",absorbed,extensive,STATIVE
+until it was overthrown and replaced by the short-lived empire of Alexander the Great.,overthrown,it,DYNAMIC
+"The Maurya Empire was a geographically extensive and powerful empire in ancient India,",was,Empire,STATIVE
+ruled by the Mauryan dynasty from 321-185 BC.,ruled,empire,STATIVE
+"The empire was founded in 322 BC by Chandragupta Maurya,",founded,empire,DYNAMIC
+"who rapidly expanded his power westward across central and western India,",expanded,Maurya,DYNAMIC
+taking advantage of the disruptions of local powers,taking,Maurya,DYNAMIC
+following the withdrawal by Alexander the Great.,following,,DYNAMIC
+"By 320 BC, the Maurya Empire had fully occupied northwestern India as well as defeating and conquering the satraps",had,Empire,DYNAMIC
+left by Alexander.,left,satraps,DYNAMIC
+It has been estimated,estimated,It,DYNAMIC
+"that the Maurya dynasty controlled an unprecedented one-third of the world's entire economy,",controlled,dynasty,DYNAMIC
+was home to one-third of the world's population at the time,was,dynasty,STATIVE
+"(an estimated 50 million out of 150 million humans), contained the world's largest city of the time",estimated,,STATIVE
+"(Pataliputra, estimated to be larger than Rome under Emperor Trajan)",be,,STATIVE
+"and according to Megasthenes, the empire wielded a military of 600,000 infantry, 30,000 cavalry, and 9,000 war elephants.",according,,STATIVE

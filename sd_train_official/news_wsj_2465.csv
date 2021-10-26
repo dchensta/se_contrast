@@ -1,0 +1,80 @@
+Clause,mainVerb,mainReferent,Gold
+We don't know,know,We,STATIVE
+"who is winning the drug war in Latin America,",winning,who,DYNAMIC
+but we know,know,We,STATIVE
+who's losing it -- the press.,losing,who,DYNAMIC
+"Over the past six months, six journalists have been killed",killed,journalists,DYNAMIC
+and 10 kidnapped by drug traffickers or leftist guerrillas,kidnapped,,DYNAMIC
+-- who often are one and the same -- in Colombia.,are,who,STATIVE
+"Over the past 12 years, at least 40 journalists have died there.",died,journalists,DYNAMIC
+The attacks have intensified,intensified,attacks,DYNAMIC
+"since the Colombian government began cracking down on the traffickers in August,",began,government,DYNAMIC
+trying to prevent their takeover of the country.,trying,,DYNAMIC
+"The slaughter in Colombia was very much on the minds of 450 editors and publishers from Latin America, the United States, the Caribbean and Canada",was,slaughter,STATIVE
+"attending the 45th general assembly of the Inter-American Press Association in Monterrey, Mexico, this week.",attending,,DYNAMIC
+"On Tuesday the conference got word of another atrocity, the assassination in Medellin of two employees of El Espectador, Colombia's second-largest newspaper.",got,conference,DYNAMIC
+"The paper's local administrator, Maria Luz Lopez, was shot dead,",shot,administrator,DYNAMIC
+"and her mother wounded,",wounded,administrator,DYNAMIC
+while her car was stopped for a red light.,stopped,car,DYNAMIC
+"An hour later, the paper's circulation manager, Miguel Soler, was shot and killed near his home.",shot,manager,DYNAMIC
+The drug lords who claimed responsibility said,said,lords,DYNAMIC
+they would blow up the Bogota newspaper's offices,blow,they,DYNAMIC
+if it continued to distribute in Medellin.,continued,it,DYNAMIC
+"They bombed the Bogota offices last month,",bombed,They,DYNAMIC
+destroying its computer,destroying,bombed,DYNAMIC
+and causing $2.5 million in damage.,causing,bombed,DYNAMIC
+El Espectador has been a special target because of the extraordinary courage of its publisher and his staff.,been,Espectador,STATIVE
+"At Monterrey, publisher Luis Gabriel Cano, although shaken by the murders, issued a statement",issued,Cano,DYNAMIC
+saying:,saying,statement,DYNAMIC
+"""We will not cease our fight against drug trafficking.",cease,We,DYNAMIC
+They want to terrify the press and in particular El Espectador,want,They,STATIVE
+"because it has always been a torchbearer in this war.""",been,it,STATIVE
+This comes from a man,comes,This,DYNAMIC
+"whose brother, Guillermo, was murdered in 1986.",murdered,Guillermo,DYNAMIC
+"The publishers in Monterrey command no battalions,",command,publishers,DYNAMIC
+but they agreed to express their outrage with editorials in today's editions.,agreed,publishers,DYNAMIC
+Many will use a common editorial.,use,Many,DYNAMIC
+A final statement yesterday said:,said,yesterday,DYNAMIC
+"""While some advances are being made in nations throughout the hemisphere,",made,advances,DYNAMIC
+the state of press freedom in the Americas still must be regarded as grim,regarded,state,STATIVE
+"as long as journalists and their families are subject to the crudest form of censorship: death by assassination.""",are,families,STATIVE
+The report charged,charged,report,DYNAMIC
+that Panama's Manuel Noriega is not only in league with the drug traffickers,is,Noriega,STATIVE
+but also is bullying the press as never before.,bullying,report,DYNAMIC
+"""Noriega has closed every independent newspaper, radio and television station",closed,Noriega,DYNAMIC
+"and arrested, tortured or forced into exile a long list of reporters,""",arrested,Noriega,DYNAMIC
+the statement declared.,declared,statement,DYNAMIC
+It added:,added,It,DYNAMIC
+"""In Cuba, public enemy No. 1 of press freedoms in the hemisphere, repression of journalists both Cuban and foreign is worse than ever.""",is,repression,STATIVE
+"And in Nicaragua, promises of press freedom by the Sandinistas ""have not materialized.""",materialized,promises,DYNAMIC
+"As it happens,",happens,it,CANNOT_DECIDE
+"the four countries cited,",cited,countries,DYNAMIC
+"Colombia, Cuba, Panama and Nicaragua, are not only",are,Colombia,STATIVE
+where the press is under greatest attack,is,press,STATIVE
+but also are linked by the drug trade and left-wing politics.,linked,press,STATIVE
+Noriega is close to Castro,is,Noriega,STATIVE
+and may once have been his agent.,been,,STATIVE
+Sandinistas Thomas Borge and the Ortega brothers are Castro proteges;,are,brothers,STATIVE
+he backed their takeover of Nicaragua.,backed,he,DYNAMIC
+"In Colombia, the drug-financed guerrillas trying to seize the country",trying,guerrillas,CANNOT_DECIDE
+"and destroy democracy include M-19,",include,guerrillas,STATIVE
+which Castro has clearly backed.,backed,Castro,DYNAMIC
+"Robert Merkel, a former U.S. attorney handling drug indictments in Florida, doesn't think for a minute",think,Merkel,STATIVE
+that Castro's much publicized trials of high officials,publicized,,STATIVE
+engaged in the drug trade mean,mean,trials,DYNAMIC
+he has broken off with the Medellin drug cartel.,broken,he,DYNAMIC
+"""If the cartel succeeds in blackmailing the Colombian authorities into negotiations,",succeeds,cartel,DYNAMIC
+the cartel will be in control,be,cartel,STATIVE
+"and Fidel can exploit his past relationships with them,""",exploit,cartel,DYNAMIC
+he told the Journal's David Asman recently.,told,he,DYNAMIC
+The struggle against the drug lords in Colombia will be a near thing.,be,struggle,STATIVE
+"This week, the government arrested Jose Abello Silva, said to be the fourth-ranking cartel leader.",said,week,DYNAMIC
+He will probably be extradited to the U.S. for trial,extradited,He,DYNAMIC
+under an extradition treaty President Virgilia Barco has revived.,revived,Barco,DYNAMIC
+"Later, another high-ranking trafficker, Leonidas Vargas, was arrested and 1,000 pounds of dynamite seized.",arrested,trafficker,DYNAMIC
+Mr. Barco has refused U.S. troops or advisers,refused,Barco,DYNAMIC
+but has accepted U.S. military aid.,accepted,Barco,DYNAMIC
+"President Bush has agreed to meet within 90 days with Mr. Barco, President Alan Garcia of Peru and President Jaime Paz Zamora of Bolivia to discuss the drug problem.",agreed,Bush,DYNAMIC
+"It might not be a bad idea to do that sooner, rather than later.",be,It,STATIVE
+"After the Panama fiasco, they will need some reassurance.",need,they,STATIVE
+"Certainly, the Colombian press is much in need of that.",is,press,STATIVE

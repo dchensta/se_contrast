@@ -1,0 +1,83 @@
+Clause,mainVerb,mainReferent,Gold
+Antireligion is opposition to religion.,is,Antireligion,STATIVE
+Antireligion is distinct from atheism,is,Antireligion,STATIVE
+"(the absence of a belief in deities) and antitheism (an opposition to belief in deities),",,,CANNOT_DECIDE
+although antireligionists may be atheists or antitheists.,be,antireligionists,STATIVE
+"The term may be used to describe opposition to organized religion,",used,term,DYNAMIC
+or to describe a broader opposition to any form of belief in the supernatural or the divine.,describe,,CANNOT_DECIDE
+== History ==,,,CANNOT_DECIDE
+"According to historian Michael Burleigh, antireligion found its first mass expression in revolutionary France in response to organised resistance to ""organised ... irreligion...an 'anti-clerical' and self-styled 'non-religious' state.""",According,,DYNAMIC
+"The Soviet Union directed antireligious campaigns at all faiths,",directed,Union,DYNAMIC
+"including Christian, Islamic, Buddhist and Shamanist religions.",including,,STATIVE
+"In the 1930s, during the Stalinist period, the government destroyed church buildings",destroyed,government,DYNAMIC
+"or put them into secular use (as museums of religion and atheism, clubs or storage facilities),",put,government,DYNAMIC
+"executed clergy,",executed,destroyed,DYNAMIC
+prohibited the publication of most religious material,prohibited,destroyed,DYNAMIC
+and persecuted some members of religious groups.,persecuted,government,DYNAMIC
+Less violent attempts to reduce or eliminate the influence of religion in society were also carried out at other times in Soviet history.,carried,attempts,DYNAMIC
+"For instance, it was usually necessary to be an atheist",was,it,STATIVE
+in order to acquire any important political position or any prestigious scientific job;,acquire,,CANNOT_DECIDE
+thus many people became atheists,became,people,DYNAMIC
+in order to advance their careers.,advance,,CANNOT_DECIDE
+"Different sources disagree on the results of all this, with some",disagree,sources,STATIVE
+"claiming the death of 21 million Russian Orthodox Christians by the Soviet government,",claiming,sources,DYNAMIC
+"not including other religious groups or persecutions without killings, and other sources",including,claiming,STATIVE
+stating,stating,sources,DYNAMIC
+"that only up to 500,000 Russian Orthodox Christians were persecuted by the Soviet government,",persecuted,Christians,DYNAMIC
+not including other religious groups.,including,,STATIVE
+"The atheist state of the People's Republic of Albania had an objective for the eventual destruction of all religion in Albania,",had,state,STATIVE
+including a constitutional ban on religious activity and propaganda.,including,,STATIVE
+The government nationalised most property,nationalised,government,DYNAMIC
+of religious institutions and used it for non-religious purposes.,used,government,DYNAMIC
+Religious literature was banned.,banned,literature,DYNAMIC
+"Many clergy and theists were tried, tortured, and executed.",tried,theists,DYNAMIC
+All foreign Roman Catholic clergy were expelled in 1946.,expelled,clergy,DYNAMIC
+Albania was the only country,was,Albania,STATIVE
+that ever officially banned religion.,banned,country,DYNAMIC
+"The Khmer Rouge attempted to eliminate Cambodia's cultural heritage,",attempted,Rouge,DYNAMIC
+including its religions.,including,,STATIVE
+"In the process, its acolytes killed nearly 1.7 million people.",killed,acolytes,DYNAMIC
+== Notable anti-religious people ==,,,CANNOT_DECIDE
+;Intellectuals,,,CANNOT_DECIDE
+"*David Hume (1711-1776), Scottish agnostic philosopher, known for his skepticism,",known,Hume,STATIVE
+who wrote,wrote,skepticism,DYNAMIC
+"that human reason is wholly inadequate to make any assumptions about the divine, whether through a priori reasoning or observation of nature.",is,through,STATIVE
+"*Thomas Paine (17371809), English-American author and deist who wrote a scathing critique on religion in the The Age of Reason (1793-4).",wrote,deist,DYNAMIC
+"""All national institutions of churches, whether Jewish, Christian, or Turkish Muslim, appear to me no other than human inventions",appear,institutions,STATIVE
+"set up to terrify and enslave mankind,",set,other,DYNAMIC
+"and monopolize power and profit"".",monopolize,inventions,CANNOT_DECIDE
+"*Karl Marx (18181883), German philosopher, social scientist, socialist.",,,CANNOT_DECIDE
+He is well known for his anti-religious views.,known,He,STATIVE
+"He called religion ""the opium of the people"".",called,He,DYNAMIC
+"*John Dewey (18591952), an American pragmatist philosopher,",,,CANNOT_DECIDE
+"who believed neither religion nor metaphysics could provide legitimate moral or social values,",provide,Dewey,STATIVE
+though scientific empiricism could (see science of morality).,see,,DYNAMIC
+"* Bertrand Russell (18721970), British logician and philosopher who believed",believed,logician,STATIVE
+"that authentic philosophy could only be pursued given an atheistic foundation of ""unyielding despair"".",pursued,philosophy,DYNAMIC
+"In 1948, he famously debated the Jesuit priest and philosophical historian Father Frederick Copleston on the existence of God.",debated,he,DYNAMIC
+"*Richard Dawkins (born 1941), English biologist, one of the ""four horsemen"" of New Atheism.",born,Dawkins,DYNAMIC
+"He wrote The God Delusion,",wrote,He,DYNAMIC
+"criticizing belief in the divine, in 2006.",criticizing,Delusion,DYNAMIC
+"*Steven Pinker (born 1954), Canadian-American cognitive scientist",born,Pinker,DYNAMIC
+who believes religion incites violence.,believes,scientist,STATIVE
+"*Sam Harris (born 1967), American author and neuroscientist,",born,Harris,DYNAMIC
+who argues that religious moderation provides cover for dangerous fundamentalism.,argues,author,STATIVE
+"*PZ Myers (born 1957), American biologist.",born,Myers,DYNAMIC
+*Phil Zuckerman,,,CANNOT_DECIDE
+"(born 1969), American sociologist.",born,Zuckerman,DYNAMIC
+;Politicians,,,CANNOT_DECIDE
+"* Vladimir Lenin, Soviet leader from 1917 until 1924, who, like most Marxists, believed all religions to be ""the organs of bourgeois reaction,",believed,1924,STATIVE
+"used for the protection of the exploitation and the stupefaction of the working class""",used,reaction,DYNAMIC
+"*Joseph Stalin, Soviet leader between 1924 to 1953",,,CANNOT_DECIDE
+"*Enver Hoxha, Albanian communist leader between 1944 and 1985",,,CANNOT_DECIDE
+"*Nikita Khrushchev, Soviet leader in 1953-64,",,,CANNOT_DECIDE
+"who initiated, among other measures, the 1958-1964 Soviet anti-religious campaign.",initiated,1953-64,DYNAMIC
+;Others,,,CANNOT_DECIDE
+"* Bill Maher, who wrote and starred in Religulous,",*,Others,DYNAMIC
+a 2008 documentary criticizing and mocking religion.,criticizing,Maher,DYNAMIC
+"*Jim Jefferies, Australian comedian",,,CANNOT_DECIDE
+"*George Carlin, American comedian",,,CANNOT_DECIDE
+"* James Randi, former magician, professional ""debunker"" of psychics, outspoken atheist and founder of the James Randi Educational Foundation.",,,CANNOT_DECIDE
+"* Philip Roth, contemporary Jewish-American novelist.",,,CANNOT_DECIDE
+== See also ==,,,CANNOT_DECIDE
+== References ==,,,CANNOT_DECIDE

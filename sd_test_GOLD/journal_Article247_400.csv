@@ -1,0 +1,71 @@
+Clause,mainVerb,mainReferent,Gold
+No More Kisses,,,CANNOT_DECIDE
+"In light of Secretary of State Albright's imminent trip to the middle east, the New York Times , Los Angeles Times and Washington Post emphasize the deteriorating situation there.",emphasize,Post,DYNAMIC
+But USA Today stays with Princess Di.,stays,Today,STATIVE
+The NYT states,states,NYT,DYNAMIC
+"that when Albright shows up on Tuesday,",shows,Albright,DYNAMIC
+"she will ""read the riot act"" to Yassir Arafat",read,she,DYNAMIC
+about cracking down on terrorism.,cracking,she,CANNOT_DECIDE
+"Her goal will be to get Arafat to come out decisively and publicly for peace with Israel,",be,goal,STATIVE
+telling him,telling,,DYNAMIC
+"that there can be no more attempts at co-opting Hamas, and ""no more kisses"" of its leaders.",be,,STATIVE
+The Times emphasizes the larger geopolitical context.,emphasizes,Times,DYNAMIC
+Given,Given,states,CANNOT_DECIDE
+"that the troubles on the West Bank have not only frosted relations between Arafat and Israel, but also those between Israel and Egypt and between Israel and Saudi Arabia,",frosted,troubles,DYNAMIC
+the paper states that the U.S. is now facing the prospect that the moderate Arab coalition,states,paper,STATIVE
+it built after the Persian Gulf war to contain Iraq and Iran is falling apart.,falling,prospect,DYNAMIC
+"The LAT focuses on new dissension within the Israeli government about whether or not Israel should continue to maintain forces in southern Lebanon, dissension",focuses,LAT,STATIVE
+fueled,fueled,dissension,DYNAMIC
+"when an Israeli commando raid there late last week was ambushed, with twelve deaths the result.",was,raid,DYNAMIC
+Perhaps the most striking indicator of a change of mood inside the government reported by the paper is the news,is,indicator,STATIVE
+"that cabinet member Ariel Sharon, who as Defense Minister in 1982 got Israel entrenched in Lebanon in the first place,",got,Sharon,DYNAMIC
+is among those,is,Sharon,STATIVE
+urging a reconsideration of the deployment.,urging,those,DYNAMIC
+Several papers have word,have,papers,STATIVE
+"that H and R Block has finally wriggled out of its controlling stake of Compuserve,",wriggled,Block,DYNAMIC
+but it's the Post with the news,'s,it,STATIVE
+that AOL is set to take it over.,set,AOL,STATIVE
+"The Wall Street Journal ""Outlook"" observes,",observes,Journal,DYNAMIC
+"""In the U.S. job market, the balance of power is shifting to employees from employers,""",shifting,Journal,DYNAMIC
+and states,,,DYNAMIC
+"that ""the retention frenzy was triggered in part by previous waves of corporate downsizing,""",triggered,frenzy,DYNAMIC
+which left behind survivors,left,triggered,DYNAMIC
+who took stock of career options and used Internet job listings,took,survivors,DYNAMIC
+"and intensified recruiting to land better offers,",intensified,which,DYNAMIC
+which in turn led to counter-offers and higher salaries.,led,Journal,DYNAMIC
+"This has led,",led,This,DYNAMIC
+"says the Journal , to annual compensation rising 5-6 percent a year.",says,Journal,DYNAMIC
+Much of the continuing Diana coverage is spinning off into the realm of meta- and meta-meta-pieces.,spinning,Much,DYNAMIC
+"The LAT , for instance, examines",examines,LAT,DYNAMIC
+"what it takes to be a new ""cuddly-feely"" Britain born of the national grief experience.",takes,it,STATIVE
+But USAT and the WP also each run pretty newsy Diana pieces as well.,run,USAT,DYNAMIC
+Both reveal,reveal,Both,DYNAMIC
+"that Tony Blair had conferred with Diana about a goodwill ambassador job shortly before her death,",conferred,Blair,DYNAMIC
+and USAT reports,reports,Both,DYNAMIC
+that Le Figaro says,says,Figaro,DYNAMIC
+a dying Diana gave two crash witnesses a message for her family and children.,gave,Diana,DYNAMIC
+Give the NYT credit for getting Mother Teresa back on the front page and a bonus point for including some criticism of her in the story.,Give,,CANNOT_DECIDE
+"""Not everyone in Calcutta, or India for that matter, is unanimous in praising the nun,",is,everyone,STATIVE
+whose organization was able to raise millions of dollars worldwide,was,organization,STATIVE
+but made virtually no significant changes in the social structure of this collapsing city's poor neighborhoods.,made,organization,DYNAMIC
+Salvation -- hers and that of the destitute she rescued from the gutters --,rescued,she,DYNAMIC
+"was her aim, not economic or social development",was,Salvation,STATIVE
+"as many others understand it,",understand,development,STATIVE
+"she said.""",said,she,DYNAMIC
+"It's odd,",'s,It,STATIVE
+"however, that in repeating this charge, the Times didn't interview the man",interview,Times,DYNAMIC
+"most closely associated with it, Christopher Hitchens,",associated,man,STATIVE
+or refer to the book,refer,Times,CANNOT_DECIDE
+"where he set it out, The Missionary Position .",set,he,DYNAMIC
+"Hmmm, wanna bet there was a copy of the book on somebody's desk at the Times though?",bet,na,CANNOT_DECIDE
+What's with the top-of-the-front headline,'s,What,CANNOT_DECIDE
+the LAT puts over its picture of Martina Hingis standing next to Venus Williams after beating her at the U.S. Open --,puts,LAT,DYNAMIC
+"""Venus Brought Back to Earth""?",,,CANNOT_DECIDE
+Doesn't that sound like celebrating a defeat,sound,that,CANNOT_DECIDE
+rather than celebrating a victory?,celebrating,defeat,CANNOT_DECIDE
+"How odd -- and a good illustration of how trying to shoe-horn in a ""witty"" headline can drive you into an idea",drive,illustration,DYNAMIC
+that doesn't fit,fit,idea,STATIVE
+or is undeserved.,is,idea,STATIVE
+Given that Ms. Williams' parents are rather protective of her,Given,surprised,STATIVE
+"and that she is a black in a still pretty-lilly-white sport, don't be surprised",surprised,,STATIVE
+if there's a bit of a complaint about this.,'s,bit,STATIVE

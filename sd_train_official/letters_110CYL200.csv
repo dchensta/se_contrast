@@ -1,0 +1,46 @@
+Clause,mainVerb,mainReferent,Gold
+"March 17, 2000",,,CANNOT_DECIDE
+Name,Name,March,CANNOT_DECIDE
+Address,,,CANNOT_DECIDE
+"City, ST, Zip",,,CANNOT_DECIDE
+Dear Name:,,,CANNOT_DECIDE
+"When Jerry was released from prison,",released,Jerry,DYNAMIC
+he knew,knew,he,STATIVE
+it would take hard work and determination to straighten out his life.,take,it,STATIVE
+He knew,knew,He,STATIVE
+"he had made a bad mistake,",made,he,DYNAMIC
+"but despite his commitment to rebuilding his life,",rebuilding,commitment,CANNOT_DECIDE
+he just didn't count on the obstacles,count,He,STATIVE
+that would be thrown up in his path.,thrown,obstacles,DYNAMIC
+Reality hit,hit,Reality,DYNAMIC
+when he was unable to reconcile with his wife,was,he,DYNAMIC
+and ended up on the street.,ended,he,DYNAMIC
+He went to the Center Township Trustee for food stamps,went,He,DYNAMIC
+until he could find a job and a place to live.,find,he,DYNAMIC
+The Trustee referred him to the Blue Triangle,referred,Trustee,DYNAMIC
+where he consulted Goodwill's Career Academy staff for job search assistance.,consulted,he,DYNAMIC
+Jerry's Goodwill caseworker found him a job immediately.,found,caseworker,DYNAMIC
+But Jerry's troubles didn't end there.,end,troubles,DYNAMIC
+"The seasonal construction job he obtained soon ended,",ended,job,DYNAMIC
+and he returned to Career Academy for help once more.,returned,job,DYNAMIC
+"Unemployed, homeless and with a prison record, Jerry now faced going back to prison for failure to pay child support.",faced,Jerry,STATIVE
+It took some time,took,It,STATIVE
+"and hard work, but with the help of Goodwill, Jerry was able to work out a payment plan with the prosecutor's office,",was,Jerry,STATIVE
+find housing,find,Jerry,CANNOT_DECIDE
+and conduct a more thorough job search.,conduct,Jerry,CANNOT_DECIDE
+"With unemployment at its lowest point in years in central Indiana, many people still have a hard time",have,people,STATIVE
+finding meaningful employment.,finding,time,CANNOT_DECIDE
+"Of the more than 42,000 people Goodwill served in 1999, over 5,000 of them have multiple barriers to finding and keeping a job.",have,"5,000",STATIVE
+"Some, like Jerry, are ex-offenders.",are,Some,STATIVE
+"Some are blind, deaf",are,Some,STATIVE
+or have other physical disabilities.,have,Some,STATIVE
+More than 100 were homeless.,were,100,STATIVE
+"But Goodwill offers hope even to people with numerous obstacles to overcome, like Jerry.",hope,offers,DYNAMIC
+"With a promising new job at a plastic injection molding manufacturer, his legal troubles in check and a safe place to live, Jerry can get on with the business of building a life for himself",get,Jerry,DYNAMIC
+and contributing to his community.,contributing,business,CANNOT_DECIDE
+"For as long as he needs it, Goodwill will continue to help.",continue,Goodwill,DYNAMIC
+Your support of Goodwill will provide job training and placement services to help the hardest to serve in central Indiana find meaningful employment.,provide,support,DYNAMIC
+"And, with your assistance, Goodwill can help employers develop resources to keep workers on the job.",help,Goodwill,DYNAMIC
+Please make an investment in the stability of our community by sending a gift to Goodwill.,make,,CANNOT_DECIDE
+Your generosity will help people help themselves.,help,generosity,DYNAMIC
+"Sincerely, James M. McClelland President",McClelland,M.,CANNOT_DECIDE

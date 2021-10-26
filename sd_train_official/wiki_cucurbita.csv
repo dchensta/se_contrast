@@ -1,0 +1,102 @@
+Clause,mainVerb,mainReferent,Gold
+Cucurbita (Latin for gourd),,,CANNOT_DECIDE
+is a genus in the gourd family Cucurbitaceae native to and first cultivated in the Andes and Mesoamerica.,is,Cucurbita,STATIVE
+Some Cucurbita species were brought to Europe after the discovery of America,brought,species,DYNAMIC
+and are now used in many parts of the world.,used,species,DYNAMIC
+"The plants, referred to as squash pumpkin or gourd depending on species, variety, and local parlance,",referred,plants,DYNAMIC
+are grown for their edible fruits and seeds.,grown,plants,DYNAMIC
+"Plants in the Cucurbita genus are important sources of human food, beverages, medicine, and oil.",are,Plants,STATIVE
+"Other kinds of gourd, also called bottle-gourds, are native to Africa",are,kinds,STATIVE
+"and belong to the genus Lagenaria,",belong,kinds,STATIVE
+which is in the same family and subfamily as Cucurbita but in a different tribe.,is,Lagenaria,STATIVE
+These gourds are used as utensils or vessels.,used,gourds,DYNAMIC
+"There are five domesticated species: Cucurbita argyrosperma, C. ficifolia, C. maxima, C. moschata, and C. pepo.",are,species,STATIVE
+All of these species can be treated as winter squash,treated,All,DYNAMIC
+because the full-grown fruits can be stored for months;,stored,fruits,DYNAMIC
+C. pepo includes some cultivars,includes,pepo,STATIVE
+that are better used only as summer squash.,used,cultivars,DYNAMIC
+There is some disagreement about how to handle the taxonomy of the genus;,is,disagreement,STATIVE
+the number of species accepted by different specialists varies from 13 to 30.,varies,number,STATIVE
+"In addition, the ancestry of some of the species that have been cultivated for millennia is uncertain.",is,ancestry,STATIVE
+Most Cucurbita species are vines,are,species,STATIVE
+that grow several meters in length,grow,vines,DYNAMIC
+"and have tendrils,",have,vines,STATIVE
+"but non-vining ""bush"" cultivars of C. pepo and C. maxima have been developed.",developed,vines,DYNAMIC
+The flowers on a Cucurbita plant are yellow or orange,are,flowers,STATIVE
+and are of two types: female and male.,are,flowers,STATIVE
+The female flowers produce,produce,flowers,DYNAMIC
+the fruit and the male flowers produce pollen.,produce,flowers,DYNAMIC
+"Many North and Central American species are visited by specialist bee pollinators,",visited,species,DYNAMIC
+but other insects with more general feeding habits such as honey bees also visit.,visit,species,DYNAMIC
+"The fruits of the Cucurbita genus are good sources of several nutrients such as vitamin A, vitamin C, niacin, folic acid, and iron,",are,fruits,STATIVE
+and like all plant products are free of cholesterol.,are,products,STATIVE
+"The plants contain the toxins cucurbitin, cucurmosin, and cucurbitacin.",contain,plants,STATIVE
+"Cucurbita fruits have played a role in human culture for at least 2,000 years.",played,fruits,DYNAMIC
+They are often represented in Moche ceramics from Peru.,represented,They,DYNAMIC
+"After Christopher Columbus's arrival in the New World, paintings of squashes started to appear in Europe early in the sixteenth century.",started,paintings,DYNAMIC
+"Among other uses, Cucurbita seeds have been employed in traditional medicine,",employed,seeds,DYNAMIC
+and extracts are used in cosmetics for dry and sensitive skin.,used,seeds,DYNAMIC
+The fruits have many culinary uses,have,fruits,STATIVE
+"including pumpkin pie, biscuits, bread, desserts, puddings, and soups.",including,,STATIVE
+Pumpkins and other Cucurbita fruits are celebrated in festivals and in flower and vegetable shows in many countries.,celebrated,Pumpkins,DYNAMIC
+== History and domestication ==,,,CANNOT_DECIDE
+"The ancestral species of the genus Cucurbita were present in the Americas before the arrival of humans,",were,Cucurbita,STATIVE
+and are native to the New World.,are,Cucurbita,STATIVE
+"The likely center of origin is southern Mexico,",is,center,STATIVE
+spreading south into what is now known as Mesoamerica and north to what is now the southwestern United States.,spreading,Mexico,DYNAMIC
+"Evolutionarily speaking,",speaking,genus,CANNOT_DECIDE
+"the genus is relatively recent in origin, and no species",is,genus,STATIVE
+within the genus is entirely genetically isolated.,is,species,STATIVE
+"C. moschata can intercross with all the others,",intercross,moschata,DYNAMIC
+though the hybrid offspring may not themselves be fertile,be,offspring,STATIVE
+unless they become polyploid.,become,they,DYNAMIC
+The genus was part of the culture of almost every native peoples group from southern South America to southern Canada.,was,genus,STATIVE
+Modern-day cultivated Cucurbita are not found in the wild.,found,Cucurbita,STATIVE
+Genetic studies of the mitochondrial gene nad1 show,show,studies,DYNAMIC
+there were at least six independent domestication events of Cucurbita,were,events,STATIVE
+separating domestic species from their wild ancestors.,separating,events,DYNAMIC
+Species native to North America include C. digitata,include,native,STATIVE
+"(calabazilla), and C. foetidissima (buffalo gourd), C. palmata (coyote melon), and C. pepo.",,,CANNOT_DECIDE
+"Some species, such as C. digitata and C. ficifolia, are referred to as gourds.",referred,species,DYNAMIC
+"Gourds, also called bottle-gourds,",called,bottle-gourds,STATIVE
+"which are used as utensils or vessels,",used,bottle-gourds,DYNAMIC
+belong to the genus Lagenaria,belong,Gourds,STATIVE
+and are native to Africa.,are,Gourds,STATIVE
+Lagenaria are in the same family and subfamily as Cucurbita but in a different tribe.,are,Lagenaria,STATIVE
+"The earliest known evidence of the domestication of Cucurbita dates back 8,00010,000 years ago,",dates,evidence,STATIVE
+"predating the domestication of other crops such as maize and beans in the region by about 4,000 years.",predating,evidence,STATIVE
+"This evidence was found in the Guil Naquitz cave in Oaxaca, Mexico, during a series of excavations in the 1960s and 1970s,",found,evidence,DYNAMIC
+possibly beginning in 1959.,beginning,1960s,DYNAMIC
+"Later, more accurate, dating using accelerator mass spectrometers provided more specific dates.",provided,spectrometers,DYNAMIC
+Solid evidence of domesticated C. pepo was found in the Guil Naquitz cave in the form of increasing rind thickness and larger peduncles in the newer stratification layers of the cave.,found,evidence,DYNAMIC
+"By circa 8,000 years BP the C. pepo peduncles found",BP,years,DYNAMIC
+are consistently more than thick.,are,years,STATIVE
+Wild Cucurbita peduncles are always below this 10 mm barrier.,are,peduncles,STATIVE
+Changes in fruit shape and color indicate,indicate,Changes,STATIVE
+"that intentional breeding of C. pepo had occurred by no later than 8,000 years BP.",occurred,breeding,DYNAMIC
+"During the same time frame, average rind thickness increased from to .",increased,thickness,DYNAMIC
+"Squash was domesticated first, followed by maize and then beans,",domesticated,Squash,DYNAMIC
+becoming part of the Three Sisters agricultural system of companion planting.,becoming,,DYNAMIC
+"The English word ""squash"" derives from askutasquash",derives,squash,STATIVE
+"(a green thing eaten raw), a word from the Narragansett language,",eaten,thing,DYNAMIC
+"which was documented by Roger Williams, the founder of Rhode Island, in his 1643 publication A Key Into the Language of America.",documented,askutasquash,DYNAMIC
+Similar words for squash exist in related languages of the Algonquian family.,exist,words,STATIVE
+== Description ==,,,CANNOT_DECIDE
+Most Cucurbita species are climbing annual vines;,climbing,species,STATIVE
+"they are also mesophytes, plants",are,they,STATIVE
+which require a more or less continuous water supply.,require,plants,STATIVE
+The less numerous perennial species grow in tropical zones,grow,species,DYNAMIC
+"and are xerophytes, plants",xerophytes,species,STATIVE
+which tolerate dry conditions.,tolerate,plants,STATIVE
+"Growing in height or length, the plant stem produces tendrils to help it climb adjacent plants and structures",produces,stem,DYNAMIC
+or extend along the ground.,extend,it,CANNOT_DECIDE
+Most species do not readily root from the nodes;,root,species,DYNAMIC
+a notable exception is C. ficifolia;,is,exception,STATIVE
+the four other cultivated mesophytes do this to a lesser extent.,do,mesophytes,DYNAMIC
+The vine of the perennial Cucurbita can become semiwoody,become,vine,DYNAMIC
+if left to grow.,left,,DYNAMIC
+"There is wide variation in size, shape, and color among Cucurbita fruits, and even within a single species.",is,variation,STATIVE
+"C. ficifolia is an exception,",is,ficifolia,STATIVE
+being highly uniform in appearance.,being,,STATIVE
+The morphological variation in the species C. pepo and C. maxima is so vast,is,variation,STATIVE
+that its various subspecies and cultivars have been misidentified as totally separate species.,misidentified,subspecies,DYNAMIC

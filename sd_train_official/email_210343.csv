@@ -1,0 +1,24 @@
+Clause,mainVerb,mainReferent,Gold
+Message-ID: <5550308.1075857279636.JavaMail.evans@thyme>,,,CANNOT_DECIDE
+"Date: Tue, 6 Jun 2000 04:43:00 -0700 (PDT)",,,CANNOT_DECIDE
+From: jwahl@cinergy.com,,,CANNOT_DECIDE
+To: benjamin.rogers@enron.com,,,CANNOT_DECIDE
+Subject: Confidential Agreement,,,CANNOT_DECIDE
+Cc: mcyrus@cinergy.com,,,CANNOT_DECIDE
+Mime-Version: 1.0,,,CANNOT_DECIDE
+Content-Type: text/plain; charset=us-ascii,,,CANNOT_DECIDE
+Content-Transfer-Encoding: 7bit,,,CANNOT_DECIDE
+Bcc: mcyrus@cinergy.com,,,CANNOT_DECIDE
+This follows up on your voice mail message,follows,Message-ID,STATIVE
+regarding the status of the Confidentiality Agreement in light of renewed discussions between the two companies.,regarding,,STATIVE
+Attached is the latest draft of the Confidentiality Agreement,is,Attached,STATIVE
+which was transmitted to you on May 13.,transmitted,Agreement,DYNAMIC
+Please call me with any comments or questions.,call,Please,CANNOT_DECIDE
+<<Confidential AGrement with Enron which was sent to Ben Rogers on 51200 -,sent,AGrement,DYNAMIC
+this version is a clean version,is,version,STATIVE
+accepting all blacklined changes from 59437v3.,accepting,version,STATIVE
+DOC>>,,,CANNOT_DECIDE
+- Confidential AGrement with Enron which was sent to Ben Rogers on 51200 -,sent,AGrement,DYNAMIC
+this version is a clean version,is,version,STATIVE
+accepting all blacklined changes from 59437v3.,accepting,version,STATIVE
+DOC,,,CANNOT_DECIDE

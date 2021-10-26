@@ -1,0 +1,54 @@
+Clause,mainVerb,mainReferent,Gold
+"Dear ,",,,CANNOT_DECIDE
+A few months ago you received a letter from me,received,you,DYNAMIC
+telling the success stories of people,telling,you,DYNAMIC
+who got jobs with Goodwill's help.,got,people,DYNAMIC
+"Here's another story of success from what might seem like an unlikely source: Goodwill's controller, Juli.",'s,Here,STATIVE
+She tells me,tells,She,DYNAMIC
+"that the 3,666 people we helped find jobs in 1998 earned approximately $49 million dollars.",earned,people,DYNAMIC
+"In addition to that, by helping them find jobs, Goodwill reduced the state's Public Support tab by an estimated $4 million.",reduced,Goodwill,DYNAMIC
+Your gift to Goodwill will help us do even more this year,help,gift,DYNAMIC
+because your gift will be used to directly support our work.,used,gift,DYNAMIC
+What kind of work does Goodwill do?,do,Goodwill,CANNOT_DECIDE
+Goodwill finds jobs for people with mental and physical disabilities.,finds,Goodwill,DYNAMIC
+After Maureen's job coach taught her,taught,coach,DYNAMIC
+"how to do her job in a restaurant,",do,her,CANNOT_DECIDE
+we helped Maureen step out of the shadow,helped,we,DYNAMIC
+sometimes cast over people with physical and mental disabilities,cast,step,CANNOT_DECIDE
+and find a fulfilling job smack dab in the middle of society.,find,step,CANNOT_DECIDE
+Remember what,Remember,,CANNOT_DECIDE
+she said in my last letter?,said,she,DYNAMIC
+"""If I wasn't working here...",working,I,STATIVE
+"I would be sad...""",be,I,STATIVE
+Goodwill helps people get off of public assistance.,helps,Goodwill,DYNAMIC
+Sherry learned through our Future Works class,learned,Sherry,DYNAMIC
+that she could rise out of the mire of the welfare system,rise,she,DYNAMIC
+and support her family.,support,she,CANNOT_DECIDE
+"At Goodwill she gained in self-confidence, in her vision of her future and in the job skills",gained,she,DYNAMIC
+she needed to find and keep a good job.,needed,she,STATIVE
+"""Coming to Goodwill was the first step toward my becoming totally independent.",was,Coming,STATIVE
+"I am now... totally off of welfare.""",am,I,STATIVE
+Goodwill prepares people for life-long employment.,prepares,Goodwill,DYNAMIC
+Cornell found a number of employment options,found,Cornell,DYNAMIC
+that he never dreamed existed,dreamed,he,DYNAMIC
+after a work-site injury forced him out of his job at a foundry.,forced,injury,DYNAMIC
+He trained in desktop publishing,trained,He,DYNAMIC
+and combined his enthusiastic work ethic with new-found skills in a burgeoning industry.,combined,He,DYNAMIC
+"""I've got more than a job;",got,I,STATIVE
+"I've got a career.""",got,I,STATIVE
+Goodwill provides jobs at Goodwill.,provides,Goodwill,DYNAMIC
+"After a lifetime of trials, Donna not only earned her GED at Goodwill,",earned,Donna,DYNAMIC
+she earned a job here.,earned,she,DYNAMIC
+"""I rode a bike to Goodwill in the rain and snow.",rode,I,DYNAMIC
+I wanted to be there...,wanted,I,STATIVE
+"I had my second chance to change my life.""",had,I,STATIVE
+Your gift to Goodwill will help the many people,help,gift,DYNAMIC
+who want to tell their own stories of success.,want,people,STATIVE
+Your support will help them go to work.,help,support,DYNAMIC
+Please use the enclosed envelope to give a generous gift to Goodwill today!,use,,CANNOT_DECIDE
+"Sincerely, William A Carter, Chairman Goodwill Industries Foundation",,,CANNOT_DECIDE
+P.S. Your gift is a wise investment in the community.,P.S.,Carter,STATIVE
+"For every dollar donated to Goodwill in 1998,",donated,dollar,DYNAMIC
+"we helped our ""graduates"" earn an estimated $102.",helped,we,DYNAMIC
+"That money was then spent in a variety of ways,",spent,money,DYNAMIC
+adding fuel to our thriving economy.,adding,,DYNAMIC

@@ -1,0 +1,100 @@
+Clause,mainVerb,mainReferent,Gold
+Protestantism is the form of Christian faith and practice,is,Protestantism,STATIVE
+"which originated with the Protestant Reformation, a movement against what its followers considered to be errors in the Roman Catholic Church.",originated,form,DYNAMIC
+"It is one of the major divisions of Christendom, together with Roman Catholicism and Eastern Orthodoxy.",is,It,STATIVE
+Anglicanism is sometimes considered to be independent from Protestantism.,considered,Anglicanism,STATIVE
+The term refers to the letter of protestation from Lutheran princes in 1529 against an edict,refers,term,STATIVE
+condemning the teachings of Martin Luther as heretical.,condemning,edict,DYNAMIC
+"With its origins in Germany, the modern movement is popularly considered to have begun in 1517",considered,movement,STATIVE
+"when Luther published The Ninety-Five Theses as a reaction against abuses in the sale of indulgences, which purported to offer remission of sin to their purchasers.",published,Luther,DYNAMIC
+"Although there were earlier breaks from or attempts to reform the Roman Catholic Church  notably by Peter Waldo,",were,,STATIVE
+"Arnold of Brescia, John Wycliffe, and Jan Hus  only Luther succeeded in sparking a wider, lasting movement.",succeeded,Luther,DYNAMIC
+All the many Protestant denominations reject the notion of papal supremacy over the Church universal,reject,denominations,STATIVE
+"and generally deny the Roman Catholic doctrine of transubstantiation,",deny,denominations,DYNAMIC
+but they disagree among themselves,disagree,denominations,DYNAMIC
+regarding Christ's presence in the Eucharist.,regarding,they,CANNOT_DECIDE
+"The various denominations generally emphasize the priesthood of all believers, the doctrine of justification by faith alone",emphasize,denominations,DYNAMIC
+"(sola fide) rather than by or with good works, and a belief in the Bible alone (rather than with Catholic tradition) as the sole authority in matters of faith and morals (sola scriptura).",,,CANNOT_DECIDE
+"The ""Five solae"" summarize the reformers' basic differences in theological beliefs in opposition to the teaching of the Roman Catholic Church of the day.",summarize,solae,STATIVE
+Protestantism diffused on the European continent during the 16th century.,diffused,Protestantism,DYNAMIC
+"Lutheranism spread from Germany into its surrounding areas, Denmark, Norway, Sweden, Prussia, Latvia, and Estonia, as well as other smaller territories.",spread,Lutheranism,DYNAMIC
+"Reformed churches were founded primarily in Germany and its adjacent regions, Hungary, the Netherlands, Scotland, Switzerland, and France by such reformers as John Calvin, Huldrych Zwingli, and John Knox.",founded,churches,DYNAMIC
+Arminianism gained supporters in the Netherlands and parts of Germany.,gained,Arminianism,DYNAMIC
+"In 1534, King Henry VIII put an end to all papal jurisdiction in England",put,VIII,DYNAMIC
+after the Pope failed to annul his marriage to Catherine of Aragon;,failed,Pope,DYNAMIC
+"this opened the door to reformational ideas, notably during the following reign of Edward VI, through Thomas Cranmer, Richard Hooker, and other theologians.",opened,this,DYNAMIC
+There were also reformational efforts throughout continental Europe,were,efforts,STATIVE
+known as the Radical Reformation  a response to perceived corruption in both the Roman Catholic Church and the expanding Magisterial Reformation,known,Europe,STATIVE
+led by Luther and various other reformers ,led,Reformation,STATIVE
+"which gave rise to Anabaptist, Moravian, and other Pietistic movements.",gave,efforts,DYNAMIC
+"In later centuries, Protestants developed their own culture,",developed,Protestants,DYNAMIC
+"which made major contributions in education, the humanities and sciences, the political and social order, the economy and the arts, and other fields.",made,culture,DYNAMIC
+"Collectively encompassing more than 800 million adherents, or nearly forty percent of Christians worldwide, Protestantism is present on all populated continents.",is,Protestantism,STATIVE
+"The movement is more divided theologically and ecclesiastically than either Eastern Orthodoxy or Roman Catholicism,",divided,movement,STATIVE
+lacking both structural unity and central human authority.,lacking,movement,STATIVE
+Some Protestant churches do have a worldwide scope and distribution of membership,have,churches,STATIVE
+"(notably, the Anglican Communion), while others are confined to a single country,",confined,others,STATIVE
+or even are solitary church bodies or congregations (such as the former Prussian Union of churches).,are,,STATIVE
+"Nondenominational, evangelical, independent and other churches are on the rise,",are,churches,STATIVE
+and constitute a significant part of Protestant Christianity.,constitute,churches,STATIVE
+An exact number of denominations is difficult to calculate,is,number,STATIVE
+and depends on definition.,depends,number,STATIVE
+"Nevertheless, most Protestants are members of just a handful of denominational families: Adventism, Anglicanism, Baptist churches, Reformed churches, Lutheranism, Methodism, and Pentecostalism.",are,Protestants,STATIVE
+==Terminology==,,,CANNOT_DECIDE
+"Six princes of the Holy Roman Empire and rulers of fourteen Imperial Free Cities, who issued a protest or dissent against the edict of the Diet of Speyer,",issued,rulers,DYNAMIC
+which reversed concessions,reversed,Diet,DYNAMIC
+"made to Lutherans three years earlier,",made,concessions,DYNAMIC
+were the first to be called Protestants.,were,called,STATIVE
+"The etymology of the word protestant is derived from Latin, pro (""for"") and testari",derived,etymology,STATIVE
+"(""witness"") and/or protestatio",,,CANNOT_DECIDE
+"(""declare"").",declare,protestatio,CANNOT_DECIDE
+"During the Reformation, the term was hardly used outside of the German politics.",used,term,DYNAMIC
+"The word evangelical (evangelisch),",,,CANNOT_DECIDE
+"which refers to the gospel, was much more widely used for those involved in the religious movement.",used,evangelical,DYNAMIC
+"Protestantism as a general term is now used in contradistinction to the other major Christian faiths, i.e. Roman Catholicism and Eastern Orthodoxy.",used,Protestantism,DYNAMIC
+"Initially, the word Protestant became a general term to mean any adherent to the Reformation movement in Germany",became,word,DYNAMIC
+and was taken up by Lutherans.,taken,word,DYNAMIC
+Even though Martin Luther himself insisted on Christian or Evangelical as the only acceptable names for individuals,insisted,himself,DYNAMIC
+who professed Christ.,professed,individuals,DYNAMIC
+French and Swiss Protestants preferred the word,preferred,Protestants,STATIVE
+reformed (rform).,reformed,word,CANNOT_DECIDE
+"It later acquired a broader sense,",acquired,It,DYNAMIC
+referring to a member of any Western church outside the Roman communion.,referring,It,STATIVE
+==Theology==,,,CANNOT_DECIDE
+===Fundamental principles===,,,CANNOT_DECIDE
+Three fundamental principles of traditional Protestantism are the following:,are,Theology,STATIVE
+;Scripture alone: The belief in the Bible as the supreme source of authority for the church.,,,CANNOT_DECIDE
+"The early churches of the Reformation believed in a critical, yet serious, reading of scripture and holding the Bible as a source of authority higher than that of church tradition.",believed,churches,STATIVE
+The reformers rejected some of the traditions of the Western Church,rejected,reformers,DYNAMIC
+because they did not find justification for them in the Bible.,find,they,DYNAMIC
+";Justification by faith alone: The belief that believers are justified,",are,believers,DYNAMIC
+"or pardoned for sin, solely on condition of faith in Christ rather than a combination of faith and good works.",pardoned,believers,DYNAMIC
+"For Protestants, good works are a necessary consequence rather than cause of justification.",are,works,STATIVE
+;Universal priesthood of believers: The universal priesthood of believers implies the right,priesthood,Universal,STATIVE
+"and duty of the Christian laity not only to read the Bible in the vernacular,",read,right,CANNOT_DECIDE
+but also to take part in the government and all the public affairs of the Church.,take,right,CANNOT_DECIDE
+It is opposed to the hierarchical system,opposed,It,STATIVE
+"which puts the essence and authority of the Church in an exclusive priesthood,",puts,system,STATIVE
+and makes ordained priests the necessary mediators between God and the people.,makes,system,DYNAMIC
+===Trinity===,,,CANNOT_DECIDE
+Protestants who adhere to the Nicene Creed believe in three Persons,believe,=,STATIVE
+"(God the Father, God the Son, and God the Holy Spirit) as one God.",,,CANNOT_DECIDE
+"Others, beginning with the Polish Brethren",beginning,Others,DYNAMIC
+"and sustained by the Unitarians in Transylvania, England and the United States,",sustained,Others,DYNAMIC
+reject the Trinity.,reject,Others,STATIVE
+===Five solae===,,,CANNOT_DECIDE
+The Five solae are five Latin phrases,are,=,STATIVE
+(or slogans) that emerged during the Protestant Reformation,emerged,phrases,DYNAMIC
+and summarize the reformers' basic differences in theological beliefs in opposition to the teaching of the Catholic Church of the day.,summarize,phrases,STATIVE
+"The Latin word sola means ""alone"", ""only"", or ""single"".",means,sola,STATIVE
+"The use of the phrases as summaries of teaching emerged over time during the reformation,",emerged,use,DYNAMIC
+based on the overarching principle of sola scriptura (by scripture alone).,based,,STATIVE
+This idea contains,contains,idea,STATIVE
+the four main doctrines on the Bible: that its teaching is needed for salvation (necessity);,needed,teaching,STATIVE
+that all the doctrine necessary for salvation comes from the Bible alone,comes,doctrine,STATIVE
+(sufficiency); that everything taught,taught,everything,CANNOT_DECIDE
+in the Bible is correct (inerrancy),is,inerrancy,STATIVE
+"; and that, by the Holy Spirit overcoming sin, believers may read and understand truth from the Bible itself,",read,doctrine,DYNAMIC
+"though understanding is difficult,",is,understanding,STATIVE
+so the means used to guide individual believers to the true teaching,used,means,DYNAMIC
+is often mutual discussion within the church (clarity).,is,means,STATIVE

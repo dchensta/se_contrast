@@ -1,0 +1,109 @@
+Clause,mainVerb,mainReferent,Gold
+"Color blindness, or color vision deficiency, is the inability or decreased ability to see color,",is,blindness,STATIVE
+"or perceive color differences, under normal lighting conditions.",perceive,inability,CANNOT_DECIDE
+Color blindness affects a significant percentage of the population.,affects,blindness,STATIVE
+There is no actual blindness,is,blindness,STATIVE
+but there is a deficiency of color vision.,is,blindness,STATIVE
+The most usual cause is a fault in the development of one or more sets of retinal cones,is,cause,STATIVE
+that perceive color in light,perceive,sets,DYNAMIC
+and transmit that information to the optic nerve.,transmit,sets,DYNAMIC
+This type of color blindness is usually a sex-linked condition.,is,type,STATIVE
+The genes that produce photopigments are carried on the X chromosome;,carried,genes,STATIVE
+"if some of these genes are missing or damaged,",are,some,STATIVE
+color blindness will be expressed in males with a higher probability than in females,expressed,blindness,DYNAMIC
+because males only have one X chromosome,have,males,STATIVE
+"(in females, a functional gene on only one of the two X chromosomes is sufficient to yield the needed photopigments).",is,gene,STATIVE
+"Color blindness can also be produced by physical or chemical damage to the eye, the optic nerve, or parts of the brain.",produced,blindness,DYNAMIC
+"For example, people with achromatopsia suffer from a completely different disorder,",suffer,people,STATIVE
+but are nevertheless unable to see colors.,are,people,STATIVE
+"The English chemist John Dalton published the first scientific paper on this subject in 1798,",published,Dalton,DYNAMIC
+"""Extraordinary facts relating to the vision of colours"", after the realization of his own color blindness.",relating,facts,STATIVE
+"Because of Dalton's work, the general condition has been called daltonism,",called,condition,DYNAMIC
+although in English this term is now used more narrowly for deuteranopia alone.,used,term,DYNAMIC
+"Color blindness is usually classified as a mild disability, however there are occasional circumstances",classified,blindness,DYNAMIC
+where it can give an advantage.,give,it,DYNAMIC
+Some studies conclude,conclude,studies,DYNAMIC
+that color blind people are better at penetrating certain color camouflages.,are,people,STATIVE
+Such findings may give an evolutionary reason for the high prevalence of redgreen color blindness.,give,findings,DYNAMIC
+There is also a study,is,study,STATIVE
+suggesting,suggesting,study,STATIVE
+that people with some types of color blindness can distinguish colors,distinguish,people,DYNAMIC
+that people with normal color vision are not able to distinguish.,are,people,STATIVE
+==Background==,,,CANNOT_DECIDE
+"Color blindness affects a large number of individuals, with protanopia and deuteranopia being the most common types.",affects,blindness,STATIVE
+"In individuals with Northern European ancestry, as many as 8 percent of men and 0.5 percent of women experience the common form of red-green color blindness.",experience,percent,DYNAMIC
+The typical human retina contains two kinds of light cells:,contains,retina,STATIVE
+the rod cells (active in low light) and the cone cells (active in normal daylight).,,,CANNOT_DECIDE
+"Normally, there are three kinds of cone cells, each",are,kinds,STATIVE
+"containing a different pigment,",containing,each,STATIVE
+which are activated,activated,kinds,DYNAMIC
+when the pigments absorb light.,absorb,pigments,DYNAMIC
+The spectral sensitivities of the cones differ;,differ,sensitivities,STATIVE
+"one is most sensitive to short wavelengths, one to medium wavelengths, and the third to medium-to-long wavelengths within the visible spectrum, with their peak sensitivities in the blue, green, and yellow-green regions of the spectrum, respectively.",is,one,STATIVE
+"The absorption spectra of the three systems overlap,",overlap,spectra,STATIVE
+and combine to cover the visible spectrum.,combine,spectra,STATIVE
+"These receptors are often called S cones, M cones, and L cones, for short, medium, and long wavelength;",called,receptors,DYNAMIC
+"but they are also often referred to as blue cones, green cones, and red cones, respectively.",referred,receptors,DYNAMIC
+"Although these receptors are often referred to as ""blue, green, and red"" receptors, this terminology is inaccurate.",is,terminology,DYNAMIC
+The receptors are each responsive to a wide range of wavelengths.,are,receptors,STATIVE
+"For example, the long wavelength, ""red"", receptor has its peak sensitivity in the yellow-green, some way",has,receptor,STATIVE
+from the red end (longest wavelength) of the visible spectrum.,,,CANNOT_DECIDE
+The sensitivity of normal color vision actually depends on the,depends,sensitivity,STATIVE
+overlap between the absorption ranges of the three systems,,,CANNOT_DECIDE
+: different colors are recognized,recognized,colors,DYNAMIC
+when the different types of cone are stimulated to different degrees.,stimulated,types,DYNAMIC
+"Red light, for example, stimulates the long wavelength cones much more than either of the others,",stimulates,light,DYNAMIC
+and reducing the wavelength causes,causes,light,DYNAMIC
+"the other two cone systems to be increasingly stimulated,",stimulated,reducing,CANNOT_DECIDE
+causing a gradual change in hue.,causing,,DYNAMIC
+"Many of the genes involved in color vision are on the X chromosome,",are,Many,STATIVE
+making color blindness much more common in males than in females,making,,STATIVE
+"because males only have one X chromosome,",have,males,STATIVE
+while females have two.,have,females,STATIVE
+"Because this is an X-linked trait, an estimated 23% of women have a 4th color cone",have,–,STATIVE
+"and can be considered tetrachromats,",considered,–,STATIVE
+although it is not clear,is,it,STATIVE
+that this provides an advantage in color discrimination.,provides,this,STATIVE
+==Classification==,,,CANNOT_DECIDE
+===By cause===,,,CANNOT_DECIDE
+Color vision deficiencies can be classified as acquired or inherited.,classified,Classification,DYNAMIC
+"* Acquired: Diseases, drugs (e.g., Plaquenil),",,,CANNOT_DECIDE
+and chemicals may cause color blindness.,cause,Acquired,DYNAMIC
+"* Inherited: There are three types of inherited or congenital color vision deficiencies: monochromacy, dichromacy, and anomalous trichromacy.",are,Inherited,STATIVE
+"**Monochromacy, also known as ""total color blindness"",",known,Monochromacy,STATIVE
+is the lack of ability to distinguish colors (and thus the person views everything,is,Monochromacy,STATIVE
+as if it were on a black and white television); caused by cone defect or absence.,were,it,DYNAMIC
+Monochromacy occurs,occurs,Monochromacy,DYNAMIC
+when two or all three of the cone pigments are missing,missing,three,STATIVE
+and color and lightness vision is reduced to one dimension.,reduced,two,DYNAMIC
+***Rod monochromacy (achromatopsia),,,CANNOT_DECIDE
+"is an exceedingly rare, nonprogressive inability to distinguish any colors as a result of absent or nonfunctioning retinal cones.",is,monochromacy,STATIVE
+It is associated with light sensitivity,associated,It,STATIVE
+"(photophobia), involuntary eye oscillations (nystagmus), and poor vision.",,,CANNOT_DECIDE
+***Cone monochromacy is a rare total color blindness,is,monochromacy,STATIVE
+"that is accompanied by relatively normal vision, electroretinogram, and electrooculogram.",accompanied,blindness,STATIVE
+Cone monochromacy can also be a result of having more than one type of dichromatic color blindness.,be,monochromacy,STATIVE
+"People who have, for instance, both protanopia and tritanopia are considered to have cone monochromacy.",considered,protanopia,STATIVE
+"Since cone monochromacy is the lack of/damage of more than one cone in retinal environment,",is,monochromacy,STATIVE
+having two types of dichromacy would be an equivalent.,be,having,STATIVE
+**Dichromacy is a moderately severe color vision defect,is,Dichromacy,STATIVE
+in which one of the three basic color mechanisms is absent or not functioning.,absent,one,STATIVE
+"It is hereditary and, in the case of Protanopia or Deuteranopia, sex-linked,",is,It,STATIVE
+affecting predominantly males.,affecting,,DYNAMIC
+Dichromacy occurs,occurs,Dichromacy,DYNAMIC
+when one of the cone pigments is missing,missing,one,STATIVE
+and color is reduced to two dimensions.,reduced,one,STATIVE
+"Dichromacy conditions are labeled based on whether the ""first""",labeled,conditions,DYNAMIC
+"(Greek: prot-, referring to the red photoreceptors), ""second""",photoreceptors,first,STATIVE
+"(deuter-, the green), or ""third"" (trit-, the blue)",,,CANNOT_DECIDE
+photoreceptors are affected.,affected,photoreceptors,STATIVE
+***Protanopia is a severe type of color vision deficiency,is,Protanopia,STATIVE
+caused by the complete absence of red retinal photoreceptors.,caused,type,DYNAMIC
+It is a form,is,It,STATIVE
+"of dichromatism in which the subject can only perceive light wavelengths from 400 to 650 nm, instead of the usual 700 nm.",perceive,subject,DYNAMIC
+"Pure reds cannot be seen,",seen,reds,DYNAMIC
+instead appearing black;,appearing,,STATIVE
+purple colors cannot be distinguished from blues;,be,colors,DYNAMIC
+"more orange-tinted reds may appear as very dim yellows, and all orange-yellow-green shades of too long a wavelength to stimulate",appear,reds,DYNAMIC
+the blue receptors appear as a similar yellow hue.,appear,reds,STATIVE
+"It is hereditary, sex-linked, and present in 1% of males.",hereditary,It,STATIVE

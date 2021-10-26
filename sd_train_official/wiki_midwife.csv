@@ -1,0 +1,98 @@
+Clause,mainVerb,mainReferent,Gold
+The midwife is a professional in obstetrics.,is,midwife,STATIVE
+"The term is used in reference to both women and men,",used,term,DYNAMIC
+although most midwives are female.,are,midwives,STATIVE
+"In addition to providing care to women during pregnancy and birth, some midwives may also provide primary care",provide,midwives,DYNAMIC
+"related to reproductive health,",related,care,STATIVE
+"including annual gynecological exams, family planning, and menopausal care.",including,,STATIVE
+Many developing countries are investing money,investing,countries,DYNAMIC
+and training for midwives and other community health workers,training,countries,CANNOT_DECIDE
+so that they can provide well-woman primary care services,provide,they,DYNAMIC
+that are currently lacking.,lacking,services,STATIVE
+"Midwives are specialists in childbirth, postpartum, and well-woman health care.",are,Midwives,STATIVE
+They are educated and trained to recognize the variations of normal progress of labor,educated,They,STATIVE
+and deal with deviations from normal to discern and intervene in high risk situations.,discern,They,CANNOT_DECIDE
+"In many developing countries,",developing,,CANNOT_DECIDE
+where it is available midwifery is the front-line of maternal health services,is,midwifery,STATIVE
+and provides necessary care in a safe and cost effective manner.,provides,front-line,DYNAMIC
+"In the United States, more women utilize obstetricians rather than midwives,",utilize,women,DYNAMIC
+Obstetricians are medical doctors,are,Obstetricians,STATIVE
+"who can provide care not only in healthy pregnancies, but surgical and instrumental deliveries in situations",provide,doctors,DYNAMIC
+which require them as well.,require,situations,STATIVE
+Midwives refer women to specialists such as obstetricians or perinatologists in complications,refer,Midwives,DYNAMIC
+related to pregnancy and birth,related,complications,STATIVE
+when a pregnant woman requires care beyond the midwives' scope of practice.,requires,woman,STATIVE
+"In many parts of the world, these professions work",work,professions,CANNOT_DECIDE
+in tandem to provide care to childbearing women.,provide,professions,CANNOT_DECIDE
+"In others, only the midwife is available to provide care.",is,midwife,STATIVE
+"Midwives are trained to handle certain more difficult deliveries,",trained,Midwives,DYNAMIC
+"including breech births, twin births and births",including,,STATIVE
+"where the baby is in a posterior position,",is,baby,STATIVE
+using non-invasive techniques.,using,deliveries,DYNAMIC
+A 2013 Cochrane review concluded,concluded,review,DYNAMIC
+"that ""most women should be offered",offered,women,DYNAMIC
+midwife-led continuity models of care and women should be encouraged to ask for this option,encouraged,women,DYNAMIC
+"although caution should be exercised in applying this advice to women with substantial medical or obstetric complications.""",exercised,caution,DYNAMIC
+The review found,found,review,DYNAMIC
+"that midwife-led care was associated with a reduction in the use of epidurals, with fewer episiotomies or instrumental births, and a decreased risk of losing the baby before 24 weeks' gestation",associated,care,STATIVE
+==Definition==,,,CANNOT_DECIDE
+"According to the definition of the International Confederation of Midwives,",According,,STATIVE
+which has also been adopted by the World Health Organization and the International Federation of Gynecology and Obstetrics:,adopted,Confederation,DYNAMIC
+The midwife is recognized as a responsible and accountable professional,recognized,midwife,STATIVE
+"who works in partnership with women to give the necessary support, care, and advice during pregnancy, labor, and the postpartum period; to conduct births on the midwife's own responsibility;",works,professional,DYNAMIC
+and to provide care for the infant.,provide,,CANNOT_DECIDE
+"This care includes preventive measures, the promotion of normal birth, the detection of complications in mother and child, accessing of medical or other appropriate assistance, and the carrying out of emergency measures.",includes,care,STATIVE
+A midwife who is credentialed appropriately is qualified to practice in any setting,qualified,midwife,STATIVE
+"including in the home, the community, hospitals, clinics or health units.",including,,STATIVE
+"The midwife also has an important task in health counseling and education,",has,midwife,STATIVE
+"not only for the woman, but also within the family and community.",,,CANNOT_DECIDE
+This work may involve antenatal education and preparation for parenthood,involve,work,STATIVE
+"and may extend to women's health, sexual or reproductive health, and childcare.",extend,work,DYNAMIC
+==Etymology==,,,CANNOT_DECIDE
+"The term midwife is derived from midwyf literally ""with-woman"", i.e.",derived,=,STATIVE
+"""the woman with (the mother at birth), the woman assisting"" (in Middle English and Old English, mid = ""with"", wf = ""woman"").",assisting,woman,DYNAMIC
+"In this context, the word wife means woman rather than married woman.",means,wife,STATIVE
+This usage stems from Old English wif (woman),stems,usage,STATIVE
+"and is akin to the German weib,",is,usage,STATIVE
+"also meaning ""woman"".",,,STATIVE
+This sense of the word is still used in Modern English in constructions such as fishwife and old wives' tale.,used,sense,DYNAMIC
+"In the term midwife, the morpheme -wife is pronounced",pronounced,morpheme,DYNAMIC
+"as expected ,",expected,,STATIVE
+but midwifery is normally pronounced ().,is,,DYNAMIC
+==By country or region==,,,CANNOT_DECIDE
+===United States===,,,CANNOT_DECIDE
+The North American Registry of Midwives (NARM),,,CANNOT_DECIDE
+is the certifying agency,is,=,STATIVE
+"whose mission is to establish and administer certification for the credential ""Certified Professional Midwife"" (CPM).",is,mission,STATIVE
+"The CPM certification process validates entry-level knowledge, skills, and experience vital to responsible midwifery practice.",validates,process,DYNAMIC
+"This certification process encompasses multiple educational routes of entry including apprenticeship, self-study, private midwifery schools, college and university-based midwifery programs, and nurse-midwifery.",encompasses,process,STATIVE
+"Created in 1987 by the Midwives Alliance of North America,",Created,NARM,DYNAMIC
+NARM is committed to identifying standards and practices,committed,NARM,STATIVE
+that reflect the excellence and diversity of the independent midwifery community,reflect,standards,STATIVE
+in order to set the standard for North American midwifery.,set,practices,CANNOT_DECIDE
+The American Midwifery Certification Board (ACMB),,,CANNOT_DECIDE
+is the certifying body for certified midwives,is,Board,STATIVE
+(CMs) and certified nurse-midwives (CNMs).,,,CANNOT_DECIDE
+Midwives work with women and their families in many settings.,work,Midwives,DYNAMIC
+They generally support and encourage natural childbirth in all practice settings.,support,They,DYNAMIC
+Laws regarding,regarding,Laws,STATIVE
+who can practice midwifery,practice,regarding,DYNAMIC
+and in what circumstances vary from state to state.,vary,who,STATIVE
+Many states have birthing centers,have,states,STATIVE
+"where a midwive may work individually or as a group,",work,midwive,DYNAMIC
+which provides additional clinical opportunities for student midwives.,provides,group,DYNAMIC
+====Certified professional midwives====,,,CANNOT_DECIDE
+A CPM is an independent professional,is,CPM,STATIVE
+certified by the North American Registry of Midwives (NARM),certified,professional,STATIVE
+and adheres to the Midwives Model of Care.,adheres,professional,STATIVE
+The CPM is the only US credential,is,CPM,STATIVE
+that requires knowledge and experience for out-of-hospital settings.,requires,credential,STATIVE
+CPM certification process consists of two steps:,consists,process,STATIVE
+"# The validation of midwifery education, through one of the following categories:",#,steps,CANNOT_DECIDE
+## Graduation of a midwifery education program accredited by the Midwifery Education Accreditation Council (MEAC).,accredited,program,STATIVE
+## NARM's Portfolio Evaluation Process (PEP) pathway.,,,CANNOT_DECIDE
+## Midwifery licensure of a state approved by NARM.,licensure,Midwifery,CANNOT_DECIDE
+## Midwifery international education.,##,,CANNOT_DECIDE
+## AMCB-certification CNM or CM.,AMCB-certification,##,CANNOT_DECIDE
+# The NARM Written Examination,,,CANNOT_DECIDE
+CPMs have to apply for recertification every three years.,have,CPMs,DYNAMIC

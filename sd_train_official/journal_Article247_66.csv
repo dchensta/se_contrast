@@ -1,0 +1,80 @@
+Clause,mainVerb,mainReferent,Gold
+Stephanopoulos Analyzes His Own Crime,Analyzes,Stephanopoulos,DYNAMIC
+"There was former Clinton aide George Stephanopoulos on ABC's This Week this morning, furrow-browed and ""heartbroken with all the evidence coming out"" against the president.",was,Analyzes,STATIVE
+"Last week, when the Lewinsky story was only a few hours old,",was,story,STATIVE
+Stephanopoulos popped up on Good Morning America to demonstrate his concern.,popped,Stephanopoulos,DYNAMIC
+"""These are probably the most serious allegations",are,These,STATIVE
+yet leveled against the president.,leveled,allegations,DYNAMIC
+There's no question,'s,question,STATIVE
+"that, if they're true,",'re,they,STATIVE
+"they ... could lead to impeachment proceedings.""",lead,question,DYNAMIC
+Is Chatterbox alone in thinking,Is,Chatterbox,STATIVE
+there is something strange and even disgusting about Stephanopoulos' eager show of independence from the president?,is,something,STATIVE
+The problem isn't so much his disloyalty.,is,problem,STATIVE
+"Political figures turn on each other from time to time, for good and bad reasons;",turn,figures,DYNAMIC
+we're used to it.,used,we,STATIVE
+Stephanopoulos wants to run for the Senate,wants,Stephanopoulos,STATIVE
+and doesn't want to seem a Clinton stooge.,want,Stephanopoulos,STATIVE
+"By lending credence to the Lewinsky charges,",lending,Stephanopoulos,DYNAMIC
+and treating Clinton's familiar defenses as the lies and half-lies,treating,Stephanopoulos,DYNAMIC
+"they seem to be, Stephanopoulos shows",shows,Stephanopoulos,STATIVE
+he's not a fool.,'s,he,STATIVE
+The trouble is that Stephanopoulos himself helped propagate those lies in the first place.,is,trouble,STATIVE
+"During the 1992 campaign, when Gennifer Flowers first brought Clinton's philandering to public attention,",brought,Flowers,DYNAMIC
+"Stephanopoulos -- as Clinton's chief spinner, distracter, and all-around bullshit artist --",,,CANNOT_DECIDE
+played a crucial role in discrediting Flowers and anyone,played,Stephanopoulos,DYNAMIC
+"else who tried to point out the truth, namely that Clinton had a disturbing zipper problem.",tried,played,DYNAMIC
+(Don't say,say,Do,CANNOT_DECIDE
+Stephanopoulos didn't know.,know,Stephanopoulos,STATIVE
+"Again, he's not a fool.)",'s,he,STATIVE
+"Simply put,",put,Stephanopoulos,STATIVE
+Stephanopoulos did as much as any man to get the country into the mess,did,Stephanopoulos,DYNAMIC
+he now so telegenically laments.,laments,he,DYNAMIC
+The 1993 documentary The War Room captures some of his efforts on tape.,captures,documentary,DYNAMIC
+"Early in the film, with the Flowers crisis in full bloom, Sam Donaldson interviews Stephanopoulos, who blames it all on the ""Republican attack machine.""",interviews,Donaldson,DYNAMIC
+"""Gov. Clinton has no character problem,""",has,declares,STATIVE
+Stephanopoulos declares.,declares,Stephanopoulos,DYNAMIC
+Donaldson suggests,suggests,Donaldson,DYNAMIC
+that on 60 Minutes Clinton had admitted to infidelity.,admitted,Clinton,DYNAMIC
+"""He said",said,He,DYNAMIC
+"he had problems in his marriage,""",had,he,STATIVE
+"says Stephanopoulos,",says,Stephanopoulos,DYNAMIC
+correcting Donaldson's deviation from the pre-scripted fudge-phrase of the day.,correcting,Stephanopoulos,DYNAMIC
+"(Today, of course, the president's defenders claim",claim,defenders,DYNAMIC
+that Clinton admitted infidelity on 60 Minutes,admitted,Clinton,DYNAMIC
+and that the fully informed voters simply didn't care.),care,Clinton,STATIVE
+"Near the end of The War Room, Stephanopoulos gets a call from someone",gets,Stephanopoulos,DYNAMIC
+"who apparently claims to have a list of Clinton paramours,",claims,someone,DYNAMIC
+which he is about to publicize.,is,,STATIVE
+Stephanopoulos skillfully bullies and cajoles him into keeping quiet.,bullies,Stephanopoulos,DYNAMIC
+"""You would be laughed at ...""",laughed,You,DYNAMIC
+he tells the caller.,tells,he,DYNAMIC
+"""I guarantee you",guarantee,I,STATIVE
+that if you do this,do,you,DYNAMIC
+you'll never work in Democratic politics again.,work,you,DYNAMIC
+... Nobody will believe,believe,you,STATIVE
+you and people will think,think,people,STATIVE
+"you're scum.""",'re,you,STATIVE
+You might say,say,You,DYNAMIC
+that Stephanopoulos helped invent the philander-protection techniques,helped,Stephanopoulos,DYNAMIC
+that seem to have made Clinton so overconfident of his ability to not get caught.,seem,techniques,STATIVE
+"He was one of Clinton's principal enablers, to use a word",was,He,STATIVE
+employed by Maureen Dowd in today's New York Times .,employed,word,DYNAMIC
+When Democrats wonder,wonder,Democrats,DYNAMIC
+"why there is so much resentment of Clinton,",is,resentment,STATIVE
+they don't need to look much further than the Big Lie about philandering,need,they,STATIVE
+"that Stephanopoulos, Carville (and a cooperative campaign press corps)",,,CANNOT_DECIDE
+helped to put over in 1992.,helped,Carville,DYNAMIC
+Now the dissembler and enabler has become the scholar and ABC News analyst.,become,enabler,DYNAMIC
+It's as if Roy Cohn went on television in the mid-'50s to soberly rue the damage,'s,It,STATIVE
+"wreaked by Sen. Joe McCarthy, without any apology for his own role.",wreaked,damage,DYNAMIC
+Much has been made of the way,made,Much,DYNAMIC
+"famous wrongdoers (e.g.: Dick Morris, Marv Albert)",,,CANNOT_DECIDE
+rebound too quickly in our celebrity culture.,,,DYNAMIC
+But usually at least a nanosecond of contrition is required.,required,nanosecond,STATIVE
+Stephanopoulos is cashing in without even going through the minimal motions of holding himself accountable for misleading the country.,cashing,Stephanopoulos,DYNAMIC
+"If Clinton, as is now increasingly clear,",is,,STATIVE
+was a time bomb,was,clear,STATIVE
+"waiting to explode,",waiting,bomb,STATIVE
+then Stephanopoulos helped smuggle him into the White House,helped,Stephanopoulos,DYNAMIC
+and muffled the ticking.,muffled,,DYNAMIC

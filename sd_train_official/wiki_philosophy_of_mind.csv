@@ -1,0 +1,136 @@
+Clause,mainVerb,mainReferent,Gold
+Philosophy of mind is a branch of philosophy,is,Philosophy,STATIVE
+"that studies the nature of the mind, mental events, mental functions, mental properties, consciousness, and their relationship to the physical body, particularly the brain.",studies,branch,DYNAMIC
+"The mindbody problem, i.e. the relationship of the mind to the body, is commonly seen as one key issue in philosophy of mind,",seen,problem,STATIVE
+although there are other issues concerning the nature of the mind,are,issues,STATIVE
+"that do not involve its relation to the physical body,",involve,nature,STATIVE
+such as how consciousness is possible and the nature of particular mental states.,is,consciousness,STATIVE
+Dualism and monism are the two major schools of thought,are,monism,STATIVE
+that attempt to resolve the mindbody problem.,attempt,schools,DYNAMIC
+"Dualism can be traced back to Plato, and the Sankhya and Yoga schools of Hindu philosophy,",traced,Dualism,STATIVE
+but it was most precisely formulated by Ren Descartes in the 17th century.,formulated,Dualism,DYNAMIC
+Substance dualists argue,argue,dualists,DYNAMIC
+"that the mind is an independently existing substance,",is,mind,STATIVE
+whereas property dualists maintain,maintain,dualists,STATIVE
+that the mind is a group of independent properties,is,mind,STATIVE
+that emerge from,emerge,properties,DYNAMIC
+"and cannot be reduced to the brain,",reduced,properties,DYNAMIC
+but that it is not a distinct substance.,is,it,STATIVE
+Monism is the position,is,Monism,STATIVE
+that mind and body are not ontologically distinct kinds of entities (independent substances).,are,mind,STATIVE
+This view was first advocated in Western philosophy by Parmenides in the 5th century BC,advocated,view,DYNAMIC
+and was later espoused by the 17th century rationalist Baruch Spinoza.,espoused,view,DYNAMIC
+Physicalists argue,argue,Physicalists,DYNAMIC
+"that only entities postulated by physical theory exist,",exist,entities,STATIVE
+and that mental processes will eventually be explained in terms of these entities,explained,entities,DYNAMIC
+as physical theory continues to evolve.,continues,theory,STATIVE
+Physicalists maintain various positions on the prospects of reducing mental properties to physical properties,maintain,Physicalists,STATIVE
+"(many of whom adopt compatible forms of property dualism),",adopt,of,STATIVE
+and the ontological status of such mental properties remains unclear.,remains,Physicalists,STATIVE
+Idealists maintain,maintain,Idealists,STATIVE
+that the mind is all,is,mind,STATIVE
+that exists,exists,mental,STATIVE
+"and that the external world is either mental itself, or an illusion",is,itself,STATIVE
+created by the mind.,created,all,DYNAMIC
+Neutral monists such as Ernst Mach and William James argue,argue,monists,DYNAMIC
+that events in the world can be thought of as either mental (psychological) or physical depending on the network of relationships,thought,events,STATIVE
+"into which they enter,",enter,they,DYNAMIC
+and dual-aspect monists such as Spinoza adhere to the position,adhere,monists,STATIVE
+"that there is some other, neutral substance,",is,position,STATIVE
+and that both matter and mind are properties of this unknown substance.,are,mind,STATIVE
+The most common monisms in the 20th and 21st centuries have all been variations of physicalism;,been,monisms,STATIVE
+"these positions include behaviorism, the type identity theory, anomalous monism and functionalism.",include,positions,STATIVE
+"Most modern philosophers of mind adopt either a reductive or non-reductive physicalist position,",adopt,philosophers,DYNAMIC
+maintaining in their different ways,maintaining,philosophers,STATIVE
+that the mind is not something separate from the body.,is,mind,STATIVE
+"These approaches have been particularly influential in the sciences, especially in the fields of sociobiology, computer science, evolutionary psychology and the various neurosciences.",been,approaches,STATIVE
+"Other philosophers, however, adopt a non-physicalist position",adopt,philosophers,DYNAMIC
+that challenges the notion,challenges,position,STATIVE
+that the mind is a purely physical construct.,is,mind,STATIVE
+Reductive physicalists assert,assert,physicalists,DYNAMIC
+that all mental states and properties will eventually be explained by scientific accounts of physiological processes and states.,explained,states,DYNAMIC
+Non-reductive physicalists argue,argue,physicalists,DYNAMIC
+"that although the mind is not a separate substance,",is,mind,STATIVE
+"mental properties supervene on physical properties,",supervene,properties,STATIVE
+"or that the predicates and vocabulary used in mental descriptions and explanations are indispensable,",are,vocabulary,STATIVE
+and cannot be reduced to the language and lower-level explanations of physical science.,reduced,predicates,DYNAMIC
+Continued neuroscientific progress has helped to clarify some of these issues;,helped,progress,DYNAMIC
+"however, they are far from being resolved.",are,they,STATIVE
+Modern philosophers of mind continue to ask,continue,philosophers,STATIVE
+how the subjective qualities and the intentionality of mental states and properties can be explained in naturalistic terms.,explained,intentionality,DYNAMIC
+==Mindbody problem==,,,CANNOT_DECIDE
+The mindbody problem concerns the explanation of the relationship,concerns,problem,STATIVE
+"that exists between minds, or mental processes, and bodily states or processes.",exists,relationship,STATIVE
+"The main aim of philosophers working in this area is to determine the nature of the mind and mental states/processes,",is,aim,STATIVE
+and howor even ifminds are affected by,affected,even,DYNAMIC
+and can affect the body.,affect,minds,DYNAMIC
+Our perceptual experiences depend on stimuli,depend,experiences,STATIVE
+"that arrive at our various sensory organs from the external world,",arrive,stimuli,DYNAMIC
+"and these stimuli cause changes in our mental states,",cause,experiences,DYNAMIC
+"ultimately causing us to feel a sensation,",causing,stimuli,DYNAMIC
+which may be pleasant or unpleasant.,be,sensation,STATIVE
+"Someone's desire for a slice of pizza, for example, will tend to cause that person to move his or her body in a specific manner and in a specific direction to obtain",tend,desire,STATIVE
+what he or she wants.,wants,she,STATIVE
+"The question, then, is how it can be possible",is,question,STATIVE
+for conscious experiences to arise out of a lump of gray matter,arise,it,CANNOT_DECIDE
+endowed with nothing but electrochemical properties.,endowed,lump,STATIVE
+A related problem is how someone's propositional attitudes,is,problem,STATIVE
+(e.g. beliefs and desires) cause that individual's neurons to fire and his muscles to contract.,cause,attitudes,DYNAMIC
+These comprise some of the puzzles,comprise,These,STATIVE
+that have confronted epistemologists and philosophers of mind from at least the time of Ren Descartes.,confronted,puzzles,DYNAMIC
+==Dualist solutions to the mindbody problem==,,,CANNOT_DECIDE
+Dualism is a set of views about the relationship between mind and matter (or body).,is,solutions,STATIVE
+It begins with the claim,begins,It,STATIVE
+"that mental phenomena are, in some respects, non-physical.",are,phenomena,STATIVE
+One of the earliest known formulations of mindbody dualism was expressed in the eastern Sankhya and Yoga schools of Hindu philosophy,expressed,One,DYNAMIC
+"(c. 650 BCE), which divided the world into purusha",divided,schools,DYNAMIC
+(mind/spirit) and prakriti (material substance).,,,CANNOT_DECIDE
+"Specifically, the Yoga Sutra of Patanjali presents an analytical approach to the nature of the mind.",presents,Sutra,STATIVE
+"In Western Philosophy, the earliest discussions of dualist ideas are in the writings of Plato",are,discussions,STATIVE
+who maintained,maintained,writings,STATIVE
+"that humans' ""intelligence"" (a faculty of the mind or soul) could not be identified with,",identified,intelligence,DYNAMIC
+"or explained in terms of, their physical body.",explained,intelligence,DYNAMIC
+"However, the best-known version of dualism is due to Ren Descartes",is,version,STATIVE
+"(1641), and holds",holds,version,STATIVE
+"that the mind is a non-extended, non-physical substance, a ""res cogitans"".",is,mind,STATIVE
+"Descartes was the first to clearly identify the mind with consciousness and self-awareness,",was,Descartes,STATIVE
+"and to distinguish this from the brain,",distinguish,,CANNOT_DECIDE
+which was the seat of intelligence.,was,brain,STATIVE
+He was therefore the first to formulate the mindbody problem in the form,was,He,STATIVE
+in which it still exists today.,exists,it,STATIVE
+===Arguments for dualism===,,,CANNOT_DECIDE
+The most frequently used argument in favour of dualism is that it appeals to the common-sense intuition,is,Arguments,STATIVE
+that conscious experience is distinct from inanimate matter.,is,experience,STATIVE
+If asked,asked,,DYNAMIC
+"what the mind is,",is,mind,STATIVE
+"the average person would usually respond by identifying it with their self, their personality, their soul, or some other such entity.",respond,person,DYNAMIC
+They would almost certainly deny,deny,They,DYNAMIC
+"that the mind simply is the brain, or vice versa,",is,mind,STATIVE
+finding the idea,finding,brain,STATIVE
+"that there is just one ontological entity at play to be too mechanistic, or simply unintelligible.",is,entity,STATIVE
+Many modern philosophers of mind think,think,philosophers,STATIVE
+that these intuitions are misleading,misleading,intuitions,STATIVE
+"and that we should use our critical faculties, along with empirical evidence from the sciences, to examine these assumptions to determine",use,intuitions,DYNAMIC
+whether there is any real basis to them.,is,basis,STATIVE
+"Another important argument in favor of dualism is that the mental and the physical seem to have quite different, and perhaps irreconcilable, properties.",is,argument,STATIVE
+"Mental events have a subjective quality,",have,events,STATIVE
+whereas physical events do not.,do,events,STATIVE
+"So, for example, one can reasonably ask",ask,one,DYNAMIC
+"what a burnt finger feels like,",feels,finger,STATIVE
+"or what a blue sky looks like,",looks,finger,STATIVE
+or what nice music sounds like to a person.,sounds,sky,STATIVE
+"But it is meaningless, or at least odd, to ask",is,it,STATIVE
+what a surge in the uptake of glutamate in the dorsolateral portion of the hippocampus feels like.,feels,surge,STATIVE
+"Philosophers of mind call the subjective aspects of mental events ""qualia"" or ""raw feels"".",call,Philosophers,DYNAMIC
+There is something,is,something,STATIVE
+"that it is like to feel pain, to see a familiar shade of blue, and so on.",is,it,STATIVE
+There are qualia involved in these mental events,are,qualia,STATIVE
+that seem particularly difficult to reduce to anything physical.,seem,events,STATIVE
+If consciousness (the mind) can exist independently of physical reality,exist,consciousness,STATIVE
+"(the brain), one must explain",explain,one,DYNAMIC
+how physical memories are created concerning consciousness.,created,memories,DYNAMIC
+Dualism must therefore explain,explain,Dualism,DYNAMIC
+how consciousness affects physical reality.,affects,consciousness,DYNAMIC
+"One possible explanation is that of a miracle,",is,explanation,STATIVE
+"proposed by Arnold Geulincx and Nicolas Malebranche,",proposed,miracle,DYNAMIC
+where all mindbody interactions require the direct intervention of God.,require,interactions,STATIVE

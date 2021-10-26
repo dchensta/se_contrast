@@ -1,0 +1,89 @@
+Clause,mainVerb,mainReferent,Gold
+"Archimedes' screw, also called the Archimedean screw or screwpump,",called,screw,STATIVE
+is a machine,is,screw,STATIVE
+historically used for transferring water from a low-lying body of water into irrigation ditches.,used,machine,DYNAMIC
+Water is pumped by turning a screw-shaped surface inside a hollow pipe.,pumped,Water,DYNAMIC
+The screw pump is commonly attributed to Archimedes on the occasion of his visit to Egypt.,attributed,pump,DYNAMIC
+This tradition may reflect,reflect,tradition,DYNAMIC
+only that the apparatus was unknown to the Greeks before Hellenistic times,was,apparatus,STATIVE
+and was introduced in Archimedes' lifetime by unknown Greek engineers.,introduced,apparatus,DYNAMIC
+Some writers have suggested,suggested,writers,DYNAMIC
+the device may have been in use in Assyria some 350 years earlier.,been,device,STATIVE
+== Design ==,,,CANNOT_DECIDE
+Archimedes' screw consists of a screw,,,STATIVE
+(a helical surface surrounding a central cylindrical shaft) inside a hollow pipe.,surrounding,surface,STATIVE
+The screw is turned usually by a windmill or by manual labour.,turned,screw,DYNAMIC
+"As the shaft turns, the bottom end scoops up a volume of water.",scoops,end,DYNAMIC
+"This water will slide up in the spiral tube,",slide,water,DYNAMIC
+until it finally pours out from the top of the tube,pours,it,DYNAMIC
+and feeds the irrigation systems.,feeds,it,DYNAMIC
+The screw was used,used,screw,DYNAMIC
+mostly for draining water out of mines or other areas of low lying water.,draining,screw,CANNOT_DECIDE
+"The contact surface between the screw and the pipe does not need to be perfectly watertight, as long as the amount of water",need,surface,STATIVE
+being scooped with each turn is large,is,amount,STATIVE
+compared to the amount of water,compared,,STATIVE
+leaking out of each section of the screw per turn.,leaking,,DYNAMIC
+"Water from one section leaks into the next lower one,",leaks,Water,DYNAMIC
+so that a sort of mechanical equilibrium is achieved in use.,achieved,sort,DYNAMIC
+"In some designs, the screw is attached to the casing and they both rotate together, instead of the screw turning within a stationary casing.",attached,screw,STATIVE
+"A screw could be sealed with pitch resin or some other adhesive to its casing,",sealed,screw,STATIVE
+or cast as a single piece in bronze.,cast,screw,DYNAMIC
+Some researchers have postulated this as being the device,postulated,researchers,DYNAMIC
+"used to irrigate the Hanging Gardens of Babylon, one of the Seven Wonders of the Ancient World.",used,device,DYNAMIC
+"Depictions of Greek and Roman water screws show them being powered by a human treading on the outer casing to turn the entire apparatus as one piece,",show,Depictions,DYNAMIC
+which would require,require,piece,STATIVE
+that the casing be rigidly attached to the screw.,attached,casing,STATIVE
+== Uses ==,=,=,CANNOT_DECIDE
+"Along with transferring water to irrigation ditches, the device was also used for draining land",used,device,DYNAMIC
+that was underneath the sea in the Netherlands and other places in the creation of polders.,was,land,STATIVE
+A part of the sea would be enclosed,enclosed,part,DYNAMIC
+"and the water would be pumped out of the enclosed area, starting the process of draining the land for use in agriculture.",pumped,part,DYNAMIC
+"Depending on the length and diameter of the screws, more than one machine could be used successively to lift the same water.",Depending,,DYNAMIC
+An Archimedes' screw was used by British soils engineer John Burland in the successful 2001 stabilization of the Leaning Tower of Pisa.,used,screw,DYNAMIC
+"Small amounts of subsoil saturated by groundwater were removed from far below the north side of the Tower,",removed,amounts,DYNAMIC
+and the weight of the tower itself corrected the lean.,corrected,amounts,DYNAMIC
+Archimedes' screws are used in sewage treatment plants,used,screws,DYNAMIC
+because they cope well with varying rates of flow and with suspended solids.,cope,they,DYNAMIC
+An auger in a snow blower or grain elevator is essentially an Archimedes' screw.,is,auger,STATIVE
+Many forms of axial flow pump basically contain an Archimedes' screw.,contain,forms,STATIVE
+"The principle is also found in pescalators,",found,principle,DYNAMIC
+which are Archimedes' screws,are,pescalators,STATIVE
+designed to lift fish safely from ponds,designed,screws,STATIVE
+and transport them to another location.,transport,,CANNOT_DECIDE
+"This technology is used primarily at fish hatcheries,",used,technology,DYNAMIC
+where it is desirable to minimize the physical handling of fish.,is,it,STATIVE
+It is also used in chocolate fountains.,used,It,DYNAMIC
+==History==,,,CANNOT_DECIDE
+The invention of the water screw is credited to the Greek polymath Archimedes of Syracuse in the 3rd century BC.,credited,=,STATIVE
+A cuneiform inscription of the Assyrian king Sennacherib (704 - 681BC) has been interpreted by Dalley to describe the casting of water screws in bronze some 350 years earlier.,interpreted,inscription,DYNAMIC
+This is consistent with the classical author Strabo,is,This,STATIVE
+who describes the Hanging Gardens,describes,Strabo,DYNAMIC
+as watered by screws.,watered,Strabo,DYNAMIC
+A contrary view is expressed by Dalley and Oleson in an earlier review.,expressed,view,DYNAMIC
+"The German engineer Konrad Kyeser, in his Bellifortis (1405), equips the Archimedes' screw with a crank mechanism.",equips,Kyeser,DYNAMIC
+This mechanism soon replaced the ancient practice,replaced,mechanism,DYNAMIC
+of working the pipe by treading.,working,practice,CANNOT_DECIDE
+== Variants ==,,,CANNOT_DECIDE
+A screw conveyor is an Archimedes' screw,is,contained,STATIVE
+contained within a tube,contained,screw,STATIVE
+and turned by a motor so as to deliver material from one end of the conveyor to the other.,turned,screw,DYNAMIC
+It is particularly suitable for transport of granular materials such as plastic granules,is,It,STATIVE
+"used in injection molding, and cereal grains.",used,granules,DYNAMIC
+It may also be used to transport liquids.,used,It,DYNAMIC
+In industrial control applications the conveyor may be used as a rotary feeder or variable rate feeder to deliver a measured rate or quantity of material into a process.,used,conveyor,DYNAMIC
+"A variant of the Archimedes' screw can also be found in some injection molding machines, die casting machines and extrusion of plastics,",found,variant,STATIVE
+which employ a screw of decreasing pitch to compress and melt the material.,employ,plastics,DYNAMIC
+"Finally, it is also used in a specific type of positive displacement air compressor: the rotary-screw air compressor.",used,it,DYNAMIC
+"On a much larger scale, Archimedes' screws of decreasing pitch are used for the compaction of waste material.",used,screws,DYNAMIC
+===Reverse action===,,,CANNOT_DECIDE
+"If water is poured into the top of an Archimedes' screw,",poured,water,DYNAMIC
+it will force the screw to rotate.,force,it,DYNAMIC
+The rotating shaft can then be used to drive an electric generator.,used,shaft,DYNAMIC
+Such an installation has the same benefits as using the screw for pumping,has,installation,STATIVE
+: the ability to handle very dirty water,handle,ability,CANNOT_DECIDE
+and widely varying rates of flow at high efficiency.,varying,,CANNOT_DECIDE
+Settle Hydro and Torrs Hydro are two reverse screw,are,Hydro,STATIVE
+micro hydro schemes operating in England.,operating,schemes,DYNAMIC
+"As a generator the screw is good at low heads,",is,screw,STATIVE
+"commonly found in English rivers,",found,heads,DYNAMIC
+including the Thames powering Windsor Castle.,including,,STATIVE

@@ -1,0 +1,65 @@
+Clause,mainVerb,mainReferent,Gold
+Electronic theft by foreign and industrial spies and disgruntled employees is costing U.S. companies billions,costing,theft,STATIVE
+and eroding their international competitive advantage.,eroding,theft,DYNAMIC
+That was the message,was,That,STATIVE
+delivered by government and private security experts at an all-day conference on corporate electronic espionage.,delivered,message,DYNAMIC
+"""Hostile and even friendly nations routinely steal information from U.S. companies",steal,nations,DYNAMIC
+"and share it with their own companies,""",share,nations,DYNAMIC
+"said Noel D. Matchett, a former staffer at the federal National Security Agency and now president of Information Security Inc., Silver Spring, Md.",said,president,DYNAMIC
+"It ""may well be""",be,It,STATIVE
+"that theft of business data is ""as serious a strategic threat to national security""",is,threat,STATIVE
+"as it is a threat to the survival of victimized U.S. firms,",is,it,STATIVE
+"said Michelle Van Cleave, the White House's assistant director for National Security Affairs.",said,Cleave,DYNAMIC
+"The conference was jointly sponsored by the New York Institute of Technology School of Management and the Armed Forces Communications and Electronics Association, a joint industry-government trade group.",sponsored,conference,STATIVE
+"Any secret can be pirated,",pirated,secret,DYNAMIC
+"the experts said,",said,experts,DYNAMIC
+if it is transmitted over the air.,transmitted,it,DYNAMIC
+Even rank amateurs can do it,do,amateurs,DYNAMIC
+if they spend a few thousand dollars for a commercially available microwave receiver with amplifier and a VCR recorder.,spend,they,DYNAMIC
+They need only,,,STATIVE
+position themselves near a company's satellite dish,position,They,CANNOT_DECIDE
+and wait.,wait,They,CANNOT_DECIDE
+"""You can have a dozen competitors stealing your secrets at the same time,""",have,You,DYNAMIC
+"Mr. Matchett said,",said,Matchett,DYNAMIC
+adding :,adding,,DYNAMIC
+"""It's a pretty good bet",'s,It,STATIVE
+"they won't get caught.""",caught,they,DYNAMIC
+"The only way to catch an electronic thief,",catch,way,CANNOT_DECIDE
+"he said,",said,he,DYNAMIC
+is to set him up with erroneous information.,is,way,STATIVE
+"Even though electronic espionage may cost U.S. firms billions of dollars a year,",cost,espionage,STATIVE
+"most aren't yet taking precautions,",taking,most,DYNAMIC
+the experts said.,said,experts,DYNAMIC
+"By contrast, European firms will spend $150 million this year on electronic security,",spend,firms,DYNAMIC
+and are expected to spend $1 billion by 1992.,expected,firms,DYNAMIC
+"Already many foreign firms, especially banks, have their own cryptographers,",have,firms,STATIVE
+conference speakers reported.,reported,speakers,DYNAMIC
+"Still, encrypting corporate communications is only a partial remedy.",is,communications,STATIVE
+"One expert, whose job is so politically sensitive",is,job,STATIVE
+that he spoke on condition,spoke,he,DYNAMIC
+"that he wouldn't be named or quoted,",named,he,DYNAMIC
+said,said,expert,DYNAMIC
+the expected influx of East European refugees over the next few years will greatly increase the chances,increase,influx,DYNAMIC
+"of computer-maintenance workers, for example, doubling as foreign spies.",doubling,influx,CANNOT_DECIDE
+"Moreover, he said,",said,he,DYNAMIC
+technology now exists for stealing corporate secrets,exists,technology,STATIVE
+"after they've been ""erased"" from a computer's memory.",erased,secrets,DYNAMIC
+He said,said,He,DYNAMIC
+that Oliver North of Iran-Contra notoriety thought,thought,North,STATIVE
+he had erased his computer,erased,he,DYNAMIC
+but that the information was later retrieved,retrieved,North,DYNAMIC
+for congressional committees to read.,read,committees,CANNOT_DECIDE
+"No personal computer, not even the one on a chief executive's desk, is safe,",is,computer,STATIVE
+this speaker noted.,noted,speaker,DYNAMIC
+"W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness,",provided,Goode,DYNAMIC
+known commonly as glasnost.,known,openness,STATIVE
+"Under Mr. Gorbachev, Mr. Goode said,",said,Goode,DYNAMIC
+the Soviets are openly stealing Western corporate communications.,stealing,Soviets,DYNAMIC
+He cited the case of a Swiss oil trader,cited,He,DYNAMIC
+who recently put out bids via telex,put,trader,DYNAMIC
+for an oil tanker to pick up a cargo of crude in the Middle East.,pick,trader,CANNOT_DECIDE
+Among the responses the Swiss trader got,got,trader,DYNAMIC
+"was one from the Soviet national shipping company,",was,one,STATIVE
+which hadn't been invited to submit a bid.,invited,one,DYNAMIC
+"The Soviets' eavesdropping paid off, however,",paid,eavesdropping,DYNAMIC
+because they got the contract.,got,they,DYNAMIC

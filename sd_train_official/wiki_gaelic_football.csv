@@ -1,0 +1,235 @@
+Clause,mainVerb,mainReferent,Gold
+"Gaelic football (Irish: Peil Ghaelach; short name Peil or Caid),",,,CANNOT_DECIDE
+"commonly referred to as football or Gaelic, is an Irish team sport.",is,football,STATIVE
+It is a form,is,It,STATIVE
+of football derived from traditional Irish ball games.,derived,form,DYNAMIC
+It is played between two teams of 15 players on a rectangular grass pitch.,played,It,DYNAMIC
+The objective of the sport is to score points by passing the ball through the other team's goals,is,objective,STATIVE
+(3 points) or a set of two upright posts separated by a crossbar above the ground (1 point).,separated,posts,STATIVE
+"Players advance the football, a spherical leather ball, up the field with a combination of carrying,",advance,Players,DYNAMIC
+"bouncing,",bouncing,combination,CANNOT_DECIDE
+"kicking,",kicking,combination,CANNOT_DECIDE
+"hand-passing, and soloing (dropping the ball",hand-passing,combination,DYNAMIC
+and then toe-kicking the ball upward into the hands).,toe-kicking,,DYNAMIC
+"In the game, two types of scores are possible: points and goals.",are,types,STATIVE
+"A point is awarded for kicking or hand-passing the ball over the crossbar,",awarded,point,DYNAMIC
+signalled by the umpire,signalled,awarded,DYNAMIC
+raising a white flag.,raising,umpire,DYNAMIC
+"A goal is awarded for kicking the ball under the crossbar into the net,",awarded,goal,DYNAMIC
+signalled by the umpire,signalled,net,DYNAMIC
+raising a green flag.,raising,,DYNAMIC
+"Positions in Gaelic football are similar to that in other football codes,",are,Positions,STATIVE
+"and comprise one goalkeeper, six backs, two midfielders, and six forwards, with a variable number of substitutes.",comprise,Positions,STATIVE
+Gaelic football is one of four sports,is,football,STATIVE
+"(collectively referred to as the ""Gaelic games"") controlled by the Gaelic Athletic Association (GAA), the largest",referred,sports,DYNAMIC
+sporting organisation in Ireland.,,,CANNOT_DECIDE
+"Along with hurling and camogie, Gaelic football is one of the few remaining strictly amateur sports in the world,",is,football,STATIVE
+"with players, coaches, and managers prohibited from receiving any form of payment.",prohibited,,STATIVE
+"Gaelic football is mainly played on the island of Ireland,",played,football,DYNAMIC
+although units of the Association exist in other areas such as Great Britain and North America.,exist,units,STATIVE
+"Gaelic football is the most popular sport in Ireland in terms of attendance, with the 2011 All-Ireland Senior Championship Final,",is,football,STATIVE
+"held at Croke Park, Dublin, drawing an attendance of 82,300 people.",held,sport,DYNAMIC
+"Outside of Ireland, football is mainly played amongst members of the Irish diaspora.",played,football,DYNAMIC
+Gaelic Park in New York City is the largest purpose-built Gaelic sports venue outside of Ireland.,is,Park,STATIVE
+Three major football competitions operate throughout the year:,operate,competitions,DYNAMIC
+"the National Football League and the All-Ireland Senior Championship are operated on a county basis,",operated,League,DYNAMIC
+while the All-Ireland Club Championship is contested by individual clubs.,contested,Championship,DYNAMIC
+The All-Ireland Senior Championship is run,run,Championship,DYNAMIC
+"as a knock-out competition, with the top two counties meeting in the All-Ireland Football Final, considered the most prestigious event in Gaelic football.",considered,meeting,DYNAMIC
+"Under the auspices of the GAA, Gaelic football is a male-only sport;",is,football,STATIVE
+"however, the related sport of ladies' Gaelic football is governed by the Ladies' Gaelic Football Association.",governed,sport,STATIVE
+"Similarities between Gaelic football and Australian rules football have allowed the development of international rules football, a hybrid sport,",allowed,Similarities,DYNAMIC
+and a series of Test matches has been held regularly since 1998.,held,Similarities,DYNAMIC
+==History==,,,CANNOT_DECIDE
+"Gaelic football was first codified in 1887,",codified,History,DYNAMIC
+although it has links to older varieties of football,has,it,STATIVE
+played in Ireland,played,varieties,DYNAMIC
+and known collectively as caid.,known,varieties,STATIVE
+"Consequently, the name caid is used by some people to refer to present day Gaelic football.",used,caid,DYNAMIC
+"The first legal reference of football in Ireland was in 1308,",was,reference,STATIVE
+"when John McCrocan, a spectator at a football game at Novum Castrum de Leuan (the New Castle of the Lyons or Newcastle) was charged with accidentally stabbing a player",charged,McCrocan,DYNAMIC
+named William Bernard.,named,player,STATIVE
+"A field near Newscastle, Co.",,,CANNOT_DECIDE
+Dublin is still known as the football field.,known,Dublin,STATIVE
+"The Statute of Galway of 1527 allowed the playing of ""foot balle"" and archery",allowed,Statute,DYNAMIC
+but banned,banned,Statute,DYNAMIC
+"""'hokie'  the hurling of a little ball with sticks or staves"" as well as other sports.",hokie,—,CANNOT_DECIDE
+"By the 17th century, the situation had changed considerably.",changed,situation,DYNAMIC
+The games had grown in popularity,grown,games,DYNAMIC
+and were widely played.,played,games,DYNAMIC
+This was due to the patronage of the gentry.,was,This,STATIVE
+Now instead of opposing the games it was the gentry and the ruling class,was,it,STATIVE
+who were serving as patrons of the games.,serving,class,DYNAMIC
+Games were organised between landlords with each team,organised,Games,DYNAMIC
+comprising 20 or more tenants.,comprising,team,STATIVE
+"Wagers were commonplace with purses of up to 100 guineas (Prior, 1997).",were,Wagers,STATIVE
+"The earliest record of a recognised precursor to the modern game date from a match in County Meath in 1670, in which catching and kicking the ball was permitted.",date,record,STATIVE
+"However even ""foot-ball"" was banned by the severe Sunday Observance Act of 1695,",banned,foot-ball,DYNAMIC
+which imposed a fine of one shilling,imposed,Act,DYNAMIC
+(a substantial amount at the time) for those,,,CANNOT_DECIDE
+caught playing sports.,caught,those,DYNAMIC
+"It proved difficult, if not impossible, for the authorities to enforce the Act and the earliest recorded inter-county match in Ireland was one between Louth and Meath, at Slane, in 1712,",proved,It,DYNAMIC
+about which the poet James Dall McCuairt wrote a poem of 88 verses,wrote,McCuairt,DYNAMIC
+"beginning ""Ba haigeanta"".",beginning,,DYNAMIC
+"A six-a-side version was played in Dublin in the early 18th century,",played,version,DYNAMIC
+and 100 years later there were accounts of games,were,version,STATIVE
+"played between County sides (Prior, 1997).",played,games,DYNAMIC
+"By the early 19th century, various football games, referred to collectively as caid,",referred,games,DYNAMIC
+"were popular in Kerry, especially the Dingle Peninsula.",were,games,STATIVE
+"Father W. Ferris described two forms of caid: the ""field game""",described,Ferris,DYNAMIC
+"in which the object was to put the ball through arch-like goals,",was,object,STATIVE
+"formed from the boughs of two trees,",formed,game,STATIVE
+"and; the epic ""cross-country game"" which lasted the whole of a Sunday (after mass)",lasted,game,STATIVE
+and was won by taking the ball across a parish boundary.,won,game,DYNAMIC
+"""Wrestling"", ""holding"" opposing players,",holding,Wrestling,CANNOT_DECIDE
+and carrying the ball were all allowed.,allowed,Wrestling,STATIVE
+"During the 1860s and 1870s, Rugby football started to become popular in Ireland.",started,football,DYNAMIC
+"Trinity College, Dublin was an early stronghold of Rugby,",was,College,STATIVE
+and the rules of the (English) Football Association were codified in 1863,codified,stronghold,DYNAMIC
+and distributed widely.,distributed,stronghold,DYNAMIC
+"By this time, according to Gaelic football historian Jack Mahon, even in the Irish countryside, caid had begun to give way to a ""rough-and-tumble game""",according,,DYNAMIC
+which even allowed tripping.,allowed,game,STATIVE
+"Association football started to take hold, especially in Ulster, in the 1880s.",started,football,DYNAMIC
+"Limerick was the stronghold of the native game around this time,",was,Limerick,STATIVE
+"and the Commercials Club, founded by employees of Cannock's Drapery Store,",founded,Club,DYNAMIC
+was one of the first to impose a set of rules,was,Club,STATIVE
+which was adapted by other clubs in the city.,adapted,rules,DYNAMIC
+"Of all the Irish pastimes the GAA set out to preserve and promote,",set,GAA,DYNAMIC
+it is fair to say,is,it,STATIVE
+"that Gaelic football was in the worst shape at the time of the association's foundation (GAA Museum, 2001).",was,football,STATIVE
+Irish forms of football were not formally arranged into an organised playing code by the Gaelic Athletic Association,arranged,forms,STATIVE
+(GAA) until 1887.,,,CANNOT_DECIDE
+"The GAA sought to promote traditional Irish sports, such as hurling",sought,GAA,DYNAMIC
+"and to reject ""foreign"" (particularly English) imports.",reject,,CANNOT_DECIDE
+"The first Gaelic football rules, showing the influence of hurling and a desire to differentiate from association football  for example in their lack of an offside",showing,rules,STATIVE
+rule  were drawn up by Maurice Davin,drawn,rules,DYNAMIC
+and published in the United Ireland magazine on 7 February 1887.,published,rules,DYNAMIC
+The rules of the aforementioned Commercials Club became the basis for these official,became,rules,DYNAMIC
+"(Gaelic Football) rules who, unsurprisingly, won the inaugural All-Ireland Senior Football Final",won,basis,DYNAMIC
+(representing County Limerick),representing,Final,DYNAMIC
+"On Bloody Sunday in 1920, during the Anglo-Irish War, a football match at Croke Park was attacked by British forces.",attacked,match,DYNAMIC
+14 people were killed,killed,people,DYNAMIC
+and 65 were injured.,injured,people,DYNAMIC
+"Among the dead was Tipperary footballer Michael Hogan,",was,Hogan,STATIVE
+for whom the Hogan Stand at Croke Park (completed in 1924) was named.,named,Stand,DYNAMIC
+Ladies' Gaelic football has become increasingly popular with women since the 1970s.,become,football,DYNAMIC
+The relationship between Gaelic football and Australian rules football and the question of whether they have shared origins is a matter of historical controversy.,is,relationship,STATIVE
+"Games are held between an Irish representative team and an Australian team, under compromise rules",held,Games,DYNAMIC
+known as international rules football.,known,rules,STATIVE
+==Rules==,,,CANNOT_DECIDE
+===Playing field===,,,CANNOT_DECIDE
+A Gaelic pitch is similar in some respects to a rugby pitch but larger.,is,Rules,STATIVE
+"The grass pitch is rectangular,",is,pitch,STATIVE
+stretching long and wide.,,,STATIVE
+"There are H-shaped goalposts at each end,",are,goalposts,STATIVE
+"formed by two posts,",formed,end,STATIVE
+"which are usually high,",are,posts,STATIVE
+"set apart,",set,end,STATIVE
+and connected above the ground by a crossbar.,connected,end,STATIVE
+A net extending behind the goal is attached to the crossbar and lower goal posts.,attached,net,DYNAMIC
+The same pitch is used for hurling;,used,pitch,DYNAMIC
+"the GAA, which organises both sports,",organises,GAA,DYNAMIC
+decided this to facilitate dual usage.,decided,GAA,DYNAMIC
+"Lines are marked at distances of 13 metres, 20 metres and 45 metres",marked,Lines,STATIVE
+(65m in Hurling) from each end-line.,,,CANNOT_DECIDE
+Shorter pitches and smaller goals are used by youth teams.,used,goals,DYNAMIC
+===Duration===,=,=,CANNOT_DECIDE
+"The majority of adult football and all minor and under-21 matches last for 60 minutes,",matches,=,STATIVE
+"divided into two halves of 30 minutes, with the exception of senior inter-county games",divided,minutes,STATIVE
+which last for 70 minutes (two halves of 35 minutes).,last,exception,STATIVE
+Draws are decided by replays or by playing 20 minutes of extra time (two halves of 10 minutes).,decided,Draws,DYNAMIC
+Juniors have a half of 20 minutes or 25 minutes in some cases.,have,Juniors,STATIVE
+Half-time lasts for about 5 or 10 minutes.,lasts,Half-time,STATIVE
+===Teams===,,,CANNOT_DECIDE
+Teams consist of fifteen players,consist,=,STATIVE
+"(a goalkeeper, two corner backs, a full back, two wing backs, a centre back, two mid fielders, two wing forwards, a centre forward, two corner forwards and a full forward) plus up to fifteen substitutes,",,,CANNOT_DECIDE
+of which five may be used.,used,five,DYNAMIC
+"Each player is numbered 115,",numbered,player,STATIVE
+"starting with the goalkeeper,",starting,–,STATIVE
+who must wear a jersey colour different from that of his or her teammates.,wear,–,STATIVE
+"Up to fifteen substitutes may be named on the team sheet,",named,substitutes,DYNAMIC
+number 16 usually being the reserve goalkeeper.,being,,STATIVE
+===Positions===,,,CANNOT_DECIDE
+===Ball===,,,CANNOT_DECIDE
+The game is played with a round leather football,played,game,DYNAMIC
+"made of 18 stitched leather panels, similar in appearance to a traditional volleyball",made,football,STATIVE
+"(but larger), with a circumference of ,",,,CANNOT_DECIDE
+weighing between when dry.,weighing,panels,STATIVE
+It may be kicked or hand passed.,passed,It,DYNAMIC
+"A hand pass is not a punch but rather a strike of the ball with the side of the closed fist,",is,pass,STATIVE
+using the knuckle of the thumb.,using,side,DYNAMIC
+===Types of Fouls===,,,CANNOT_DECIDE
+There are three main types of fouls in Gaelic Football,are,types,STATIVE
+"which can result in the ball being given to the other team,",result,types,DYNAMIC
+"a player being cautioned,",cautioned,player,DYNAMIC
+"a player being removed from the field,",removed,player,DYNAMIC
+or even the game being terminated.,terminated,game,DYNAMIC
+====Technical fouls====,,,CANNOT_DECIDE
+The following are considered technical fouls,considered,following,STATIVE
+"(""fouling the ball""):",fouling,fouls,CANNOT_DECIDE
+* Bouncing the ball twice in a row,,,CANNOT_DECIDE
+(It may be soloed continuously),soloed,row,DYNAMIC
+* Changing hands:,Changing,,CANNOT_DECIDE
+Throwing the ball from your right-hand to left or vice-versa (legal in the ladies' game),Throwing,following,CANNOT_DECIDE
+* Going four steps,Going,considered,CANNOT_DECIDE
+"without releasing, bouncing or soloing the ball",releasing,,DYNAMIC
+(soloing involves kicking the ball into one's own hands),involves,ball,STATIVE
+* Hand passing a goal.,passing,ball,CANNOT_DECIDE
+To hand pass a ball with an open palm,pass,action,CANNOT_DECIDE
+there must be a clear striking action,be,pass,STATIVE
+"(the ball may be punched over the bar from up in the air, but not into the goal).",punched,ball,DYNAMIC
+* Picking the ball directly off the ground,Picking,*,CANNOT_DECIDE
+(it must be scooped up into the hands by the foot).,scooped,Picking,DYNAMIC
+However in ladies' Gaelic football the ball may be picked up directly.,picked,ball,DYNAMIC
+* Square ball is an often controversial rule:,is,ball,STATIVE
+"If, at the moment the ball enters the small square,",enters,ball,DYNAMIC
+"there is already an attacking player inside the small rectangle,",is,player,STATIVE
+then a free out is awarded.,awarded,out,DYNAMIC
+As of 2012 square balls are only counted,counted,balls,DYNAMIC
+if the player is inside the square,is,player,STATIVE
+when the ball is kicked from a free or set piece.,kicked,ball,DYNAMIC
+An opposing player is allowed in the square during open play.,allowed,player,STATIVE
+"* Throwing the ball (it may be ""hand-passed"" by striking with the fist).",hand-passed,it,DYNAMIC
+====Aggressive Fouls====,,,CANNOT_DECIDE
+Aggressive fouls are physical or verbal fouls,are,=,STATIVE
+committed by a player against an opponent or the referee.,committed,fouls,DYNAMIC
+"The player can be cautioned (shown a yellow card),",cautioned,player,DYNAMIC
+ordered off the pitch without a substitute,ordered,player,DYNAMIC
+"(red card), or (beginning 1 January 2014) ordered off the pitch with a substitution (Black Card).",ordered,player,DYNAMIC
+====Dissent Fouls====,,,CANNOT_DECIDE
+A dissent foul is a foul,is,=,STATIVE
+where a player fails to comply with the officials' judgment and/or instructions.,fails,player,DYNAMIC
+"The player can be cautioned (shown a yellow card), ordered off the pitch without a substitute",cautioned,player,DYNAMIC
+"(red card), the free kick placement moved 13m further down-field,",moved,player,DYNAMIC
+"or in certain circumstances, the game can be terminated.",terminated,player,DYNAMIC
+The following are considered dissent fouls:,considered,following,STATIVE
+"* To challenge the authority of a Referee, Umpire, Linesman or Sideline Official",*,considered,CANNOT_DECIDE
+* To fail to comply with a Referees instruction to use a mouth guard.,fail,*,CANNOT_DECIDE
+"* To refuse to leave the field of play, on the instruction of the Referee, for attention, after an injury",refuse,*,CANNOT_DECIDE
+involving bleeding.,involving,injury,STATIVE
+* To show dissent with the Referees decision to award a free kick to the opposing team.,*,,CANNOT_DECIDE
+* To refuse to leave the field of play,refuse,*,CANNOT_DECIDE
+when ordered off (Red Card),ordered,,DYNAMIC
+or rejoin the game after being ordered off.,rejoin,*,DYNAMIC
+* A team or player(s) leaving the field,*,,DYNAMIC
+without the Referees permission or refusing to continue playing,refusing,team,DYNAMIC
+===Scoring===,,,CANNOT_DECIDE
+"If the ball goes over the crossbar,",goes,ball,DYNAMIC
+a point is scored,scored,point,DYNAMIC
+and a white flag is raised by an umpire.,raised,point,DYNAMIC
+"A point is scored by either kicking the ball over the crossbar,",scored,point,DYNAMIC
+"or fisting it over,",fisting,,DYNAMIC
+in which case the hand must be closed whilst striking the ball.,closed,hand,STATIVE
+"If the ball goes below the crossbar,",goes,ball,DYNAMIC
+"a goal, worth three points, is scored,",scored,goal,DYNAMIC
+and a green flag is raised by an umpire.,raised,goal,DYNAMIC
+"A goal is scored by kicking the ball into the net, not by fist passing the ball into it.",scored,goal,DYNAMIC
+"However, a player can strike the ball into the net with a closed fist",strike,player,DYNAMIC
+if the ball was played to him by another player,played,ball,DYNAMIC
+or came in contact with the post/crossbar/ground prior to connection.,came,ball,DYNAMIC
+The goal is guarded by a goalkeeper.,guarded,goal,STATIVE
+Scores are recorded in the format Goal Total-Point Total.,recorded,Scores,DYNAMIC
+To determine the score-line goals must be converted to points,converted,determine,DYNAMIC
+and added to the other points.,added,determine,DYNAMIC
+"For example, in a match with a final score of Team A 021 Team B 48, Team A is the winner with 21 points,",is,A,STATIVE
+"as Team B scored only 20 points (4 times 3, plus 8).",scored,B,DYNAMIC

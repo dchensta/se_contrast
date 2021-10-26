@@ -1,0 +1,109 @@
+Clause,mainVerb,mainReferent,Gold
+"Louis Braille (, , lwi bj(); 4 January 1809  6 January 1852)",–,,CANNOT_DECIDE
+was a French educator and inventor of a system of reading and writing for use by the blind or visually impaired.,was,Braille,STATIVE
+His system remains known worldwide simply as braille.,remains,system,STATIVE
+"Blinded in both eyes as a result of an early childhood accident,",Blinded,Braille,STATIVE
+Braille mastered his disability while still a boy.,mastered,Braille,DYNAMIC
+He excelled in his education and received scholarship to France's Royal Institute for Blind Youth.,excelled,He,DYNAMIC
+"While still a student there, he began developing a system of tactile code",began,he,DYNAMIC
+that could allow blind persons to read and write quickly and efficiently.,allow,system,STATIVE
+"Inspired by the military cryptography of Charles Barbier,",Inspired,Braille,STATIVE
+Braille constructed a new method,constructed,Braille,DYNAMIC
+built specifically for the needs of the blind.,built,method,STATIVE
+He presented his work to his peers for the first time in 1824.,presented,He,DYNAMIC
+"In adulthood, Braille served as a professor at the Institute",served,Braille,DYNAMIC
+"and enjoyed an avocation as a musician,",enjoyed,Braille,DYNAMIC
+but he largely spent the remainder of his life,spent,Braille,DYNAMIC
+refining and extending his system.,extending,he,DYNAMIC
+"It went unused by most educators for many years after his death,",went,It,DYNAMIC
+"but posterity has recognized braille as a revolutionary invention,",recognized,It,DYNAMIC
+and it has been adapted for use in languages worldwide.,adapted,It,DYNAMIC
+==Early life==,=,town,CANNOT_DECIDE
+"Braille was born in Coupvray, France, a small town about twenty miles east of Paris.",born,,DYNAMIC
+He and his three elder siblings ,–,He,CANNOT_DECIDE
+"Monique Catherine Josephine Braille (b.1793), Louis-Simon Braille (b.1795), and Marie Cline Braille (b.1797)",,,CANNOT_DECIDE
+" lived with their mother, Monique, and father, Simon-Ren, on three hectares of land and vineyards in the countryside.",lived,He,STATIVE
+Simon-Ren maintained a successful enterprise as a leatherer and maker of horse tack.,maintained,Simon-René,STATIVE
+"As soon as he could walk, Braille spent time playing in his father's workshop.",spent,Braille,DYNAMIC
+"At the age of three, the child was toying with some of the tools,",toying,child,DYNAMIC
+trying to make holes in a piece of leather with an awl.,trying,child,DYNAMIC
+"Squinting closely at the surface,",Squinting,he,DYNAMIC
+"he pressed down hard to drive the point in,",pressed,he,DYNAMIC
+and the awl glanced across the tough leather,glanced,he,DYNAMIC
+and struck him in one of his eyes.,struck,awl,DYNAMIC
+A local physician bound and patched the affected eye,bound,physician,DYNAMIC
+and even arranged,arranged,physician,DYNAMIC
+"for Braille to be met the next day in Paris by a highly respected surgeon,",met,physician,CANNOT_DECIDE
+but no treatment could save the damaged organ.,save,physician,DYNAMIC
+"In agony, the young boy suffered for weeks",suffered,boy,DYNAMIC
+as the wound became severely infected; an infection,became,wound,DYNAMIC
+"which then spread to his other eye, likely due to sympathetic opthalmia.",spread,infection,DYNAMIC
+Louis Braille survived the torment of the infection,survived,Braille,DYNAMIC
+but by the age of five he was completely blind in both eyes.,was,he,STATIVE
+His devoted parents made great efforts  quite uncommon,made,parents,DYNAMIC
+"for the era  to raise their youngest child in a normal fashion,",raise,parents,CANNOT_DECIDE
+and he prospered in their care.,prospered,parents,DYNAMIC
+He learned to navigate the village and country paths with canes,learned,He,DYNAMIC
+"his father hewed for him,",hewed,father,DYNAMIC
+and he grew up seemingly at peace with his disability.,grew,He,DYNAMIC
+"Braille's bright and creative mind impressed the local teachers and priests,",impressed,bright,DYNAMIC
+and he was accommodated with higher education.,accommodated,bright,DYNAMIC
+==Education==,,,CANNOT_DECIDE
+Braille studied in Coupvray until the age of ten.,studied,Braille,DYNAMIC
+"Because of his combination of intelligence and diligence, Braille was permitted to attend one of the first schools for blind children in the world, the Royal Institute for Blind Youth,",permitted,Braille,DYNAMIC
+since renamed to the National Institute for Blind Youth in Paris.,renamed,,DYNAMIC
+"Braille, the last of the family's children to leave the household,",leave,,CANNOT_DECIDE
+departed for the school in February 1819.,departed,Braille,DYNAMIC
+"At that time the Royal Institute was an underfunded, ramshackle affair,",was,Institute,STATIVE
+but it provided a relatively stable environment,provided,affair,DYNAMIC
+for blind children to learn,learn,environment,CANNOT_DECIDE
+and associate together.,associate,environment,CANNOT_DECIDE
+===Hay system===,,,CANNOT_DECIDE
+The children were taught,taught,children,DYNAMIC
+how to read by a system,read,children,CANNOT_DECIDE
+"devised by the school's founder, Valentin Hay.",devised,system,DYNAMIC
+"Not blind himself, Hay was a committed philanthropist",was,Haüy,STATIVE
+who devoted his life to helping the blind.,devoted,philanthropist,DYNAMIC
+He designed and manufactured a small library of books for the children,designed,He,DYNAMIC
+using a technique,using,library,DYNAMIC
+of embossing heavy paper with the raised imprints of Latin letters.,embossing,technique,CANNOT_DECIDE
+"Readers would trace their fingers over the text, comprehending slowly but in a traditional fashion",trace,Readers,DYNAMIC
+which Hay could appreciate.,appreciate,Haüy,STATIVE
+"Braille was helped by the Hay books,",helped,Braille,DYNAMIC
+but he also despaired over their lack of depth:,despaired,Braille,DYNAMIC
+the amount of information kept in such books was necessarily small.,was,amount,STATIVE
+Because the raised letters were made in a complex artisanal process,made,letters,DYNAMIC
+using wet paper,using,process,DYNAMIC
+"pressed against copper wire, the children could not hope to ""write"" by themselves.",hope,children,STATIVE
+"So that the young Louis could send letters back home, Simon-Ren provided him with an alphabet",provided,Simon-René,DYNAMIC
+fashioned from bits of thick leather.,fashioned,alphabet,STATIVE
+"It was a slow and cumbersome process,",was,It,STATIVE
+but the boy could at least trace the letters',trace,process,DYNAMIC
+outlines and write his first sentences.,write,process,DYNAMIC
+The handcrafted Hay books all came in uncomfortable sizes and weights.,came,books,STATIVE
+"They were laboriously constructed, exquisitely delicate, and greatly expensive to obtain:",constructed,They,STATIVE
+"when Hay's school first opened,",opened,school,DYNAMIC
+it had a total of three books.,had,it,STATIVE
+"Despite their drawbacks, Hay promoted their use with zeal.",promoted,Haüy,DYNAMIC
+"To him, the books presented a new and handsome system",presented,books,STATIVE
+which would be readily approved by those with eyesight.,approved,system,DYNAMIC
+Certainly no better method yet existed,existed,method,STATIVE
+"for the blind to read,",read,method,CANNOT_DECIDE
+and the books seemed  to the sighted  to offer the best achievable results.,seemed,method,STATIVE
+"Braille and his schoolmates, however, could detect all too well the books' crushing limitations.",detect,Braille,DYNAMIC
+"Nonetheless, Hay's well-intentioned efforts still provided a breakthrough achievement  the recognition of the sense of touch as a workable strategy for sightless reading.",provided,efforts,DYNAMIC
+"Hay's only personal limitation was that he was ""talking to the fingers [with] the language of the eye.""",was,limitation,STATIVE
+===Teacher and musician===,,,CANNOT_DECIDE
+"Braille read the Hay books repeatedly,",read,Teacher,DYNAMIC
+and he was equally attentive to the oral instruction,was,he,STATIVE
+offered by the school.,offered,instruction,DYNAMIC
+He proved to be a highly proficient student,proved,He,DYNAMIC
+"and, after he had exhausted the school's curriculum,",exhausted,he,DYNAMIC
+he was immediately asked to remain as a teacher's aide.,asked,He,DYNAMIC
+"By 1833, he was elevated to a full professorship.",was,he,DYNAMIC
+"For much of the rest of his life, Braille stayed at the Institute",stayed,Braille,STATIVE
+"where he taught history, geometry, and algebra.",taught,he,DYNAMIC
+Braille's ear for music enabled him to become an accomplished cellist and organist in classes,enabled,ear,DYNAMIC
+taught by Jean-Nicholas Marrigues.,taught,classes,DYNAMIC
+"Later in life, his musical talents led him to play the organ for churches all over France.",led,talents,DYNAMIC
+"A devout Catholic, Braille held the position of organist in Paris at the Church of Saint-Nicolas-des-Champs from 1834 to 1839, and later at the Church of Saint-Vincent-de-Paul.",held,Braille,STATIVE

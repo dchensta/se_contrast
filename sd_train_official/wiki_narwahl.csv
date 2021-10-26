@@ -1,0 +1,193 @@
+Clause,mainVerb,mainReferent,Gold
+"The narwhal, or narwhale (Monodon monoceros),",,,CANNOT_DECIDE
+is a medium-sized toothed whale,is,narwhale,STATIVE
+"and possesses a large ""tusk"" from a protruding canine tooth.",possesses,whale,STATIVE
+"It lives year-round in the Arctic waters around Greenland, Canada, and Russia.",lives,It,STATIVE
+"It is one of two living species of whale in the Monodontidae family, along with the beluga whale.",is,It,STATIVE
+"The narwhal males are distinguished by a long, straight, helical tusk,",distinguished,males,STATIVE
+which is an elongated upper left canine.,is,tusk,STATIVE
+The narwhal was one of many species,was,narwhal,STATIVE
+described by Carolus Linnaeus in his publication Systema Naturae in 1758.,described,species,DYNAMIC
+"Like the beluga, narwhals are medium-sized whales.",are,narwhals,STATIVE
+"For both genders, excluding the male's tusk,",excluding,,CANNOT_DECIDE
+the total body size can range from ;,range,size,STATIVE
+the males are slightly larger than the females.,are,males,STATIVE
+The average weight of an adult narwhal is .,is,weight,STATIVE
+"At around 11 to 13 years old, the males become sexually mature;",become,males,DYNAMIC
+females become sexually mature at about 5 to 8 years old.,become,females,DYNAMIC
+"Narwhals do not have a dorsal fin,",have,Narwhals,STATIVE
+"and their neck vertebrae are jointed like those of other mammals, not fused as in dolphins and most whales.",jointed,Narwhals,STATIVE
+"Found primarily in Canadian Arctic and Greenlandic and Russian waters,",Found,predator,STATIVE
+the narwhal is a uniquely specialized Arctic predator.,is,narwhal,STATIVE
+"In winter, it feeds on benthic prey, mostly flatfish, under dense pack ice.",feeds,it,DYNAMIC
+"During the summer, narwhals mostly eat Arctic cod and Greenland halibut,",eat,narwhals,DYNAMIC
+with other fish such as polar cod making up the remainder of their diet.,making,narwhals,STATIVE
+"Each year, they migrate from bays into the ocean as summer comes.",migrate,they,DYNAMIC
+"In the winter, the male narwhals occasionally dive up to in depth, with dives lasting up to 25 minutes.",dive,narwhals,DYNAMIC
+"Narwhals, like most toothed whales, communicate with ""clicks"", ""whistles"",",communicate,Narwhals,DYNAMIC
+"and ""knocks"".",,,CANNOT_DECIDE
+Narwhals can live up to 50 years old.,live,Narwhals,STATIVE
+They are often killed by suffocation,killed,They,DYNAMIC
+when the sea ice freezes over.,freezes,ice,DYNAMIC
+"Another cause of fatality, specifically among young whales, is starvation.",is,cause,STATIVE
+"The current population of the narwhal is about 75,000,",is,population,STATIVE
+so narwhals qualify for Near Threatened under the criterion of the International Union for Conservation of Nature (IUCN).,qualify,narwhals,STATIVE
+"Narwhals have been harvested for over a thousand years by Inuit people in northern Canada and Greenland for meat and ivory,",harvested,Narwhals,DYNAMIC
+and a regulated subsistence hunt continues.,continues,Narwhals,DYNAMIC
+==Taxonomy and etymology==,,,CANNOT_DECIDE
+The narwhal was one of the many species,was,=,STATIVE
+originally described by Linnaeus in his Systema Naturae.,described,species,DYNAMIC
+"Its name is derived from the Old Norse word nr,",derived,name,STATIVE
+"meaning ""corpse"", in reference to the animal's greyish, mottled pigmentation, like that of a drowned sailor and its summer-time habit of lying still at or near the surface of the sea",lying,habit,STATIVE
+"(called ""logging"").",called,sea,STATIVE
+"<ref name=""Fisheries and Oceans",,,CANNOT_DECIDE
+"Canada"" />",,,CANNOT_DECIDE
+"The scientific name, Monodon monoceros, is derived from the Greek: ""one-tooth one-horn"".",derived,name,STATIVE
+The narwhal is most closely related to the beluga whale.,related,narwhal,STATIVE
+"Together, these two species comprise the only extant members of the family Monodontidae,",comprise,species,STATIVE
+"sometimes referred to as the ""white whales"".",referred,members,DYNAMIC
+The Monodontidae are distinguished by medium size,are,Monodontidae,STATIVE
+"(at around in length), forehead melons (round sensory organs), short snouts, and the absence of a true dorsal fin.",,,CANNOT_DECIDE
+"The white whales, dolphins (Delphinidae) and porpoises (Phocoenidae) together comprise the superfamily Delphinoidea,",comprise,porpoises,STATIVE
+which are of likely monophyletic origin.,are,Delphinoidea,STATIVE
+Genetic evidence suggests,suggests,evidence,STATIVE
+"the porpoises are more closely related to the white whales,",related,porpoises,STATIVE
+and that these two families constitute a separate clade,constitute,porpoises,STATIVE
+which diverged from the rest of Delphinoidea within the past 11 million years.,diverged,clade,DYNAMIC
+Fossil evidence shows,shows,evidence,STATIVE
+that ancient white whales lived in tropical waters.,lived,whales,STATIVE
+They may have migrated to Arctic and sub-Arctic waters in response to changes in the marine food chain during the Pliocene.,migrated,They,DYNAMIC
+==Description==,,,CANNOT_DECIDE
+"Narwhals are medium-sized whales,",are,Narwhals,STATIVE
+and are around the same size as beluga whales.,are,whales,STATIVE
+"Total length in both sexes, excluding the tusk of the male, can range from .",excluding,,STATIVE
+"Males, at an average length of , are slightly larger than females, with an average length of .",are,Males,STATIVE
+Typical adult body weight ranges from .,ranges,weight,STATIVE
+"Male narwhals attain sexual maturity at 11 to 13 years of age,",attain,narwhals,DYNAMIC
+when they are about long.,are,about,STATIVE
+"Females become sexually mature at a younger age, between 5 to 8 years old,",become,Females,DYNAMIC
+when they are around long.,are,they,STATIVE
+"The pigmentation of narwhals is a mottled pattern, with blackish-brown markings over a white background.",is,pigmentation,STATIVE
+They are darkest,are,They,STATIVE
+when born and become whiter with age;,born,,DYNAMIC
+white patches develop on the navel and genital slit at sexual maturity.,develop,patches,DYNAMIC
+Old males may be almost pure white.,be,males,STATIVE
+"Narwhals do not have a dorsal fin, possibly an evolutionary adaptation to swimming easily under ice.",have,Narwhals,STATIVE
+"Their neck vertebrae are jointed, like those of land mammals,",jointed,vertebrae,STATIVE
+instead of being fused together as in most whales.,fused,vertebrae,STATIVE
+Both these characteristics are shared by the beluga whale.,shared,characteristics,STATIVE
+The tail flukes of female narwhals have front edges,have,flukes,STATIVE
+"that are swept back,",swept,edges,STATIVE
+and those of males have front edges,have,flukes,STATIVE
+that are more concave,are,edges,STATIVE
+and lack a sweep-back.,lack,edges,STATIVE
+This is thought to be an adaptation for reducing drag,thought,This,STATIVE
+caused by the tusk.,caused,drag,STATIVE
+===Tusk===,=,tusk,CANNOT_DECIDE
+"The most conspicuous characteristic of the male narwhals are their single extremely long tusk, a canine tooth",are,=,STATIVE
+"that projects from the left side of the upper jaw, through the lip",projects,tooth,STATIVE
+and forms a left-handed helix spiral.,forms,tooth,STATIVE
+"Their tusks grow throughout life,",grow,tusks,DYNAMIC
+reaching lengths from about 1.5 to 3.1 m (4 ft 11 in to 10 ft 2 in).,reaching,,DYNAMIC
+It is hollow,is,It,STATIVE
+and weighs around 10 kg (22 lb).,weighs,It,STATIVE
+"About one in 500 males has two tusks,",has,males,STATIVE
+which occurs,occurs,tusks,DYNAMIC
+"when the right canine, also grows out through the lip.",grows,canine,DYNAMIC
+Females sometimes grow tusks,grow,Females,DYNAMIC
+; although only about 15 percent of females have a tusk,have,percent,STATIVE
+"and female tusks are smaller than those of males, with a less noticeable spiral.",are,have,STATIVE
+"Females may produce a second tusk,",produce,Females,DYNAMIC
+but there is only a single recorded case of such happening.,is,Females,STATIVE
+"The tusks are surrounded posteriorly, ventrally, and laterally by several small teeth",surrounded,tusks,STATIVE
+which vary in morphology and histology.,vary,teeth,STATIVE
+"These teeth are vestigial,",are,teeth,STATIVE
+and can sometimes be extruded from the bone,be,teeth,DYNAMIC
+and the narwhal's mouth usually appears toothless.,appears,teeth,DYNAMIC
+"Biology traditionally considers the tusk a secondary sexual characteristic, similar to the mane of a lion or the tail feathers of a peacock.",considers,characteristic,STATIVE
+"It may help determine social rank,",help,It,DYNAMIC
+"maintain dominance hierarchies,",maintain,,STATIVE
+or help young males develop skills necessary for performance in adult sexual roles.,help,,DYNAMIC
+"Narwhals have rarely been observed using their tusk for fighting, other aggressive behaviors, or for breaking sea ice in their Arctic habitat.",observed,Narwhals,DYNAMIC
+The tusk is an innervated sensory organ with millions of patent nerve endings,is,tusk,STATIVE
+connecting the external ocean environment with the brain.,connecting,endings,DYNAMIC
+There is at least one recorded case of a tusk,is,case,STATIVE
+being used against another species.,used,tusk,DYNAMIC
+"A broken tusk was found embedded in the melon of a beluga,",found,tusk,DYNAMIC
+suggesting a fight.,suggesting,,STATIVE
+==Distribution==,,,CANNOT_DECIDE
+The narwhal is found predominantly in the Atlantic and Russian areas of the Arctic Ocean.,found,narwhal,DYNAMIC
+"Individuals are commonly recorded in the northern part of Hudson Bay, Hudson Strait, Baffin Bay",recorded,Individuals,DYNAMIC
+; off the east coast of Greenland; and in a strip running east from the northern end of Greenland round to eastern Russia (170 East).,running,strip,STATIVE
+"Land in this strip includes Svalbard, Franz Joseph Land, and Severnaya Zemlya.",includes,Land,STATIVE
+"The northernmost sightings of narwhal have occurred north of Franz Joseph Land, at about 85 North latitude.",occurred,sightings,DYNAMIC
+Most of the world's narwhals are concentrated in the fjords and inlets of Northern Canada and western Greenland.,concentrated,Most,STATIVE
+They are able to survive in depths of up to below sea level.,are,They,STATIVE
+===Migration===,,,CANNOT_DECIDE
+"Narwhals exhibit seasonal migrations, with a high fidelity of return to preferred, ice-free summering grounds, usually in shallow waters.",summering,,STATIVE
+"In summer months, they move closer to coasts, usually in pods of 10100.",move,they,DYNAMIC
+"In the winter, they move to offshore, deeper waters under thick pack ice,",move,they,DYNAMIC
+"surfacing in narrow fissures in the sea ice, or leads.",surfacing,they,DYNAMIC
+"As spring comes, these leads open up into channels and the narwhals return to the coastal bays.",open,leads,DYNAMIC
+Narwhals from Canada and West Greenland winter regularly in the pack ice of Davis Strait and Baffin Bay along the continental slope with less than 5% open water and high densities of Greenland halibut.,open,Narwhals,DYNAMIC
+Feeding in the winter accounts for a much larger portion of narwhal energy intake than in the summer.,accounts,Feeding,STATIVE
+==Behaviour==,,,CANNOT_DECIDE
+"Narwhals normally congregate in groups of about five to ten, and sometimes up to 20 outside the summer.",congregate,Narwhals,DYNAMIC
+"Groups may be ""nurseries"" with only females and young,",be,Groups,STATIVE
+or can contain only post-dispersal juveniles or adult males,contain,nurseries,STATIVE
+"(""bulls""), but mixed groups can occur at any time of year.",occur,nurseries,DYNAMIC
+"In the summer, several groups come together,",come,groups,DYNAMIC
+forming larger aggregations,forming,,DYNAMIC
+which can contain from 500 to over 1000 individuals.,contain,aggregations,STATIVE
+"At times, bull narwhals rub their tusks together,",rub,narwhals,DYNAMIC
+"which is known as ""tusking"".",known,tusks,STATIVE
+This is thought to maintain social dominance hierarchies or maintenance of the tusk as a sensitive sensory organ.,thought,This,STATIVE
+===Diet===,,,CANNOT_DECIDE
+Narwhals have a relatively restricted and specialized diet.,have,=,STATIVE
+"Their prey is predominantly composed of Greenland halibut, polar and Arctic cod, cuttlefish, shrimp and armhook squid.",composed,prey,STATIVE
+"Additional items found in stomachs have included wolffish, capelin, skate eggs and sometimes rocks,",included,items,STATIVE
+accidentally ingested,ingested,items,DYNAMIC
+when whales feed near the bottom.,feed,whales,DYNAMIC
+"Due to the lack of well-developed dentition in the mouth, narwhals are believed to feed by swimming towards prey",believed,narwhals,STATIVE
+until it is within close range,is,it,STATIVE
+and then sucking it with considerable force into the mouth.,sucking,narwhals,DYNAMIC
+It is thought,thought,It,STATIVE
+"that the beaked whales, which have similarly reduced dentition,",reduced,whales,STATIVE
+also suck up their prey.,suck,whales,DYNAMIC
+Narwhals have a very intense summer feeding society.,have,Narwhals,STATIVE
+One study published in the Canadian Journal of Zoology tested 73 narwhals of different age and gender to see,tested,study,DYNAMIC
+what they ate.,ate,they,DYNAMIC
+The individuals were from the Pond Inlet,were,individuals,STATIVE
+and had their stomach contents,had,individuals,CANNOT_DECIDE
+tested from June 1978 until September 1979.,tested,contents,DYNAMIC
+The study found in 1978,found,study,DYNAMIC
+"that the Arctic cod (Boreogadus saida) made up about 51% of the diet of the narwhals, with the next most common animal being the Greenland halibut",made,cod,STATIVE
+"(Reinhardtius hippoglossoides), consisting of 37% of the weight of their diet.",consisting,halibut,STATIVE
+"A year later, the percentages of both animals in the diet of narwhals had changed.",changed,percentages,DYNAMIC
+"Arctic cod represented 57%, and Greenland halibut 29% in 1979.",represented,cod,STATIVE
+"The deep-water fish - halibut, redfish (Sebastes marinus), and polar cod (Arctogadus glacialis) -",,,CANNOT_DECIDE
+"are found in the diet of the males,",found,fish,STATIVE
+which means that the narwhals can dive deeper than below sea level.,means,diet,DYNAMIC
+The study found,found,study,DYNAMIC
+that the dietary needs of the narwhal did not differ among genders or ages.,differ,needs,STATIVE
+===Diving===,,,CANNOT_DECIDE
+"When in their wintering waters, narwhals make some of the deepest dives",make,narwhals,DYNAMIC
+"recorded for a marine mammal, diving to at least over 15 times per day,",recorded,dives,DYNAMIC
+"with many dives reaching 1,500 metres (4,900 feet).",reaching,dives,DYNAMIC
+"Dives to these depths last around 25 minutes,",,,STATIVE
+including the time,including,,STATIVE
+spent at the bottom and the transit down and back from the surface.,spent,time,DYNAMIC
+===Communication===,,,CANNOT_DECIDE
+"As with most toothed whales, narwhals use sound to navigate and hunt for food.",use,narwhals,DYNAMIC
+"""Clicks"", ""whistles"" and ""knocks"", may be created via air between chambers near the blow-hole,",created,Clicks,DYNAMIC
+and reflected off the sloping front of the skull.,reflected,Clicks,DYNAMIC
+"These sounds are then focused by the animal's melon,",focused,sounds,DYNAMIC
+which can be controlled by musculature.,controlled,melon,DYNAMIC
+"""Click trains"" are produced both for echo-location of prey, and for locating obstacles at short distances.",produced,trains,DYNAMIC
+It is possible,is,It,STATIVE
+"that individual ""bangs"" are capable of disorienting or incapacitating prey,",are,bangs,STATIVE
+"making them easier to hunt,",making,disorienting,DYNAMIC
+but this has not been verified.,verified,It,DYNAMIC
+"The whistles of a narwhal are rarely heard,",heard,whistles,DYNAMIC
+especially compared to the beluga.,compared,,STATIVE
+Other sounds produced by narwhals include trumpeting and squeaking door sounds.,include,sounds,STATIVE

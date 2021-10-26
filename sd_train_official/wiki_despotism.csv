@@ -1,0 +1,74 @@
+Clause,mainVerb,mainReferent,Gold
+Despotism is a form,is,Despotism,STATIVE
+of government in which a single entity rules with absolute power.,rules,entity,STATIVE
+"That entity may be an individual, as in an autocracy,",be,entity,STATIVE
+"or it may be a group, as in an oligarchy.",be,it,STATIVE
+"The word despotism means to ""rule in the fashion of a despot""",means,despotism,STATIVE
+"and does not necessarily require a singular ""despot"", an individual.",require,despotism,STATIVE
+"Despot comes from the Greek despotes,",comes,Despot,STATIVE
+"which roughly means ""master"" or ""one with power"",",means,despotes,STATIVE
+and it has been used to translate a wide variety of titles and positions.,used,Despot,DYNAMIC
+"It was used to describe the unlimited power and authority of the Pharaohs of Egypt,",used,It,DYNAMIC
+"employed in the Byzantine court as a title of nobility,",employed,It,DYNAMIC
+"used by the rulers of Byzantine vassal states,",used,It,DYNAMIC
+and adopted as a title of the Byzantine Emperors.,adopted,It,DYNAMIC
+"Thus, despot is found to have different meanings and interpretations at various times in history and cannot be described by a single definition.",found,despot,DYNAMIC
+"This is similar to the other Greek titles basileus and autokrator,",is,This,STATIVE
+"which, along with despot, have been used at various times to describe everything from a local chieftain to a simple ruler, king or emperor.",used,titles,DYNAMIC
+"Colloquially, despot has been applied pejoratively to a person, particularly a head of state or government,",applied,despot,DYNAMIC
+"who abuses their power and authority to oppress their people, subjects or subordinates.",abuses,person,DYNAMIC
+"In this sense, it is similar to the pejorative connotations",is,it,STATIVE
+that have likewise arisen with the term tyrant.,arisen,connotations,DYNAMIC
+"Dictator has also developed nearly similar pejorative connotations,",developed,Dictator,DYNAMIC
+"though despot and tyrant tend to stress cruelty and even enjoyment therefrom,",tend,tyrant,STATIVE
+while dictator tends to imply more harshness or unfair implementation of law.,tends,dictator,STATIVE
+==History==,,,CANNOT_DECIDE
+"In its classical form, despotism is a state",is,despotism,STATIVE
+in which a single individual (the despot) wields all the power and authority,wields,individual,STATIVE
+"embodying the state,",embodying,individual,STATIVE
+and everyone else is a subsidiary person.,is,everyone,STATIVE
+This form of despotism was common in the first forms of statehood and civilization;,was,form,STATIVE
+the Pharaoh of Egypt is exemplary of the classical despot.,is,Pharaoh,STATIVE
+"The word itself seems to have been coined by the opponents of Louis XIV of France in the 1690s,",seems,itself,STATIVE
+who applied the term despotisme to describe their monarch's somewhat free exercise of power.,applied,1690s,DYNAMIC
+"The word is ultimately Greek in origin,",Greek,word,STATIVE
+"and in ancient Greek usage, a despot (despts) was technically a master",was,despot,STATIVE
+who ruled in a household over those,ruled,master,DYNAMIC
+who were slaves or servants by nature.,were,those,STATIVE
+The term now implies tyrannical rule.,implies,term,STATIVE
+Despotism can mean tyranny,mean,Despotism,STATIVE
+"(dominance through threat of punishment and violence), or absolutism; or dictatorship (a form of government in which the ruler is an absolute dictator, not restricted by a constitution, laws or opposition, etc.)",is,restricted,STATIVE
+"However, in enlightened absolutism",,,CANNOT_DECIDE
+"(also known as benevolent despotism),",known,absolutism,STATIVE
+"which came to prominence in 18th century Europe, absolute monarchs used their authority to institute a number of reforms in the political systems and societies of their countries.",used,monarchs,DYNAMIC
+This movement was quite probably triggered by the ideals of the Age of Enlightenment.,triggered,movement,DYNAMIC
+The Enlightenment philosopher Montesquieu believed,believed,Montesquieu,STATIVE
+that despotism was an appropriate government for large states.,was,despotism,STATIVE
+"Likewise, he believed",believed,he,STATIVE
+that republics were suitable for small states,were,republics,STATIVE
+and that monarchies were ideal for moderate-sized states.,were,monarchies,STATIVE
+"Although the word has a pejorative meaning nowadays,",has,word,STATIVE
+it was once a legitimate title of office in the Byzantine Empire.,was,it,STATIVE
+"Just as the word Byzantine is often used in a pejorative way,",used,Byzantine,DYNAMIC
+so the word despot now has equally negative connotations.,has,despot,STATIVE
+"In fact, Despot was an Imperial title,",was,Despot,STATIVE
+first used under Manuel I Komnenos (11431180),used,title,DYNAMIC
+who created it for his appointed heir Alexius-Bla.,created,title,DYNAMIC
+"According to Gyula Moravcsik,",According,,STATIVE
+"this title was a simple translation of Bla's Hungarian title r,",was,title,STATIVE
+but other historians believe,believe,translation,STATIVE
+"it comes from the ancient Greek despotes (literally, the master).",comes,it,STATIVE
+"In the Orthodox Liturgy, if celebrated in Greek, the priest is addressed by the deacon as Despot even today.",addressed,priest,DYNAMIC
+It was typically bestowed on sons-in-law and later sons of the Emperor,bestowed,It,DYNAMIC
+"and, beginning in the 13th century,",beginning,,DYNAMIC
+it was bestowed to foreign princes.,bestowed,It,DYNAMIC
+The Despot wore elaborate costumes similar to the Emperor's,wore,Despot,STATIVE
+and had many privileges.,had,Despot,STATIVE
+Despots ruled over parts of the empire,ruled,Despots,DYNAMIC
+called Despotates.,called,empire,STATIVE
+"The United States Declaration of Independence accused the British government of ""a long train of abuses and usurpations,",accused,Declaration,DYNAMIC
+"pursuing invariably the same Object,",pursuing,government,DYNAMIC
+"evinc[ing] a design to reduce people under absolute Despotism"".",],ing,DYNAMIC
+==Contrast with absolute monarchy==,=,Contrast,CANNOT_DECIDE
+"According to Montesquieu, the difference between absolute monarchy and despotism is that in the case of the monarchy,",According,,STATIVE
+a single person governs with absolute power.,governs,person,DYNAMIC

@@ -1,0 +1,35 @@
+Clause,mainVerb,mainReferent,Gold
+"docno=""lists-046-11485666""",,,CANNOT_DECIDE
+"name=""Raman T. V.""",,,CANNOT_DECIDE
+"email=""raman@mv.us.adobe.com """,,,CANNOT_DECIDE
+"sent=""Mon, 18 Mar 1996 09:23:53 -0800""",sent,raman@mv.us.adobe.com,CANNOT_DECIDE
+"subject=""A short comment:""",,,CANNOT_DECIDE
+To: w3c-math-erb@w3.org,,,CANNOT_DECIDE
+Cc: raman@mv.us.adobe.com,,,CANNOT_DECIDE
+I'll mail this out,mail,I,DYNAMIC
+while it's fresh in my head:,'s,it,STATIVE
+The document,,,CANNOT_DECIDE
+http://www.w3.org/pub/WWW/MarkUp/Math/Group/Wolfram/general.html,,,CANNOT_DECIDE
+contains the following statement,contains,http://www.w3.org/pub/WWW/MarkUp/Math/Group/Wolfram/general.html,STATIVE
+which I completely disagree with (at least as stated here).,disagree,I,STATIVE
+Rendering into other media,Rendering,,CANNOT_DECIDE
+"(such as speech) is expected to communicate, essentially, a ""mental picture"" of the 2-dimensional form of an expression.",expected,Rendering,STATIVE
+"(Rationale: since almost all mathematics is conventionally expressed in 2-dimensional graphical form, most notations in that medium have no standard version in other media.)",have,Rationale,DYNAMIC
+Reason I disagree:,disagree,I,STATIVE
+"Renderings in speech need to convey more than a ""2D picture"" of the expression.",need,Renderings,STATIVE
+Check out (listen to ) some of the demos on my AsTeR WWW site--,Check,,CANNOT_DECIDE
+they make the point about spoken renderings,make,they,DYNAMIC
+being *independent* of the visual 2D layout far better than I am capable of in a plain-text email message.,*,renderings,STATIVE
+"Given that the contentious statement appears in our ""rationale"" document,",Given,thought,STATIVE
+I thought,thought,I,STATIVE
+it sufficiently importatn to have clarified.,clarified,,CANNOT_DECIDE
+--Raman,,,CANNOT_DECIDE
+"Thanks, --Raman",,,CANNOT_DECIDE
+--,,,CANNOT_DECIDE
+"Best Regards,",,,CANNOT_DECIDE
+--raman,,,CANNOT_DECIDE
+"Adobe Systems Tel: 1 (415) 962 3945 (B-1 115) Advanced Technology Group Fax: 1 (415) 962 6063 1585 Charleston Road Email: raman@adobe.com Mountain View, CA 94039 -7900 raman@cs.cornell.edu",,,CANNOT_DECIDE
+http://www-atg/People/Raman.html (Internal To Adobe),,,CANNOT_DECIDE
+http://www.cs.cornell.edu/Info/People/raman/raman.html (Cornell),,,CANNOT_DECIDE
+Disclaimer: The opinions expressed are my own,expressed,opinions,STATIVE
+"and in no way should be taken as representative of my employer, Adobe Systems Inc.",taken,way,DYNAMIC

@@ -1,0 +1,45 @@
+Clause,mainVerb,mainReferent,Gold
+"docno=""lists-034-10062451""",,,CANNOT_DECIDE
+"name=""Tom Stephens""",,,CANNOT_DECIDE
+"email=""tomste@microsoft.com""",,,CANNOT_DECIDE
+"sent=""Fri, 19 Apr 1996 19:32:07 -0700""",sent,tomste@microsoft.com,CANNOT_DECIDE
+"subject=""RE: Merged Transport Layer Protocol Development""",,,CANNOT_DECIDE
+"To: ""'ietf-tls@w3.org'"" <ietf-tls@w3.org>",ietf-tls@w3.org',,CANNOT_DECIDE
+"Cc: ""'tls-draft@w3.org'"" <tls-draft@w3.org>",tls-draft@w3.org',,CANNOT_DECIDE
+Tls-draft was created specifically as a forum for the discussion of the Microsoft STLP strawman document.,created,tls-draft@w3.org',DYNAMIC
+The reason for this is that the STLP strawman document is not an official IETF document.,is,reason,STATIVE
+"Win Treese, Microsoft and Netscape did not want this document to be confused in any way",want,Microsoft,STATIVE
+with the actual spec that is being developed by the working group.,developed,spec,DYNAMIC
+"However, since the consensus of the emails is to discuss the STLP strawman document on ietf-tls,",is,consensus,STATIVE
+then Microsoft does not object.,object,Microsoft,DYNAMIC
+"To facilitate the discussion,",facilitate,,CANNOT_DECIDE
+you can find the STLP strawman document at:,find,you,DYNAMIC
+http://pct.microsoft.com/stlp.,,,CANNOT_DECIDE
+Tom Stephens,,,CANNOT_DECIDE
+----------,,,CANNOT_DECIDE
+From: Eric Murray[SMTP:ericm@lne.com],,,CANNOT_DECIDE
+"Sent: Friday, April 19, 1996 3:18 PM",,,CANNOT_DECIDE
+To: Tom Stephens,,,CANNOT_DECIDE
+Cc: ietf-tls@w3.org,,,CANNOT_DECIDE
+Subject: Re: Merged Transport Layer Protocol Development,,,CANNOT_DECIDE
+Tom Stephens writes:,writes,From,DYNAMIC
+David made some excellent points,made,David,DYNAMIC
+regarding STLP.,regarding,,STATIVE
+These points and others will be discussed in some detail on tls-draft@w3.org - as that is the alias for discussion of the STLP strawman document.,discussed,points,DYNAMIC
+"If you are not a member of that alias,",are,you,STATIVE
+I would strongly encourage you to join and participate in the discussion.,encourage,I,DYNAMIC
+"To join the tls-draft alias,",join,,CANNOT_DECIDE
+send an mail to tls-draft-request@,send,join,CANNOT_DECIDE
+"w3.org with the word ""subscribe"" in the subject line.",subscribe,join,CANNOT_DECIDE
+"Perhaps I don't understand IETF procedure,",understand,I,STATIVE
+but I am puzzled as to why there is now a second mailing list.,puzzled,I,STATIVE
+It's not like the original TLS list is getting too much traffic.,like,It,STATIVE
+"In fact, it's not getting enough traffic...",getting,it,DYNAMIC
+"for one, I can't find any reference to any mail",find,I,DYNAMIC
+"that included the URL for the STLP ""strawman"".",included,mail,STATIVE
+Where is it?,is,it,CANNOT_DECIDE
+--,,,CANNOT_DECIDE
+Eric Murray ericm@lne.com ericm@motorcycle.com,,,CANNOT_DECIDE
+http://www.lne.com/ericm,,,CANNOT_DECIDE
+PGP keyid:E03F65E5 fingerprint:50 B0 A2 4C 7D 86 FC 03 92 E8 AC E6 7E,keyid,PGP,CANNOT_DECIDE
+27 29 AF,,,CANNOT_DECIDE

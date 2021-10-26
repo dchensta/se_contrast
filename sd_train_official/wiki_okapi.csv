@@ -1,0 +1,148 @@
+Clause,mainVerb,mainReferent,Gold
+"The okapi /okpi/ (Okapia johnstoni), also known as the forest giraffe or zebra giraffe,",known,/,STATIVE
+"is a giraffid artiodactyl mammal native to the Ituri Rainforest,",is,/,STATIVE
+located in the northeast of the Democratic Republic of the Congo in Central Africa.,located,Rainforest,STATIVE
+"Although the okapi bears striped markings reminiscent of zebras,",bears,okapi,STATIVE
+it is most closely related to the giraffe.,related,it,STATIVE
+The okapi and the giraffe are the only living members of the family Giraffidae.,are,okapi,STATIVE
+The animal was brought to prominent European attention by speculation,brought,animal,DYNAMIC
+on its existence found in popular press reports,found,existence,DYNAMIC
+covering Henry Morton Stanley's journeys in 1887.,covering,speculation,STATIVE
+Remains of a carcass were later sent to London by the English adventurer and colonial administrator Harry Johnston,sent,Remains,DYNAMIC
+and became a media event in 1901.,became,Remains,DYNAMIC
+A 2013 study determined,determined,study,DYNAMIC
+"there are 10,000 okapis",are,okapis,STATIVE
+"remaining in the wild, down from 40,000 a decade ago.",remaining,okapis,STATIVE
+"The same year, the okapi was reclassified as an endangered species.",reclassified,okapi,DYNAMIC
+==Etymology==,,,CANNOT_DECIDE
+"The generic name Okapia derives from the Lese Karo name o'api,",derives,Okapia,STATIVE
+"while the specific name (johnstoni) is in recognition of the British Governor of Uganda, Harry Johnston,",is,name,STATIVE
+who first acquired an okapi specimen for science from the Ituri Forest,acquired,Uganda,DYNAMIC
+while repatriating a group of Pygmies to the Belgian Congo.,repatriating,Uganda,DYNAMIC
+==Characteristics and behavior==,,,CANNOT_DECIDE
+"Okapis have reddish dark backs, with striking horizontal white stripes on the front and back legs,",have,Okapis,STATIVE
+making them resemble zebras from a distance.,making,Characteristics,STATIVE
+These markings possibly help young follow their mothers through the dense rain forest,help,markings,DYNAMIC
+and may also serve as camouflage.,serve,young,DYNAMIC
+"The body shape is similar to that of the giraffe,",is,shape,STATIVE
+except okapis have much shorter necks.,have,giraffe,STATIVE
+"Like the giraffe, the okapi has long legs and a robust body.",has,okapi,STATIVE
+Both species have very long,have,species,STATIVE
+"(about 35-cm), flexible tongues used to strip leaves and buds from trees.",used,tongues,DYNAMIC
+The okapi's tongue is also long enough for the animal to wash its eyelids,is,tongue,STATIVE
+and clean its ears (inside and out).,clean,animal,CANNOT_DECIDE
+This sticky tongue is pointed and bluish-grey in colour like that of the giraffe.,pointed,tongue,STATIVE
+"Male okapis have short, skin-covered horns",have,okapis,STATIVE
+called ossicones.,called,horns,STATIVE
+"Their large ears help them detect their predator, the leopard.",help,ears,DYNAMIC
+Okapis are 1.9 to 2.5 m (6.2 to 8.2 ft) long,are,Okapis,STATIVE
+(from the head to the base of the tail) and stand 1.5 to 2.0 m (4.9 to 6.6 ft) high at the shoulder.,stand,m,STATIVE
+They have 30- to 42-cm-long tails.,-,They,STATIVE
+Their weight ranges from 200 to 350 kg (440 to 770 lb).,ranges,weight,STATIVE
+"Okapis are primarily diurnal,",are,Okapis,STATIVE
+although recent photo captures have challenged this long-held assumption.,challenged,captures,DYNAMIC
+"One photograph of an okapi feeding in the Watalinga Forest of Virunga National Park, was taken at half-past two in the early morning,",taken,photograph,DYNAMIC
+thus demonstrating,demonstrating,,DYNAMIC
+that they also feed at night.,feed,they,DYNAMIC
+"Okapis are essentially solitary,",are,Okapis,STATIVE
+"coming together only to breed, with the exception of mothers and offspring.",coming,,DYNAMIC
+"Breeding behaviours include sniffing,",include,behaviours,STATIVE
+"circling,",circling,include,CANNOT_DECIDE
+and licking each other.,licking,include,CANNOT_DECIDE
+"Okapis forage along fixed, well-trodden paths through the forest.",forage,Okapis,DYNAMIC
+They have overlapping home ranges of several square kilometers,have,They,STATIVE
+and typically occur at densities of about 0.6 animals per km2 (about 1.5 animals per mi2).,occur,They,DYNAMIC
+"They are not social animals,",are,They,STATIVE
+"and prefer to live in large, secluded areas.",prefer,animals,STATIVE
+This has led to problems with the okapi population due to the shrinking size of their habitats.,led,This,DYNAMIC
+This lack of territory is caused by human land development and other limiting social factors.,caused,lack,STATIVE
+"Okapis have several methods of communicating their territory,",have,Okapis,STATIVE
+including scent glands on each foot,including,,STATIVE
+"that produce a tar-like substance, as well as urine marking.",produce,foot,DYNAMIC
+"The male is protective of his territory,",is,male,STATIVE
+but allows females to pass through the domain to forage.,allows,protective,DYNAMIC
+"A number of okapis in zoos exhibit monosomy, a condition in which one copy of a chromosome is missing.",missing,copy,STATIVE
+Some okapis have 46 chromosomes,have,okapis,STATIVE
+while others have 45.,have,others,STATIVE
+This type of monosomy is often referred to as Robertsonian fusion.,referred,type,DYNAMIC
+Okapis with 45 or 46 chromosomes produce healthy viable offspring.,produce,Okapis,DYNAMIC
+==Habitat==,,,CANNOT_DECIDE
+"Okapis prefer altitudes of 500 to 1,000 m,",prefer,Okapis,STATIVE
+"but may venture above 1,000 m in the eastern montane rainforests.",venture,Okapis,DYNAMIC
+"Because of a considerable amount of rain in these forests, okapis have oily, velvety fur coats",have,okapis,STATIVE
+that repel the water.,repel,coats,DYNAMIC
+"The okapi's range is limited by high montane forests to the east,",limited,range,STATIVE
+"swamps to the southeast,",,,CANNOT_DECIDE
+"swamp forests below 500 m to the west, savannas of the Sahel/Sudan to the north, and open woodlands to the south.",,,CANNOT_DECIDE
+They are most commonly found in the Wamba and Epulu areas.,are,They,DYNAMIC
+==Diet==,,,CANNOT_DECIDE
+"Okapis are herbivores,",are,Okapis,STATIVE
+"feeding on tree leaves and buds, grasses, ferns, fruits, and fungi.",feeding,,DYNAMIC
+Many of the plant species on which okapis feed are poisonous to humans.,are,Many,STATIVE
+Examination of okapi feces has revealed,revealed,Examination,DYNAMIC
+they consume charcoal from trees,consume,they,DYNAMIC
+burnt by lightning.,burnt,trees,STATIVE
+Field observations indicate,indicate,observations,DYNAMIC
+"their mineral and salt requirements are filled primarily by a sulfurous, slightly salty, reddish clay",filled,mineral,DYNAMIC
+found near rivers and streams.,found,clay,DYNAMIC
+==History==,,,CANNOT_DECIDE
+"Although the okapi was unknown to the Western world until the 20th century,",was,okapi,STATIVE
+"it may have been depicted since the early fifth century BCE on the faade of the Apadana at Persepolis, a gift from the Ethiopian procession to the Achaemenid kingdom.",depicted,it,STATIVE
+"For years, Europeans in Africa had heard of an animal",heard,Europeans,DYNAMIC
+that they came to call the 'African unicorn'.,came,they,DYNAMIC
+"In his travelogue of exploring the Congo, Henry Morton Stanley mentioned a kind of donkey",mentioned,Stanley,DYNAMIC
+"that the natives called the atti,",called,natives,STATIVE
+which scholars later identified as the okapi.,identified,scholars,DYNAMIC
+Explorers may have seen the fleeting view of the striped backside,seen,Explorers,DYNAMIC
+"as the animal fled through the bushes, leading to speculation",fled,animal,DYNAMIC
+that the okapi was some sort of rainforest zebra.,was,okapi,STATIVE
+"When the British governor of Uganda, Sir Harry Johnston, discovered some pygmy inhabitants of the Congo",discovered,governor,DYNAMIC
+"being abducted by a showman for exhibition,",abducted,inhabitants,DYNAMIC
+he rescued them,rescued,he,DYNAMIC
+and promised to return them to their homes.,promised,he,DYNAMIC
+The grateful pygmies fed Johnston's curiosity about the animal,fed,pygmies,DYNAMIC
+mentioned in Stanley's book.,mentioned,animal,DYNAMIC
+Johnston was puzzled by the okapi tracks,puzzled,Johnston,STATIVE
+the natives showed him;,showed,natives,DYNAMIC
+"while he had expected to be on the trail of some sort of forest-dwelling horse,",expected,he,DYNAMIC
+the tracks were of a cloven-hoofed beast.,were,tracks,STATIVE
+"Though Johnston did not see an okapi himself,",see,Johnston,DYNAMIC
+he did manage to obtain pieces of striped skin and eventually a skull.,manage,he,DYNAMIC
+"From this skull, the okapi was correctly classified as a relative of the giraffe;",classified,okapi,DYNAMIC
+"in 1901, the species was formally recognized as Okapia johnstoni.",recognized,species,DYNAMIC
+The okapi is sometimes referred to as an example of a living fossil.,referred,okapi,DYNAMIC
+==In captivity==,=,captivity,CANNOT_DECIDE
+The first okapi to arrive in Europe was in 1918 to Antwerp Zoo.,was,=,STATIVE
+"In 1937, the first okapi arrived in North America to the Bronx Zoo.",arrived,okapi,DYNAMIC
+"The first okapi birth in captivity occurred at the Stanleyville Zoo in the Belgian Congo on April 19, 1941.",occurred,birth,DYNAMIC
+"In 1928, the American anthropologist Patrick Putnam founded the capture station",founded,Putnam,DYNAMIC
+"known as ""Epulu"" in the Belgian Congo,",known,station,STATIVE
+where okapis were captured for shipment to zoos.,captured,okapis,DYNAMIC
+"Today this is the Okapi Breeding and Research Station,",is,this,STATIVE
+located in Okapi Wildlife Reserve in the northeastern part of the Democratic Republic of Congo.,located,Breeding,STATIVE
+"As of 2014, 176 okapis live in zoos.",live,okapis,STATIVE
+"The majority of them, 94, are in the United States.",are,majority,STATIVE
+"There is also 69 in Europe, seven in Japan, four in United Arab Emirates, and two in South Africa.",is,two,STATIVE
+The Brookfield Zoo directs the Okapi Species Survival Plan,directs,Zoo,DYNAMIC
+(SSP) for the Association of Zoos and Aquariums.,,,CANNOT_DECIDE
+The European Endangered Species Programme (EEP),,,CANNOT_DECIDE
+for the okapi is led by the Antwerp Zoo,led,Programme,STATIVE
+which also keeps the International Okapi Studbook.,keeps,Zoo,STATIVE
+"The zoos which participate in the Okapi SSP and EEP, as well as other zoos, are important sources of funding for the Okapi Conservation Project",are,zoos,STATIVE
+aimed at conserving the okapi in the wild.,aimed,funding,STATIVE
+==Wild status==,,,CANNOT_DECIDE
+Okapis are classified as endangered since 2013;,classified,status,STATIVE
+they are endangered by habitat destruction and poaching.,endangered,they,STATIVE
+"The world population is estimated at 10,000.",estimated,population,STATIVE
+"Conservation work in the Democratic Republic of the Congo by the Okapi Conservation Project includes the continuing study of okapi behaviour and lifestyle,",includes,work,STATIVE
+which led to the creation in 1992 of the Okapi Wildlife Reserve.,led,study,DYNAMIC
+The Congo Civil War threatened both the wildlife and the conservation workers in the reserve.,threatened,War,DYNAMIC
+"An important captive-breeding centre at Epulu, at the heart of the reserve, is managed jointly by the Congolese Institute for Nature Conservation",managed,centre,STATIVE
+"(ICCN) and Gilman International Conservation, which in turn receives support from other organisations",receives,Conservation,DYNAMIC
+"including UNESCO, the Frankfurt Zoological Society and WildlifeDirect as well as from zoos around the world.",including,,CANNOT_DECIDE
+The Wildlife Conservation Society is also active in the Okapi Wildlife Reserve.,is,Society,STATIVE
+"On 8 June 2006, scientists reported evidence of surviving okapis in Congo's Virunga National Park.",reported,scientists,DYNAMIC
+"This had been the first official okapi sighting in that park since 1959, after nearly half a century.",been,This,STATIVE
+"In September 2008, the Wildlife Conservation Society reported",reported,Society,DYNAMIC
+one of their camera traps in Virunga National Park had snapped the first photo,snapped,one,DYNAMIC
+ever taken of an okapi in the wild.,taken,photo,DYNAMIC

@@ -1,0 +1,98 @@
+Clause,mainVerb,mainReferent,Gold
+"Angel playing bagpipes, St. Giles, Edinburgh.",,,CANNOT_DECIDE
+"JPG|thumb|Angel playing bagpipes in the Thistle Chapel, Edinburgh",playing,bagpipes,DYNAMIC
+"Bagpipes are a class of musical instrument, aerophones,",are,Bagpipes,STATIVE
+using enclosed reeds fed from a constant reservoir of air in the form of a bag.,using,bagpipes,DYNAMIC
+"Though the Scottish Great Highland bagpipe have the greatest visibility in the English-speaking world, bagpipes have been played for centuries",played,bagpipes,DYNAMIC
+"(and continue to be played) throughout large parts of Europe, Turkey, the Caucasus, around the Persian Gulf and in Northern Africa.",continue,played,STATIVE
+"The term ""bagpipe"" is equally correct in the singular or plural,",is,bagpipe,STATIVE
+"although in the English language, pipers most commonly talk of ""the pipes"", ""a set of pipes"" or ""a stand of pipes"".",talk,pipers,DYNAMIC
+== Construction ==,,,CANNOT_DECIDE
+"A set of bagpipes minimally consists of an air supply, a bag, a chanter, and, usually, at least one drone.",consists,=,STATIVE
+Most bagpipes have more than one drone,have,,STATIVE
+"(and, sometimes, more than one chanter) in various combinations, held in place in stocks",held,bagpipes,STATIVE
+ sockets,,,CANNOT_DECIDE
+that fasten the various pipes to the bag.,fasten,sockets,STATIVE
+=== Air supply ===,,,CANNOT_DECIDE
+"The most common method of supplying air to the bag is through blowing into a blowpipe, or blowstick.",is,=,STATIVE
+"In some pipes the player must cover the tip of the blowpipe with his tongue while inhaling,",cover,player,DYNAMIC
+but most blowpipes have a non-return valve,have,player,STATIVE
+that eliminates this need.,eliminates,valve,DYNAMIC
+"An innovation, dating from the 16th or 17th century,",dating,innovation,STATIVE
+is the use of a bellows to supply air.,is,innovation,STATIVE
+"In these pipes, sometimes called ""cauld wind pipes"", air is not heated or moistened by the player's breathing,",heated,air,DYNAMIC
+so bellows-driven bagpipes can use more refined or delicate reeds.,use,bagpipes,DYNAMIC
+"Such pipes include the Irish uilleann pipes, the Scottish border pipes and Lowland pipes; Northumbrian smallpipes, pastoral pipes and English Border pipes in Britain, and the musette de cour in France.",include,pipes,STATIVE
+=== Bag ===,,,CANNOT_DECIDE
+The bag is an airtight reservoir,is,Bag,STATIVE
+that can hold air,hold,used,STATIVE
+"and can be used to regulate its flow,",used,reservoir,DYNAMIC
+enabling the player to maintain continuous sound.,enabling,,DYNAMIC
+The player keeps the bag,keeps,player,DYNAMIC
+inflated by blowing air into it through a blowpipe,inflated,bag,DYNAMIC
+or pumping air into it with a bellows.,pumping,,DYNAMIC
+"Materials used for bags vary widely,",vary,Materials,STATIVE
+"but the most common are the skins of local animals such as goats, dogs, sheep, and cows.",are,common,STATIVE
+"More recently, bags made of synthetic materials",made,bags,STATIVE
+including Gore-Tex have become much more common.,including,,DYNAMIC
+"However, a drawback of the synthetic bag is the potential",is,drawback,STATIVE
+"for fungal spores to colonise the bag because of a reduction in necessary cleaning, with the associated danger of lung infection.",colonise,potential,CANNOT_DECIDE
+Bags cut from larger materials are usually saddle-stitched with an extra strip,saddle-stitched,Bags,DYNAMIC
+folded over the seam,folded,strip,DYNAMIC
+and stitched (for skin bags),stitched,strip,DYNAMIC
+or glued (for synthetic bags) to reduce leaks.,glued,,DYNAMIC
+Holes are then cut to accommodate the stocks.,cut,Holes,DYNAMIC
+In the case of bags made from largely intact animal skins the stocks are typically tied into the points,tied,stocks,DYNAMIC
+"where limbs and the head joined the body of the living animal, a construction technique common in Central Europe.",joined,head,STATIVE
+=== Chanter ===,,,CANNOT_DECIDE
+"The chanter is the melody pipe, played with two hands.",is,=,STATIVE
+Almost all bagpipes have at least one chanter;,have,bagpipes,STATIVE
+"some pipes have two chanters, particularly those in North Africa, the Balkans in Southern Europe, and Southwest Asia.",have,pipes,STATIVE
+A chanter can be bored internally,bored,chanter,STATIVE
+so that the inside walls are parallel,are,walls,STATIVE
+"(or ""cylindrical"") for its full length, or it can be bored in a conical shape.",bored,chanter,STATIVE
+"The chanter is usually open-ended,",is,chanter,STATIVE
+so there is no easy way,is,way,STATIVE
+for the player to stop the pipe from sounding.,stop,way,CANNOT_DECIDE
+"Thus most bagpipes share a constant, legato sound",share,bagpipes,STATIVE
+where there are no rests in the music.,are,rests,STATIVE
+"Primarily because of this inability to stop playing, technical movements are used to break up notes",used,movements,DYNAMIC
+and to create the illusion of articulation and accents.,create,,CANNOT_DECIDE
+"Because of their importance, these embellishments (or ""ornaments"") are often highly technical systems specific to each bagpipe,",are,embellishments,STATIVE
+and take many years of study to master.,take,systems,DYNAMIC
+"A few bagpipes (such as the musette de cour, the uilleann pipes, the Northumbrian smallpipe, and the left chanter of the surdulina, a type of Calabrian zampogna) have closed ends or stop the end on the player's leg,",closed,bagpipes,STATIVE
+"so that when the player ""closes""",closes,player,DYNAMIC
+(covers all the holes),covers,,DYNAMIC
+the chanter becomes silent.,becomes,chanter,DYNAMIC
+==== Chanter reed ====,reed,Chanter,CANNOT_DECIDE
+The note from the chanter is produced by a reed,produced,Chanter,DYNAMIC
+installed at its top.,installed,reed,STATIVE
+The reed may be a single,be,reed,STATIVE
+(a reed with one vibrating tongue) or double reed (of two pieces,,,CANNOT_DECIDE
+that vibrate against each other).,vibrate,pieces,DYNAMIC
+Double reeds are used with both conical- and parallel-bored chanters,used,reeds,DYNAMIC
+while single reeds are generally,are,,STATIVE
+(although not exclusively) limited to parallel-bored chanters.,limited,reeds,CANNOT_DECIDE
+"In general, double-reed chanters are found in pipes of Western Europe",found,chanters,STATIVE
+while single-reed chanters appear in most other regions.,appear,chanters,STATIVE
+=== Drone ===,,,CANNOT_DECIDE
+Most bagpipes have at least one drone:,have,bagpipes,STATIVE
+a pipe which is generally not fingered,fingered,pipe,STATIVE
+but rather produces a constant harmonizing note throughout play.,produces,,DYNAMIC
+These drones have reeds just like in the chanter.,have,drones,STATIVE
+Exceptions are generally those pipes,are,Exceptions,STATIVE
+which have a double-chanter instead.,have,pipes,STATIVE
+"A drone is most commonly a cylindrically-bored tube with a single reed,",is,drone,STATIVE
+although drones with double reeds exist.,exist,drones,STATIVE
+The drone is generally designed in two or more parts with a sliding joint,designed,drone,STATIVE
+so that the pitch of the drone can be adjusted.,adjusted,pitch,DYNAMIC
+"Depending on the type of pipes, the drones may lie over the shoulder, across the arm opposite the bag,",Depending,,STATIVE
+or may run parallel to the chanter.,run,drones,STATIVE
+"Some drones have a tuning screw,",have,drones,STATIVE
+"which effectively alters the length of the drone by opening a hole,",alters,screw,DYNAMIC
+allowing the drone to be tuned to two or more distinct pitches.,allowing,screw,STATIVE
+The tuning screw may also shut off the drone altogether.,shut,screw,DYNAMIC
+"In most types of pipes, where there is one drone it is pitched two octaves below the tonic of the chanter.",pitched,it,STATIVE
+Additional drones often add the octave below and then a drone consonant with the fifth of the chanter.,add,drones,DYNAMIC
+== History ==,,,CANNOT_DECIDE
+=== Ancient origins ===,,,CANNOT_DECIDE

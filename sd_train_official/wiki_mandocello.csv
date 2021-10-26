@@ -1,0 +1,83 @@
+Clause,mainVerb,mainReferent,Gold
+"The mandocello (mandoloncello, Liuto cantabile, liuto moderno)",,,CANNOT_DECIDE
+is a plucked string instrument of the mandolin family.,is,mandocello,STATIVE
+"It has eight strings in four paired courses,",has,It,STATIVE
+"tuned in fifths like a mandolin,",tuned,,STATIVE
+"but is larger,",is,low,STATIVE
+and tuned CC-GG-dd-aa (low to high in pitch).,,,STATIVE
+It can be described as being to the mandolin,described,It,DYNAMIC
+what the cello is to the violin.,is,cello,STATIVE
+==Construction==,,,CANNOT_DECIDE
+Mandocello construction is similar to the mandolin.,is,construction,STATIVE
+"As with the mandolin, the mandocello body may be constructed with a bowl-shaped back according to designs of the 18th-century Vinaccia school, or with a flat",constructed,body,DYNAMIC
+(arched) back according to the designs of Gibson Guitar Corporation,according,,STATIVE
+popularized in the United States in the early 20th Century.,popularized,Corporation,DYNAMIC
+The scale of the mandocello is longer than that of the mandolin.,is,scale,STATIVE
+"Gibson examples have a scale length of 24.75"" (62.87 cm)",have,examples,STATIVE
+"but flat-back designs have appeared with both significantly shorter and longer scale lengths (27""/68.58 cm on some Vega mandocellos).",appeared,examples,DYNAMIC
+"These instruments may have approximately 23 frets,",have,instruments,STATIVE
+giving the 4-course mandocello a range from two octaves below middle C to the F,giving,frets,STATIVE
+"an octave above middle C. Bowl-back instruments may have a shorter scale length, on the order of 22.5 inches,",have,octave,STATIVE
+and concert bowl-back instruments may have more frets permitting virtuoso passage work in the upper register.,have,instruments,STATIVE
+"As is typical of the mandolin family, mandocellos can be found with either a single oval soundhole or a pair of ""F"" soundholes.",found,mandocellos,DYNAMIC
+The internal bracing also bears some similarity to the mandolin.,bears,bracing,STATIVE
+Gibson's mandocellos were typically constructed with a single transverse brace on the top just below the oval soundhole.,constructed,mandocellos,DYNAMIC
+Modern builders also use X-bracing.,use,builders,DYNAMIC
+===Layout of strings===,,,CANNOT_DECIDE
+"The mandocello generally has four courses of strings, tuned CC-GG-dd-aa.",has,mandocello,STATIVE
+"Because of the heavy gauge of the lowest course, some folk mandocello players remove one of the C strings to prevent rattling",remove,players,DYNAMIC
+while playing fortissimo.,playing,,DYNAMIC
+"The 10-string mandocello, containing an additional course of E strings (CC-GG-dd-aa-e'e'),",containing,mandocello,STATIVE
+"may be termed a liuto cantabile or liuto moderno,",termed,mandocello,STATIVE
+although these instruments remain technically mandocellos.,remain,instruments,STATIVE
+==History==,,,CANNOT_DECIDE
+Like most other instruments in the mandolin family the mandocello originated in Europe.,originated,mandocello,DYNAMIC
+"Later, around the turn of the 20th century, Gibson began building mandocellos in the style of their mandolins with arched tops and backs.",began,Gibson,DYNAMIC
+"Gibson is known to have produced at least four models of mandocello between 1905 and the 1920s: the K-1, K-2, K-4, and K-5.",known,Gibson,STATIVE
+Other American instrument companies also produced mandocellos.,produced,companies,DYNAMIC
+==Tuning==,,,CANNOT_DECIDE
+"Usually, courses of 2 adjacent strings are doubled (tuned to the same pitch).",doubled,courses,DYNAMIC
+The standard mandocello tuning of CGDA is the same as the violoncello:,is,tuning,STATIVE
+* fourth (lowest tone),,,CANNOT_DECIDE
+course: C2 ( Hz),,,CANNOT_DECIDE
+* third course: G2 ( Hz),,,CANNOT_DECIDE
+* second course: D3 ( Hz),,,CANNOT_DECIDE
+* first (highest tone),,,CANNOT_DECIDE
+course: A3 ( Hz),,,CANNOT_DECIDE
+==Usage==,,,CANNOT_DECIDE
+"The bowl-back mandocello is chiefly used in mandolin orchestras and mandolin quartets,",used,,DYNAMIC
+where it provides a melodic and bass role similar to the cello in a bowed string quartet.,provides,it,DYNAMIC
+"It is occasionally used as a solo instrument for the performance of classical music, such as concertos and unaccompanied repertoire",used,It,DYNAMIC
+originally composed for solo cello.,composed,repertoire,DYNAMIC
+"However, some pieces specifically for liuto cantabile were composed by Raffaele Calace,",composed,pieces,DYNAMIC
+who championed the instrument in the early 20th Century.,championed,Calace,DYNAMIC
+"The mandocello also has a role in modern folk music, such as bluegrass or Celtic music.",has,mandocello,STATIVE
+In this setting the flat-back mandocello is typically used.,used,setting,DYNAMIC
+"The mandocello's lower range does not produce the bright, projecting sound of the mandolin or mandola,",produce,range,DYNAMIC
+and its use in this setting has been generally eclipsed by mandolin artists since Bill Monroe.,eclipsed,range,DYNAMIC
+The amplified instrument has infrequently been used in modern rock music groups.,used,instrument,DYNAMIC
+The bowl-back mandocello (mandoloncello) is traditionally used for Italian folk music.,used,mandocello,DYNAMIC
+"The most historically significant mandocellist was Raffaele Calace,",was,mandocellist,STATIVE
+"who wrote the first method book specifically for liuto cantabile,",wrote,Calace,DYNAMIC
+and is thought to have perfected the design of the instrument,thought,Calace,STATIVE
+following its putative introduction by the Vinaccia family.,following,,CANNOT_DECIDE
+Luigi Embergher also contributed significantly to advancements in the design of the instrument during the late 19th and early 20th centuries.,contributed,Embergher,DYNAMIC
+==Image in contemporary music==,,,CANNOT_DECIDE
+"Accomplished artists specializing in mandocello performance in 21st century America are relatively few in number,",are,America,STATIVE
+and only a modest number of contemporary recordings prominently feature the instrument.,feature,Image,STATIVE
+"One American mandocello artist, Stanley Greenthal, is a specialist in the music of Brittany and an instructor at Zouk Fest.",is,artist,STATIVE
+"The mandolinist Radim Zenkl is also well known for performances of American, Italian, and other European folk music on the mandocello.",known,Zenkl,STATIVE
+"One recent recording with mandolin virtuosos Carlo Aonzo and David Grisman has featured Zenkl's mandocello on the album of Italian folk music ""Traversata""",featured,recording,DYNAMIC
+published by Acoustic Disc.,published,album,DYNAMIC
+"Steve Knightley of the English folk-rock band Show of Hands plays the cello-mandolin,",plays,Knightley,DYNAMIC
+"however his instrument is tuned GDAD, similar to an octave mandolin.",tuned,plays,STATIVE
+"Mike Marshall, best known for his collaborations with David Grisman, Darol Anger and Chris Thile has performed and recorded frequently with the mandocello.",performed,Marshall,DYNAMIC
+==Famous uses==,uses,Famous,CANNOT_DECIDE
+Rick Nielsen of the band Cheap Trick has a guitar collection,has,Trick,STATIVE
+that includes electric mandocellos custom,includes,collection,STATIVE
+made by Hamer Guitars.,made,custom,DYNAMIC
+"Such an instrument was used for the title track from their LP Heaven Tonight,",used,instrument,DYNAMIC
+"while their song Mandocello, released on the band's debut album,",released,Mandocello,DYNAMIC
+used a standard acoustic mandocello.,used,Mandocello,DYNAMIC
+This song was later covered by Concrete Blonde,covered,song,DYNAMIC
+and released on their album Still in Hollywood.,released,song,DYNAMIC

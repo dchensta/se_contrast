@@ -1,0 +1,210 @@
+Clause,mainVerb,mainReferent,Gold
+"Mantis shrimp or stomatopods are marine crustaceans, the members of the order Stomatopoda.",are,shrimp,STATIVE
+"They may reach 30 centimetres (12 in) in length,",reach,They,DYNAMIC
+though in exceptional cases have been recorded at up to 38 cm (15 in).,recorded,,DYNAMIC
+The carapace of mantis shrimp covers only the rear part of the head and the first four segments of the thorax.,covers,carapace,STATIVE
+There are more than 400 species of Mantis shrimp.,are,species,STATIVE
+"They come in a variety of colours, from shades of brown to bright neon colours",come,They,STATIVE
+"and are among the most important predators in many shallow, tropical and sub-tropical marine habitats.",are,They,STATIVE
+"Despite being common,",being,,STATIVE
+they are poorly understood,understood,they,STATIVE
+as many species spend most of their life tucked away in burrows and holes.,spend,species,DYNAMIC
+"Called ""sea locusts"" by ancient Assyrians, ""prawn killers"" in Australia",Called,killers,STATIVE
+"and now sometimes referred to as ""thumb splitters""  because of the animal's ability to inflict painful gashes",referred,killers,DYNAMIC
+if handled incautiously  mantis shrimp sport powerful claws,handled,,STATIVE
+"that they use to attack and kill prey by spearing, stunning, or dismemberment.",use,handled,DYNAMIC
+"In captivity, some larger species are capable of breaking through aquarium glass with a single strike.",are,species,STATIVE
+==Ecology==,,,CANNOT_DECIDE
+Around 400 species of mantis shrimp have currently been described worldwide;,described,=,DYNAMIC
+all living species are in the suborder Unipeltata.,are,species,STATIVE
+These aggressive and typically solitary sea creatures spend most of their time hiding in rock formations,spend,creatures,DYNAMIC
+or burrowing intricate passageways in the sea bed.,burrowing,spend,DYNAMIC
+They rarely exit their homes,exit,They,DYNAMIC
+except to feed,,,CANNOT_DECIDE
+"and relocate,",,,CANNOT_DECIDE
+"and can be diurnal, nocturnal, or crepuscular, depending on the species.",be,,STATIVE
+They either wait,wait,They,DYNAMIC
+"for prey to chance upon them or, unlike most crustaceans, sometimes hunt, chase,",hunt,They,DYNAMIC
+and kill prey.,kill,They,DYNAMIC
+"Although some live in temperate seas,",live,some,STATIVE
+most species live in tropical and subtropical seas in the Indian and Pacific Oceans between eastern Africa and Hawaii.,live,species,STATIVE
+==Claws==,,,CANNOT_DECIDE
+They are commonly separated into two distinct groups,separated,=,DYNAMIC
+determined by the manner of claws,determined,groups,STATIVE
+they possess:,possess,they,STATIVE
+*Spearers are armed with spiny appendages,armed,Spearers,STATIVE
+"topped with barbed tips,",topped,appendages,STATIVE
+used to stab and snag prey.,used,tips,DYNAMIC
+"*Smashers, on the other hand, possess a much more developed club and a more rudimentary spear",possess,Smashers,STATIVE
+(which is nevertheless quite sharp and still used in fights between their own kind);,is,which,STATIVE
+the club is used to bludgeon and smash their meals apart.,used,club,DYNAMIC
+"The inner aspect of the dactyl (the terminal portion of the appendage) can also possess a sharp edge,",possess,aspect,STATIVE
+with which the animal can cut prey,cut,animal,DYNAMIC
+while it swims.,swims,it,DYNAMIC
+"Both types strike by rapidly unfolding and swinging their raptorial claws at the prey,",strike,types,DYNAMIC
+and are capable of inflicting serious damage on victims significantly greater in size than themselves.,are,types,STATIVE
+"In smashers, these two weapons are employed with blinding quickness, with an acceleration of 10,400 g",employed,weapons,DYNAMIC
+"(102,000 m/s2 or 335,000 ft/s2) and speeds of 23 m/s from a standing start.",,,CANNOT_DECIDE
+"Because they strike so rapidly,",strike,they,DYNAMIC
+they generate cavitation bubbles between the appendage and the striking surface.,generate,they,DYNAMIC
+"The collapse of these cavitation bubbles produces measurable forces on their prey in addition to the instantaneous forces of 1,500 newtons",produces,collapse,DYNAMIC
+"that are caused by the impact of the appendage against the striking surface,",caused,newtons,DYNAMIC
+which means,means,surface,STATIVE
+that the prey is hit twice by a single strike,hit,prey,DYNAMIC
+; first by the claw and then by the collapsing cavitation bubbles,collapsing,,CANNOT_DECIDE
+that immediately follow.,follow,bubbles,DYNAMIC
+"Even if the initial strike misses the prey, the resulting shock wave can be enough to stun or kill the prey.",be,wave,STATIVE
+The snap can also produce sonoluminescence from the collapsing bubble.,produce,snap,DYNAMIC
+"This will produce a very small amount of light and high temperatures in the range of several thousand kelvins within the collapsing bubble,",produce,This,DYNAMIC
+although both the light and high temperatures are too weak and short-lived to be detected without advanced scientific equipment.,are,temperatures,STATIVE
+The light emission and temperature increase probably have no biological significance,have,increase,STATIVE
+but are rather side-effects of the rapid snapping motion.,are,emission,STATIVE
+Pistol shrimp produce this effect in a very similar manner.,produce,shrimp,DYNAMIC
+"Smashers use this ability to attack snails, crabs, molluscs and rock oysters,",use,Smashers,DYNAMIC
+their blunt clubs enabling them to crack the shells of their prey into pieces.,enabling,use,DYNAMIC
+"Spearers, on the other hand, prefer the meat of softer animals, like fish, which their barbed claws can more easily slice and snag.",prefer,Spearers,STATIVE
+==Eyes==,=,Eyes,CANNOT_DECIDE
+The mantis shrimp has one of the most elaborate visual systems,has,Eyes,STATIVE
+ever discovered.,discovered,systems,DYNAMIC
+The midband region of its eye is made up of six rows of specialised ommatidia.,made,region,STATIVE
+"Four rows carry up to 16 different photoreceptor pigments, 12 for colour sensitivity, others for colour filtering.",carry,rows,STATIVE
+The vision of the mantis shrimp is so precise,is,vision,STATIVE
+that it can perceive both polarised light and multispectral images.,perceive,it,DYNAMIC
+Their eyes (both mounted on mobile stalks and capable of moving independently of each other),mounted,both,STATIVE
+are similarly variably coloured,are,eyes,STATIVE
+and are considered to be the most complex eyes in the animal kingdom.,considered,eyes,STATIVE
+Each compound eye is made up of up to ten thousand ommatidia of the apposition type.,made,eye,STATIVE
+Each eye consists of two flattened hemispheres,consists,eye,STATIVE
+"separated by six parallel rows of specialised ommatidia,",,,STATIVE
+"collectively called the midband,",called,hemispheres,STATIVE
+which divides the eye into three regions.,divides,hemispheres,STATIVE
+This configuration enables mantis shrimp to see objects with three parts of the same eye.,enables,configuration,STATIVE
+"In other words, each eye possesses trinocular vision and depth perception.",possesses,eye,STATIVE
+"The upper and lower hemispheres are used primarily for recognition of form and motion, like the eyes of many other crustaceans.",used,hemispheres,DYNAMIC
+"Rows 14 of the midband are specialised for colour vision, from ultra-violet to longer wavelengths.",specialised,–,STATIVE
+They aren't currently believed to be sensitive to infrared light.,believed,They,STATIVE
+The optical elements in these rows have eight different classes of visual pigments,have,elements,STATIVE
+"and the rhabdom is divided into three different pigmented layers (tiers), each for different wavelengths.",divided,elements,STATIVE
+The three tiers in rows 2 and 3 are separated by colour filters,separated,tiers,STATIVE
+"(intrarhabdomal filters) that can be divided into four distinct classes, two classes in each row.",divided,filters,DYNAMIC
+"It is organised like a sandwich; a tier, a colour filter of one class, a tier again, a colour filter of another class, and then a last tier.",organised,It,STATIVE
+"Rows 56 are also segregated into different tiers,",segregated,Rows,STATIVE
+but have only one class of visual pigment (a ninth class),have,Rows,STATIVE
+and are specialised for polarisation vision.,specialised,Rows,STATIVE
+They can detect different planes of polarised light.,detect,They,DYNAMIC
+A tenth class of visual pigment is found in the dorsal and ventral hemispheres of the eye.,found,class,STATIVE
+"The midband only covers about 510 of the visual field at any given instant,",covers,midband,STATIVE
+"but like most crustaceans, mantis shrimps have their the eyes mounted on stalks.",have,midband,STATIVE
+"In mantis shrimps the movement of the stalked eye is unusually free,",is,movement,STATIVE
+and can be driven in all possible axes of movement,driven,movement,DYNAMIC
+ up to at least 70  by eight individual eyecup muscles,–,axes,CANNOT_DECIDE
+divided into six functional groups.,divided,muscles,STATIVE
+"By using these muscles to scan the surroundings with the midband,",using,they,DYNAMIC
+"they can add information about forms, shapes and landscape",add,they,DYNAMIC
+which cannot be detected by the upper and lower hemisphere of the eye.,detected,information,DYNAMIC
+They can also track moving objects,track,They,DYNAMIC
+"using large, rapid eye movements",using,objects,DYNAMIC
+where the two eyes move independently.,move,eyes,DYNAMIC
+"By combining different techniques,",combining,midband,DYNAMIC
+"including saccadic movements, the midband can cover a very wide range of the visual field.",including,,STATIVE
+"Some species have at least 16 different photoreceptor types,",have,species,STATIVE
+which are divided into four classes,divided,types,STATIVE
+"(their spectral sensitivity is further tuned by colour filters in the retinas), 12 of them for colour analysis in the different wavelengths",tuned,classes,STATIVE
+(including six,including,,STATIVE
+which are sensitive to ultraviolet light),are,six,STATIVE
+and four of them for analysing polarised light.,analysing,types,CANNOT_DECIDE
+"By comparison, most humans have only four visual pigments,",have,humans,STATIVE
+"of which three are dedicated to see colour, and the human lenses block ultraviolet light.",dedicated,three,STATIVE
+The visual information leaving the retina seems to be processed into numerous parallel data streams,streams,information,STATIVE
+"leading into the central nervous system,",leading,,STATIVE
+greatly reducing the analytical requirements at higher levels.,reducing,,DYNAMIC
+At least two species have been reported to be able to detect circularly polarised light.,reported,species,DYNAMIC
+"Some of their biological quarter-wave plates perform more uniformly over the visual spectrum than any current man-made polarizing optics,",perform,Some,DYNAMIC
+and it has been speculated,speculated,Some,DYNAMIC
+that this could inspire a new type of optical media,inspire,this,DYNAMIC
+that would outperform the current generation of Blu-ray disc technology.,outperform,type,DYNAMIC
+The species Gonodactylus smithii is the only organism,is,smithii,STATIVE
+known to simultaneously detect the four linear and two circular polarization components,known,organism,STATIVE
+"required to measure all four Stokes parameters,",required,components,STATIVE
+which yield a full description of polarization.,yield,parameters,STATIVE
+It is thus believed to have optimal polarization vision.,believed,It,STATIVE
+===Suggested advantages of visual system===,,,CANNOT_DECIDE
+What advantage sensitivity to polarization confers is unclear; however polarization vision is used by other animals for sexual signalling and secret communication,is,advantages,STATIVE
+that avoids the attention of predators.,avoids,communication,DYNAMIC
+This mechanism could provide an evolutionary advantage;,provide,mechanism,DYNAMIC
+it only requires small changes to the cell in the eye,requires,it,STATIVE
+and would be easily selected for.,selected,it,DYNAMIC
+"The eyes of mantis shrimp may enable them to recognize different types of coral, prey species",enable,eyes,DYNAMIC
+"(which are often transparent or semi-transparent), or predators, such as barracuda,",are,which,STATIVE
+which have shimmering scales.,have,predators,STATIVE
+"Alternatively, the manner in which mantis shrimp hunt (very rapid movements of the claws) may require very accurate ranging information,",require,manner,STATIVE
+which would require accurate depth perception.,require,information,STATIVE
+That those with the most advanced vision also are the species with the most colourful bodies suggests,suggests,species,STATIVE
+the evolution of colour vision has taken the same direction as the peacock's tail.,taken,evolution,DYNAMIC
+"During mating rituals, mantis shrimp actively fluoresce,",fluoresce,shrimp,DYNAMIC
+and the wavelength of this fluorescence matches the wavelengths,matches,shrimp,STATIVE
+detected by their eye pigments.,detected,wavelengths,STATIVE
+Females are only fertile during certain phases of the tidal cycle; the ability to perceive the phase,are,Females,STATIVE
+of the moon may therefore help prevent wasted mating efforts.,help,ability,DYNAMIC
+"It may also give mantis shrimp information about the size of the tide,",give,It,DYNAMIC
+which is important to species,is,size,STATIVE
+living in shallow water near the shore.,living,species,STATIVE
+It has been suggested,suggested,It,DYNAMIC
+that the capacity to see UV light enables observation of otherwise hard to detect prey on coral reefs.,enables,capacity,DYNAMIC
+==Behaviour==,,,CANNOT_DECIDE
+"Mantis shrimp are long-lived and exhibit complex behaviour, such as ritualised fighting.",are,shrimp,STATIVE
+"Some species use fluorescent patterns on their bodies for signalling with their own and maybe even other species,",use,species,DYNAMIC
+expanding their range of behavioural signals.,expanding,own,DYNAMIC
+"They can learn and remember well,",learn,They,DYNAMIC
+and are able to recognise individual neighbours with whom they frequently interact.,are,They,STATIVE
+They can recognise them by visual signs and even by individual smell.,recognise,They,DYNAMIC
+Many have developed complex social behaviour to defend their space from rivals.,developed,Many,DYNAMIC
+"In a lifetime, they can have as many as 20 or 30 breeding episodes.",have,they,STATIVE
+"Depending on the species,",Depending,,STATIVE
+"the eggs can be laid and kept in a burrow,",laid,eggs,DYNAMIC
+or they can be carried around under the female's tail until they hatch.,carried,eggs,DYNAMIC
+"Also depending on the species, male and female may come together only to mate, or they may bond in monogamous long-term relationships.",depending,,DYNAMIC
+"In the monogamous species, the mantis shrimp remain with the same partner for up to 20 years.",remain,shrimp,STATIVE
+They share the same burrow,share,They,STATIVE
+and may be able to coordinate their activities.,be,They,STATIVE
+Both sexes often take care of the eggs (biparental care).,take,sexes,DYNAMIC
+"In Pullosquilla and some species in Nannosquilla, the female will lay two clutches of eggs:",lay,female,DYNAMIC
+one that the male tends and one,tends,one,DYNAMIC
+that the female tends.,tends,female,DYNAMIC
+"In other species, the female will look after the eggs",look,female,DYNAMIC
+while the male hunts for both of them.,hunts,male,DYNAMIC
+"Once the eggs hatch, the offspring may spend up to three months as plankton.",spend,offspring,DYNAMIC
+Although stomatopods typically display the standard locomotion types,display,stomatopods,STATIVE
+"as seen in true shrimp and lobsters, one species, Nannosquilla decemspinosa, has been observed flipping itself into a crude wheel.",observed,species,DYNAMIC
+"The species lives in shallow, sandy areas.",lives,species,STATIVE
+"At low tides, N. decemspinosa is often stranded by its short rear legs,",stranded,decemspinosa,DYNAMIC
+which are sufficient for locomotion,are,legs,STATIVE
+"when the body is supported by water, but not on dry land.",supported,body,STATIVE
+The mantis shrimp then performs a forward flip in an attempt to roll towards the next tide pool.,performs,shrimp,DYNAMIC
+"N. decemspinosa has been observed to roll repeatedly for ,",observed,decemspinosa,DYNAMIC
+but specimens typically travel less than .,travel,decemspinosa,DYNAMIC
+==Culinary uses==,uses,Culinary,CANNOT_DECIDE
+"In Japanese cuisine, the mantis shrimp species",,,CANNOT_DECIDE
+Oratosquilla oratoria is eaten boiled as a sushi,eaten,oratoria,DYNAMIC
+"topping, and occasionally, raw as sashimi;",topping,sushi,CANNOT_DECIDE
+and is called shako (ja).,called,Culinary,STATIVE
+"Mantis shrimp are abundant in the coastal regions of south Vietnam,",are,shrimp,STATIVE
+known in Vietnamese as tm tt or tm tch.,known,regions,STATIVE
+"The shrimp can be steamed, boiled, grilled or dried;",steamed,shrimp,DYNAMIC
+"used with pepper, salt, and lime; fish sauce and tamarind; or fennel.",used,steamed,CANNOT_DECIDE
+"In Cantonese cuisine, the mantis shrimp is known as ""pissing shrimp""",known,shrimp,STATIVE
+"(zh-hk, Mandarin pinyin: zho, Cantonese: zh-hk)",,,CANNOT_DECIDE
+because of their tendency to shoot a jet of water,shoot,tendency,CANNOT_DECIDE
+when picked up.,picked,,DYNAMIC
+"After cooking, their flesh is closer to that of lobsters than that of shrimp,",is,flesh,STATIVE
+"and like lobsters, their shells are quite hard",are,shells,STATIVE
+and require some pressure to crack.,require,shells,STATIVE
+Usually they are deep fried with garlic and chili peppers.,are,they,DYNAMIC
+"In the Mediterranean countries the mantis shrimp Squilla mantis is a common seafood, especially on the Adriatic coasts",is,mantis,STATIVE
+(canocchia) and the Gulf of Cdiz (galera).,,,CANNOT_DECIDE
+"In the Philippines, the mantis shrimp is known as tatampal, hipong-dapa or alupihang-dagat",is,shrimp,STATIVE
+and is cooked and eaten like shrimp.,cooked,shrimp,DYNAMIC
+The usual concerns associated with consuming seafood,associated,concerns,STATIVE
+caught in contaminated waters apply to mantis shrimp.,apply,concerns,STATIVE
+"In Hawaii, some have grown unusually large in the very dirty waters of the Grand Ala Wai Canal in Waikiki.",grown,some,DYNAMIC
+==Aquaria==,,,CANNOT_DECIDE

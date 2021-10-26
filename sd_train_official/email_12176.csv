@@ -1,0 +1,184 @@
+Clause,mainVerb,mainReferent,Gold
+Message-ID: <31386690.1075860837352.JavaMail.evans@thyme>,,,CANNOT_DECIDE
+"Date: Fri, 30 Nov 2001 07:48:06 -0800 (PST)",,,CANNOT_DECIDE
+From: steven.alexander@us.artemisintl.com,,,CANNOT_DECIDE
+"To: ken_lay@enron.net, kenneth_lay@enron.net",,,CANNOT_DECIDE
+Subject: A Supportive Note,,,CANNOT_DECIDE
+Mime-Version: 1.0,,,CANNOT_DECIDE
+Content-Type: text/plain; charset=us-ascii,,,CANNOT_DECIDE
+Content-Transfer-Encoding: 7bit,,,CANNOT_DECIDE
+Dear Mr. Lay:,,,CANNOT_DECIDE
+I'm writing this note to you as a show of support to you during your dire times.,writing,Message-ID,DYNAMIC
+"The reason that I share this with you is my respect for you as a CEO, a business leader and a person.",is,reason,STATIVE
+My wife is one of your employees,is,wife,STATIVE
+who routinely shares stories about you,shares,one,DYNAMIC
+that are nothing less than inspiring.,are,stories,STATIVE
+I know,know,I,STATIVE
+"that during difficult times, sometimes words emerge",emerge,words,DYNAMIC
+that can help people through difficult times.,help,that,DYNAMIC
+I believe,believe,I,STATIVE
+that you are sincere man,are,you,STATIVE
+and know that,know,man,STATIVE
+"you must be broken hearted,",broken,you,STATIVE
+but I hope,hope,I,STATIVE
+that this article can help you lead a dispirted workforce to see things more clearly.,help,article,DYNAMIC
+"My wife, Shelly Pierce, has worked for Enron for the past two years",worked,wife,DYNAMIC
+"and like many of your employees, has lost a great deal of her life savings.",like,wife,DYNAMIC
+"Of course, I accept most of the blame for this for reasons",accept,I,STATIVE
+related to this article.,related,reasons,STATIVE
+I lost my investment discipline,lost,I,DYNAMIC
+and held out the false hope,held,I,STATIVE
+that Enron could not falter.,falter,Enron,DYNAMIC
+After reading the article to her,reading,I,DYNAMIC
+"while I was out of town,",was,I,STATIVE
+I believe,believe,I,STATIVE
+that her spirit was a bit rejuvenated,was,spirit,STATIVE
+and she was ready to face the challenges,was,she,STATIVE
+that lay before you.,lay,challenges,STATIVE
+"Mr. Lay,",,,CANNOT_DECIDE
+I appreciate the opportunity,appreciate,I,STATIVE
+that you have given my wife and our family,given,you,DYNAMIC
+and hope,hope,Lay,STATIVE
+that this story inspires you to regain your successes.,inspires,story,DYNAMIC
+-----------------------------------------------,,,CANNOT_DECIDE
+"From the USA Today, Tuesday, November 27, 2001, page 15A.",,,CANNOT_DECIDE
+"""In recession, face brutal facts, thrive""",thrive,,CANNOT_DECIDE
+By Jim Collins,,,CANNOT_DECIDE
+"A man in his early 20s recently asked me,",asked,thrive,DYNAMIC
+"""So what's a recession like?""",'s,what,CANNOT_DECIDE
+Its an entirely alien concept to him; he'd grown up during the greatest economic boom in modern memory.,Its,,STATIVE
+His question drove home the fact,drove,question,DYNAMIC
+"that we haven't faced a severe, protracted economic setback for nearly 2 decades,",faced,we,DYNAMIC
+leaving us terribly unpracticed at dealing with tough times.,leaving,question,STATIVE
+"With this recession - long in coming, perhaps long to stay",coming,,CANNOT_DECIDE
+"- now officially upon us, it is imperative",is,it,STATIVE
+that corporate leaders relearn a key lesson about how great companies (and great people),relearn,leaders,STATIVE
+deal with difficult times differently from how they deal with merely good ones.,deal,companies,DYNAMIC
+"That lesson is the ""Stockdale Paradox,"" a peculiar psychology",is,psychology,STATIVE
+shown by those,shown,psychology,DYNAMIC
+"who emerge from tough times not just intact, but stronger.",emerge,those,DYNAMIC
+Adm. Jim Stockdale was the highest-ranking U.S. military officer in the Hanoi prison camp during the Vietnam War.,was,Stockdale,STATIVE
+"Tortured many times during his 8-year imprisonment, Stockdale lived without any prisoner's rights, no set release date and no certainty as to whether he would ever again see his family.",lived,Stockdale,STATIVE
+He shouldered the burden of command,shouldered,He,STATIVE
+while fighting an internal war against his captors and their attempts to use the prisoners for propaganda.,fighting,,DYNAMIC
+"At one point, he beat himself with a stool",beat,he,DYNAMIC
+"and cut himself with a razor,",cut,he,DYNAMIC
+deliberately disfiguring himself,disfiguring,he,DYNAMIC
+"so that he could not be put on video as an example of a ""well-treated prisoner.""",put,he,DYNAMIC
+He exchanged secret intelligence information with his wife through their letters,exchanged,He,DYNAMIC
+knowing,knowing,,STATIVE
+that discovery would mean more torture and perhaps death.,mean,discovery,STATIVE
+"After his release, Stockdale became the first three-star officer in the history of the Navy to wear both aviator wings and the Congressional Medal of Honor.",became,Stockdale,DYNAMIC
+"You can understand, then, my anticipation at the prospect of spending part of an afternoon with Stockdale,",understand,You,STATIVE
+who happened to be at the Hoover Institute across the street from my office,happened,Stockdale,STATIVE
+when I taught at Stanford.,taught,I,DYNAMIC
+"In preparation, I read In Love and War,",read,I,DYNAMIC
+the book he and his wife wrote to chronicle their experiences those 8 years.,wrote,I,DYNAMIC
+"As I read the book,",read,I,DYNAMIC
+I found myself getting depressed.,found,I,DYNAMIC
+"It just seemed so bleak - the uncertainty of his fate, the brutality of his captors.",seemed,It,STATIVE
+And then it dawned on me,dawned,it,DYNAMIC
+": Here I am sitting in my warm comfortable office,",sitting,I,STATIVE
+looking out over the Stanford campus on a beautiful Saturday afternoon.,looking,I,DYNAMIC
+"I'm getting depressed reading this,",'m,,DYNAMIC
+and I know,know,I,STATIVE
+"that he gets out,",gets,he,DYNAMIC
+reunites with his family,reunites,he,DYNAMIC
+and becomes a national hero.,becomes,he,DYNAMIC
+"If it feels depressing for me, how on earth did he deal with it",deal,he,STATIVE
+when he was actually there,was,he,STATIVE
+and did not know the end of the story?,know,he,STATIVE
+"""I never lost faith in the end of the story,""",lost,I,DYNAMIC
+Stockdale said,said,Stockdale,DYNAMIC
+when I asked him.,asked,I,DYNAMIC
+"""I never doubted",doubted,I,DYNAMIC
+"not only that I would get out, but also that I would prevail in the end",get,I,DYNAMIC
+"and turn the experience into the defining event of my life that, in retrospect,",turn,I,DYNAMIC
+"I would not trade.""",trade,I,DYNAMIC
+"I didn't say anything for many minutes,",say,I,DYNAMIC
+"and we continued the slow walk toward the faculty club,",continued,I,DYNAMIC
+"Stockdale limping and arc-swinging his leg,",limping,we,DYNAMIC
+still stiff from repeated torture.,repeated,,STATIVE
+"Finally, I asked,",asked,I,DYNAMIC
+"""Who didn't make it out?""",make,Who,CANNOT_DECIDE
+"""Oh, that's easy,""",'s,that,STATIVE
+he said.,said,he,DYNAMIC
+"""The optimists.""",,,CANNOT_DECIDE
+"""The optimists?",,,CANNOT_DECIDE
+"I don't understand,""",understand,I,STATIVE
+"I said,",said,I,DYNAMIC
+completely confused.,confused,,STATIVE
+"""The optimists.",,,CANNOT_DECIDE
+"Oh, they were the ones",were,they,STATIVE
+"who said, '",said,ones,DYNAMIC
+We're going to be out by Christmas.',going,We,STATIVE
+"And Christmas would come,",come,Christmas,DYNAMIC
+and Christmas would go.,go,Christmas,DYNAMIC
+"Then they'd say, '",say,they,DYNAMIC
+We're going to be out by Easter.',going,We,STATIVE
+"And Easter would come,",come,Easter,DYNAMIC
+and Easter would go.,go,Easter,DYNAMIC
+"And then Thanksgiving, and then it would be Christmas again.",be,it,STATIVE
+"And they died of a broken heart.""",died,they,DYNAMIC
+"After another long pause, he turned to me",turned,he,DYNAMIC
+"and said,",said,he,DYNAMIC
+"""This is a very important lesson.",is,This,STATIVE
+You must never confuse faith,confuse,You,DYNAMIC
+that you will prevail in the end - which you can never afford to lose -,prevail,you,DYNAMIC
+"with the need for discipline to confront the most brutal facts of your current reality,",confront,need,CANNOT_DECIDE
+"whatever they might be.""",be,they,STATIVE
+"My conversation with Stockdale had a profound influence on me,",had,conversation,STATIVE
+but I never really considered it a business lesson,considered,conversation,STATIVE
+until my research team began to wrestle with the question of why some companies rise from difficulty to become great,began,team,DYNAMIC
+while others emerge from those exact same difficulties weakened and dispirited.,emerge,others,DYNAMIC
+We found,found,We,DYNAMIC
+that companies that became great embraced a corporate version of the Stockdale Paradox.,embraced,companies,STATIVE
+"Fannie Mae, for example found itself in the 1982 recession losing $1M every business day, with $56B in loans under water.",found,Mae,DYNAMIC
+Many analysts thought,thought,analysts,STATIVE
+"Fannie Mae, which was getting 9% on its mortgage portfolio",getting,Mae,DYNAMIC
+but paying 15% on the debt,paying,Mae,DYNAMIC
+"it issued,",issued,it,DYNAMIC
+was doomed.,doomed,Mae,STATIVE
+"But CEO David Maxwell and his team never wavered in their aim to not merely survive,",wavered,team,DYNAMIC
+but also to prevail as a great company.,prevail,aim,CANNOT_DECIDE
+"Yes, they confronted the brutal fact",confronted,they,DYNAMIC
+that the interest-rate problem was not going to magically disappear (certainly not by Christmas).,going,problem,DYNAMIC
+But they used this grim fact as a catalyst for creating an entirely new business model,used,they,DYNAMIC
+based on asking three central questions of greatness:,based,model,STATIVE
+What can we potentially do better than any other company in the world?,do,questions,CANNOT_DECIDE
+What can best drive our economic engine?,drive,What,CANNOT_DECIDE
+What best ignites the passions of our people?,ignites,What,CANNOT_DECIDE
+"Instead of reacting to the recession with mindless restructuring, Fannie Mae rebuilt itself based on its answers to these questions.",rebuilt,Mae,DYNAMIC
+"Eventually, it generated investor returns nearly eight times those of the general stock market.",generated,it,DYNAMIC
+When asked,asked,,DYNAMIC
+how he dealt with the nay Sayers and the analysts,dealt,he,DYNAMIC
+"who wrote Fannie Mae off,",wrote,analysts,DYNAMIC
+Maxwell said,said,Maxwell,DYNAMIC
+that it was never an issue inside the company.,was,it,STATIVE
+"""Of course, we had to stop doing a lot of stupid things,",had,we,DYNAMIC
+but we never entertained the possibility,entertained,we,DYNAMIC
+that we would fail.,fail,we,DYNAMIC
+"We were going to use the calamity as an opportunity to remake Fannie Maw into a great company.""",going,We,DYNAMIC
+The sad truth is that most executive teams won't respond that way to these dark days of uncertainty.,is,truth,STATIVE
+Instead of using this recession as an opportunity to fundamentally rethink their business,using,the,DYNAMIC
+"and rebuild a culture of discipline, the will simply restructure, lay off a bunch of people",restructure,the,DYNAMIC
+and liquidate their cultural equity.,liquidate,the,DYNAMIC
+"Mediocre leaders will hold out false hopes for a quick fix,",hold,leaders,STATIVE
+only to watch those hopes be swept away by events.,watch,leaders,DYNAMIC
+Their companies will begin to die of a broken heart.,begin,companies,DYNAMIC
+It need not be this way.,be,It,STATIVE
+Those who lead with the Stockdale Paradox,lead,Those,STATIVE
+- those who retain the unwavering faith,retain,those,STATIVE
+"that they will find a way to prevail in the end,",find,they,DYNAMIC
+but who also retain the discipline to confront the most brutal facts of reality -,retain,they,STATIVE
+will find this an ideal time to rebuild and reinforce greatness.,find,Those,STATIVE
+"Used correctly, this recession can be a defining time in your firm's history",be,recession,STATIVE
+"that , in retrospect, you would not trade.",trade,time,DYNAMIC
+"Used wrongly,",,,DYNAMIC
+this recession will weaken your foundations,weaken,recession,DYNAMIC
+and make it that much harder to become great.,make,recession,DYNAMIC
+The choice is yours.,is,choice,STATIVE
+"Jim Collins, the author of Good to Great, operates a management-research laboratory in Boulder, Colo.",operates,Collins,STATIVE
+"Regards,",,,CANNOT_DECIDE
+Steve,,,CANNOT_DECIDE
+"Steve Alexander Vice President, North American Artemis Consulting Artemis International Solutions Corporation Office: +1 281.338.9616 Mobile: +1 281.830.7430 www.artemisintl.com",,,CANNOT_DECIDE

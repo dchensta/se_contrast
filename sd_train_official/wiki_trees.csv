@@ -1,0 +1,226 @@
+Clause,mainVerb,mainReferent,Gold
+"In botany, a tree is a perennial plant with an elongated stem, or trunk,",is,tree,STATIVE
+supporting branches and leaves in most species.,supporting,,STATIVE
+"In some usages, the definition of a tree may be narrower,",be,definition,STATIVE
+"including only woody plants, only plants",including,,STATIVE
+that are usable as lumber or only plants above a specified height.,are,plants,STATIVE
+"At its broadest, trees include the taller palms, the tree ferns, bananas and bamboo.",include,trees,STATIVE
+A tree typically has many secondary branches,has,tree,STATIVE
+supported clear of the ground by the trunk.,supported,branches,STATIVE
+"This trunk typically contains woody tissue for strength, and vascular tissue to carry materials from one part of the tree to another.",contains,trunk,STATIVE
+For most trees it is surrounded by a layer of bark,surrounded,it,STATIVE
+which serves as a protective barrier.,serves,bark,STATIVE
+"Below the ground, the roots branch and spread out widely; they serve to anchor the tree",branch,roots,DYNAMIC
+and extract moisture and nutrients from the soil.,extract,they,CANNOT_DECIDE
+"Above ground, the branches divide into smaller branches and shoots.",divide,branches,DYNAMIC
+"The shoots typically bear leaves,",bear,shoots,STATIVE
+which capture light energy,capture,leaves,DYNAMIC
+"and convert it into sugars by photosynthesis,",convert,leaves,DYNAMIC
+providing the food for the tree's growth and development.,providing,leaves,DYNAMIC
+"Flowers and fruit may also be present,",be,Flowers,STATIVE
+"but some trees such as conifers instead have pollen cones and seed cones,",have,Flowers,STATIVE
+and others such as tree ferns produce spores instead.,produce,Flowers,DYNAMIC
+"Trees tend to be long-lived, some reaching several thousand years old.",tend,Trees,STATIVE
+The tallest known specimen on Earth is 115.6 m (379 ft),is,specimen,STATIVE
+and they have a theoretical maximum height of 130 m (426 ft).,have,m,STATIVE
+Trees have been in existence on the Earth for 370 million years.,been,Trees,STATIVE
+Trees are not a taxonomic group,are,Trees,STATIVE
+but are a number of plant species,are,,STATIVE
+that have independently evolved a woody trunk and branches as a way to tower above other plants,evolved,number,DYNAMIC
+and make full use of the sunlight.,make,number,CANNOT_DECIDE
+Trees play a significant role in reducing erosion,play,Trees,DYNAMIC
+and moderating the climate.,moderating,Trees,CANNOT_DECIDE
+They remove carbon dioxide from the atmosphere,remove,They,DYNAMIC
+and store large quantities of carbon in their tissues.,,,STATIVE
+Trees and forests provide a habitat for many species of animals and plants.,provide,Trees,STATIVE
+Tropical rainforests are one of the most biodiverse habitats in the world.,are,rainforests,STATIVE
+"Trees provide shade and shelter, timber for construction, fuel for cooking and heating, and fruit for food as well as having many other uses.",provide,Trees,DYNAMIC
+"In parts of the world, forests are shrinking",shrinking,forests,DYNAMIC
+as trees are cleared to increase the amount of land available for agriculture.,cleared,trees,DYNAMIC
+"Because of their longevity and usefulness, trees have always been revered and",been,trees,DYNAMIC
+they play a role in many of the world's mythologies.,play,trees,DYNAMIC
+==Definition==,,,CANNOT_DECIDE
+"Although ""tree"" is a term of common parlance, there is no universally recognised precise definition of what a tree is, neither botanically nor in common language.",is,definition,STATIVE
+"In its broadest sense, a tree is any plant with the general form of an elongated stem, or trunk,",is,tree,STATIVE
+which supports the photosynthetic leaves or branches at some distance above the ground.,supports,form,STATIVE
+"Trees are also typically defined by height, with smaller plants",defined,Trees,STATIVE
+"being classified as shrubs, however the minimum height",classified,plants,STATIVE
+"which defines a tree varies widely, from 10 m to 0.5 m. By these broadest definitions,",varies,height,STATIVE
+"large herbaceous plants such as papaya and bananas are trees,",are,plants,STATIVE
+despite not being considered as trees under more rigorous definitions.,considered,Trees,STATIVE
+Another criterion often added to the definition of a tree is that it has a woody trunk.,is,criterion,STATIVE
+Such a definition excludes herbaceous trees such as bananas and papayas.,excludes,definition,STATIVE
+Monocots such as bamboo and palms may be considered trees under such a definition.,considered,Monocots,STATIVE
+Despite being herbaceous and not undergoing secondary growth,being,,STATIVE
+"and never producing wood, palms and bamboo may produce ""pseudo-wood"" by lignifying cells",produce,bamboo,DYNAMIC
+produced through primary growth.,produced,cells,DYNAMIC
+"Aside from structural definitions, trees are commonly defined by use.",defined,trees,DYNAMIC
+Trees may be defined as plants from which lumber can be produced.,defined,Trees,DYNAMIC
+==Overview==,,,CANNOT_DECIDE
+Trees have an evolutionary adaptation to competition for space.,have,Trees,STATIVE
+"By growing taller, trees are able to compete better for sunlight.",are,trees,STATIVE
+They have modified structures,modified,They,STATIVE
+that allow them to grow much taller than herbaceous plants,allow,structures,STATIVE
+"and spread out their foliage, such as thicker stems",spread,them,CANNOT_DECIDE
+composed of specialized cells,composed,stems,STATIVE
+that add structural strength and durability.,add,cells,STATIVE
+They are long-lived perennial plants,are,They,STATIVE
+that can increase their size each year by producing woody stems.,increase,plants,DYNAMIC
+"They differ from shrubs,",differ,They,STATIVE
+"which are also woody plants,",are,shrubs,STATIVE
+by usually growing larger,growing,They,DYNAMIC
+and having a single main stem;,having,They,STATIVE
+"but the distinction between a small tree and a large shrub is not always clear,",is,distinction,STATIVE
+made more confusing by the fact,made,clear,STATIVE
+that trees may be reduced in size under harsher environmental conditions such as on mountains and subarctic areas.,reduced,trees,STATIVE
+"The tree form has evolved separately in unrelated classes of plants in response to similar environmental challenges,",evolved,form,DYNAMIC
+making it a classic example of parallel evolution.,making,,STATIVE
+"With an estimated 100,000 species, the number of trees worldwide might total twenty-five percent of all living plant species.",total,number,STATIVE
+Their greatest number grow in tropical regions,grow,number,DYNAMIC
+"and many of these areas have not yet been fully surveyed by botanists, making tree diversity and ranges poorly known.",surveyed,number,DYNAMIC
+"Trees exist in two different groups of vascular or higher plants, the gymnosperms and the angiosperms.",exist,Trees,STATIVE
+Both groups are seed plants.,are,groups,STATIVE
+"The gymnosperm trees include conifers, cycads, ginkgophytes and gnetales.",include,trees,STATIVE
+Angiosperm trees are also known as broad-leaved trees.,known,trees,STATIVE
+"Most angiosperm trees are eudicots, the ""true dicotyledons"",",are,trees,STATIVE
+so named,named,eudicots,STATIVE
+because the seeds contain two cotyledons or seed leaves.,contain,seeds,STATIVE
+A relatively smaller number of other angiosperm trees are paleodicots;,are,number,STATIVE
+"these include Amborella, Magnolia, nutmeg, avocado, and others.",include,these,STATIVE
+Wood gives structural strength to a tree stem,gives,Wood,DYNAMIC
+which is used to support the plant,used,stem,DYNAMIC
+as it grows larger.,grows,it,DYNAMIC
+"The vascular system of trees allows water, nutrients and other chemicals to be distributed",allows,system,DYNAMIC
+"around the plant, and without it trees would not be able to grow as large",be,trees,STATIVE
+as they do.,do,large,DYNAMIC
+"The three main parts of trees include the root, stem, and leaves;",include,parts,STATIVE
+they are integral parts of the vascular system,are,they,STATIVE
+which interconnects all the living cells.,interconnects,system,STATIVE
+"In trees and other plants that develop wood, the vascular cambium allows the expansion of vascular tissue",allows,cambium,STATIVE
+that produces woody growth.,produces,tissue,DYNAMIC
+"Because this growth ruptures the epidermis of the stem,",ruptures,growth,DYNAMIC
+woody plants also have a cork cambium,have,plants,STATIVE
+that develops among the phloem.,develops,cambium,DYNAMIC
+The cork cambium gives rise to thickened cork cells to protect the surface of the plant,gives,cambium,DYNAMIC
+and reduce water loss.,reduce,rise,CANNOT_DECIDE
+Both the production of wood and the production of cork are forms of secondary growth.,are,production,STATIVE
+"Trees are either evergreen,",are,having,STATIVE
+having foliage,having,evergreen,STATIVE
+"that persists and remains green throughout the year, or deciduous,",persists,foliage,STATIVE
+shedding their leaves at the end of the growing season,shedding,evergreen,DYNAMIC
+and then having a dormant period without foliage.,having,evergreen,STATIVE
+Most conifers are evergreens,are,conifers,STATIVE
+"but larches (Larix and Pseudolarix) are deciduous,",are,larches,STATIVE
+"dropping their needles each autumn, and some species of cypress",dropping,deciduous,DYNAMIC
+"(Glyptostrobus, Metasequoia and Taxodium) shed small leafy shoots annually in a process",shed,deciduous,DYNAMIC
+known as cladoptosis.,known,process,STATIVE
+The crown is a name for the spreading top of a tree,is,crown,STATIVE
+"including the branches and leaves, while the uppermost layer in a forest,",including,,STATIVE
+"formed by the crowns of the trees, is known as the canopy.",known,layer,STATIVE
+A sapling is a young tree.,is,sapling,STATIVE
+Tree-like plants include some palms,include,plants,STATIVE
+which are not trees but herbaceous monocots,are,palms,STATIVE
+that do not undergo secondary growth,undergo,monocots,DYNAMIC
+"and never produce wood,",produce,monocots,DYNAMIC
+and hence do not meet the definition of tree,meet,monocots,STATIVE
+used in this article.,used,tree,DYNAMIC
+"In many tree-like palms, the terminal bud on the main stem is the only one to develop",is,bud,STATIVE
+"so they have tall, unbranched trunks with spirally arranged large leaves.",have,they,STATIVE
+"Some of the tree ferns, order Cyatheales, have tree-like growth forms,",have,Some,STATIVE
+"growing up to 20 metres (66 ft), but",growing,Some,DYNAMIC
+they are structurally very different from other trees:,are,they,STATIVE
+their trunks are composed of rhizomes,composed,trunks,STATIVE
+which grow vertically,grow,rhizomes,DYNAMIC
+and which are covered by numerous adventitious roots.,covered,rhizomes,STATIVE
+==Distribution==,,,CANNOT_DECIDE
+"In places where the climate is suitable, trees are the climax vegetation.",are,trees,STATIVE
+"In some of the cool temperate regions, conifers tend to predominate, but in much of the southern hemisphere, the tropics, or in warm-temperate climates,",tend,conifers,STATIVE
+broad-leaved trees are more common.,are,trees,STATIVE
+"Shade tolerance in young trees varies between species,",varies,tolerance,STATIVE
+and may determine the pattern of forest succession.,determine,tolerance,DYNAMIC
+More than half the species of terrestrial plants and animals on the Earth are thought to live in tropical rainforests,thought,species,STATIVE
+even though these occupy just five percent of the land area.,occupy,these,STATIVE
+"In tropical regions with a monsoon climate, where a drier part of the year alternates with a wet period, different species of broad-leaved trees dominate the forest,",dominate,species,STATIVE
+some of them being deciduous.,being,them,STATIVE
+"In tropical regions with a drier savanna climate and insufficient rainfall to support dense forests,",support,rainfall,CANNOT_DECIDE
+the canopy is not closed,is,canopy,STATIVE
+and plenty of sunshine reaches the ground,reaches,canopy,DYNAMIC
+which is covered with grass and scrub.,covered,ground,STATIVE
+Acacia and baobab are well adapted to living in such areas.,adapted,baobab,STATIVE
+"In cool temperate parts of the world, particularly in the northern hemisphere, deciduous broad-leaved trees tend to be replaced by conifers.",tend,trees,STATIVE
+The long cold winter is unsuitable,is,winter,STATIVE
+for plant growth and trees must grow rapidly in the short summer season,grow,winter,DYNAMIC
+when the temperature rises,,,DYNAMIC
+and the days are long.,are,days,STATIVE
+Light is very limited under their dense cover,is,Light,STATIVE
+and there may be little plant life on the forest floor,be,,STATIVE
+although fungi may abound.,abound,fungi,STATIVE
+Similar woodland is found on mountains,found,woodland,DYNAMIC
+where the altitude causes the average temperature to be lower thus,causes,altitude,DYNAMIC
+reducing the length of the growing season.,reducing,,DYNAMIC
+==Parts and function==,,,CANNOT_DECIDE
+===Roots===,,,CANNOT_DECIDE
+The roots of a tree serve to anchor it to the ground,serve,=,STATIVE
+"and gather water and nutrients to transfer to all parts of the tree, and for reproduction defense, survival, energy storage and many other purposes.",gather,,DYNAMIC
+The first root produced by a newly germinated seedling is a taproot,is,root,STATIVE
+which goes straight downwards.,goes,taproot,STATIVE
+Within a few weeks lateral roots branch out of the side of this,branch,roots,DYNAMIC
+and grow horizontally through the upper layers of the soil.,grow,roots,DYNAMIC
+"In most trees, the tap root eventually withers away",withers,root,DYNAMIC
+and the wide-spreading laterals remain.,remain,root,STATIVE
+Near the tip of the finer roots are single cell root hairs.,are,tip,STATIVE
+These are in immediate contact with the soil particles,are,These,STATIVE
+and can absorb water and nutrients such as potassium in solution.,absorb,These,DYNAMIC
+The roots require oxygen to respire,require,roots,STATIVE
+and only a few species such as the mangrove and the pond cypress (Taxodium ascendens) can live in permanently waterlogged soil.,live,roots,STATIVE
+"In the soil, the roots encounter the hyphae of fungi.",encounter,roots,DYNAMIC
+Many of these are known as mycorrhiza and form a mutualistic relationship with the tree roots.,are,,STATIVE
+"Some are specific to a single tree species,",are,Some,STATIVE
+which will not flourish in the absence of its mycorrhizal associate.,flourish,species,DYNAMIC
+Others are generalists and associate with many species.,generalists,Others,STATIVE
+The tree acquires minerals such as phosphorus from the fungus,acquires,tree,DYNAMIC
+while it obtains the carbohydrate products of photosynthesis from the tree.,obtains,it,DYNAMIC
+The hyphae of the fungus can link different trees,link,hyphae,DYNAMIC
+"and a network is formed,",formed,trees,DYNAMIC
+transferring nutrients from one place to another.,transferring,,DYNAMIC
+The fungus promotes growth of the roots,promotes,fungus,DYNAMIC
+and helps protect the trees against predators and pathogens.,helps,fungus,STATIVE
+It can also limit damage done to a tree by pollution,limit,It,DYNAMIC
+as the fungus accumulate heavy metals within its tissues.,accumulate,tree,DYNAMIC
+Fossil evidence shows,shows,evidence,STATIVE
+"that roots have been associated with mycorrhizal fungi since the early Paleozoic, four hundred million years ago,",associated,roots,DYNAMIC
+when the first vascular plants colonised dry land.,colonised,plants,DYNAMIC
+Some trees such as the alders (Alnus species),,,CANNOT_DECIDE
+"have a symbiotic relationship with Frankia species, a filamentous bacterium",have,trees,STATIVE
+"that can fix nitrogen from the air, converting it into ammonia.",converting,trees,DYNAMIC
+They have actinorhizal root nodules on their roots,actinorhizal,They,STATIVE
+in which the bacteria live.,live,bacteria,STATIVE
+This process enables the tree to live in low nitrogen habitats,enables,process,STATIVE
+where they would otherwise be unable to thrive.,be,they,STATIVE
+Researchers have discovered,discovered,Researchers,DYNAMIC
+that certain plant hormones called cytokinins initiate root nodule formation,called,hormones,DYNAMIC
+and that this process is closely related to the mechanisms,related,hormones,STATIVE
+involved in mycorrhizal association.,involved,mechanisms,STATIVE
+It has been demonstrated,demonstrated,It,DYNAMIC
+"that some trees are interconnected through their root system,",are,,STATIVE
+forming a colony.,forming,,DYNAMIC
+"The interconnections are made by the inosculation process, a kind of natural grafting or welding of vegetal tissues.",made,interconnections,DYNAMIC
+"The tests to demonstrate this networking are performed injecting chemicals, sometimes radioactive, in a tree,",performed,tests,DYNAMIC
+and then checking for its presence in neighbor trees.,checking,,DYNAMIC
+"The roots are, generally, a subterranean part of the tree,",are,roots,STATIVE
+but some tree species have evolved roots,evolved,part,DYNAMIC
+that are aerial.,are,roots,STATIVE
+"The common purposes for aerial roots may be of two kinds, to contribute to the mechanical stability of the tree,",be,purposes,STATIVE
+and to obtain oxygen from air.,obtain,,CANNOT_DECIDE
+An instances of mechanical stability enhancement is the red mangrove,is,instances,STATIVE
+that develops prop roots that loop out of the trunk and branches,develops,mangrove,DYNAMIC
+and descend vertically into the mud.,descend,mangrove,STATIVE
+A similar structure is developed by the Indian banyan.,developed,structure,DYNAMIC
+Many large trees have buttress roots,have,trees,STATIVE
+which flare out from the lower part of the trunk.,flare,roots,STATIVE
+These brace the tree rather like angle brackets,brace,These,DYNAMIC
+"and provide stability,",provide,These,STATIVE
+reducing sway in high winds.,reducing,These,DYNAMIC
+They are particularly prevalent in tropical rainforests,are,They,STATIVE
+where the soil is poor,is,soil,STATIVE
+and the roots are close to the surface.,are,roots,STATIVE

@@ -1,0 +1,95 @@
+Clause,mainVerb,mainReferent,Gold
+A guillotine (; ijtin),,,CANNOT_DECIDE
+is an apparatus,is,designed,STATIVE
+designed for carrying out executions by beheading.,designed,apparatus,STATIVE
+It consists of a tall upright frame,consists,It,STATIVE
+in which a weighted and angled blade is raised to the top,raised,blade,DYNAMIC
+and suspended.,suspended,blade,DYNAMIC
+"The condemned person is secured at the bottom of the frame,",secured,person,DYNAMIC
+with his or her neck held directly below the blade.,held,,STATIVE
+"The blade is then released, to fall swiftly",released,blade,DYNAMIC
+and sever the head from the body.,sever,blade,CANNOT_DECIDE
+"The device is best known for its use in France, in particular during the French Revolution,",known,device,STATIVE
+"when it ""became a part of popular culture""",became,it,DYNAMIC
+and it was celebrated as the people's avenger by supporters of the Revolution and vilified as the pre-eminent symbol of the Reign of Terror by opponents.,celebrated,device,DYNAMIC
+The guillotine continued to be used,continued,guillotine,DYNAMIC
+long after the Revolution and remained France's standard method of judicial execution until the abolition of capital punishment with the backing of President Franois Mitterrand in 1981.,remained,guillotine,STATIVE
+"The last person guillotined in France was Hamida Djandoubi, on 10 September 1977.",was,person,STATIVE
+"The guillotine was used, amongst other countries, in 1933-1945 Nazi Germany for 16,500 executions, and in 1950-1990 by the Stasi in East Germany for secret executions.",used,guillotine,DYNAMIC
+== Invention ==,,,CANNOT_DECIDE
+"Antoine Louis, together with German engineer Tobias Schmidt, built a prototype for the guillotine.",built,,DYNAMIC
+Schmidt recommended using an angled blade,recommended,Schmidt,DYNAMIC
+as opposed to a round one.,opposed,,STATIVE
+==Precursors==,,,CANNOT_DECIDE
+There were other beheading machines in countries other than France before 1792.,were,machines,STATIVE
+"A number of countries, especially in Europe, continued to employ this method of execution into modern times.",continued,number,DYNAMIC
+"Although the guillotine was invented in the late 18th century, similar beheading machines have a longer history.",have,machines,STATIVE
+"The Halifax Gibbet was a wooden structure of two wooden uprights,",was,Gibbet,STATIVE
+"capped by a horizontal beam, of a total height of .",capped,uprights,STATIVE
+The blade was an axe head,was,blade,STATIVE
+"weighing 3.5 kg (7.7 lb), attached to the bottom of a massive wooden block",weighing,head,STATIVE
+that slid up and down in grooves in the uprights.,slid,block,DYNAMIC
+This device was mounted on a large square platform high.,mounted,device,STATIVE
+It is not known,known,It,STATIVE
+when the Halifax Gibbet was first used;,used,Gibbet,DYNAMIC
+"the first recorded execution in Halifax dates from 1280,",dates,execution,STATIVE
+"but that execution may have been by sword, axe, or the gibbet.",been,execution,STATIVE
+The machine remained in use,remained,machine,STATIVE
+until Oliver Cromwell forbade capital punishment for petty theft.,forbade,Cromwell,DYNAMIC
+"It was used for the last time, for the execution of two criminals on a single day, on 30 April 1650.",used,It,DYNAMIC
+Another early example is immortalized in the picture 'The execution of Murcod Ballagh near to Merton in Ireland 1307'.,immortalized,example,STATIVE
+"As the title states, the victim was named Murcod Ballagh,",named,victim,STATIVE
+and he was decapitated by equipment,decapitated,victim,DYNAMIC
+looking remarkably similar to the later French guillotines.,looking,,STATIVE
+Another unrelated picture depicts an execution with elements of both a guillotine-style device and a traditional beheading.,depicts,picture,STATIVE
+"While the condemned is lying on a bench, a device holds an axe head in position above the neck.",holds,device,STATIVE
+"The executioner, who is shown wielding a large hammer,",shown,executioner,STATIVE
+strikes down on the mechanism,strikes,executioner,DYNAMIC
+and drives the blade down.,drives,executioner,DYNAMIC
+"Traditional executions by decapitation via sword or axe were notably gruesome,",were,executions,STATIVE
+and the device depicted in the illustration may have been conceived in an attempt to improve the accuracy and effectiveness.,conceived,executions,DYNAMIC
+No reference to its actual use has been found.,found,reference,DYNAMIC
+== French Revolution ==,,,CANNOT_DECIDE
+Joseph-Ignace Guillotin cropped.,,,STATIVE
+JPG|thumb|upright|Portrait of Guillotin,,,CANNOT_DECIDE
+"On 10 October 1789, Joseph-Ignace Guillotin, a French physician, stood before the National Assembly",stood,Guillotin,DYNAMIC
+and proposed the following six articles in favour of the reformation of capital punishment:,proposed,Guillotin,DYNAMIC
+* Article 1: All offences of the same kind will be punished by the same type of punishment irrespective of the rank or status of the guilty party.,punished,articles,DYNAMIC
+"* Article 2: Whenever the Law imposes the death penalty, irrespective of the nature of the offence,",imposes,Law,CANNOT_DECIDE
+"the punishment shall be the same: decapitation,",be,punishment,STATIVE
+effected by means of a simple mechanism.,effected,decapitation,DYNAMIC
+* Article 3: The punishment of the guilty party shall not bring discredit upon or discrimination against his family.,bring,Article,DYNAMIC
+* Article 4: No one shall reproach a citizen with any punishment,reproach,Article,DYNAMIC
+imposed on one of his relatives.,imposed,punishment,DYNAMIC
+Such offenders shall be publicly reprimanded by a judge.,reprimanded,offenders,DYNAMIC
+* Article 5: The condemned person's property shall not be confiscated.,confiscated,Article,DYNAMIC
+"* Article 6: At the request of the family, the corpse of the condemned man shall be returned to them for burial",returned,Article,DYNAMIC
+and no reference to the nature of death shall be registered.,registered,corpse,DYNAMIC
+"Sensing the growing discontent,",Sensing,,STATIVE
+Louis XVI banned the use of the breaking wheel.,banned,XVI,DYNAMIC
+"In 1791, as the French Revolution progressed,",progressed,Revolution,DYNAMIC
+the National Assembly researched a new method to be used on all condemned people regardless of class.,researched,Assembly,DYNAMIC
+Their concerns contributed to the idea,contributed,concerns,DYNAMIC
+that the purpose of capital punishment was simply to end life,was,purpose,STATIVE
+rather than to inflict pain.,inflict,,CANNOT_DECIDE
+"A committee was formed under Antoine Louis, physician to the King and Secretary to the Academy of Surgery.",formed,committee,DYNAMIC
+Guillotin was also on the committee.,was,Guillotin,STATIVE
+The group was influenced by the Italian Mannaia,influenced,group,STATIVE
+"(or Mannaja), the Scottish Maiden and the Halifax Gibbet, which was fitted with an axe head",fitted,Gibbet,STATIVE
+weighing 7 pounds 12 ounces (3.5 kg).,weighing,head,STATIVE
+While these prior instruments usually crushed the neck,crushed,instruments,DYNAMIC
+"or used blunt force to take off a head, devices also usually used a crescent blade and a lunette",used,devices,DYNAMIC
+(a hinged two part yoke to immobilize the victim's neck).,immobilize,yoke,CANNOT_DECIDE
+"Laquiante, an officer of the Strasbourg criminal court, designed a beheading machine",designed,Laquiante,DYNAMIC
+"and employed Tobias Schmidt, a German engineer and harpsichord maker, to construct a prototype.",employed,Laquiante,DYNAMIC
+Antoine Louis is also credited with the design of the prototype.,credited,Louis,STATIVE
+An apocryphal story claims,claims,story,STATIVE
+that King Louis XVI (an amateur locksmith) recommended,recommended,XVI,DYNAMIC
+"that a triangular blade with a beveled edge be used instead of a crescent blade,",used,blade,CANNOT_DECIDE
+but it was Schmidt,was,it,STATIVE
+who suggested placing a straight blade at a 45 degree angle.,suggested,Schmidt,DYNAMIC
+The first execution by guillotine was performed on highwayman Nicolas Jacques Pelletier on 25 April 1792.,performed,execution,DYNAMIC
+He was executed in front of what is now the city hall of Paris (Place de l'htel de ville).,executed,He,DYNAMIC
+All citizens deemed guilty of a crime,deemed,citizens,STATIVE
+"punishable by death were from then on executed there,",executed,citizens,DYNAMIC
+until the scaffold was moved on 21 August to the Place du Carrousel.,moved,scaffold,DYNAMIC

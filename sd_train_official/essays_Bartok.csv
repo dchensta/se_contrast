@@ -1,0 +1,428 @@
+Clause,mainVerb,mainReferent,Gold
+Tonal Structure and Form in Bartks Concerto for Orchestra (I),,,CANNOT_DECIDE
+Drew F. Nobile,,,CANNOT_DECIDE
+University of Washington,,,CANNOT_DECIDE
+"Before beginning an analysis of any piece by Bla Bartk, one must first decide to what degree tonal analysis will be used.",decide,one,DYNAMIC
+"Bartks music, although it is often difficult to call completely tonal, never entirely sheds itself of tonal elements and structure.",sheds,music,DYNAMIC
+"This remains true even with one of his last compositions, the Concerto for Orchestra, written two years before his death in 1943.",remains,This,STATIVE
+"The discussion that follows analyzes the first movement of the Concerto,",analyzes,discussion,DYNAMIC
+focusing on the tonal structures at play throughout the movement.,focusing,discussion,DYNAMIC
+"The analysis will treat the movement tonally,",treat,analysis,DYNAMIC
+investigating the progression of local tonics and its relationship to the overall form.,investigating,analysis,DYNAMIC
+We will also examine to what degree a tonal reading of this movement is limited in its analytical potential in an attempt to pinpoint,examine,We,DYNAMIC
+exactly where Bartk strays from common-practice compositional techniques.,strays,Bartók,DYNAMIC
+Harmonic Structure and Form,,,CANNOT_DECIDE
+Bartk describes the form of the first movement as more or less regular sonata form.,describes,Bartók,DYNAMIC
+"Bartk, 431.",,,CANNOT_DECIDE
+"While that does not seem to be a meaningful assertion,",seem,that,STATIVE
+it is perfectly accurate:,is,it,STATIVE
+"the movement is in sonata form,",is,movement,STATIVE
+but there is an introduction,is,movement,STATIVE
+"that does not relate thematically to any other parts of the movement (not unheard of in Mozart sonatas),",relate,introduction,STATIVE
+and the recapitulation presents the two themes of the exposition in reverse order.,presents,movement,DYNAMIC
+The backwards recapitulation is a technique,is,recapitulation,STATIVE
+that Bartk employs frequently because of the formal symmetry,employs,Bartók,DYNAMIC
+it creates.,creates,it,DYNAMIC
+"For example, the fifth string quartet.",,,CANNOT_DECIDE
+"Also see Bartks comments on that (Bartk, 414).",see,,CANNOT_DECIDE
+Example 1 shows a diagram of the form of the movement;,shows,Example,DYNAMIC
+the symmetry is apparent within the seven sections following the introduction.,is,symmetry,STATIVE
+"As the example shows,",,,STATIVE
+the development section is divided into three subsections;,divided,section,STATIVE
+"the first and third subsections draw their thematic material from the first theme group,",draw,subsections,DYNAMIC
+and the second subsection involves new material,involves,subsections,STATIVE
+not drawn from the exposition.,drawn,material,DYNAMIC
+"Hence, on either side of the middle section of the development we have the alternation FTG-STG-FTG",have,we,STATIVE
+"which makes the overall form, with the exception of the Introduction, symmetric.",makes,FTG-STG-FTG,DYNAMIC
+"Paul Wilson also discusses the inherent symmetry of the movement,",discusses,Wilson,DYNAMIC
+although his interpretation is somewhat different.,is,interpretation,STATIVE
+"See Wilson, 168-170.",,,CANNOT_DECIDE
+|| Intro | FTG | STG | Dev I (FTG),|,FTG,CANNOT_DECIDE
+| Dev II (new) | Dev III (FTG) | STG | FTG ||,,,CANNOT_DECIDE
+"The abbreviations FTG and STG stand for First Theme Group and Second Theme Group, respectively.",stand,STG,STATIVE
+example 1: formal structure of the first movement,,,CANNOT_DECIDE
+"Sonata formor, more-or-less sonata formcarries harmonic as well as formal connotations.",—,example,STATIVE
+"While tonality in this piece (and in Bartks music in general) is quite different from its classical interpretation,",is,”,STATIVE
+we find,find,we,STATIVE
+that the harmonic structure is at least analogous to the standard sonata-form structure.,is,structure,STATIVE
+"To begin with,",begin,,CANNOT_DECIDE
+the movement is in F.,is,movement,STATIVE
+"When we say in F,",say,we,DYNAMIC
+ we do not imply,imply,we,DYNAMIC
+"F major (or minor, for that matter)",,,CANNOT_DECIDE
+the major/minor tonal system in general does not apply to this piecebut,—,”,STATIVE
+"rather that the pitch-class F is the tonal center of the movement,",is,F,STATIVE
+and acts analogously to the tonic in a Mozartian sonata movement.,acts,”,DYNAMIC
+"Using this interpretation,",Using,we,DYNAMIC
+"we can map out the local tonics (tonal centers) used throughout the movement,",map,we,DYNAMIC
+as shown in Example 2.,shown,,STATIVE
+example 2: harmonic structure of the first movement,,,CANNOT_DECIDE
+"In this example, the barlines divide the formal sections of the piece",divide,barlines,STATIVE
+(IntroductionExpositionDevelopmentRecapitulation)so,,,CANNOT_DECIDE
+we can immediately see,see,we,DYNAMIC
+that the tonic F is not established,established,F,STATIVE
+until the exposition begins.,begins,exposition,DYNAMIC
+"Beginning with the exposition, the large-scale progression of tonal centers is a whole-tone descent from F to F,",is,progression,STATIVE
+"represented by the stemmed notes in Example 2,",represented,F,STATIVE
+while the Introduction ascends from C to F through D (shown as D and E in the graph) in a quasi-bass Anstieg.,ascends,Introduction,DYNAMIC
+"The middle pitch of the descent, B, acts as the dominant to F,",acts,pitch,DYNAMIC
+based on its symmetrical division of the whole-tone scale and the fact,based,F,STATIVE
+that the second theme appears in B in the exposition.,appears,theme,DYNAMIC
+"Bartk has often applied a tonic-dominant relationship to a pitch-class and its tritone partner,",applied,Bartók,DYNAMIC
+and even admits to using that as a compositional framework in his fifth string quartet.,admits,Bartók,DYNAMIC
+"See Bartk, 414-415.",,,CANNOT_DECIDE
+"In this particular movement, Bartk feigns moving to the tonal dominant, C, for the second theme before reinterpreting C as a chromatic passing tone between D and Bthis and other subtleties",feigns,Bartók,DYNAMIC
+shown in Example 2 will be explained in detail in later sections.,explained,this,DYNAMIC
+Paul Wilson gives a detailed account of the foreground activity throughout this movement in his analysis;,gives,Wilson,DYNAMIC
+we do not seek to duplicate or substitute for his findings.,seek,we,STATIVE
+Our analysis will focus instead on relating the foreground activity to the overarching background structure.,focus,analysis,DYNAMIC
+The graph in Example 2 will serve as a point of departure for the subsequent analysis;,serve,graph,STATIVE
+"while we will periodically refer back to some of its specific elements,",refer,we,DYNAMIC
+it should be understood,understood,it,STATIVE
+"that even when not explicitly referenced,",referenced,,DYNAMIC
+this graph serves as the explanatory goal of this paper.,serves,graph,STATIVE
+The Introduction,,,CANNOT_DECIDE
+"As Paul Wilson points out, the title",points,Wilson,DYNAMIC
+Introduzione given to the movement as a whole seems to apply only to the first 75 measures.,“,title,STATIVE
+"Wilson, 172.",,,CANNOT_DECIDE
+"The Introduction does not relate thematically to any of the main sections of the movementin fact,",relate,Introduction,STATIVE
+it is the third movement,is,it,STATIVE
+that draws its thematic material from this sectionbut,draws,movement,DYNAMIC
+the harmonic and motivic principles at play here foreshadow some important elements of the entire piece.,foreshadow,movement,DYNAMIC
+"To begin with,",begin,,CANNOT_DECIDE
+"the opening motive in the celli and basses, shown in Example 3, outlines a pentatonic set",outlines,motive,DYNAMIC
+and strongly presents C as the tonal center.,presents,motive,DYNAMIC
+"The pentatonic set here is exclusively a pitch-class set,",is,pentatonic,STATIVE
+and its incarnations throughout the movement are devoid of any connotations,are,incarnations,STATIVE
+associated with the pentatonic scale.,associated,connotations,STATIVE
+"Indeed, this set can be seen more as a by-product of stacked perfect fourths than a generative element itself.",seen,set,STATIVE
+"The perfect fourth in fact generates much of the motivic and harmonic material of the entire movement,",generates,fourth,DYNAMIC
+and its importance is immediately evident in the Introduction with the opening bass motive.,is,importance,STATIVE
+"Furthermore, the following two instances of this opening motive, shown in Examples 4 and 5, remove any doubt as to the motivic importance of the perfect fourth,",remove,instances,DYNAMIC
+and in turn diminish the importance of the pentatonic set.,diminish,in,DYNAMIC
+example 3: measures 1-6 (celli and basses),,,CANNOT_DECIDE
+example 4: measures 12-16 (celli and basses),measures,example,CANNOT_DECIDE
+"example 5: measures 22-29 (celli, basses and violas)",,,CANNOT_DECIDE
+"Example 4 transitions from C to F,",Example,measures,DYNAMIC
+"and adds pitch-class E to the pentatonic set of Example 3, creating a six-note set of stacked fourths.",adds,measures,DYNAMIC
+Example 5 shows,shows,Example,DYNAMIC
+the true dominance of the perfect fourth; the set created is a ten-note set,is,set,STATIVE
+derived by stacking fourths.,derived,set,DYNAMIC
+If we begin from the final D,begin,we,DYNAMIC
+and ascend the circle of fourths,ascend,we,DYNAMIC
+until we reach C,reach,we,DYNAMIC
+we obtain the entire set,obtain,we,DYNAMIC
+presented in this example.,presented,set,DYNAMIC
+"Each note is either approached or left (or both) by a fourth,",approached,note,DYNAMIC
+and the structural motion is from F to D.,is,note,STATIVE
+"The overall motion in the first 29 measures is C to D, through F;",is,motion,STATIVE
+"these are represented enharmonically in Example 2 as D, E and G.",represented,these,STATIVE
+"As previously mentioned, this motion constitutes the initial ascent to what will eventually be a whole-tone descent from F to F.",constitutes,motion,STATIVE
+So the prevailing structural motion of the movement as a whole is a descending whole step,is,whole,STATIVE
+and the prevailing melodic motion is a (usually ascending) perfect fourth.,is,motion,STATIVE
+We can connect the two by noting,connect,We,DYNAMIC
+that the descending whole step consists of two ascending fourths;,consists,step,STATIVE
+"indeed, the structural whole-tone descent is often filled in with the intervening fourth.",filled,descent,DYNAMIC
+This motion is exemplified in Example 2 in the second theme group (mm.,exemplified,motion,DYNAMIC
+"155-233), and as we will see,",see,we,DYNAMIC
+"it occurs in other places, though not relevant enough to the background structure to be represented in Example 2.",occurs,it,DYNAMIC
+"Each time the motion in Examples 3 through 5 breaks from chains of fourths, the same sequence of intervals occurs: two descending perfect fourths separated by an ascending major second",occurs,motion,DYNAMIC
+"(-5, +2, -5); each instance of this intervallic cell is bracketed in the examples.",bracketed,instance,STATIVE
+This sequence of intervals is the inversion of those,is,sequence,STATIVE
+"found in the second head motive of the first theme of the exposition,",found,those,STATIVE
+shown in measures 2-3 of Example 8.,shown,theme,DYNAMIC
+"So although there is no thematic relation between the Introduction and the main sections of the movement, within the first 29 measures we can already see structural, harmonic and motivic elements",see,we,STATIVE
+that apply to the movement as a whole.,apply,elements,STATIVE
+The section from measures 35-50 is centered on E;,centered,section,STATIVE
+"upon the return of D, enharmonically respelled as E, in measure 58,",respelled,♯,DYNAMIC
+we see,see,we,DYNAMIC
+that E acts as its upper-neighbor.,acts,E,DYNAMIC
+This relationship is somewhat obscured by measures 51-57 however;,is,relationship,DYNAMIC
+"while there is no clear tonal center for this section,",is,center,STATIVE
+"G appears in the outer voices in measure 51,",appears,G,DYNAMIC
+although the harmonic material is reminiscent of C minor.,is,material,STATIVE
+The concluding motive of this section in the violins,,,CANNOT_DECIDE
+"(the bracketed sections of Example 6), as well as the bass motive of measure 58ff.",,,CANNOT_DECIDE
+"(Example 7), are related to the first head motive of the first theme,",related,7,STATIVE
+which is shown in the first measure of Example 8.,shown,theme,DYNAMIC
+"All three of these motives span a tritone,",span,three,DYNAMIC
+which as mentioned is the dominant relationship in this movement.,is,mentioned,STATIVE
+"Paul Wilson describes the transition from the Introduction to the Exposition as quite abrupt and seemingly unmotivated,",describes,Wilson,DYNAMIC
+"Wilson, 173.",,,CANNOT_DECIDE
+but it is in fact this motivic relationship,is,it,STATIVE
+that ties them together,ties,relationship,DYNAMIC
+and creates a rather smooth transition.,creates,relationship,DYNAMIC
+example 6: measures 56-58 (violin 1),,,CANNOT_DECIDE
+"example 7: measure 58 (violas, celli, basses)",,,CANNOT_DECIDE
+; repeated through measure 75,repeated,example,DYNAMIC
+The Exposition,,,CANNOT_DECIDE
+"Although the motivic relationship between the Introduction and the first theme of the exposition smooth the transition, nearly every other element changes",changes,element,DYNAMIC
+when the first theme appears.,appears,theme,DYNAMIC
+The drastic tempo and meter changes as well as the first appearances of staccato articulations make it clear to the listener,make,appearances,DYNAMIC
+that the introduction is over.,is,introduction,STATIVE
+"As mentioned, the first theme, the beginning of which is reproduced in Example 8, contains two head motives",contains,theme,STATIVE
+: the first is the tritone-spanning ascent,is,first,STATIVE
+"that appears in the first measure,",appears,iteration,DYNAMIC
+"and the second is an iteration of the interval cell (+5, -2, +5)",is,second,STATIVE
+that appears in the second through third measures.,appears,cell,DYNAMIC
+"While the presence of the perfect fourths that was so prevalent in the Introduction is clear in the latter, the former does not employ the perfect fourth in its formation.",employ,former,STATIVE
+"Rather, this motive is a small-scale representation of the tonic-dominant relationship of tritone partners, specifically F and B,",is,motive,STATIVE
+that is the basis for the harmonic structure of this movement.,is,partners,STATIVE
+example 8: measures 76-80 (violins),measures,example,CANNOT_DECIDE
+"Rhythmically, we have a dissonance between the melody,",have,we,STATIVE
+"which follows the written meter, and the accompanying chords in the bassoons, horns and lower strings.",follows,measures,DYNAMIC
+"Example 9 reproduces the chords,",reproduces,Example,DYNAMIC
+and Example 10 rewrites them in a meter,rewrites,Example,DYNAMIC
+that is more consistent with their rhythmic pattern.,is,meter,STATIVE
+"As Example 10 shows, the chords are more-or-less in duple meter",are,chords,STATIVE
+(4/8 and 2/8) with one hiccup occurring in the 5/8 measure.,occurring,”,DYNAMIC
+This is in strict metric dissonance with the triple meter of the melody,is,This,STATIVE
+(with its own hiccups occurring in the written 2/8 measures).,occurring,meter,DYNAMIC
+"As we will later see, this dissonance disappears",disappears,dissonance,DYNAMIC
+when this theme returns in the recapitulation.,returns,theme,DYNAMIC
+"example 9: measures 77-91 (bassoons, horns, lower strings; reduced)",,,CANNOT_DECIDE
+example 10: measures 77-91 rebarred to reflect rhythmic pattern,measures,example,DYNAMIC
+We have already mentioned,mentioned,We,DYNAMIC
+"that the first theme group is in Fthis is made clear from the onset, both in the melodic line and by the F minor triad",is,group,STATIVE
+that occurs on the downbeat of measure 77.,occurs,triad,DYNAMIC
+"While the material occasionally departs from this F in measures 76-94, these departures are all subordinate to the prolonged F. E is the tonal center for measures 95-134,",is,95-134,DYNAMIC
+although it does not appear as a strong bass note until measure 131.,appear,it,DYNAMIC
+"Measures 95-130 contain a mostly chromatic descent from C to E,",contain,Measures,STATIVE
+where E is anticipated throughout as a goal tone for the bass.,anticipated,♭,DYNAMIC
+Example 11 illustrates this structure.,illustrates,Example,DYNAMIC
+"Immediately following the arrival of E in the bass, C (D) is established as the tonal center for the final transition to the second theme.",following,,DYNAMIC
+"The trombone motive in measures 134-141, shown in Example 12,",shown,measures,DYNAMIC
+"is the subject of the fugato section in part 3 of the development,",is,motive,STATIVE
+although its importance is downplayed here.,downplayed,importance,DYNAMIC
+Note,Note,,CANNOT_DECIDE
+"that the initial G is a pickup to the section in C,",is,♯,STATIVE
+which fills in the whole-tone descent from E to C with the intervening fourth.,fills,♯,DYNAMIC
+This motive also contains the intervallic cell of the second head motive of the first theme in the form of G-C-B-E,contains,motive,STATIVE
+"(with the addition of some passing tones),",passing,,CANNOT_DECIDE
+in addition to consisting largely of motion by perfect fourths.,consisting,motive,STATIVE
+"example 11: bass structure of the first theme group, measures 76-155",,,CANNOT_DECIDE
+example 12: measures 134-141 (trombone),measures,,CANNOT_DECIDE
+Wilson claims,claims,Wilson,DYNAMIC
+that C and E are local dominants to F in this first section of the exposition.,“,♭,STATIVE
+"Wilson, 174.",174,,CANNOT_DECIDE
+"While the strong V-I motion from measures 90-91 does carry a tonal implication of dominant-tonic, such cadential bass motion does not imply anything about structural function in this context.",imply,motion,DYNAMIC
+"E, furthermore, is not convincingly established as a dominant-functioning tone at all.",established,♭,DYNAMIC
+The passage from measures 85-89 is centered on E,centered,passage,STATIVE
+"(and the pentatonic set from the opening of the exposition is transposed down a whole step),",transposed,set,DYNAMIC
+but its mere presence as local tonic does not signify any sort of dominant function.,signify,passage,STATIVE
+"Rather, we can consider this occurrence of E as a middleground-level whole-tone descent",consider,we,STATIVE
+that foreshadows the structural descent to E at measure 131,foreshadows,descent,DYNAMIC
+that is represented in Example 2.,represented,measure,STATIVE
+"In measures 91-95, the bass descends F-E-D-C,",descends,bass,DYNAMIC
+which might seem to support Cs functioning as structural dominant.,seem,C,STATIVE
+"However, as previously mentioned,",mentioned,,DYNAMIC
+C acts as a fake dominant,acts,C,DYNAMIC
+"that in measures 149-155 actually functions as an upper neighbor to B, the true dominant.",149-155,”,DYNAMIC
+The descent in measures 91-95 in fact participates in the farce by projecting a descent,participates,descent,DYNAMIC
+"ending on C,",ending,descent,DYNAMIC
+which makes the eventual reinterpretation of C and descent to B stronger.,makes,C,DYNAMIC
+This creates both a smooth transition to the second theme and a strong sense,creates,This,DYNAMIC
+"that a new section is beginning, a combination",beginning,sense,STATIVE
+that is generally rather difficult to forge.,is,combination,STATIVE
+"The second theme is tranquil and harmonically simple,",is,theme,STATIVE
+which is in stark contrast to the first theme.,is,tranquil,STATIVE
+B dominates as tonal center from measures 155-191 with little or no harmonic motion away from it.,dominates,B,DYNAMIC
+"Measures 192-197 are in E,",are,192-197,STATIVE
+"with the bass notes in the harp, and measures 198-209 are in D.",are,192-197,STATIVE
+A intervenes between E and D in measure 195another instance of the whole-tone,—,intervenes,DYNAMIC
+being filled in by a fourth.,filled,whole-tone,DYNAMIC
+The return to B in measure 210 is also filled-in in this way by F in measures 208-209.,is,208-209,DYNAMIC
+"Hence, measures 155-210 constitute the bass progression B-E-D-B;",constitute,measures,STATIVE
+the same stepwise descent (E-D) occurred in the first theme group while F,occurred,♭,DYNAMIC
+rather than B was being prolonged.,being,F,DYNAMIC
+Paul Wilson points out,points,,DYNAMIC
+that [i]n,n,],CANNOT_DECIDE
+"substituting for F within an analogous structure, B receives confirmation at this point as the crucial interior center of the movement.",receives,B,DYNAMIC
+"Wilson, 179.",,,CANNOT_DECIDE
+"In our terminology, this is the point",is,this,STATIVE
+at which B is unequivocally established as the structural dominant.,established,B,DYNAMIC
+The Development,,,CANNOT_DECIDE
+"As mentioned, the development is divided into three subsections.",divided,development,STATIVE
+"In Example 2, the entire development section is represented by exactly three pitches,",represented,section,STATIVE
+and indeed each subsection is associated with one of these three pitches,associated,section,STATIVE
+as its tonal centernone of these pitches is involved in the structural whole-tone descent.,—,center,STATIVE
+"As Paul Wilson states, the development is, for Bartks music, developmental in a relatively conventional way; the themes from the exposition are expanded and modified,",is,“,STATIVE
+and tonalities other than those expected arise.,arise,themes,DYNAMIC
+"Wilson, 180.",,,CANNOT_DECIDE
+"The only slight abnormality, though it is certainly not unheard of even in classical-period sonata movements,",is,it,STATIVE
+is the emergence of a new theme in the second section of the development.,is,abnormality,STATIVE
+Although Wilson claims,claims,Wilson,DYNAMIC
+"that this theme is based on a transformation in rhythm and contour of the second head-motive of [the first-theme],",based,theme,STATIVE
+"Wilson, 182.",182,],CANNOT_DECIDE
+"there is no intervallic relationship between the two motives,",is,relationship,STATIVE
+and it is not clear,is,it,STATIVE
+what elements of a motive remain,remain,elements,STATIVE
+"when rhythm, contour and interval content are changed.",changed,content,DYNAMIC
+"Furthermore, this section, being the middle section of the movement, upholds the formal symmetry",upholds,section,STATIVE
+if interpreted as its own theme.,interpreted,section,DYNAMIC
+"The first section of the development, measures 231-271, begins with a big D-minor chord",begins,section,DYNAMIC
+which immediately establishes D as the tonal center for the section.,establishes,chord,DYNAMIC
+"Although it moves to E minor in measure 239,",moves,it,DYNAMIC
+"it returns to D minor in measure 248,",returns,it,DYNAMIC
+which suggests,suggests,measure,STATIVE
+that E is an upper neighbor,is,♭,STATIVE
+"prolonging D. The passage beginning at measure 248,",prolonging,neighbor,DYNAMIC
+"shown in Example 13,",shown,passage,DYNAMIC
+"can be considered to be the theme of this section,",considered,passage,STATIVE
+and is a development of the second head motive of the first theme.,is,,STATIVE
+This motive undergoes inversion and extension throughout the section.,undergoes,motive,DYNAMIC
+While Wilson rightly identifies the resultant set of measures 261-264 as 6-Z50,identifies,Wilson,DYNAMIC
+"([014679]), identifying it as such does not offer much analytical insight",offer,identifying,STATIVE
+until we point out,point,we,DYNAMIC
+"that this is a simple extension of the intervallic sequence (+5, -2, +5) from the original motive.",is,this,STATIVE
+example 13: measures 248-264 (violins),violins,248-264,CANNOT_DECIDE
+The second section of the development is in C,is,section,STATIVE
+(which is sometimes spelled D).,spelled,is,DYNAMIC
+This section is reproduced as Example 14.,is,section,DYNAMIC
+This section returns to the calm simplicity,returns,section,DYNAMIC
+"(and tempo) of the second section, though apart from affect",,,CANNOT_DECIDE
+there are no references to that section.,are,references,STATIVE
+"Although the C major chord in measure 293, preceded by A major (V) in measure 285, suggests C as tonal center, the tonality is not strongly established until measure 303.",established,tonality,STATIVE
+The arrival at C was foreshadowed by the first two measures of the development,foreshadowed,arrival,DYNAMIC
+"(Example 15), which are almost a direct transposition of the two head motives of the first theme to C.",are,development,STATIVE
+"Because of its emphasis here in the development section and its position as leading to B in the second theme group,",leading,position,CANNOT_DECIDE
+we could conceive of C# as a sub-dominant in this movement.,conceive,we,DYNAMIC
+"As tempting as this interpretation may be, this observation is relegated to the notes section",relegated,observation,STATIVE
+because it constitutes,constitutes,it,STATIVE
+a horrible abuse of terminologythere is only so far that such tonal analogies can go,is,,STATIVE
+before they begin to hide any true analytical insight behind,begin,they,DYNAMIC
+misused terms.,,,CANNOT_DECIDE
+example 15: measures 231-232 (violins and trumpets),,,CANNOT_DECIDE
+"example 14: measures 272-313 (reduction): development, part 2",measures,example,CANNOT_DECIDE
+The third section of the development takes the trombone motive from the transition between the first and second sections of the exposition,takes,section,DYNAMIC
+"shown in Example 12,",shown,exposition,DYNAMIC
+"transposed to begin on F,",transposed,section,DYNAMIC
+"and turns it into a fugato sequence,",turns,section,DYNAMIC
+reproduced in Example 17.,reproduced,development,DYNAMIC
+The tonal center B is established immediately in measures 316-318 by the strong V-I chord progression (Example 16).,measures,center,DYNAMIC
+"As previously mentioned, the fugato motive incorporates the motion by perfect fourths",incorporates,motive,STATIVE
+found in the Introduction as well as the intervallic cell,found,fourths,STATIVE
+found in the second head motive of the first theme.,found,cell,STATIVE
+The resultant set is the pentatonic set F-B-E-A-D;,is,set,STATIVE
+the entire passage shown in Example 17 remains within this set.,remains,passage,STATIVE
+"The second and fourth entrances of the fugato subject are transposed up a perfect fifth,",transposed,entrances,DYNAMIC
+"but the first note is B rather than C,",is,note,STATIVE
+which allows Bartk to remain in this pentatonic set,allows,C,STATIVE
+(and also to reinforce B as tonal center).,reinforce,,CANNOT_DECIDE
+example 16: measures 316-318: establishment of b,♭,,CANNOT_DECIDE
+"The second instance of the fugato section, not reproduced in its entirety",reproduced,example,STATIVE
+"but based on the subject in Example 18, is an exact pitch inversion",is,example,STATIVE
+transposed to begin on C. The inversion blends seamlessly back into the original subject in measure 363.,transposed,inversion,DYNAMIC
+The following section (measures 363-389),,,CANNOT_DECIDE
+"especially brings out the quartal harmonies within the pentatonic set, so much so that B is obscured as tonal center",brings,section,DYNAMIC
+which allows A to emerge as the goal tone of this sectiononly to be immediately reinterpreted as a leading tone to the A,allows,center,DYNAMIC
+that begins the recapitulation.,begins,A,DYNAMIC
+"Both B and A are chromatic neighbors to A,",are,♭,STATIVE
+"which intensifies the arrival on A,",intensifies,A,DYNAMIC
+and brings out the fact,brings,A,DYNAMIC
+that the appearance of A continues the large-scale whole-tone descent,continues,appearance,DYNAMIC
+that has been left stranded on B for the entire development section.,left,descent,DYNAMIC
+example 17: measures 316-340 (brass): fugato section,,,CANNOT_DECIDE
+example 18: measures 342-349 (horns): inverted fugato subject,,,CANNOT_DECIDE
+The Recapitulation,,,CANNOT_DECIDE
+"The recapitulation, as we have seen,",seen,we,DYNAMIC
+presents the themes in reverse order.,presents,example,DYNAMIC
+"The second theme is initially presented in A, as part of the whole-tone descent,",presented,theme,DYNAMIC
+"and proceeds directly to G,",proceeds,theme,DYNAMIC
+where it is restated slightly modified.,restated,it,DYNAMIC
+It is worth pointing out,is,It,STATIVE
+"that the arrival on G at measure 425 is led into by D,",led,arrival,DYNAMIC
+which constitutes another filling in of the whole-step by the intervening fourth.,constitutes,D,STATIVE
+"The A in measure 438 might initially seem to be a new tonal area,",seem,♯,STATIVE
+"but it leads to D in measure 444,",leads,♯,DYNAMIC
+which constitutes a V chord,constitutes,measure,STATIVE
+"still applied to G. Rather than resolve this D back to G, however,",applied,chord,DYNAMIC
+Bartk shifts briefly to F in measure 456,shifts,Bartók,DYNAMIC
+and leads to E in measure 467.,leads,Bartók,DYNAMIC
+E and F are both active throughout the entire transition from second theme back to first theme,are,♯,STATIVE
+"(measures 456-487) which brings out their functions as upper and lower chromatic neighbors to F,",brings,theme,DYNAMIC
+which returns triumphantly in measure 488 with the much-anticipated recapitulation of the first theme.,returns,F,DYNAMIC
+The return of the first theme is certainly immediately recognized as such;,recognized,return,DYNAMIC
+"however, there are some important differences.",are,differences,STATIVE
+"Firstly, its initial appearance in the exposition had a minor flare to it;",had,appearance,STATIVE
+"the first chord in Example 9 is an F-minor triad, and the first four notes of Example 8 ascend the F-minor scale.",is,chord,STATIVE
+"In the recapitulation of this theme, shown in Example 19,",shown,recapitulation,DYNAMIC
+"the first chord is an F-major chord,",is,chord,STATIVE
+and the A is replaced by A in the melody.,replaced,chord,DYNAMIC
+"In fact, the chord progression of the first four measures of Example 19 can be thought of tonally as I-vi-V",thought,progression,STATIVE
+in F majorwhile,,,CANNOT_DECIDE
+we are reluctant to say,are,we,STATIVE
+that this passage is in major,is,passage,STATIVE
+"(the conspicuous A in measure 490 easily brings doubt to this interpretation),",brings,♭,DYNAMIC
+we can certainly say,say,we,DYNAMIC
+that the minor flare of the beginning has been replaced by a major flare here in the recapitulation.,replaced,flare,DYNAMIC
+"In addition to the mode-shift, we notice",notice,we,DYNAMIC
+that the metric dissonance shown in Examples 9 and 10 no longer appears (notice,appears,dissonance,DYNAMIC
+how regular the rhythm of the accompanying figure is in Example 19),is,rhythm,STATIVE
+and also that the written meter no longer changes.,changes,dissonance,DYNAMIC
+"In other words, the piece, in becoming more regular, is beginning to drive towards the finishbecause of the formal structure,",beginning,piece,DYNAMIC
+the recapitulation of the first theme also serves as the closing section of the movement.,serves,recapitulation,STATIVE
+"Indeed, this section has the feel of a Coda to itit",has,section,STATIVE
+"is much shorter than any other major section or subsection,",is,it,STATIVE
+and the tonic harmony is active throughout.,is,harmony,STATIVE
+There are also no phrase,are,—,STATIVE
+"divisionsthe music simply drives forward with no pause until measure 514,",drives,music,DYNAMIC
+"where the fugato motive appears in the brass over an obvious V-I cadence, signaling the end of the movement",signaling,music,DYNAMIC
+which occurs,occurs,movement,DYNAMIC
+as the motive completes.,completes,motive,DYNAMIC
+example 19: measures 488-494: the first theme in the recapitulation,,,CANNOT_DECIDE
+There is no fine line between music,is,theme,STATIVE
+that is tonal and music,is,music,STATIVE
+that is atonal.,is,line,STATIVE
+Bartk is one of the many early-twentieth century composers,is,Bartók,STATIVE
+whose music fits entirely in the gray area between tonality and atonality.,fits,music,STATIVE
+While we know from his writings,know,we,STATIVE
+"that he often composed with a tonal centers and relationships in mind,",composed,he,DYNAMIC
+"and that he regularly applied tonal structures and forms to his compositions, by merely glancing at any one of his pieces we can see that tonality",see,we,DYNAMIC
+as it is understood,understood,tonality,STATIVE
+in the common practice period is not at work.,is,tonality,STATIVE
+"Thanks largely to the work of tonal theorists such as Heinrich Schenker and others, we have a detailed system for analyzing tonal musictheir system, however, is virtually useless in analyzing music",have,we,STATIVE
+that falls entirely on the atonal side of the spectrum.,falls,music,STATIVE
+But if we apply it to music such as Bartks,apply,we,DYNAMIC
+"that is in the middle area,",is,music,STATIVE
+we can come up with some enlightening and perhaps unexpected results.,come,we,DYNAMIC
+To do so was the goal of this analysis of the first movement of the Concerto for Orchestra.,was,do,STATIVE
+By applying our tonal system to music,applying,,DYNAMIC
+"that slips outside of the tonal realm,",slips,music,STATIVE
+we not only find the elements of tonality,find,,DYNAMIC
+"that do remain,",remain,elements,STATIVE
+but we also pinpoint,pinpoint,we,DYNAMIC
+exactly when and how this music breaks from previous conventions.,breaks,music,DYNAMIC
+It is not disputed,disputed,It,STATIVE
+that Bartks music has great expressive powerperhaps now,has,music,STATIVE
+we can understand why.,understand,now,DYNAMIC
+References,,,CANNOT_DECIDE
+"Antokoletz, Elliot.",,,CANNOT_DECIDE
+The Music of Bla Bartk: A Study of Tonality and Progression in Twentieth-Century Music.,,,CANNOT_DECIDE
+"Berkeley: University of California Press, 1992.",,,CANNOT_DECIDE
+"Bartk, Bla.",,,CANNOT_DECIDE
+Essays.,,,CANNOT_DECIDE
+Selected and Edited by Benjamin Suchoff.,,,DYNAMIC
+"New York: St. Martins Press, 1976.",,,CANNOT_DECIDE
+"Bernard, Jonathan W. Space and Symmetry in Bartk.",,,CANNOT_DECIDE
+Journal of Music Theory 30 (1986): 185-201.,,,CANNOT_DECIDE
+________.,,,CANNOT_DECIDE
+"Zones of Impingement: Two Movements from Bartks Music for Strings, Percussion, and Celesta.",,,CANNOT_DECIDE
+Music Theory Spectrum 25 (2003): 3-34.,,,CANNOT_DECIDE
+"Berry, Wallace.",,,CANNOT_DECIDE
+Symmetrical Interval sets and Derivative Pitch Materials in Bartks String Quartet No. 3.,,,CANNOT_DECIDE
+Perspectives of New Music 18 (1979/80): 287-379.,,,CANNOT_DECIDE
+"Cohn, Richard.",,,CANNOT_DECIDE
+Inversional Symmetry and Transpositional Combination in Bartk.,“,,CANNOT_DECIDE
+Music Theory Spectrum 10 (1988): 19-42.,,,CANNOT_DECIDE
+________.,,,CANNOT_DECIDE
+Bartks Octatonic Strategies: A Motivic Approach.,,,CANNOT_DECIDE
+Journal of the American Musicological Society 44 (1991): 262-300.,,,CANNOT_DECIDE
+"Morrison, Charles D. Prolongation in the Final Movement of Bartks String Quartet No. 4.",,,CANNOT_DECIDE
+Music Theory Spectrum 13 (1991): 179-196.,,,CANNOT_DECIDE
+"Travis, Roy.",,,CANNOT_DECIDE
+Tonal Coherence in the First Movement of Bartks Fourth String Quartet.,“,,CANNOT_DECIDE
+The Music Forum 2 (1970): 298-371.,,,CANNOT_DECIDE
+"Wilson, Paul.",,,CANNOT_DECIDE
+The Music of Bla Bartk.,,,CANNOT_DECIDE
+"New Haven: Yale University Press, 1992.",,,CANNOT_DECIDE

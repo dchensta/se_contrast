@@ -1,0 +1,144 @@
+Clause,mainVerb,mainReferent,Gold
+Offbeat Joke,,,CANNOT_DECIDE
+A musician who joined an orchestra on a cruise ship was having a terrible time,having,musician,DYNAMIC
+keeping time with the rest of the band.,keeping,time,CANNOT_DECIDE
+"Finally, the band leader said,",said,leader,DYNAMIC
+"""Look,",,,CANNOT_DECIDE
+either you learn to keep time,learn,you,DYNAMIC
+or I'll throw you overboard.,throw,time,DYNAMIC
+"It's up to you, sync or swim.""",'s,It,STATIVE
+The Human Race Is Doomed,,,STATIVE
+In case you needed further proof,needed,you,STATIVE
+"that the Human Race is doomed through stupidity, here are some actual label instructions on consumer products;",are,Doomed,STATIVE
+1. On a blanket from Taiwan -,,,CANNOT_DECIDE
+NOT TO BE USED AS PROTECTION FROM A TORNADO.,,,CANNOT_DECIDE
+2. On a helmet mounted mirror,,,STATIVE
+used by US cyclists -,used,mirror,DYNAMIC
+"REMEMBER, OBJECTS IN THE MIRROR ARE ACTUALLY BEHIND YOU.",BEHIND,OBJECTS,CANNOT_DECIDE
+3. On a Taiwanese shampoo -,,,CANNOT_DECIDE
+USE REPEATEDLY FOR SEVERE DAMAGE.,,,CANNOT_DECIDE
+4. On the bottle-top of a (UK) flavoured milk drink -,,,STATIVE
+"AFTER OPENING, KEEP UPRIGHT.",,,CANNOT_DECIDE
+5. On a New Zealand insect spray -,,,CANNOT_DECIDE
+THIS PRODUCT NOT TESTED ON ANIMALS.,,,STATIVE
+6. In a US guide to setting up a new computer -,setting,guide,CANNOT_DECIDE
+"TO AVOID CONDENSATION FORMING, ALLOW THE BOXES",ALLOW,,CANNOT_DECIDE
+TO WARM UP TO ROOM TEMPERATURE EFORE OPENING.,WARM,BOXES,CANNOT_DECIDE
+"(Sensible, but the instruction was INSIDE the box.)",INSIDE,Sensible,STATIVE
+7. On a Japanese product used to relieve painful haemorrhoids,used,product,DYNAMIC
+LIE DOWN ON BED AND INSERT POSCOOL SLOWLY,,,CANNOT_DECIDE
+UP TO THE PROJECTED PORTION LIKE A SWORD-GUARD INTO ANAL DUCT.,TO,DOWN,STATIVE
+"WHILE INSERTING POSCOOL FOR APPROXIMATELY 5 MINUTES, KEEP QUIET.",,,CANNOT_DECIDE
+"8. In some countries, on the bottom of Coke bottles -",,,CANNOT_DECIDE
+OPEN OTHER END.,,,CANNOT_DECIDE
+9. On a packet of Sunmaid raisins -,,,CANNOT_DECIDE
+WHY NOT TRY TOSSING OVER YOUR FAVOURITE BREAKFAST CEREAL?,,,CANNOT_DECIDE
+10. On a Sears hairdryer -,,,CANNOT_DECIDE
+DO NOT USE,,,CANNOT_DECIDE
+WHILE SLEEPING.,,,CANNOT_DECIDE
+11. On a bag of Fritos -,,,CANNOT_DECIDE
+YOU COULD BE A WINNER!,,,STATIVE
+NO PURCHASE NECESSARY.,,,CANNOT_DECIDE
+DETAILS INSIDE.,,,CANNOT_DECIDE
+(The shoplifter special!),,,CANNOT_DECIDE
+12. On a bar of Dial soap -,,,CANNOT_DECIDE
+DIRECTIONS - USE LIKE REGULAR SOAP.,,,CANNOT_DECIDE
+(And that would be how?),be,that,CANNOT_DECIDE
+13. On Tesco's Tiramisu dessert (printed on bottom of the box),printed,dessert,STATIVE
+DO NOT TURN UPSIDE DOWN.,NOT,DO,CANNOT_DECIDE
+(Too late!,,,CANNOT_DECIDE
+You lose!),lose,You,DYNAMIC
+14. On Marks &amp; Spencer Bread Pudding -,,,CANNOT_DECIDE
+PRODUCT WILL BE HOT AFTER HEATING.,,,STATIVE
+(Are you sure?,sure,you,CANNOT_DECIDE
+Let's experiment.),'s,Let,CANNOT_DECIDE
+15. On a Korean kitchen knife -,,,CANNOT_DECIDE
+WARNING KEEP OUT OF CHILDREN.,,,CANNOT_DECIDE
+(Dammit!,,,CANNOT_DECIDE
+Who are they to tell me,are,do,CANNOT_DECIDE
+what to do with my kids?),do,what,CANNOT_DECIDE
+16. On a string of Chinese-made Christmas lights -,,,STATIVE
+FOR INDOOR OR OUTDOOR USE ONLY.,,,CANNOT_DECIDE
+(As opposed to....?),opposed,,CANNOT_DECIDE
+17. On a Japanese food processor -,,,CANNOT_DECIDE
+NOT TO BE USED FOR THE OTHER USE.,NOT,,CANNOT_DECIDE
+(Now I'm curious.),'m,I,STATIVE
+18. On Sainsbury's peanuts -,,,CANNOT_DECIDE
+WARNING - CONTAINS NUTS.,,,STATIVE
+(Really?,,,CANNOT_DECIDE
+Peanuts contain nuts?),contain,Peanuts,CANNOT_DECIDE
+19. On an American Airlines packet of nuts,,,CANNOT_DECIDE
+"INSTRUCTIONS - OPEN PACKET, EAT NUTS.",,,CANNOT_DECIDE
+(I'm glad,'m,I,STATIVE
+they cleared that up.),cleared,they,DYNAMIC
+20. On a Swedish chainsaw -,,,CANNOT_DECIDE
+DO NOT ATTEMPT TO STOP CHAIN WITH YOUR HANDS OR GENITALS.,,,CANNOT_DECIDE
+(What kind of consumer phone-call led to this warning?),led,kind,CANNOT_DECIDE
+21. On a child's superman costume -,,,CANNOT_DECIDE
+WEARING OF THIS GARMENT DOES NOT ENABLE YOU TO FLY.,WEARING,,STATIVE
+"(That's right,",'s,That,STATIVE
+destroy a universal childhood fantasy!),destroy,,CANNOT_DECIDE
+22. On some frozen dinners,,,STATIVE
+SERVING SUGGESTION: DEFROST.,,,CANNOT_DECIDE
+23. On a hotel provided shower cap in a box,provided,,STATIVE
+FITS ONE HEAD.,,,STATIVE
+24. On packaging for a Rowenta iron,,,CANNOT_DECIDE
+DO NOT IRON CLOTHES ON BODY.,ON,CLOTHES,CANNOT_DECIDE
+"25. On Boot's ""Children's"" cough medicine",,,CANNOT_DECIDE
+DO NOT DRIVE CAR,DRIVE,NOT,CANNOT_DECIDE
+OR OPERATE MACHINERY.,,,CANNOT_DECIDE
+26. On Nytol sleep aid,,,CANNOT_DECIDE
+WARNING MAY CAUSE DROWSINESS.,,,DYNAMIC
+(Duh!),,,CANNOT_DECIDE
+Guess the sex of the originator of this one!!,Guess,,CANNOT_DECIDE
+Scholars have long debated the exact ethnicity and nationality of Jesus.,debated,Scholars,DYNAMIC
+"Recently, at a theological meeting in Rome, scholars had a heated debate on this subject.",had,scholars,DYNAMIC
+"One by one, they offered their evidence...",offered,they,DYNAMIC
+THREE PROOFS THAT JESUS WAS MEXICAN,WAS,JESUS,STATIVE
+1. His first name was Jesus,was,name,STATIVE
+2. He was bilingual,was,He,STATIVE
+3. He was always being harassed by the authorities,harassed,He,DYNAMIC
+But then there were equally good arguments that...,were,He,STATIVE
+JESUS WAS BLACK,WAS,JESUS,STATIVE
+"1. He called everybody ""brother""",called,He,DYNAMIC
+2. He liked Gospel,liked,He,STATIVE
+3. He couldn't get a fair trial,get,He,DYNAMIC
+Then there were equally good arguments,were,arguments,STATIVE
+that...,,,CANNOT_DECIDE
+JESUS WAS JEWISH,WAS,JESUS,STATIVE
+1. He went into His Father's business,went,He,DYNAMIC
+2. He lived at home,lived,He,STATIVE
+until he was 33,was,he,STATIVE
+3. He was sure,was,He,STATIVE
+"his Mother was a virgin,",was,Mother,STATIVE
+and his Mother was sure,was,Mother,STATIVE
+he was,was,he,STATIVE
+God,,,CANNOT_DECIDE
+Then there were equally good arguments,were,arguments,STATIVE
+that...,,,CANNOT_DECIDE
+JESUS WAS ITALIAN,WAS,arguments,STATIVE
+1. He talked with his hands,talked,He,DYNAMIC
+2. He had wine with every meal,had,He,DYNAMIC
+3. He used olive oil,used,He,DYNAMIC
+Then there were equally good arguments,were,used,STATIVE
+that...,,,CANNOT_DECIDE
+JESUS WAS A CALIFORNIAN,WAS,JESUS,STATIVE
+1. He never cut his hair,cut,He,DYNAMIC
+2. He walked around barefoot,walked,He,DYNAMIC
+3. He started a new religion,started,He,DYNAMIC
+Then there were equally good arguments,were,arguments,STATIVE
+that...,,,CANNOT_DECIDE
+JESUS WAS IRISH,WAS,arguments,STATIVE
+1. He never got married,got,He,DYNAMIC
+2. He was always telling stories,telling,He,DYNAMIC
+3. He loved green pastures,loved,He,STATIVE
+But perhaps the most compelling evidence ...,,,STATIVE
+THREE PROOFS THAT JESUS WAS A WOMAN ...,,,STATIVE
+1. He had to feed a crowd at a moment's notice,had,He,DYNAMIC
+when there was no food,was,food,STATIVE
+2. He kept trying to get the message across to a bunch of men,kept,He,DYNAMIC
+who JUST DIDN'T GET IT.,GET,JUST,DYNAMIC
+"3. Even when He was dead,",was,He,STATIVE
+He had to get up,had,He,DYNAMIC
+because there was more work,was,work,STATIVE
+for him to do,do,work,CANNOT_DECIDE

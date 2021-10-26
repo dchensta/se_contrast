@@ -1,0 +1,117 @@
+Clause,mainVerb,mainReferent,Gold
+A political party is an organization,is,party,STATIVE
+of people which seeks to achieve goals common to its members through the acquisition and exercise of political power.,,,DYNAMIC
+While there is some international commonality in the way,is,commonality,STATIVE
+"political parties are recognized,",recognized,parties,DYNAMIC
+"and in how they operate,",operate,way,DYNAMIC
+"there are often many differences,",are,differences,STATIVE
+and some are significant.,are,some,STATIVE
+"Many political parties have an ideological core,",have,parties,STATIVE
+"but some do not,",do,parties,STATIVE
+and many represent very different ideologies,represent,some,STATIVE
+than they did when first founded.,did,ideologies,DYNAMIC
+"In democracies, political parties are elected to run a government by the electorate.",elected,parties,DYNAMIC
+"Many countries have numerous powerful political parties, such as Germany and India,",have,countries,STATIVE
+"some have a two-party system such as the United States of America,",have,some,STATIVE
+"and some nations are one party systems, such as China.",are,nations,STATIVE
+==Historical dimension==,,,CANNOT_DECIDE
+===Political factions===,,,CANNOT_DECIDE
+"The first political factions, cohering around a basic, if fluid, set of principles emerged from the Exclusion Crisis and Glorious Revolution in late-17th-century England.",emerged,cohering,DYNAMIC
+The Whigs supported Protestant constitutional monarchy against absolute rule,supported,Whigs,STATIVE
+"and the Tories, originating in the Royalist (or ""Cavalier"") faction of the English Civil War,",originating,supporters,STATIVE
+were conservative royalist supporters of a strong monarchy as a counterbalance to the republican tendencies of Whigs,were,Tories,STATIVE
+were the dominant political faction for most of the first half of the 18th century;,were,counterbalance,STATIVE
+they supported the Hanoverian succession of 1715 against the Jacobite supporters of the deposed Roman Catholic Stuart dynasty,supported,they,STATIVE
+and were able to purge Tory politicians from important government positions after the failed Jacobite rising of 1715.,were,they,STATIVE
+"The leader of the Whigs was Robert Walpole,",was,leader,STATIVE
+who maintained control of the government in the period 17211742;,maintained,Walpole,STATIVE
+his protg was Henry Pelham (17431754).,was,protégé,STATIVE
+"As the century wore on,",wore,century,DYNAMIC
+the factions slowly began to adopt more coherent political tendencies,began,factions,DYNAMIC
+as the interests of their power bases began to diverge.,began,interests,DYNAMIC
+"The Whig party's initial base of support from the great aristocratic families, widened to include the emerging industrial interests and wealthy merchants.",widened,base,DYNAMIC
+As well as championing constitutional monarchy with strict limits,championing,,STATIVE
+"on the monarch's power, the Whigs adamantly opposed a Catholic king as a threat to liberty,",opposed,Whigs,DYNAMIC
+"and believed in extending toleration to nonconformist Protestants, or dissenters.",believed,Whigs,STATIVE
+"A major influence on the Whigs were the liberal political ideas of John Locke, and the concepts of universal rights",were,influence,STATIVE
+employed by Locke and Algernon Sidney.,employed,concepts,DYNAMIC
+"Although the Tories were dismissed from office for half a century, for most of this period",dismissed,Tories,DYNAMIC
+"(at first under the leadership of Sir William Wyndham), the Tories retained party cohesion, with occasional hopes of regaining office, particularly at the accession of George II",retained,Tories,DYNAMIC
+(1727) and the downfall of the ministry of Sir Robert Walpole in 1742.,,,CANNOT_DECIDE
+"They acted as a united, though unavailing, opposition to Whig corruption and scandals.",acted,They,DYNAMIC
+"At times they cooperated with the ""Opposition Whigs"", Whigs",cooperated,they,DYNAMIC
+who were in opposition to the Whig government;,were,Whigs,STATIVE
+"however, the ideological gap between the Tories and the Opposition Whigs prevented them from coalescing as a single party.",prevented,gap,DYNAMIC
+They finally regained power with the accession of George III in 1760 under Lord Bute.,regained,They,DYNAMIC
+===Emergence of the party===,,,CANNOT_DECIDE
+"When they lost power,",lost,they,DYNAMIC
+"the old Whig leadership dissolved into a decade of factional chaos with distinct ""Grenvillite"", ""Bedfordite"",",dissolved,leadership,DYNAMIC
+"""Rockinghamite"", and ""Chathamite"" factions successively in power, and all referring to themselves as ""Whigs"".",referring,=,DYNAMIC
+"Out of this chaos, the first distinctive parties emerged.",emerged,parties,DYNAMIC
+The first such party was the Rockingham Whigs under the leadership of Charles Watson-Wentworth and the intellectual guidance of the political philosopher Edmund Burke.,was,party,STATIVE
+Burke laid out a philosophy,laid,Burke,DYNAMIC
+"that described the basic framework of the political party as ""a body of men",described,philosophy,DYNAMIC
+"united for promoting by their joint endeavours the national interest, upon some particular principle",united,men,STATIVE
+"in which they are all agreed"".",agreed,they,STATIVE
+"As opposed to the instability of the earlier factions,",opposed,,STATIVE
+which were often tied to a particular leader,tied,factions,STATIVE
+and could disintegrate,disintegrate,factions,DYNAMIC
+"if removed from power, the party was centred around a set of core principles",centred,party,DYNAMIC
+and remained out of power as a united opposition to government.,remained,party,STATIVE
+"A coalition including the Rockingham Whigs,",including,,STATIVE
+"led by the Earl of Shelburne, took power in 1782,",took,coalition,DYNAMIC
+only to collapse after Rockingham's death.,collapse,coalition,CANNOT_DECIDE
+"The new government, led by the radical politician Charles James Fox in coalition with Lord North,",led,government,STATIVE
+was soon brought down,brought,government,DYNAMIC
+and replaced by William Pitt the Younger in 1783.,replaced,government,DYNAMIC
+It was now,was,It,STATIVE
+"that a genuine two-party system began to emerge,",began,system,DYNAMIC
+"with Pitt leading the new Tories against a reconstituted ""Whig"" party",leading,system,DYNAMIC
+led by Fox.,led,party,STATIVE
+"By the time of this split the Whig party was increasingly influenced by the ideas of Adam Smith, founder of classical liberalism.",influenced,party,DYNAMIC
+As Wilson and Reill (2004),,,CANNOT_DECIDE
+"note, ""Adam Smith's theory melded nicely with the liberal political stance of the Whig Party and its middle-class constituents.""",melded,theory,DYNAMIC
+The modern Conservative Party was created out of the 'Pittite' Tories of the early 19th century.,created,Party,DYNAMIC
+In the late 1820s disputes over political reform broke up this grouping.,broke,disputes,DYNAMIC
+A government led by the Duke of Wellington collapsed amidst dire election results.,collapsed,government,DYNAMIC
+Following this disaster Robert Peel set about assembling a new coalition of forces.,Following,,DYNAMIC
+Peel issued the Tamworth Manifesto in 1834,issued,Peel,DYNAMIC
+which set out the basic principles of Conservatism;,set,Manifesto,DYNAMIC
+ the necessity in specific cases of reform,–,,CANNOT_DECIDE
+"in order to survive, but an opposition to unnecessary change,",survive,,CANNOT_DECIDE
+"that could lead to ""a perpetual vortex of agitation"".",lead,change,DYNAMIC
+"Meanwhile, the Whigs, along with free trade Tory followers of Robert Peel, and independent Radicals, formed the Liberal Party under Lord Palmerston in 1859,",formed,Whigs,DYNAMIC
+"and transformed into a party of the growing urban middle-class, under the long leadership of William Ewart Gladstone.",transformed,Whigs,DYNAMIC
+====American political parties====,,,CANNOT_DECIDE
+Although the Founding Fathers of the United States did not originally intend,intend,Fathers,DYNAMIC
+"for American politics to be partisan, early political controversies in the 1790s over the extent of federal government powers saw the emergence of two proto-political parties- the Federalist Party and the Democratic-Republican Party,",saw,controversies,DYNAMIC
+"which were championed by Secretary of the Treasury Alexander Hamilton and James Madison, respectively.",championed,Party,STATIVE
+"However, a consensus reached on these issues",reached,consensus,DYNAMIC
+"ended party politics in 1816 for a decade,",ended,consensus,DYNAMIC
+a period commonly known as the Era of Good Feelings.,known,period,STATIVE
+Party politics revived in 1829 with the split of the Democratic-Republican Party into the Jacksonian Democrats,revived,politics,DYNAMIC
+"led by Andrew Jackson, and the Whig Party,",led,Democrats,STATIVE
+led by Henry Clay.,led,Jackson,STATIVE
+The former evolved into the modern Democratic Party,evolved,former,DYNAMIC
+and the latter was replaced with the Republican Party as one of the two main parties in the 1850s.,replaced,former,DYNAMIC
+Smaller parties like the Libertarian and Green parties can also influence modern U.S. elections.,influence,parties,DYNAMIC
+===Spread of political parties===,,,CANNOT_DECIDE
+The second half of the nineteenth century saw the adoption of the party model of politics across Europe.,saw,Spread,DYNAMIC
+"In Germany, France, Austria and elsewhere, the 1848 Revolutions sparked a wave of liberal sentiment and the formation of representative bodies and political parties.",sparked,Revolutions,DYNAMIC
+"The end of the century saw the formation of large socialist parties in Europe,",saw,end,DYNAMIC
+"some conforming to the teaching of Karl Marx, others adapting social democracy through the use of reformist and gradualist methods.",conforming,end,STATIVE
+"At the same time, the political party reached its modern form,",reached,party,DYNAMIC
+with a membership disciplined through the use of a party whip and the implementation of efficient structures of control.,disciplined,membership,STATIVE
+"The Home Rule League Party, campaigning for Home Rule for Ireland in the British Parliament",campaigning,Party,DYNAMIC
+was fundamentally changed by the great Irish political leader Charles Stewart Parnell in the 1880s.,changed,Party,DYNAMIC
+"In 1882, he changed his party's name to the Irish Parliamentary Party",changed,he,DYNAMIC
+"and created a well-organised grass roots structure,",created,he,DYNAMIC
+"introducing membership to replace ""ad hoc"" informal groupings.",introducing,he,DYNAMIC
+He created a new selection procedure to ensure the professional selection of party candidates,created,He,DYNAMIC
+"committed to taking their seats,",committed,candidates,STATIVE
+and in 1884 he imposed a firm 'party pledge',imposed,He,DYNAMIC
+which obliged MPs to vote as a bloc in parliament on all occasions.,obliged,pledge,DYNAMIC
+The creation of a strict party whip and a formal party structure was unique at the time.,was,creation,STATIVE
+His party's efficient structure and control contrasted with the loose rules and flexible informality,contrasted,control,STATIVE
+found in the main British parties;,found,rules,STATIVE
+ they soon came to model themselves on the Parnellite model.,came,they,DYNAMIC

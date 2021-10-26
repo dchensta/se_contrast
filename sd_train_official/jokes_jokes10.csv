@@ -1,0 +1,207 @@
+Clause,mainVerb,mainReferent,Gold
+USSRSOS,,,CANNOT_DECIDE
+Some new information has come to light over the Kursk disaster.,come,information,DYNAMIC
+"(For those with short attention spans, the Kursk was the submarine",was,Kursk,STATIVE
+that blew up,blew,submarine,DYNAMIC
+and sank in the Arctic Ocean,sank,submarine,DYNAMIC
+killing all 118 on board.),killing,,DYNAMIC
+The Russians tried to blame the incident on a collision with an unidentified object.,tried,Russians,DYNAMIC
+"However, sonar tapes which recorded the blasts",recorded,tapes,DYNAMIC
+"(a small one at first, then a much larger one, two minutes later), cast doubt on these claims.",cast,tapes,DYNAMIC
+A whistle-blower within the Russian military has leaked,leaked,whistle-blower,DYNAMIC
+that the crew of the Kursk was testing a new type of torpedo,testing,crew,DYNAMIC
+when the accident occurred.,occurred,accident,DYNAMIC
+It seemed very likely,seemed,It,STATIVE
+that the test didn't go quite as planned.,go,test,DYNAMIC
+While rescue efforts to save the survivors,save,efforts,CANNOT_DECIDE
+"of the Kursk failed, salvage crews were able to recover a 'Black Box' from the submarine",were,crews,DYNAMIC
+which recorded events,recorded,submarine,DYNAMIC
+leading up to the explosion.,leading,events,STATIVE
+"As luck would have it,",have,luck,STATIVE
+we managed to obtain a copy of those tapes.,managed,we,DYNAMIC
+It turns out,turns,It,DYNAMIC
+that the submarine crew was trying to load Microsoft Windows on their fire control computer.,trying,crew,DYNAMIC
+Their intent was to replace the aging CP/M operating system with the flashier Windows OS.,was,intent,STATIVE
+"Apparently, the Russians didn't know about the legendary stability problems",know,Russians,STATIVE
+exhibited by Windows.,exhibited,problems,DYNAMIC
+The log tapes make this painfully obvious:,make,tapes,STATIVE
+Captain: Is the new fire control Windows OS installed yet?,installed,Is,CANNOT_DECIDE
+Seaman: Almost Sir.,,,CANNOT_DECIDE
+We just need to finish filling out the registration card.,need,We,DYNAMIC
+Captain: Excellent!.,,,CANNOT_DECIDE
+Soon we will be able to point and click our enemies into oblivion.,be,we,STATIVE
+-[ evil laughter in background ],,,CANNOT_DECIDE
+Seaman: Captain!,,,CANNOT_DECIDE
+It is booting!,booting,It,DYNAMIC
+"Look,",,,CANNOT_DECIDE
+"it says ""Preparing to run Windows for the first time"".",says,it,STATIVE
+-[ Very long pause],,,CANNOT_DECIDE
+Seaman: Arrgh!,,,CANNOT_DECIDE
+"Sir, it wants me to reboot again.",wants,Sir,STATIVE
+That makes the 27th time.,makes,That,DYNAMIC
+Captain: Hmmm.,,,CANNOT_DECIDE
+This is not encouraging.,is,This,STATIVE
+Go ahead,Go,,CANNOT_DECIDE
+and reboot again.,reboot,,CANNOT_DECIDE
+Seaman: Aye Sir.,,,CANNOT_DECIDE
+-[another long pause],,,CANNOT_DECIDE
+"Seaman: Captain, it is up again.",is,it,STATIVE
+It says,says,It,STATIVE
+it found new hardware ... A CD-ROM drive,found,it,DYNAMIC
+and that it needs drivers.,needs,it,STATIVE
+Captain: Where are the drivers?,are,drivers,CANNOT_DECIDE
+Seaman: On the CD-ROM.,,,CANNOT_DECIDE
+"Captain: You are joking, right?",are,You,CANNOT_DECIDE
+Seaman: No Sir.,,,CANNOT_DECIDE
+Captain: Reboot the damn thing again.,Reboot,Captain,CANNOT_DECIDE
+I am starting not to like this Windows.,starting,I,DYNAMIC
+-[another long pause],],pause,CANNOT_DECIDE
+Seaman: Sir!,,,CANNOT_DECIDE
+It is back!,is,It,STATIVE
+It says,says,It,STATIVE
+it found,found,it,DYNAMIC
+the Gorby2000 Torpedo and is looking for the device drivers.,looking,it,DYNAMIC
+Do we have a driver disk?,have,we,CANNOT_DECIDE
+Captain: I do not think so.,think,Captain,STATIVE
+Seaman: I will tell it to use the default drivers.,tell,Seaman,DYNAMIC
+-[another long pause],],pause,CANNOT_DECIDE
+Seaman: Crap.,,,CANNOT_DECIDE
+It wants to reboot again.,wants,It,STATIVE
+Captain: How many times are we going to reboot today?,going,we,CANNOT_DECIDE
+This is taking forever.,taking,This,STATIVE
+Our hull is going to rust out,going,hull,DYNAMIC
+before this works.,,,CANNOT_DECIDE
+-[another long pause],],pause,CANNOT_DECIDE
+Seaman: Sir!,,,CANNOT_DECIDE
+It is up and this time,is,It,STATIVE
+it is not asking for anything!,is,It,DYNAMIC
+Captain: Really?,,,CANNOT_DECIDE
+No device drivers?,,,CANNOT_DECIDE
+No registration cards?,,,CANNOT_DECIDE
+No user profiles?,,,CANNOT_DECIDE
+Seaman: No Sir.,,,CANNOT_DECIDE
+I think,think,I,STATIVE
+it is ready.,is,it,STATIVE
+Captain: Good work.,,,CANNOT_DECIDE
+Now click on the fire control icon and let us see,click,,CANNOT_DECIDE
+how this works.,works,this,STATIVE
+"Seaman: Clicking now, Sir.",Clicking,Seaman,DYNAMIC
+-[another long pause],[,,CANNOT_DECIDE
+Captain: Why does the fire control screen have a dancing paper clip on it?,have,Captain,CANNOT_DECIDE
+Seaman: I have no idea Sir.,have,Seaman,STATIVE
+"Captain: Hmmm, well try clicking on the menu.",try,Captain,CANNOT_DECIDE
+Seaman: Aye Sir.,,,CANNOT_DECIDE
+"Let us see; Open E-mail,",Let,E-mail,CANNOT_DECIDE
+"Spam a friend, Mail a Virus, Fire a Torpedo.",,,CANNOT_DECIDE
+Captain: We will Spam a friend later.,Spam,Captain,DYNAMIC
+Let us fire a torpedo.,Let,,CANNOT_DECIDE
+Seaman: Aye Sir.,,,CANNOT_DECIDE
+-[another long pause],,,CANNOT_DECIDE
+Seaman: It is asking us to load the torpedo and to click when ready.,asking,It,DYNAMIC
+"Captain: Torpedo room, load a torpedo in tube number 1!",,,CANNOT_DECIDE
+[intercom:] This is the Torpedo room.,is,This,STATIVE
+The torpedo is loaded Sir.,loaded,torpedo,STATIVE
+Captain: Click on the continue button.,continue,button,CANNOT_DECIDE
+Seaman: Aye Sir.,,,CANNOT_DECIDE
+-[another long pause],],[,CANNOT_DECIDE
+Seaman: It is asking for a target Sir.,asking,It,DYNAMIC
+"Captain: Hmmm, target the Rainbow Warrior.",,,CANNOT_DECIDE
+Seaman: Aye Sir.,,,CANNOT_DECIDE
+Damn!,,,CANNOT_DECIDE
+It says,says,It,STATIVE
+the torpedo is low on ink.,is,torpedo,STATIVE
+Captain: Click ignore.,ignore,Captain,CANNOT_DECIDE
+We will get some ink,get,We,DYNAMIC
+when we return to base.,return,we,DYNAMIC
+Seaman: Aye Sir.,,,CANNOT_DECIDE
+We are ready to fire.,are,We,STATIVE
+Captain: Very good.,,,CANNOT_DECIDE
+You may fire when ready.,,,DYNAMIC
+Seaman: Firing torpedo Sir.,,,DYNAMIC
+-[another really long pause],,,CANNOT_DECIDE
+Captain: Well?,,,CANNOT_DECIDE
+Seaman: I am trying Sir.,trying,Seaman,DYNAMIC
+Nothing is happening.,happening,Nothing,DYNAMIC
+Wait a minute....,Wait,,CANNOT_DECIDE
+[a loud explosion is heard in the background,heard,explosion,DYNAMIC
+followed by screaming on intercom],followed,background,STATIVE
+Captain: What the **** was that?!?!?,was,****,CANNOT_DECIDE
+Seaman: Captain!,Captain,Seaman,CANNOT_DECIDE
+A new screen has appeared!,appeared,screen,DYNAMIC
+Outlook Express Fire Control has performed an illegal operation,performed,Control,DYNAMIC
+and will be shut down.,shut,Control,DYNAMIC
+Click 'OK' to continue.,OK,Click,CANNOT_DECIDE
+Seaman: Oh my God!,Oh,Seaman,CANNOT_DECIDE
+The paper clip has died!,died,clip,DYNAMIC
+What should I do?,do,I,CANNOT_DECIDE
+Captain: Shut it down!,Shut,Captain,CANNOT_DECIDE
+Shut it down!,Shut,,CANNOT_DECIDE
+Seaman: It is not responding Sir!,responding,Seaman,DYNAMIC
+Captain: Try 'CTRL-ALT-DELETE'!,,,CANNOT_DECIDE
+Seaman: Aye Sir.,,,CANNOT_DECIDE
+We are in luck!,are,We,STATIVE
+The task manager is still operating.,operating,manager,STATIVE
+I'm instructing the task manager to shut down Outlook Fire Control.,instructing,I,DYNAMIC
+-[another long pause],[,,CANNOT_DECIDE
+Seaman: The task manager says,says,manager,STATIVE
+that Outlook Fire Control is not responding.,responding,Control,DYNAMIC
+Captain: Well no **** .,,,CANNOT_DECIDE
+Tell it to 'end task'.,Tell,,CANNOT_DECIDE
+Seaman: Nothing is happening Sir.,happening,Seaman,DYNAMIC
+Captain: Try 'CTRL-ALT-DELETE' again.,CTRL-ALT-DELETE,Captain,CANNOT_DECIDE
+Seaman: Aye Sir.,,,CANNOT_DECIDE
+-[sounds of frantic pecking on keyboard.],pecking,,CANNOT_DECIDE
+Seaman: Oooh!,,,CANNOT_DECIDE
+What a pretty blue screen!,,,CANNOT_DECIDE
+Captain: Holy **** !,,,CANNOT_DECIDE
+Not the blue screen of dea.... -,,,CANNOT_DECIDE
+[ KABLAM!!!!!,,,CANNOT_DECIDE
+- A really big explosion.,-,,CANNOT_DECIDE
+More screaming and the sound of rushing water.],rushing,of,CANNOT_DECIDE
+The tape ends at this point.,ends,tape,STATIVE
+"During the weeklong rescue effort, divers reported hearing",reported,divers,DYNAMIC
+tapping in the form of Morse code,tapping,hearing,CANNOT_DECIDE
+coming from survivors inside the damaged sub.,coming,code,STATIVE
+The rescuers couldn't understand,understand,rescuers,STATIVE
+why a group of men would spend the last of their strength,spend,group,DYNAMIC
+"tapping out ""Windows",tapping,,DYNAMIC
+"Sucks"" in Morse code.",,,CANNOT_DECIDE
+The tapes of the last moments of the Kursk may offer some insight into this.,offer,tapes,DYNAMIC
+Army Training,,,CANNOT_DECIDE
+"At one Army base, the annual trip to the rifle range had been canceled for the second year in a row,",canceled,trip,DYNAMIC
+but the semi-annual physical fitness test was still on as planned.,was,trip,STATIVE
+"One soldier pondered,",pondered,soldier,DYNAMIC
+"""Does it bother anyone here",bother,pondered,CANNOT_DECIDE
+that the Army doesn't care,care,Army,STATIVE
+"how well we can shoot,",shoot,we,CANNOT_DECIDE
+"but they seem to be extremely interested in how fast we can run?""",seem,soldier,STATIVE
+REDNECK COMPUTER TERMS,,,CANNOT_DECIDE
+BACKUP - What you do when you run across a skunk in the woods.,do,you,DYNAMIC
+BAR CODE - Them's the fight'n rules down in the local tavern.,,,STATIVE
+BUG - The reason you give for calling in sick.,give,you,DYNAMIC
+BYTE - What your pit bull dun to cusin Jethro.,cusin,BYTE,DYNAMIC
+CACHE - Needed,,,STATIVE
+when you run out of food stamps.,run,you,DYNAMIC
+CHIP - Pasture muffins,,,CANNOT_DECIDE
+that you try not to step in.,try,muffins,DYNAMIC
+TERMINAL - Time to call the undertaker.,-,TERMINAL,CANNOT_DECIDE
+CRASH - When you go to Junior's party uninvited.,go,you,DYNAMIC
+DIGITAL - The art of counting on your fingers.,counting,art,CANNOT_DECIDE
+DISKETTE - Female disco dancer.,,,CANNOT_DECIDE
+FAX - What you lie about to the IRS.,lie,FAX,DYNAMIC
+HACKER - Uncle Leroy after 32 years of smoking.,smoking,,CANNOT_DECIDE
+HARDCOPY - Picture looked at when selecting tattoos.,looked,Picture,DYNAMIC
+INTERNET - Where cafeteria workers put their hair.,put,INTERNET,DYNAMIC
+KEYBOARD - Where you hang the keys to the John Deere.,hang,KEYBOARD,DYNAMIC
+MAC - Big Bubba's favorite fast food.,,,CANNOT_DECIDE
+MEGAHERTZ - How your head feels after 17 beers.,-,MEGAHERTZ,STATIVE
+MODEM - What ya did when the grass and weeds got too tall.,did,ya,DYNAMIC
+MOUSE PAD - Where Mickey and Minnie live.,live,PAD,STATIVE
+NETWORK - Scoop'n up a big fish before it breaks the line.,'n,Scoop,DYNAMIC
+ONLINE - Where to stay,stay,ONLINE,CANNOT_DECIDE
+when taking the sobriety test.,taking,,DYNAMIC
+SCREEN - Helps keep the Skeeters off the porch.,keep,SCREEN,DYNAMIC
+SERIAL PORT - A red wine you drink after breakfast.,-,PORT,DYNAMIC
+SUPERCONDUCTOR - AMTRAK's Employee of the Year.,,,CANNOT_DECIDE
+SCSI - What you call your week-old underwear.,-,SCSI,STATIVE
+ROM - Where the Pope lives.,lives,ROM,STATIVE

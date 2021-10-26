@@ -1,0 +1,83 @@
+Clause,mainVerb,mainReferent,Gold
+Go Fish (or simply fish) is a simple card game.,is,Fish,STATIVE
+"It is usually played by two to five players,",played,It,DYNAMIC
+although it can be played with up to ten.,played,it,DYNAMIC
+== Basic game ==,,,CANNOT_DECIDE
+"Five cards are dealt from a standard 52-card deck to each player, or seven cards",dealt,=,DYNAMIC
+if there are four or fewer players.,are,players,STATIVE
+"The remaining cards are shared between the players,",shared,cards,DYNAMIC
+usually spread out in a disorderly pile,spread,shared,DYNAMIC
+"referred to as the ""ocean"" or ""pool"".",referred,pile,STATIVE
+The player whose turn it is to play asks another player for his or her cards of a particular rank.,asks,player,DYNAMIC
+"For example Alice may ask,",ask,Alice,DYNAMIC
+"""Bob, do you have any threes?""",have,you,CANNOT_DECIDE
+Alice must have at least one card of the rank she,have,Alice,STATIVE
+requested.,requested,she,DYNAMIC
+Bob must hand over all cards of that rank if possible.,hand,Bob,DYNAMIC
+"If he has none,",has,he,STATIVE
+"Alice is told to ""go fish,""",told,Alice,DYNAMIC
+and she draws a card from the pool,draws,Alice,DYNAMIC
+and places it in her own hand.,places,she,DYNAMIC
+Then it is the next player's turn ,is,shown,STATIVE
+unless it is the card,is,it,STATIVE
+"being asked for,",asked,card,DYNAMIC
+"in which case it is shown to the other players,",shown,–,DYNAMIC
+and she gets another turn.,gets,–,DYNAMIC
+"When any player at any time has all four cards of one rank,",has,player,STATIVE
+"it forms a book,",forms,it,DYNAMIC
+and the cards must be placed face up in front of that player.,placed,it,DYNAMIC
+Play proceeds to the left.,Play,,DYNAMIC
+"When all sets of cards have been laid down, the game ends.",ends,game,DYNAMIC
+The player with the most piles wins.,wins,player,DYNAMIC
+==Variations==,,,CANNOT_DECIDE
+There are a number of variations of these basic rules:,are,number,STATIVE
+* Players give just one card,give,Players,DYNAMIC
+when they're asked.,asked,they,DYNAMIC
+* Players form and lay down pairs.,form,Players,DYNAMIC
+* A player whose call is unsuccessful,is,call,STATIVE
+and draws the card,draws,call,DYNAMIC
+being asked for gets another turn.,gets,player,DYNAMIC
+* Players ask for a specific card instead of a rank.,ask,Players,DYNAMIC
+A player must still have at least one card of the named rank,have,player,STATIVE
+"in order to ask,",ask,,CANNOT_DECIDE
+and must expose that card,expose,player,DYNAMIC
+when asking.,asking,,DYNAMIC
+This is similar to Happy Families.,is,This,STATIVE
+* A player who runs out of cards must wait,wait,player,DYNAMIC
+until the game is over,is,game,STATIVE
+and cannot gain any more cards or books.,gain,game,DYNAMIC
+* If the other players got,got,players,DYNAMIC
+all their matches and one player has a card left,has,players,STATIVE
+"while no more go-fish cards to draw, the player with the remaining card loses the game.",loses,player,DYNAMIC
+"* Books are saved by each player, face down.",saved,Books,DYNAMIC
+"When the main play is finished, a further stage of play starts, with the player",starts,stage,DYNAMIC
+who has most books.,has,player,STATIVE
+They may ask another player for a rank,ask,They,DYNAMIC
+that they remember,remember,they,STATIVE
+"that player has; if correct they win the whole book; if incorrect, play passes to the other player.",has,player,STATIVE
+The winner is the player,is,winner,STATIVE
+who has eventually collected a book of every rank.,collected,player,DYNAMIC
+* The winner is the player at the end with the most books.,is,winner,STATIVE
+Even if players before them have run out of cards.,run,players,DYNAMIC
+If playing,playing,,CANNOT_DECIDE
+after the winner has already been decided the next place is given to the player,given,playing,DYNAMIC
+"who has the most books first,",has,player,STATIVE
+not the player that runs out of cards.,runs,player,STATIVE
+== Strategy ==,,,CANNOT_DECIDE
+"If, when fishing, a player draws a rank",draws,player,DYNAMIC
+"they did not have,",have,they,STATIVE
+they should ask for it on their next turn.,ask,they,DYNAMIC
+"Otherwise, they should rotate among the ranks",rotate,they,DYNAMIC
+that they already hold.,hold,they,STATIVE
+"In the more difficult variants, strategy often requires memorizing",requires,strategy,STATIVE
+what cards each player possesses.,possesses,player,STATIVE
+"Unlike many card games, Go Fish depends on the honor system;",depends,Fish,STATIVE
+lying about the contents of one's hand is difficult to prevent.,is,lying,STATIVE
+== Special card decks ==,,,CANNOT_DECIDE
+"Instead of using a standard 52 playing card deck, various speciality decks have been manufactured including the 169 count playing card Kids Classic Go Fish Card Game by U.S. Games Systems, Inc..",manufactured,decks,DYNAMIC
+Other specialist card packs,,,CANNOT_DECIDE
+which can be used to play,used,packs,DYNAMIC
+similar games have also been produced including the Safari Pals packs,produced,packs,DYNAMIC
+which uses animal characteristics to form the sets.,uses,packs,DYNAMIC
+There is a similar game,is,game,STATIVE
+called Quartets.,called,game,STATIVE

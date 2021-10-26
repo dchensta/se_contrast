@@ -1,0 +1,221 @@
+Clause,mainVerb,mainReferent,Gold
+Rummy is a group of matching card games notable for similar gameplay based on the matching cards of the same rank or sequence and same suit.,is,group,STATIVE
+The basic goal in any form of rummy is to build,is,goal,STATIVE
+melds,,,CANNOT_DECIDE
+"which consists of sets, three or four of a kind of the same rank; or runs, three or more cards in sequence, of the same suit.",consists,melds,STATIVE
+The original form of rummy is called Sai rummy or Basic rummy.,called,form,STATIVE
+"The Mexican game of Conquian is considered by games scholar David Parlett to be ancestral to all rummy games,",considered,game,STATIVE
+which itself is derived from a Chinese game,derived,itself,STATIVE
+"called Khanhoo and,",called,game,STATIVE
+"going even further back, Mahjong.",going,Khanhoo,DYNAMIC
+The Rummy principle of drawing and discarding with a view to melding appears in Chinese card games at least in the early 19th century and perhaps as early as the 18th century,appears,principle,DYNAMIC
+"and is, in fact, the essence of Mah-jong.",is,principle,STATIVE
+==General features of Rummy-style games==,,,CANNOT_DECIDE
+===Melds===,,,CANNOT_DECIDE
+A meld can either be a set,be,features,STATIVE
+(also known as a book) or a run.,known,set,STATIVE
+A set consists of at least three cards of the same rank,set,,STATIVE
+and a run consists of at least three consecutive cards of the same suit.,consists,consists,STATIVE
+"This is an almost universal pattern,",is,This,STATIVE
+"although there exist minor variations, such as allowing only sets",exist,variations,STATIVE
+or requiring runs,requiring,variations,CANNOT_DECIDE
+in which its cards have no suits in common.,have,cards,STATIVE
+"In some games, it is required",is,,STATIVE
+that runs contain at least four cards.,contain,runs,STATIVE
+"Some games also feature wild cards,",feature,games,STATIVE
+which can be used to represent any card in a meld.,used,cards,DYNAMIC
+The number of wild cards in a meld may be restricted.,restricted,number,STATIVE
+===Deal===,,,CANNOT_DECIDE
+A fairly large number of cards is used.,used,number,DYNAMIC
+This varies from one standard deck upwards.,varies,This,STATIVE
+"There are, for example, games",are,games,STATIVE
+that use five standard decks,use,games,DYNAMIC
+plus some jokers shuffled together.,shuffled,jokers,STATIVE
+Each player is dealt a hand of cards;,dealt,player,DYNAMIC
+while the specific number is dictated by the strain of rummy,dictated,number,DYNAMIC
+"being played,",played,strain,DYNAMIC
+the deck is never completely emptied.,emptied,deck,DYNAMIC
+The remains of the deck are placed face down to form the stock.,placed,remains,DYNAMIC
+There is also a face-up pile,is,pile,STATIVE
+"called the discard pile,",called,pile,STATIVE
+"which may be initially empty,",be,pile,STATIVE
+"or it can contain one card,",contain,pile,STATIVE
+which is turned from the stock.,turned,card,DYNAMIC
+The winner is obliged to deal,obliged,winner,STATIVE
+when a new game commences.,commences,game,DYNAMIC
+===The Play===,,,CANNOT_DECIDE
+In Rummy the number of cards dealt,dealt,cards,DYNAMIC
+varies based on the type of rummy game,varies,number,STATIVE
+being played as well as the number of players.,played,type,STATIVE
+The person left of the dealer is the first person to play.,is,person,STATIVE
+The dealer switches from person to person going to the left.,switches,dealer,DYNAMIC
+The dealer flips one card to,flips,dealer,DYNAMIC
+and places it next to the pile to begin the game.,places,dealer,DYNAMIC
+The first person to go takes a card from the deck or the card,takes,person,DYNAMIC
+placed beside it.,placed,card,STATIVE
+"When the player has done that,",done,player,DYNAMIC
+they may either put three cards of the same number or a straight.,put,they,DYNAMIC
+"After this is done,",done,this,DYNAMIC
+"or if they do not make a play at all, a card from their hand is discarded onto the pile beside the deck.",discarded,card,DYNAMIC
+"If another player has cards down,",has,player,STATIVE
+the others can play off of them.,play,others,DYNAMIC
+In addition if all cards are put down at once and in the same suit,put,cards,DYNAMIC
+it is an auto win for that player.,is,it,STATIVE
+But if a jocker is used,used,jocker,DYNAMIC
+it takes that players score to 0.,takes,it,DYNAMIC
+===Scoring===,,,CANNOT_DECIDE
+"When someone melds all their cards (except, possibly, for one,",melds,someone,DYNAMIC
+"which is thrown into the discard pile),",thrown,one,DYNAMIC
+the hand ends,ends,=,DYNAMIC
+and the scores are calculated.,calculated,=,DYNAMIC
+"In some games everyone can make melds at this phase,",make,everyone,DYNAMIC
+and some games allow a player to end a hand with a few unmatched cards in their hand.,allow,everyone,DYNAMIC
+"They typically get positive points for their melds, and/or negative points for non-melded cards in their hand.",get,They,DYNAMIC
+"In some games large bonuses are given for special, particularly difficult melds.",given,bonuses,DYNAMIC
+Also being the person,being,,CANNOT_DECIDE
+"who melded all their cards is usually rewarded,",rewarded,person,DYNAMIC
+depending on the game.,depending,,STATIVE
+This award may be rather small,be,award,STATIVE
+"compared to other scoring,",compared,,STATIVE
+or it can be the deciding factor of the game.,be,it,STATIVE
+==Basic Rummy==,,,CANNOT_DECIDE
+There are many variations of the card game Rummy.,are,variations,STATIVE
+Basic Rummy is also called Sai Rummy.,called,Rummy,STATIVE
+Second type Rummy is also called Sanka Rummy.,called,Rummy,STATIVE
+They all share a common set of features,share,They,STATIVE
+found in the basic game.,found,features,STATIVE
+A standard deck of 52 cards is used.,used,deck,DYNAMIC
+The cards rank from 2 (low) to A (high).,rank,cards,STATIVE
+"Rummy can be played to a certain score, or to a fixed number of deals.",played,Rummy,DYNAMIC
+"When a player picks up more than one card,",picks,player,DYNAMIC
+they must use the first card,use,they,DYNAMIC
+and has to play,has,they,DYNAMIC
+that card or else play is incomplete.,is,card,STATIVE
+"In Rummy if more than one player goes over five hundred in the same round, the player with the highest score wins.",wins,player,DYNAMIC
+If players tie then the player who was leading,tie,players,DYNAMIC
+before that round wins.,round,player,DYNAMIC
+===The Shuffle and Deal===,,,CANNOT_DECIDE
+Each player draws a card.,draws,=,DYNAMIC
+The player with the lowest card deals first.,,,DYNAMIC
+The deal then proceeds clockwise.,proceeds,deal,DYNAMIC
+The player on the dealer's right cuts (this is optional).,is,this,DYNAMIC
+The number of cards dealt,dealt,cards,DYNAMIC
+depends on the number of players.,depends,number,STATIVE
+"If there are two players, each player gets ten cards.",gets,player,DYNAMIC
+"In three or four player games, seven cards are dealt to each player.",dealt,cards,DYNAMIC
+"Five or six players may also play,",play,players,DYNAMIC
+in which case each player receives six cards,receives,player,DYNAMIC
+"Starting with the player to the dealer's left, cards are dealt clockwise, face down, one at a time.",Starting,cards,DYNAMIC
+"The dealer then puts the rest of the deck, face down, between the players.",puts,dealer,DYNAMIC
+This forms the stock pile.,forms,This,DYNAMIC
+A single card is then drawn and placed face up next to the stack.,drawn,card,DYNAMIC
+This is called the discard pile.,called,This,STATIVE
+===Playing Rummy===,Playing,=,CANNOT_DECIDE
+Play begins with the player on the dealer's left and proceeds clockwise.,begins,=,DYNAMIC
+Each player draws a card from the stock or the discard pile.,draws,player,DYNAMIC
+The player may then meld,meld,player,DYNAMIC
+"or lay off,",lay,player,DYNAMIC
+"which are both optional, before discarding.",are,which,STATIVE
+====Melding====,,,CANNOT_DECIDE
+If a player has three cards of the same suit in a sequence,has,player,STATIVE
+"(called a sequence or a run),",called,sequence,STATIVE
+"they may meld by laying these cards, face up, in front of them.",meld,they,DYNAMIC
+"If they have at least three cards of the same value,",have,they,STATIVE
+they may meld a group,meld,they,DYNAMIC
+(also called a set or a book).,called,meld,STATIVE
+"Aces can be played as high or low but not both,",played,Aces,DYNAMIC
+"for example and are legal, but not",are,allow,STATIVE
+(some variations allow this type of run).,allow,legal,STATIVE
+Melding is optional.,is,Melding,STATIVE
+"A player may choose, for reasons of strategy,",choose,player,DYNAMIC
+not to meld on a particular turn.,meld,player,CANNOT_DECIDE
+"The most important reason is to be able to declare ""Rummy"" later in the game.",is,reason,STATIVE
+====Laying off====,,,CANNOT_DECIDE
+"A player may also choose to ""lay off"" some cards on an existing meld.",choose,=,DYNAMIC
+This means,means,This,STATIVE
+that if a player can add to a sequence or a group,add,player,DYNAMIC
+"that is in front of them or any of the other players,",is,group,STATIVE
+they may do so.,do,they,DYNAMIC
+For example: if another player had a sequence,had,player,STATIVE
+"consisting of in front of them, the player would be able to add the , or , and so on,",be,on,STATIVE
+thereby continuing the sequence.,continuing,,DYNAMIC
+Some variations allow players to play the and wrap around.,allow,variations,STATIVE
+"Also if a player has 3 of a kind,",has,player,STATIVE
+one of which continues another sequence on the field,continues,one,DYNAMIC
+then another player may also continue off that card.,continue,player,DYNAMIC
+====Discarding====,=,=,CANNOT_DECIDE
+"Finally, after any melds or lay offs,",melds,any,CANNOT_DECIDE
+"the player must discard a single card to the discard pile, face up.",discard,player,DYNAMIC
+The only condition is that it not be the card,is,condition,STATIVE
+that they drew from the discard pile on the same turn.,drew,they,DYNAMIC
+"They may, however, return it on the next turn.",return,They,DYNAMIC
+"In addition, if they drew from the stock instead of the discard pile,",drew,they,DYNAMIC
+they are allowed to return that card in the same turn.,allowed,they,STATIVE
+"In this way, the discard pile changes every turn.",changes,pile,DYNAMIC
+====Exhausting the stock====,,,CANNOT_DECIDE
+"If, while playing, the stock runs out, the next player may choose to draw from the discard pile",choose,player,DYNAMIC
+or to turn the discard pile over to form a new stock.,turn,,CANNOT_DECIDE
+The discard pile is not shuffled in the process.,shuffled,pile,DYNAMIC
+"After forming the new stock, the top card is drawn to form the new discard pile, just like after the deal.",drawn,card,DYNAMIC
+You can call rummy,call,You,DYNAMIC
+if a point is discarded into the discard pile.,discarded,point,DYNAMIC
+You cannot however call rummy,call,You,DYNAMIC
+if the card becomes a point while in the discard pile.,becomes,card,DYNAMIC
+====Going Out====,,,CANNOT_DECIDE
+"When a player has gotten rid of all of their cards,",gotten,player,DYNAMIC
+they win the hand.,win,they,DYNAMIC
+There are two variations.,are,variations,STATIVE
+"Either the player must discard the last remaining card in their hand on the last turn,",discard,player,DYNAMIC
+or they need not.,need,player,STATIVE
+Playing with this rule makes ending a hand slightly more difficult.,makes,Playing,STATIVE
+"For example, if a player has only the 7 of diamonds and 8 of diamonds",has,player,STATIVE
+"left in their hand,",left,diamonds,STATIVE
+and they draw the 9 of diamonds,draw,player,DYNAMIC
+"(forming a sequence), then",forming,,DYNAMIC
+whether they win the hand,win,then,DYNAMIC
+or not depends on if they are playing the discard rule variation.,depends,,STATIVE
+"If they are playing this variation,",playing,they,DYNAMIC
+"they can not win the hand at this point,",win,they,DYNAMIC
+"because they have to finish the turn by discarding one of the three cards in their hand,",have,they,DYNAMIC
+causing them to no longer have a sequence.,causing,,DYNAMIC
+"However, if the player is allowed to lay off this sequence",allowed,player,STATIVE
+"without a final discard,",,,CANNOT_DECIDE
+then the game ends,ends,game,DYNAMIC
+when the player lays down the sequence.,lays,player,DYNAMIC
+And a player can lay down cards afterwards.,lay,player,DYNAMIC
+A player may not win or go out,win,player,DYNAMIC
+if rummy is declared on the board.,declared,rummy,DYNAMIC
+===Declaring Rummy===,Declaring,=,CANNOT_DECIDE
+"If a player is able to meld all of their cards at once,",is,=,STATIVE
+"they may say ""Rummy"" on their turn",say,they,DYNAMIC
+and go out.,go,they,DYNAMIC
+"To declare Rummy,",declare,,CANNOT_DECIDE
+a player must not have melded or laid off any cards prior during the hand.,melded,player,DYNAMIC
+"If playing with the discard rule,",playing,they,DYNAMIC
+they must also discard after melding.,discard,they,DYNAMIC
+If a player goes rummy,goes,player,DYNAMIC
+"when a card can be played, that player is out for that turn.",is,player,STATIVE
+Game players are still in game but hand goes dead.,are,players,STATIVE
+"Playing for Rummy is more risky,",is,Playing,STATIVE
+but it carries the reward of double the score.,carries,Playing,STATIVE
+Each player must wait until their second turn to go out.,wait,player,DYNAMIC
+If there is a rummy,is,rummy,STATIVE
+"lying in the pile, the player",lying,rummy,STATIVE
+"who called ""rummy"" can play that card",play,player,DYNAMIC
+while the player who laid the rummy must,laid,player,DYNAMIC
+then draw 2 cards from the stock pile,draw,player,DYNAMIC
+or pick up the entire discarded pile.,pick,player,DYNAMIC
+===Scoring===,,,CANNOT_DECIDE
+"After a player goes out,",goes,player,DYNAMIC
+"the hand ends,",ends,hand,DYNAMIC
+and the players count up their cards.,count,hand,DYNAMIC
+Any cards left in each player's hand are counted up,counted,cards,DYNAMIC
+and added to the winner's score.,added,cards,DYNAMIC
+"The Queen of Spades count as 40,",count,Queen,STATIVE
+"Aces count as 15, face cards (Except the queen of spades)",count,Queen,STATIVE
+"and 10s count as 10, and the rest are worth 5.",are,rest,STATIVE
+"If a player has declared Rummy,",declared,player,DYNAMIC
+then this score is doubled.,doubled,score,DYNAMIC
+The player that goes out first receives a 25 point bonus.,receives,player,DYNAMIC
+The other players must deduct the points in their hand from the points,deduct,players,DYNAMIC
+they have accumulated throughout the game.,accumulated,they,DYNAMIC

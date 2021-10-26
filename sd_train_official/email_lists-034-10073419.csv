@@ -1,0 +1,36 @@
+Clause,mainVerb,mainReferent,Gold
+"docno=""lists-034-10073419""",,,CANNOT_DECIDE
+"name=""Jim Sanders""",,,CANNOT_DECIDE
+"email=""sanders_james@tandem.com """,=,docno,CANNOT_DECIDE
+"sent=""Mon, 22 Apr 1996 07:53:16 -0700""",sent,sanders_james@tandem.com,CANNOT_DECIDE
+"subject=""Re: Status (if any) of STLP?""",,,CANNOT_DECIDE
+To: tomste@microsoft.com,,,CANNOT_DECIDE
+"Cc: ietf-tls@w3.org, tls-draft@w3.org",,,CANNOT_DECIDE
+"On Friday 4/19, at 8:24 PM, Tom Stephens wrote:",wrote,Stephens,DYNAMIC
+Tls-draft was created specifically as a forum for the discussion of the Microsoft STLP strawman document.,created,Tls-draft,DYNAMIC
+The reason for this is that the STLP strawman document is not an official IETF document.,is,reason,STATIVE
+"Win Treese, Microsoft and Netscape did not want this document to be confused in any way",want,Netscape,STATIVE
+with the actual spec that is being developed by the working group.,developed,spec,DYNAMIC
+"However, since the consensus of the emails is to discuss the STLP strawman document on ietf-tls,",is,consensus,STATIVE
+then Microsoft does not object.,object,Microsoft,DYNAMIC
+"To facilitate the discussion,",facilitate,,CANNOT_DECIDE
+you can find the STLP strawman document at:,find,you,DYNAMIC
+http://pct.microsoft.com/stlp.,,,CANNOT_DECIDE
+Tom Stephens,,,CANNOT_DECIDE
+---------------------------------,,,CANNOT_DECIDE
+"Tom, could you or Win Treese tell us",tell,you,CANNOT_DECIDE
+exactly what is going on?,going,tell,DYNAMIC
+"I was there in LA on March 6 evening meeting,",was,I,STATIVE
+and this (recent unilateral release by Microsoft of a document of unknown status to an unknown enitity) does not feel like the intentions,feel,I,STATIVE
+I heard expressed at that time.,heard,I,DYNAMIC
+"If Microsoft released a unilateral draft, to whom did you release it?",release,you,CANNOT_DECIDE
+"If it was to the IETF,",was,it,STATIVE
+"but is ""not an official IETF document,"" what status does it have?",have,it,CANNOT_DECIDE
+"Most of all, if the working group is still working on an ""actual spec,""",working,served,DYNAMIC
+what purpose is served by this unilateral STLP document?,served,purpose,CANNOT_DECIDE
+These (apparently sub rosa),,,CANNOT_DECIDE
+machinations do not inspire confidence in the integrity of the original commitments,inspire,machinations,DYNAMIC
+(surprising as they were) to work out a unified protocol.,were,surprising,STATIVE
+The rest of the industry needs to have confidence in this process.,needs,rest,STATIVE
+"--Jim Sanders-- ""Speaking for myself, not necessarily for my employer.""",Speaking,Sanders,DYNAMIC
+"<< Jim Sanders, Staff Scientist, Transaction Security >> << Network Applications Services, Tandem Computers >> << Voice: 408-285-492; E-mail: sanders_james@tandem.com ))",,,CANNOT_DECIDE

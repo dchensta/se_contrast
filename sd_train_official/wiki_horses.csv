@@ -1,0 +1,198 @@
+Clause,mainVerb,mainReferent,Gold
+The horse (Equus ferus caballus),,,CANNOT_DECIDE
+is one of two extant subspecies of Equus ferus.,is,horse,STATIVE
+It is an odd-toed ungulate mammal,is,It,STATIVE
+belonging to the taxonomic family Equidae.,belonging,mammal,STATIVE
+"The horse has evolved over the past 45 to 55 million years from a small multi-toed creature into the large, single-toed animal of today.",evolved,horse,DYNAMIC
+"Humans began to domesticate horses around 4000 BC,",began,Humans,DYNAMIC
+and their domestication is believed to have been widespread by 3000 BC.,believed,Humans,STATIVE
+"Horses in the subspecies caballus are domesticated,",domesticated,Horses,STATIVE
+although some domesticated populations live in the wild as feral horses.,live,populations,STATIVE
+"These feral populations are not true wild horses,",are,populations,STATIVE
+as this term is used to describe horses,used,term,DYNAMIC
+"that have never been domesticated, such as the endangered Przewalski's horse, a separate subspecies, and the only remaining true wild horse.",domesticated,horses,DYNAMIC
+"There is an extensive, specialized vocabulary",is,vocabulary,STATIVE
+"used to describe equine-related concepts, covering everything from anatomy to life stages, size, colors, markings, breeds, locomotion, and behavior.",used,vocabulary,DYNAMIC
+Horses' anatomy enables them to make use of speed to escape predators,enables,anatomy,DYNAMIC
+and they have a well-developed sense of balance and a strong fight-or-flight response.,have,anatomy,STATIVE
+Related to this need to flee from predators in the wild is an unusual trait:,is,Related,STATIVE
+horses are able to sleep both standing up,are,horses,STATIVE
+and lying down.,lying,both,STATIVE
+"Female horses, called mares,",called,horses,STATIVE
+"carry their young for approximately 11 months,",carry,horses,DYNAMIC
+"and a young horse, called a foal,",called,horse,STATIVE
+can stand and run shortly following birth.,stand,horses,DYNAMIC
+Most domesticated horses begin training under saddle or in harness between the ages of two and four.,begin,horses,DYNAMIC
+"They reach full adult development by age five,",reach,They,DYNAMIC
+and have an average lifespan of between 25 and 30 years.,have,They,STATIVE
+Horse breeds are loosely divided into three categories,divided,breeds,STATIVE
+based on general temperament,based,,STATIVE
+": spirited ""hot bloods"" with speed and endurance;",,,CANNOT_DECIDE
+"""cold bloods"", such as draft horses and some ponies, suitable for slow, heavy work; and ""warmbloods"", developed",developed,categories,DYNAMIC
+"from crosses between hot bloods and cold bloods,",,,CANNOT_DECIDE
+"often focusing on creating breeds for specific riding purposes, particularly in Europe.",focusing,categories,DYNAMIC
+"There are more than 300 breeds of horse in the world today,",are,breeds,STATIVE
+developed for many different uses.,developed,breeds,STATIVE
+"Horses and humans interact in a wide variety of sport competitions and non-competitive recreational pursuits, as well as in working activities such as police work, agriculture, entertainment, and therapy.",interact,Horses,DYNAMIC
+"Horses were historically used in warfare,",used,Horses,DYNAMIC
+"from which a wide variety of riding and driving techniques developed,",developed,variety,DYNAMIC
+using many different styles of equipment and methods of control.,using,,DYNAMIC
+"Many products are derived from horses,",derived,products,DYNAMIC
+"including meat, milk, hide, hair, bone, and pharmaceuticals",including,,STATIVE
+extracted from the urine of pregnant mares.,extracted,pharmaceuticals,DYNAMIC
+"Humans provide domesticated horses with food, water and shelter, as well as attention from specialists such as veterinarians and farriers.",provide,Humans,DYNAMIC
+==Biology==,,,CANNOT_DECIDE
+"Specific terms and specialized language are used to describe equine anatomy, different life stages, colors and breeds.",used,terms,DYNAMIC
+===Lifespan and life stages===,,,CANNOT_DECIDE
+"Depending on breed, management and environment, the modern domestic horse has a life expectancy of 25 to 30 years.",Depending,,STATIVE
+"Uncommonly, a few animals live into their 40s and, occasionally, beyond.",live,animals,STATIVE
+"The oldest verifiable record was ""Old Billy"", a 19th-century horse",was,record,STATIVE
+that lived to the age of 62.,lived,horse,DYNAMIC
+"In modern times, Sugar Puff, who had been listed in Guinness World Records as the world's oldest living pony,",listed,Puff,DYNAMIC
+died in 2007 at age 56.,died,Puff,DYNAMIC
+"Regardless of a horse or pony's actual birth date, for most competition purposes a year is added to its age each January 1 of each year in the Northern Hemisphere and each August 1 in the Southern Hemisphere.",added,year,DYNAMIC
+"The exception is in endurance riding,",is,exception,STATIVE
+where the minimum age to compete is based on the animal's actual calendar age.,based,age,STATIVE
+The following terminology is used to describe horses of various ages:,used,terminology,STATIVE
+* Colt: a male horse under the age of four.,,,CANNOT_DECIDE
+"A common terminology error is to call any young horse a ""colt"",",is,error,STATIVE
+when the term actually only refers to young male horses.,refers,term,STATIVE
+* Filly: a female horse under the age of four.,,,CANNOT_DECIDE
+* Foal: a horse of either sex less than one year old.,,,CANNOT_DECIDE
+A nursing foal is sometimes called a suckling,called,foal,DYNAMIC
+and a foal that has been weaned is called a weanling.,called,foal,STATIVE
+"Most domesticated foals are weaned at five to seven months of age,",weaned,foals,DYNAMIC
+although foals can be weaned at four months with no adverse physical effects.,weaned,foals,DYNAMIC
+* Gelding: a castrated male horse of any age.,,,CANNOT_DECIDE
+* Mare: a female horse four years old and older.,,,CANNOT_DECIDE
+* Stallion: a non-castrated male horse four years old and older.,,,CANNOT_DECIDE
+"The term ""horse"" is sometimes used colloquially to refer specifically to a stallion.",used,horse,DYNAMIC
+* Yearling: a horse of either sex that is between one and two years old.,is,sex,STATIVE
+"In horse racing, these definitions may differ:",differ,definitions,STATIVE
+"For example, in the British Isles, Thoroughbred horse racing defines colts and fillies as less than five years old.",defines,racing,STATIVE
+"However, Australian Thoroughbred racing defines colts and fillies as less than four years old.",defines,racing,STATIVE
+===Size and measurement===,,,CANNOT_DECIDE
+"The height of horses is measured at the highest point of the withers,",measured,measurement,DYNAMIC
+where the neck meets the back.,meets,neck,STATIVE
+This point is used,used,point,DYNAMIC
+"because it is a stable point of the anatomy, unlike the head or neck,",is,it,STATIVE
+which move up and down in relation to the body of the horse.,move,neck,DYNAMIC
+The English-speaking world measures the height of horses in hands and inches:,measures,world,DYNAMIC
+one hand is equal to 4 inches (101.6 mm).,is,mm,STATIVE
+"The height is expressed as the number of full hands,",expressed,height,DYNAMIC
+"followed by a point, then the number of additional inches,",followed,,STATIVE
+"and ending with the abbreviation ""h"" or ""hh"" (for ""hands high"").",ending,hands,DYNAMIC
+"Thus, a horse described as ""15.2 h"" is 15 hands plus 2 inches, for a total of 62 inches (157.5 cm) in height.",described,horse,STATIVE
+"The size of horses varies by breed,",varies,size,STATIVE
+but also is influenced by nutrition.,influenced,varies,DYNAMIC
+"Light riding horses usually range in height from 14 to 16 hands (56 to 64 inches, 142 to 163 cm)",range,horses,STATIVE
+"and can weigh from 380 to 550 kilograms (840 to 1,210 lb).",weigh,horses,STATIVE
+"Larger riding horses usually start at about 15.2 hands (62 inches, 157 cm)",start,horses,DYNAMIC
+"and often are as tall as 17 hands (68 inches, 173 cm),",are,horses,STATIVE
+"weighing from 500 to 600 kilograms (1,100 to 1,320 lb).",weighing,horses,STATIVE
+"Heavy or draft horses are usually at least 16 hands (64 inches, 163 cm) high",are,horses,STATIVE
+"and can be as tall as 18 hands (72 inches, 183 cm) high.",be,horses,STATIVE
+"They can weigh from about 700 to 1,000 kilograms (1,540 to 2,200 lb).",weigh,They,STATIVE
+The largest horse in recorded history was probably a Shire horse,was,horse,STATIVE
+"named Mammoth,",named,horse,STATIVE
+who was born in 1848.,born,horse,DYNAMIC
+"He stood 21.2 12 hands (86.5 inches, 220 cm) high",stood,He,STATIVE
+"and his peak weight was estimated at 1,500 kilograms (3,300 lb).",estimated,He,DYNAMIC
+"The current record holder for the world's smallest horse is Thumbelina, a fully mature miniature horse",is,holder,STATIVE
+affected by dwarfism.,affected,horse,STATIVE
+She is 17 in (43 cm) tall,is,She,STATIVE
+and weighs 57 lb (26 kg).,weighs,She,STATIVE
+====Ponies====,,,CANNOT_DECIDE
+Ponies are taxonomically the same animals as horses.,are,=,STATIVE
+"The distinction between a horse and pony is commonly drawn on the basis of height, especially for competition purposes.",drawn,distinction,DYNAMIC
+"However, height alone is not dispositive;",is,height,STATIVE
+"the difference between horses and ponies may also include aspects of phenotype,",include,difference,STATIVE
+including conformation and temperament.,including,,STATIVE
+"The traditional standard for height of a horse or a pony at maturity is 14.2 hands (58 inches, 147 cm).",is,standard,STATIVE
+"An animal 14.2 h or over is usually considered to be a horse and one less than 14.2 h a pony,",considered,animal,STATIVE
+but there are many exceptions to the traditional standard.,are,animal,STATIVE
+"In Australia, ponies are considered to be those under 14 hands (56 inches, 142 cm),",considered,ponies,STATIVE
+"For competition in the Western division of the United States Equestrian Federation, the cutoff is 14.1 hands (57 inches, 145 cm) The International Federation for Equestrian Sports, the world governing body for horse sport, uses metric measurements",is,cutoff,STATIVE
+and defines a pony as being any horse,defines,Federation,STATIVE
+"measuring less than 148 centimetres (58.27 in) at the withers without shoes,",measuring,horse,STATIVE
+"which is just over 14.2 h, and 149 centimetres (58.66 in), or just over 14.2 h, with shoes.",is,shoes,STATIVE
+Height is not the sole criterion for distinguishing horses from ponies.,is,Height,STATIVE
+Breed registries for horses,,,CANNOT_DECIDE
+that typically produce individuals both under and over 14.2,produce,horses,DYNAMIC
+h consider all animals of that breed to be horses regardless of their height.,consider,registries,STATIVE
+"Conversely, some pony breeds may have features in common with horses,",have,breeds,STATIVE
+"and individual animals may occasionally mature at over 14.2 h,",mature,breeds,DYNAMIC
+but are still considered to be ponies.,considered,animals,STATIVE
+"Ponies often exhibit thicker manes, tails, and overall coat.",exhibit,Ponies,DYNAMIC
+"They also have proportionally shorter legs, wider barrels, heavier bone, shorter and thicker necks, and short heads with broad foreheads.",have,They,STATIVE
+They may have calmer temperaments than horses and also a high level of equine intelligence,have,They,STATIVE
+that may or may not be used to cooperate with human handlers.,used,level,DYNAMIC
+"Small size, by itself, is not an exclusive determinant.",is,size,STATIVE
+"For example, the Shetland pony which averages 10 hands (40 inches, 102 cm), is considered a pony.",considered,pony,STATIVE
+"Conversely, breeds such as the Falabella and other miniature horses, which can be no taller than 30 inches (76 cm),",be,breeds,STATIVE
+"are classified by their registries as very small horses, not ponies.",classified,breeds,STATIVE
+===Genetics===,,,CANNOT_DECIDE
+Horses have 64 chromosomes.,have,=,STATIVE
+The horse genome was sequenced in 2007.,sequenced,genome,DYNAMIC
+"It contains 2.7 billion DNA base pairs,",contains,It,STATIVE
+"which is larger than the dog genome, but smaller than the human genome or the bovine genome.",is,pairs,STATIVE
+The map is available to researchers.,is,map,STATIVE
+===Colors and markings===,=,,CANNOT_DECIDE
+Horsescd1l-095.,,,CANNOT_DECIDE
+jpg|thumb|right|upright=1.4|Bay (left),left,Bay,CANNOT_DECIDE
+"and chestnut (sometimes called ""sorrel"")",called,chestnut,STATIVE
+"are two of the most common coat colors,",are,chestnut,STATIVE
+seen in almost all breeds.,seen,chestnut,STATIVE
+|alt=Two horses in a field.,=,alt,CANNOT_DECIDE
+The one on the left is a dark brown with black mane and tail.,is,one,STATIVE
+The one on the right is a light red all over.,is,one,STATIVE
+"Horses exhibit a diverse array of coat colors and distinctive markings,",exhibit,Horses,STATIVE
+described by a specialized vocabulary.,described,array,STATIVE
+"Often, a horse is classified first by its coat color, before breed or sex.",classified,horse,DYNAMIC
+"Horses of the same color may be distinguished from one another by white markings,",be,Horses,DYNAMIC
+"which, along with various spotting patterns, are inherited separately from coat color.",inherited,markings,DYNAMIC
+Many genes that create horse coat colors and patterns have been identified.,identified,genes,DYNAMIC
+Current genetic tests can identify at least 13 different alleles,identify,tests,DYNAMIC
+"influencing coat color, and research continues to discover new genes",influencing,alleles,STATIVE
+linked to specific traits.,linked,genes,STATIVE
+The basic coat colors of chestnut and black are determined by the gene,determined,colors,DYNAMIC
+"controlled by the Melanocortin 1 receptor,",controlled,gene,STATIVE
+"also known as the ""extension gene"" or ""red factor,"" as its recessive form is ""red"" (chestnut)",known,receptor,STATIVE
+and its dominant form is black.,is,form,STATIVE
+Additional genes control suppression of black color to point coloration,control,genes,DYNAMIC
+"that results in a bay,",results,coloration,DYNAMIC
+"spotting patterns such as pinto or leopard, dilution genes such as palomino or dun, as well as graying, and all the other factors",spotting,,CANNOT_DECIDE
+that create the many possible coat colors,create,factors,DYNAMIC
+found in horses.,found,genes,STATIVE
+Horses which have a white coat color are often mislabeled;,are,Horses,DYNAMIC
+"a horse that looks ""white"" is usually a middle-aged or older gray.",is,horse,STATIVE
+"Grays are born a darker shade,",born,Grays,DYNAMIC
+get lighter,get,lighter,DYNAMIC
+"as they age,",age,lighter,DYNAMIC
+but usually keep black skin underneath their white hair coat (with the exception of pink skin under white markings).,keep,Grays,STATIVE
+"The only horses properly called white are born with a predominantly white hair coat and pink skin, a fairly rare occurrence.",born,horses,DYNAMIC
+"Different and unrelated genetic factors can produce white coat colors in horses,",produce,factors,DYNAMIC
+including several different alleles of dominant white and the sabino-1 gene.,including,,STATIVE
+"However, there are no ""albino"" horses,",are,horses,STATIVE
+defined as having both pink skin and red eyes.,defined,horses,STATIVE
+===Reproduction and development===,,,CANNOT_DECIDE
+"Gestation lasts approximately 340 days, with an average range 320370 days, and usually results in one foal;",lasts,Gestation,STATIVE
+twins are rare.,are,twins,STATIVE
+"Horses are a precocial species,",are,Horses,STATIVE
+and foals are capable of standing and running within a short time following birth.,are,foals,STATIVE
+Foals are usually born in the spring.,born,Foals,DYNAMIC
+The estrous cycle of a mare occurs roughly every 1922 days,occurs,cycle,DYNAMIC
+and occurs from early spring into autumn.,occurs,cycle,DYNAMIC
+Most mares enter an anestrus period during the winter,enter,mares,DYNAMIC
+and thus do not cycle in this period.,cycle,mares,STATIVE
+Foals are generally weaned from their mothers between four and six months of age.,weaned,Foals,DYNAMIC
+"Horses, particularly colts, sometimes are physically capable of reproduction at about 18 months,",are,Horses,STATIVE
+"but domesticated horses are rarely allowed to breed before the age of three, especially females.",allowed,Horses,STATIVE
+"Horses four years old are considered mature,",considered,Horses,STATIVE
+although the skeleton normally continues to develop until the age of six;,continues,skeleton,DYNAMIC
+"maturation also depends on the horse's size, breed, sex, and quality of care.",depends,maturation,STATIVE
+"Larger horses have larger bones; therefore,",have,horses,STATIVE
+"not only do the bones take longer to form bone tissue,",do,only,STATIVE
+but the epiphyseal plates are larger and take longer to convert from cartilage to bone.,are,plates,STATIVE
+"These plates convert after the other parts of the bones,",convert,plates,DYNAMIC
+and are crucial to development.,are,plates,STATIVE

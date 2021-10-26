@@ -1,0 +1,98 @@
+Clause,mainVerb,mainReferent,Gold
+Lutheranism is a major branch of Protestant Christianity,is,Lutheranism,STATIVE
+"that identifies with the theology of Martin Luther , a German friar, ecclesiastical reformer and theologian.",identifies,branch,STATIVE
+Luther's efforts to reform the theology and practice of the Catholic Church,reform,efforts,CANNOT_DECIDE
+launched the Protestant Reformation in German-speaking territories of the Holy Roman Empire.,launched,efforts,DYNAMIC
+"Beginning with the Ninety-Five Theses,",Beginning,,DYNAMIC
+"first published in 1517, Luther's writings were disseminated internationally,",disseminated,writings,DYNAMIC
+spreading the early ideas of the Reformation beyond the influence and control of the Roman Curia and the Holy Roman Emperor.,spreading,,DYNAMIC
+"MSN Encarta, s.v. ""Lutheranism"" by George Wolfgang Forell; Christian Cyclopedia,",,,CANNOT_DECIDE
+"s.v. ""Reformation, Lutheran"" by Lueker, E. et.",,,CANNOT_DECIDE
+al.,,,CANNOT_DECIDE
+Archived 31 October 2009.,,,DYNAMIC
+The split between the Lutherans and the Catholics was made clear and open with the 1521 Edict of Worms:,made,split,DYNAMIC
+the edicts of the Diet condemned Luther,condemned,edicts,DYNAMIC
+"and officially banned citizens of the Holy Roman Empire from defending or propagating his ideas,",banned,edicts,DYNAMIC
+"subjecting advocates of Lutheranism to forfeiture of all property,",subjecting,defending,DYNAMIC
+specifying half of any seized property forfeit to the Imperial government,specifying,defending,DYNAMIC
+and the remaining half forfeit to the party,remaining,,CANNOT_DECIDE
+who brought the accusation.,brought,party,DYNAMIC
+The divide centered primarily on two points:,centered,divide,STATIVE
+"the proper source of authority in the church, often called the formal principle of the Reformation;",called,source,DYNAMIC
+and the doctrine of justification (often called the material principle of the Reformation).,called,doctrine,DYNAMIC
+"Lutheranism advocates a doctrine of justification ""by grace alone through faith alone on the basis of Scripture alone"", the doctrine",advocates,Lutheranism,STATIVE
+"that scripture is the final authority on all matters of faith, denying the belief of the Catholic Church",is,doctrine,STATIVE
+defined at the Council of Trent concerning authority,defined,Church,DYNAMIC
+coming from both the Scriptures and Tradition.,coming,authority,STATIVE
+"In addition, Lutheranism accepts the teachings of the first four ecumenical councils of the undivided Christian Church.",accepts,Lutheranism,STATIVE
+"Unlike the Reformed Churches, Lutherans retain many of the liturgical practices and sacramental teachings of the pre-Reformation Church, with a particular emphasis on the Eucharist, or Lord's Supper.",retain,Lutherans,STATIVE
+"Lutheran theology differs from Reformed theology in Christology, the purpose of God's Law, the divine grace, the concept of perseverance of the saints, and predestination.",differs,theology,STATIVE
+"Today, Lutheranism is one of the largest denominations of Protestantism and Christianity overall, with approximately 80 million adherents,",is,Lutheranism,STATIVE
+making it the third most common Protestant denomination after historically pentecostal denominations and Anglicanism.,making,Lutheranism,STATIVE
+"The Lutheran World Federation, the largest global communion of Lutheran churches represents over 72 million people.",represents,Federation,STATIVE
+"Additionally, there are also many smaller bodies such as the International Lutheran Council and the Confessional Evangelical Lutheran Conference, as well as independent churches.",are,bodies,STATIVE
+==Etymology==,,,CANNOT_DECIDE
+RoyLindmanLutheranRoseCross.,,,CANNOT_DECIDE
+"JPG|thumb|right|Lutheran Rose Cross, in the middle we can see Luther's seal.",see,we,DYNAMIC
+The name Lutheran originated as a derogatory term,originated,Lutheran,DYNAMIC
+used against Luther by German Scholastic theologian Dr. Johann Maier von Eck during the Leipzig Debate in July 1519.,used,term,DYNAMIC
+Eck and other Catholics followed the traditional practice,followed,Eck,STATIVE
+"of naming a heresy after its leader,",naming,practice,CANNOT_DECIDE
+thus labeling all,labeling,Eck,DYNAMIC
+who identified with the theology of Martin Luther as Lutherans.,identified,all,STATIVE
+"Martin Luther always disliked the term,",disliked,Luther,STATIVE
+"preferring instead to describe the reform movement with the term ""Evangelical"",",preferring,Luther,STATIVE
+"which was derived from euangelion, a Greek word",derived,movement,STATIVE
+"meaning ""good news"", i.e. ""Gospel.""",meaning,word,STATIVE
+The followers of John Calvin also began to use that term.,began,followers,DYNAMIC
+"To distinguish the two evangelical groups,",distinguish,,CANNOT_DECIDE
+"others began to call them ""Evangelical Lutheran"" and ""Evangelical Reformed.""",began,others,DYNAMIC
+"In time the word ""Evangelical"" came to be dropped.",came,word,DYNAMIC
+Eventually Lutherans themselves began to use the term in the middle of the 16th century,began,Lutherans,DYNAMIC
+"in order to distinguish themselves from other groups, such as Philippists and Calvinists.",distinguish,,CANNOT_DECIDE
+"In 1597, theologians in Wittenberg defined the title ""Lutheran"" as referring to the true church.",defined,theologians,DYNAMIC
+==History==,,,CANNOT_DECIDE
+"Lutheranism has its roots in the efforts of Martin Luther,",has,Lutheranism,STATIVE
+who sought to reform the Western Church to what he considered a more biblical foundation.,sought,Luther,DYNAMIC
+===Spread into northern Europe===,,,CANNOT_DECIDE
+"Lutheranism spread through all of Scandinavia during the 16th century,",spread,Lutheranism,DYNAMIC
+as the monarch of DenmarkNorway (also ruling Iceland and the Faroe Islands) and the monarch of Sweden,ruling,Spread,STATIVE
+(also ruling Finland) adopted Lutheranism.,adopted,Spread,DYNAMIC
+"Through Baltic-German and Swedish rule, Lutheranism also spread into the Baltic countries of Estonia and Latvia.",spread,Lutheranism,DYNAMIC
+"Since 1520, regular Lutheran services have been held in Copenhagen.",held,services,DYNAMIC
+"Under the reign of Frederick I (152333), Denmark-Norway remained officially Catholic.",remained,Denmark-Norway,STATIVE
+"Although Frederick initially pledged to persecute Lutherans,",pledged,Frederick,DYNAMIC
+"he soon adopted a policy of protecting Lutheran preachers and reformers,",adopted,he,DYNAMIC
+the most significant being Hans Tausen.,,,STATIVE
+"During Frederick's reign, Lutheranism made significant inroads among the Danish population.",made,Lutheranism,DYNAMIC
+"At an open meeting in Copenhagen attended by the king in 1536, the people shouted;",shouted,people,DYNAMIC
+"""We will stand by the holy Gospel,",stand,We,STATIVE
+"and do not want such bishops anymore"".",want,We,STATIVE
+"Frederick's son Christian was openly Lutheran,",was,son,STATIVE
+which prevented his election to the throne upon his father's death.,prevented,Lutheran,DYNAMIC
+"However, following his victory in the civil war",following,,DYNAMIC
+"that followed, in 1537",followed,war,DYNAMIC
+he became Christian III,became,he,DYNAMIC
+and advanced the Reformation in Denmark-Norway.,advanced,he,DYNAMIC
+"The constitution upon which the Danish Norwegian Church,",,,CANNOT_DECIDE
+"according to the Church Ordinance, should rest was ""The pure word of God,",was,constitution,STATIVE
+"which is the Law and the Gospel"".",is,word,STATIVE
+It does not mention the Augsburg Confession.,mention,It,STATIVE
+The priests had to understand the Holy Scripture well enough to preach and explain the Gospel and the Epistles for their congregations.,had,priests,STATIVE
+"The youths were taught from the Small Catechism, available in Danish since 1532.",taught,youths,DYNAMIC
+They were taught to expect at the end of life:,taught,They,DYNAMIC
+"""forgiving of their sins"", ""to be counted as just"", and ""the eternal life"".",counted,forgiving,CANNOT_DECIDE
+Instruction is still similar.,is,Instruction,STATIVE
+The first Bible in Danish was the translation into German by Martin Luther.,was,Bible,STATIVE
+It was translated by 1550,translated,It,DYNAMIC
+"and made available in 3,000 copies.",made,It,DYNAMIC
+It was sold out 30 years later.,sold,It,DYNAMIC
+"In comparison to Catholicism, the Lutheran Church does not believe",believe,Church,STATIVE
+"that tradition is a carrier of the ""Word of God"",",is,tradition,STATIVE
+"and that only the communion of the Bishop of Rome had been entrusted to interpret the ""Word of God"".",entrusted,carrier,DYNAMIC
+"The Reformation in Sweden began with Olaus and Laurentius Petri,",began,Reformation,DYNAMIC
+brothers who took the Reformation to Sweden after studying in Germany.,took,brothers,DYNAMIC
+"They led Gustav Vasa, elected king in 1523, to Lutheranism.",led,They,DYNAMIC
+The pope's refusal to allow the replacement of an archbishop,allow,refusal,CANNOT_DECIDE
+who had supported the invading forces,supported,archbishop,DYNAMIC
+opposing Gustav Vasa during the Stockholm Bloodbath led to the severing of any official connection between Sweden and the papacy in 1523.,led,refusal,DYNAMIC

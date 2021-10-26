@@ -1,0 +1,105 @@
+Clause,mainVerb,mainReferent,Gold
+NYT20020731.0376 2002-07-31 23:53,,,CANNOT_DECIDE
+A4931 &Cx1f; ttc-z r s BC-BBA-ANGNOTE-LADN 07-31 0711,BC-BBA-ANGNOTE-LADN,A4931,CANNOT_DECIDE
+BC-BBA-ANGNOTE-LADN,,,CANNOT_DECIDE
+ANGELS MAKE TRADE TO GET OUTFIELD DEPTH,GET,TRADE,DYNAMIC
+(For use by NYTimes News Service clients) By JOE HAAKENSON c.2002 San Gabriel Valley Tribune,,,CANNOT_DECIDE
+"ANAHEIM, Calif.",,,CANNOT_DECIDE
+-- The Anaheim Angels got help,got,Angels,DYNAMIC
+where they felt,felt,they,STATIVE
+"they needed it most,",needed,they,STATIVE
+agreeing to trade for Milwaukee Brewers outfielder Alex Ochoa only hours before Wednesday's nonwaiver trading deadline.,agreeing,they,DYNAMIC
+"In addition to Ochoa, the Angels got minor-league catcher Sal Fasano.",got,Angels,DYNAMIC
+"In return, the Brewers got backup catcher Jorge Fabregas and two players to be named later.",got,Brewers,DYNAMIC
+"By rule, the players to be named later cannot be players on the active major-league roster.",be,players,STATIVE
+"In the past week, the Angels deemed outfield depth their biggest need, above adding a reliever to the bullpen.",deemed,Angels,DYNAMIC
+Orlando Palmeiro was the only backup outfielder on the major-league roster,was,Palmeiro,STATIVE
+and the outfielders in the minor-league system are too inexperienced to be counted on in a pennant race.,are,outfielders,STATIVE
+"In Ochoa, 30, the Angels get an experienced major-league outfielder",get,Angels,DYNAMIC
+who is hitting .256 with six homers and 21 RBI this season.,hitting,outfielder,DYNAMIC
+Ochoa has played in the majors for five different teams,played,Ochoa,DYNAMIC
+starting in 1995.,starting,teams,DYNAMIC
+"His best season came in 2000 with the Reds,",came,season,DYNAMIC
+when he hit .316 with 13 homers and 56 RBI.,hit,he,DYNAMIC
+"Going into this season,",Going,hitter,DYNAMIC
+he was a career .281 hitter.,was,he,STATIVE
+"""He gives you a lot in all areas,""",gives,He,DYNAMIC
+Angels general manager Bill Stoneman said.,said,Stoneman,DYNAMIC
+"""He's a good defender,",'s,He,STATIVE
+"he has a good arm,",has,defender,STATIVE
+he plays the tough right-field position,plays,he,DYNAMIC
+and plays it well.,plays,he,DYNAMIC
+"He's a right-handed bat,",'s,He,STATIVE
+which complements Palmeiro off the bench.,complements,bat,STATIVE
+"""From a realistic standpoint, were we going to find an outfielder",were,,CANNOT_DECIDE
+that pushed one of our outfielders to the bench?,pushed,outfielder,CANNOT_DECIDE
+The answer is no.,is,answer,STATIVE
+He accepts his role with a club,accepts,He,STATIVE
+and he's a team guy.,'s,he,STATIVE
+He's got that reputation,got,He,STATIVE
+"and that's important to us, especially a club like ours",'s,club,STATIVE
+"that is an egoless club.""",is,club,STATIVE
+Ochoa will join the club today in Anaheim before tonight's game against the Yankees.,join,Ochoa,DYNAMIC
+He said,said,He,DYNAMIC
+he's fine with his role as a reserve outfielder and pinch hitter.,'s,he,STATIVE
+"""I've done that a lot in my career,""",done,I,DYNAMIC
+Ochoa said during a conference call.,said,lot,DYNAMIC
+"""Coming in,",Coming,,CANNOT_DECIDE
+they've got three great outfielders.,got,they,STATIVE
+"I knew that from the get-go.""",knew,I,STATIVE
+"Ochoa's new teammates were generally pleased with the move,",pleased,teammates,STATIVE
+even if it wasn't a blockbuster.,was,it,STATIVE
+"""It's not the big, earth-shattering stuff,""",'s,said,STATIVE
+right fielder Tim Salmon said.,said,stuff,DYNAMIC
+"""But we didn't need something earth-shattering right now.",need,we,STATIVE
+It didn't seem,seem,It,STATIVE
+like we had a lot of holes to fill.,had,we,STATIVE
+"It's good,",'s,It,STATIVE
+it gives us something,gives,It,DYNAMIC
+we didn't have,have,we,STATIVE
+"and we didn't lose much.""",lose,It,DYNAMIC
+--It's because of Molina:,'s,It,STATIVE
+The Angels felt,felt,Angels,STATIVE
+they could part with Fabregas because of the play of catcher Jose Molina.,part,they,DYNAMIC
+"Molina spent all season at Triple-A Salt Lake before joining the major-league club July 17 to replace his injured brother, Bengie.",spent,Molina,DYNAMIC
+"Bengie is expected to be activated from the disabled list today,",expected,Bengie,STATIVE
+giving the Angels both Molina brothers on the active major-league roster for the first time.,giving,Bengie,DYNAMIC
+"""I feel bad for Jorge,",feel,I,STATIVE
+"he's a good friend of mine,""",'s,he,STATIVE
+Bengie said.,said,Bengie,DYNAMIC
+"""But they liked",liked,they,STATIVE
+the way (Jose),,,CANNOT_DECIDE
+has played,played,Jose,DYNAMIC
+and they're giving him a chance.,giving,they,DYNAMIC
+I'm very excited,'m,I,STATIVE
+"we'll be on the same team for a while.""",be,we,STATIVE
+Jose went into Wednesday's game,went,Jose,DYNAMIC
+hitting .304,hitting,,DYNAMIC
+and had thrown out 33 percent,thrown,Jose,DYNAMIC
+(two of six) of baserunners,,,CANNOT_DECIDE
+trying to steal.,trying,,DYNAMIC
+"Angels pitchers had a 3.33 ERA with Jose catching, better even than Bengie's 3.69.",had,pitchers,STATIVE
+"""I just hope",hope,I,STATIVE
+"they keep me here,""",keep,they,DYNAMIC
+Jose said.,said,Jose,DYNAMIC
+"Ochoa took Fabregas' spot in the roster,",took,Ochoa,DYNAMIC
+but the Angels will have to clear another spot today to make room for Bengie.,have,Ochoa,DYNAMIC
+"Infielder Jose Nieves is likely to be sent down,",is,Nieves,STATIVE
+"but since he is out of options,",is,he,STATIVE
+he would have to clear waivers,have,Nieves,STATIVE
+before he could join Triple-A Salt Lake.,join,he,DYNAMIC
+--Not expected:,expected,Fabregas,CANNOT_DECIDE
+"Fabregas, who hit .193 with no homers and eight RBI in 35 games with the Angels this season,",hit,Fabregas,DYNAMIC
+said,said,Fabregas,DYNAMIC
+"he was ""surprised and shocked"" to get traded from a pennant contender to a team 22 games out in the NL Central.",was,he,STATIVE
+"""I understand baseball moves,",understand,I,STATIVE
+"I've been through this before,""",been,moves,STATIVE
+"said Fabregas,",said,moves,DYNAMIC
+who is headed for his eighth major-league team.,headed,Fabregas,STATIVE
+"""Obviously I'm disappointed to go from a team playing for first place to a team",'m,I,STATIVE
+that isn't contending.,contending,team,DYNAMIC
+"""I felt",felt,I,STATIVE
+like I was a big part of the team.,was,I,STATIVE
+I went through the struggles last year,went,I,DYNAMIC
+"and I wanted to be a part of it in the good times.""",wanted,I,STATIVE
+NYT-07-31-02 2353EDT,,,CANNOT_DECIDE

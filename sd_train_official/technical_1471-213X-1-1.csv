@@ -1,0 +1,192 @@
+Clause,mainVerb,mainReferent,Gold
+Background,,,CANNOT_DECIDE
+Glutamate decarboxylase (GAD),,,CANNOT_DECIDE
+catalyzes the formation of the inhibitory neurotransmitter -amino butyric acid (GABA) from glutamate.,,,DYNAMIC
+"In mammals, the two isoforms of this enzyme, GAD67 and GAD65, are expressed from two separate genes, Gad1 and Gad2 respectively [ 1, 2, 3].",,,DYNAMIC
+GABA signaling plays several roles in neuronal development.,,,STATIVE
+"Early in CNS development, GABA can modulate neuron progenitor proliferation as well as neuron migration, survival and differentiation [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14].",,,DYNAMIC
+In some classes of neural progenitors GABA stimulates these processes,,,DYNAMIC
+while in others it has an antagonistic activity.,,,STATIVE
+"For example, recent work has demonstrated",,,DYNAMIC
+that GABA acts in the developing neocortex to stimulate the proliferation of progenitors in the ventricular zone,,,DYNAMIC
+while inhibiting the proliferation of progenitors in the subventricular zone [ 14].,,,DYNAMIC
+"Later, during postnatal development, normal GABAergic input is required for activity-dependent plasticity in the visual cortex",,,STATIVE
+"as shown in the Gad2 knockout mouse [ 15, 16].",,,STATIVE
+"In addition to these functions in the developing CNS, GABA signaling is also required for the normal development of non-neural tissues.",,,STATIVE
+"Targeted mutations of the Gad1 gene lead to defective development of the secondary palate [ 17, 18].",,,DYNAMIC
+The cleft palate phenotype of the Gad1 mutants suggests the involvement of GABA-mediated signals in the normal development and differentiation of a structure,,,STATIVE
+derived from the oral epithelium and neural crest ecto-mesenchyme.,,,STATIVE
+This conclusion is further supported by the similar cleft,,,STATIVE
+"palate defect seen in mice with a deletion or targeted mutation in the 3 subunit of the GABA A receptor [ 19, 20, 21, 22].",,,DYNAMIC
+"This intriguing genetic evidence indicates a role for GABA-mediated signaling in the development of a non-neural structure, the secondary palate.",,,STATIVE
+The potential for this pathway to be involved in the early development of additional non-neural tissues has not yet been thoroughly explored [ 23].,,,DYNAMIC
+"To address this question,",,,CANNOT_DECIDE
+we surveyed Gad1 transcript distribution in the non-CNS tissues of the embryo.,,,DYNAMIC
+"Using a whole mount in situ hybridization approach,",,,DYNAMIC
+we found,,,DYNAMIC
+that Gad1 is indeed expressed in a number of different regions and tissues.,,,DYNAMIC
+A notable feature of this expression pattern is that Gad1 transcripts accumulate in the specialized ectodermal structures,,,STATIVE
+that are involved in the formation of the mystacial vibrissae and in limb outgrowth.,,,STATIVE
+"These specialized ectodermal tissues are known to be sources of developmental signals [ 24, 25, 26].",,,STATIVE
+"In addition, transcripts are expressed in the mesenchymal stem cell population of the tailbud and in the pharyngeal endoderm and mesenchyme.",,,DYNAMIC
+The expression patterns show,,,STATIVE
+that Gad1 is expressed in several non-CNS structures,,,DYNAMIC
+that are derived from each of the three germ layers of the embryo.,,,STATIVE
+Results,,,CANNOT_DECIDE
+The mouse Gad1 gene is widely expressed in the embryonic central nervous system [ 27].,,,DYNAMIC
+"To define additional sites of expression outside of the CNS,",,,CANNOT_DECIDE
+we analyzed the distribution of Gad1 transcripts in E8.5 to E14.5 mouse embryos by whole mount in situ hybridization.,,,DYNAMIC
+Gad1 transcripts were not detected in E8.5 day embryos,,,DYNAMIC
+(data not shown).,,,STATIVE
+At E9.0 Gad1 was readily detected in the tailbud (figure 1A).,,,DYNAMIC
+Expression in the tail continued through E12.5,,,STATIVE
+and was undetectable by E13.5,,,STATIVE
+"(figure 1B,C,Dand data not shown), a period corresponding to secondary body axis formation in the mouse embryo [ 28].",,,STATIVE
+Examination of sections from an E9.5 embryo revealed a high level of Gad1 expression throughout the mesenchyme and neural epithelium in the caudal portion of the tailbud (figure 1F).,,,DYNAMIC
+No transcripts were detected in the surface ectoderm,,,DYNAMIC
+surrounding the tailbud mesenchyme (figure 1F).,,,STATIVE
+"At more cranial levels within the tail, expression was localized to paraxial mesoderm, ventral neural tube, notochord and cells of the dorsal hindgut (figure 1E).",,,STATIVE
+"In the paraxial mesoderm, the highest expression levels were also localized ventrally,",,,STATIVE
+adjacent to the notochord (figure 1E).,,,CANNOT_DECIDE
+"In the pharyngeal region of E9.5 embryos, Gad1 RNA was detected in and around the second, third and fourth pharyngeal pouches (figure 2A).",,,DYNAMIC
+Sections through the third pouch confirmed the presence of Gad1 expression in the pouch endoderm,,,DYNAMIC
+(data not shown).,,,STATIVE
+Expression was particularly strong in the dorsal portion of this pouch (figure 2B).,,,STATIVE
+The additional diffuse staining appeared to be in the pharyngeal mesenchyme (figure 2B).,,,STATIVE
+The expression in the pharyngeal region was very transient;,,,STATIVE
+"transcripts were easily detected at E9.5, but only faintly at E9.0",,,DYNAMIC
+and were not detectable by E10.5.,,,STATIVE
+"In the limb buds, Gad1 RNA was detected from E9.0 to E11.5 (figure 3A,B,C,D,E,F,G,H).",,,DYNAMIC
+Transcripts were initially expressed in the pre-apical ectodermal ridge,,,DYNAMIC
+"(pre-AER) at E9.5 (figure 3A,B)",,,CANNOT_DECIDE
+and by E10.5 were seen in the definitive AER of the forelimb (figure 3D).,,,DYNAMIC
+At E10.5 Gad1 was expressed in a diffuse stripe in the forelimb,,,DYNAMIC
+(figure 3D) while in the hindlimb expression was only detected in the apical ectoderm (figure 3E).,,,DYNAMIC
+By E11.5 forelimb AER expression was fading,,,DYNAMIC
+"and expression was seen in a diffuse stripe in the proximal forelimb and a diffuse crescent in the proximal hindlimb (figure 3G,H).",,,DYNAMIC
+The earlier activation of Gad1 in the forelimb reflects the normal temporal order of events in limb development.,,,STATIVE
+Sections indicate,,,STATIVE
+that the expression within the limb buds was in surface ectoderm and adjacent mesenchyme,,,STATIVE
+(data not shown).,,,STATIVE
+Gad1 RNA was not detected in the limbs by whole mount in situ hybridization after E11.5.,,,DYNAMIC
+"A dynamic pattern of Gad1 expression was detected in the developing vibrissae from E12.5 to E14.5 (figure 4A,B,C,D,E,F,G,H).",,,DYNAMIC
+"Expression was first detected in the supra-orbital, infra-orbital, and post-oral vibrissae and in the posterior vibrissae in the lateral nasal and maxillary rows (figure 4A,B; nomenclature as in [ 29]).",,,DYNAMIC
+Gad1 RNA was also detected in some of the posterior labial vibrissae at this stage.,,,DYNAMIC
+Expression was activated in a posterior to anterior,,,DYNAMIC
+"(towards the nose) progression in the lateral nasal and maxillary rows,",,,CANNOT_DECIDE
+reflecting the pattern of vibrissal development [ 29].,,,STATIVE
+"By E13.5, Gad1 expression was detected in the anterior lateral nasal and maxillary rows",,,DYNAMIC
+"and was activated in the rhinal, labial and submental vibrissae (figure 4C,D).",,,STATIVE
+"By E14.5, expression was strong in the labial, submental and rhinal vibrissae (figure 4E,F).",,,STATIVE
+Sections of E12.5 whole mounts,,,CANNOT_DECIDE
+show,,,STATIVE
+that Gad1 expression was localized to the epidermal placodes of the mystacial vibrissae,,,STATIVE
+"(figure 4G,H) and was maintained",,,DYNAMIC
+as the placodes begin to invaginate (figure 4G).,,,DYNAMIC
+Control hybridizations using a sense strand Gad1 probe were also performed.,,,DYNAMIC
+Embryos hybridized to the sense probe did not reveal any staining pattern at any of the stages,,,DYNAMIC
+tested (E8.5- E14.5).,,,DYNAMIC
+Sense strand hybridization results for E10.5 and E11.5 embryos are shown in figure 5.,,,STATIVE
+Discussion,,,CANNOT_DECIDE
+The expression results reported here show,,,STATIVE
+that Gad1 was activated in several tissues outside of the central nervous system during mouse development.,,,STATIVE
+Transcripts were not seen at E8.5,,,DYNAMIC
+and were first detected at E9.0.,,,DYNAMIC
+It was surprising,,,STATIVE
+that this very early phase of Gad1 expression was largely outside of the developing CNS,,,STATIVE
+and was localized in the tail bud mesenchyme and in the pre-apical ectodermal ridge (pre-AER) of the forelimb bud.,,,STATIVE
+As development proceeded Gad1 was detected in pharyngeal endoderm and in the ectodermal placodes of the vibrissae.,,,DYNAMIC
+The data demonstrate,,,STATIVE
+that Gad1 is expressed in several sites outside of the developing CNS and in derivatives of all three germ layers.,,,DYNAMIC
+We have also detected the expression of Gad1-lacZ transgenes in the developing vibrissae and limbs,,,DYNAMIC
+supporting the novel and surprising in situ hybridization results,,,STATIVE
+"we report here (J.J. Westmoreland and B.G.C., unpublished results).",,,STATIVE
+Previous studies have shown,,,DYNAMIC
+that Gad1 can be regulated at the post-transcriptional and translational level.,,,DYNAMIC
+"Gad1 mRNA translation or protein stability can be regulated in mature neurons by the level of GABA [ 30, 31].",,,DYNAMIC
+"During embryogenesis, post-transcriptional regulation occurs by alternative splicing during embryonic development in rats and mice [ 32, 33].",,,DYNAMIC
+"This alternate embryonic transcript inserts a stop codon into the Gad1 mRNA and can produce the truncated proteins, GAD25 and GAD44, from its 5'; and 3' ends respectively.",,,DYNAMIC
+The studies reported,,,CANNOT_DECIDE
+here used a probe,,,DYNAMIC
+that will detect the adult Gad1 mRNA,,,DYNAMIC
+that encodes GAD67 as well as the embryonic alternatively spliced mRNA,,,STATIVE
+that can encode GAD25 and GAD44.,,,STATIVE
+These additional mechanisms of Gad1 regulation may control the production of GAD proteins and the synthesis of GABA in the non-neural cell types,,,DYNAMIC
+detected in our study.,,,DYNAMIC
+The whole mount in situ hybridization data,,,CANNOT_DECIDE
+reported here,,,STATIVE
+extends the results of a recently published section in situ hybridization study on E10.5-E12.5 mouse embryos [ 27].,,,DYNAMIC
+Our analysis showed,,,DYNAMIC
+that Gad1 expression is first detectable earlier at E9.0,,,STATIVE
+"and revealed novel non-CNS sites of expression in the pharyngeal region, vibrissae, tail bud and limb bud.",,,DYNAMIC
+"The results of the previous study [ 27], together with the data reported herein, provide a comprehensive picture of Gad1 expression in the E9.0-E12.5 mouse embryo.",,,STATIVE
+Previous studies have noted Gad expression outside of the CNS.,,,DYNAMIC
+"In adults Gad1 and Gad2 have been detected in a number of tissues including kidney, testis, oviduct, pancreatic islets and adrenal cortex [ 34, 35, 36, 37].",,,DYNAMIC
+"Previously reported sites of embryonic Gad1 expression outside of the brain and spinal cord during rodent development include the lens fibers and the olfactory pit [ 38, 39].",,,STATIVE
+In E10.5-E12.5 mouse embryos Gad1 is expressed in the olfactory,,,DYNAMIC
+"and the lens placodes,",,,CANNOT_DECIDE
+the anlagen of the olfactory pit and lens fibers [ 27].,,,CANNOT_DECIDE
+We also detected Gad1 expression in these tissues,,,DYNAMIC
+(please see figure 3Aand data not shown).,,,CANNOT_DECIDE
+Expression of Gad in the developing heart and blood vessels has also been reported [ 27].,,,DYNAMIC
+We detected weak staining in the heart,,,DYNAMIC
+"and did not detect blood vessel expression, perhaps due to the very low levels of expression in developing vasculature [ 27].",,,DYNAMIC
+"Our results document localized expression of Gad1 at additional non-CNS sites in the mouse embryo,",,,STATIVE
+suggesting a potential role for GABA,,,STATIVE
+signaling in the development of these structures.,,,CANNOT_DECIDE
+Our interest in the role of GABA signaling in developing tissues outside of the central nervous system stems from the cleft palate phenotype of the Gad1 and the 3 GABA,,,STATIVE
+"A receptor subunit mutants [ 17, 18, 19, 21, 22].",,,CANNOT_DECIDE
+The genetic data strongly suggest,,,STATIVE
+that GABA acts through GABA A receptors to modulate the development of this tissue.,,,DYNAMIC
+"Although the data reported here do not explain the origin of the cleft palate phenotype,",,,STATIVE
+they do indicate,,,STATIVE
+that Gad1 is expressed in several additional non-CNS tissues in the mouse embryo.,,,DYNAMIC
+It is particularly noteworthy,,,STATIVE
+that these include the AER of the limb buds and the ectodermal placodes of the vibrissae.,,,STATIVE
+Both are ectodermal structures,,,STATIVE
+known to be sources of developmental signals,,,STATIVE
+"required for morphogenesis and patterning [ 24, 25, 26, 40].",,,STATIVE
+It will be of interest to examine the expression pattern of GABA receptors in the mesenchyme adjacent to these ectodermal signaling centers.,,,STATIVE
+Expression of GABA receptor subunits in adjacent tissues would indicate,,,STATIVE
+that these receptors read the developmental signals,,,DYNAMIC
+mediated by GABA in these structures and tissues.,,,DYNAMIC
+Conclusions,,,CANNOT_DECIDE
+"The mouse gene encoding the 67 kDa isoform of glutamate decarboxylase ( Gad1 ) is expressed in the tail bud mesenchyme, vibrissal placodes, pharyngeal arches and pouches and the apical ectodermal ridge (AER), mesenchyme and ectoderm of the limb buds in mouse embryos from E9.0-E14.5.",,,DYNAMIC
+Some of the Gad1 expressing tissues,,,CANNOT_DECIDE
+"(vibrissal placodes, AER) are known sources of developmental signals.",,,STATIVE
+Other sites of expression correspond to stem cell populations,,,STATIVE
+"that give rise to multiple differentiated tissues (tail bud mesenchyme, pharyngeal endoderm and mesenchyme).",,,DYNAMIC
+The localized and dynamic expression pattern of Gad1 suggests a wider role for GAD and GABA in the development of non-neural tissues,,,STATIVE
+than was previously known.,,,STATIVE
+Materials and Methods Whole mount,,,CANNOT_DECIDE
+in situ hybridizations were performed on Swiss Webster embryos,,,DYNAMIC
+"as described [ 41, 42].",,,STATIVE
+The morning that the vaginal plug was found was considered 0.5 days of gestation.,,,STATIVE
+The Gad1 probe was derived from an EST clone (accession W59173).,,,DYNAMIC
+Its 5' end corresponds to nucleotide 142 in exon 1 [ 43],,,STATIVE
+and the 3' end is at nucleotide 2041 in the cDNA sequence [ 44].,,,STATIVE
+Digoxygenin sense and antisense RNA probes were generated by labeling with digoxygenin-UTP during transcription.,,,DYNAMIC
+Embryos were removed and fixed in 4% paraformaldehyde/PBS overnight and used immediately for the in situ hybridization.,,,DYNAMIC
+The embryos were processed,,,DYNAMIC
+as described previously [ 41],,,STATIVE
+"and hybridized to the probe overnight in 50% formamide, 5X SSC",,,DYNAMIC
+"(pH 5.0), 50 g/ml torula RNA, 50 g/ml heparin at 70C. The final concentration of probe",,,CANNOT_DECIDE
+in the hybridization was 1 g/ml.,,,STATIVE
+"After an overnight hybridization, the embryos were washed at high stringency in prewarmed 50% formamide,",,,DYNAMIC
+"5X SSC, 1% SDS",,,CANNOT_DECIDE
+(wash I) at 70C for 90 minutes.,,,CANNOT_DECIDE
+The embryos were then washed in a 1:1 mix of wash I,,,DYNAMIC
+and wash II,,,CANNOT_DECIDE
+"(0.5 M NaCl, 10 mM Tris pH 7.5,",,,CANNOT_DECIDE
+0.1% Tween 20) for 10 minutes at 70C.,,,CANNOT_DECIDE
+The embryos were washed several times in wash II at room temperature to remove the formamide,,,DYNAMIC
+"and then treated with 100 g/ml RNase A, 100 units/ml RNase T1 in wash II for 1 hour at 37C. Following the RNase treatment",,,DYNAMIC
+"the embryos were washed in three changes of 50% formamide,",,,DYNAMIC
+2X SSC pH5.0 at 70C for a total of 90 minutes.,,,CANNOT_DECIDE
+Detection of the hybridized RNA probe was as described previously [ 41].,,,DYNAMIC
+The embryos were photographed,,,DYNAMIC
+"without clearing using a Leica model MZFL III dissecting scope, a Hamamatsu model C4742-95 digital camera and Openlab 2.0.7 software.",,,DYNAMIC
+"For sectioning, embryos were embedded in Immunobed",,,DYNAMIC
+(Polysciences) resin,,,CANNOT_DECIDE
+and sectioned at 10 m.,,,DYNAMIC
+Sections were phtotographed using an Olympus BX60 microscope fitted with a SPOT digital camera (Diagnostic Instruments Inc.).,,,DYNAMIC

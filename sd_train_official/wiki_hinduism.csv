@@ -1,0 +1,86 @@
+Clause,mainVerb,mainReferent,Gold
+"Hinduism is the dominant religion, or way",is,Hinduism,STATIVE
+"of life, of the Indian subcontinent, and consists of many diverse traditions.",consists,religion,STATIVE
+"It includes Shaivism, Vaishnavism and Shaktism among numerous other traditions, and a wide spectrum of laws and prescriptions of ""daily morality"" based on karma, dharma, and societal norms.",includes,It,STATIVE
+"Hinduism is a categorisation of distinct intellectual or philosophical points of view, rather than a rigid, common set of beliefs.",is,Hinduism,STATIVE
+"Hinduism has been called the ""oldest religion"" in the world,",called,Hinduism,DYNAMIC
+"and some practitioners refer to it as , ""the eternal law"" or the ""eternal way"" beyond human origins.",refer,Hinduism,DYNAMIC
+"It prescribes the ""eternal"" duties, such as honesty, mercy, purity, self-restraint, among others.",prescribes,It,STATIVE
+"Western scholars regard Hinduism as a fusion or synthesis of various Indian cultures and traditions, with diverse roots and no single founder.",regard,scholars,STATIVE
+"This ""Hindu synthesis"" emerged around the beginning of the Common Era,",emerged,synthesis,DYNAMIC
+"and co-existed for several centuries with Buddhism, to finally gain the upper hand in most royal circles during the 8th century CE.",co-existed,synthesis,STATIVE
+"From northern India this ""Hindu synthesis"", and its societal divisions, spread to southern India and parts of Southeast Asia.",spread,synthesis,DYNAMIC
+"Since the 19th century, under the dominance of western colonialism and Indology, when the term ""Hinduism"" came into broad use, Hinduism has re-asserted itself as a coherent and independent tradition.",re-asserted,Hinduism,DYNAMIC
+"The popular understanding of Hinduism has been dominated by ""Hindu modernism"",",dominated,understanding,DYNAMIC
+in which mysticism and the unity of Hinduism have been emphasised.,emphasised,mysticism,DYNAMIC
+"During 20th century, Hindutva ideology, a part of the Hindu politics emerged as a political force and a source for national identity in India.",emerged,part,DYNAMIC
+"Hindu practices include daily rituals such as puja (worship) and recitations, annual festivals, and occasional pilgrimages.",include,practices,STATIVE
+Select group of ascetics leave the common world,leave,group,DYNAMIC
+and engage in lifelong ascetic practices to achieve moksha.,engage,group,DYNAMIC
+Hindu texts are classified into ruti,classified,texts,STATIVE
+"(""heard"") and Smriti",heard,Śruti,CANNOT_DECIDE
+"(""remembered"").",remembered,Śruti,CANNOT_DECIDE
+"These texts discuss theology, philosophy, mythology, Vedic yajna and agamic rituals and temple building, among other topics.",discuss,texts,STATIVE
+"Major scriptures include the Vedas, Upanishads",include,scriptures,STATIVE
+"(both ruti), Mahabharata, Ramayana, Bhagavad Gita, Puranas, Brahma Sutras,Yoga Vasistha ,Yoga Sutras of Patanjali, Manusmti, and Agamas (all smriti).",,,CANNOT_DECIDE
+"Hinduism, with about one billion followers is the world's third largest religion, after Christianity and Islam.",is,Hinduism,STATIVE
+== Etymology ==,,,CANNOT_DECIDE
+"The word Hindu is derived (through Persian) from the Indo-Aryan/Sanskrit word Sindhu, the Indo-Aryan name for the Indus River in the northwestern part of the Indian subcontinent (modern day Pakistan and Northern India).",derived,Hindu,STATIVE
+"According to Gavin Flood, ""The actual term 'hindu' first occurs as a Persian geographical term for the people",According,,DYNAMIC
+who lived beyond the river Indus,lived,people,STATIVE
+"(Sanskrit: Sindhu)"".",,,CANNOT_DECIDE
+The term 'Hindu' then was a geographical term,was,Hindu,STATIVE
+and did not refer to a religion.,refer,term,STATIVE
+"The word Hindu was taken by European languages from the Arabic term al-Hind,",taken,Hindu,DYNAMIC
+which referred to the people,referred,al-Hind,STATIVE
+who live across the River Indus.,live,people,STATIVE
+"This Arabic term was itself taken from the Persian term Hind,",taken,term,DYNAMIC
+which refers to all Indians.,refers,Hindū,STATIVE
+"By the 13th century, Hindustan emerged as a popular alternative name of India,",emerged,Hindustan,DYNAMIC
+"meaning the ""land of Hindus"".",meaning,,STATIVE
+The term Hinduism was later used occasionally in some Sanskrit texts such as the later Rajataranginis of Kashmir,used,Hinduism,DYNAMIC
+"(Hinduka, c. 1450) and some 16th- to 18th-century Bengali Gaudiya Vaishnava texts including Chaitanya Charitamrita and Chaitanya Bhagavata.",including,,STATIVE
+It was usually used to contrast Hindus with Yavanas or Mlecchas.,used,It,DYNAMIC
+It was only towards the end of the 18th century,was,It,STATIVE
+that European merchants and colonists began to refer to the followers of Indian religions collectively as Hindus.,began,colonists,DYNAMIC
+"The term Hinduism was introduced into the English language in the 19th century to denote the religious, philosophical, and cultural traditions native to India.",introduced,Hinduism,DYNAMIC
+== Definitions ==,,,CANNOT_DECIDE
+"The study of India and its cultures and religions, and the definition of ""Hinduism"", has been shaped by the interests of colonialism and by Western notions of religion.",shaped,=,DYNAMIC
+"Since the 1990s, those influences and its outcomes have been the topic of debate among scholars of Hinduism",been,influences,STATIVE
+", and have also been taken over by critics of the Western view on India.",taken,topic,DYNAMIC
+"Because of the wide range of traditions and ideas covered by the term,",covered,range,DYNAMIC
+arriving at a comprehensive definition is difficult.,is,arriving,STATIVE
+"Hinduism has been variously defined as a religion, a religious tradition, a set of religious beliefs, and ""a way of life.""",defined,Hinduism,DYNAMIC
+"In India the term dharma is preferred,",preferred,dharma,STATIVE
+"which is more inclusive than the western term ""religion"",",is,preferred,STATIVE
+"covering both ""religious"" and ""wordly"" aspects.",covering,religion,STATIVE
+=== Colonial influences ===,,,CANNOT_DECIDE
+The notion of common denominators for several religions and traditions of India was already noted from the 12th century CE on.,noted,=,DYNAMIC
+"The notion of ""Hinduism"" as a ""single world religious tradition"" was popularised by 19th-century European Indologists",popularised,notion,DYNAMIC
+"who depended on the ""brahmana castes"" for their information of Indian religions.",depended,Indologists,STATIVE
+"This led to a ""tendency to emphasise Vedic and Brahmanical texts and beliefs as the ""essence"" of Hindu religiosity in general, and in the modern association of 'Hindu doctrine' with the various Brahmanical schools of the Vedanta (in particular Advaita Vedanta).""",led,This,DYNAMIC
+=== Indigenous understanding ===,understanding,Indigenous,CANNOT_DECIDE
+========,,,CANNOT_DECIDE
+"To its adherents, Hinduism is a traditional way of life.",is,Hinduism,STATIVE
+"Many practitioners refer to Hinduism as , ""the eternal law"" or the ""eternal way"".",refer,practitioners,DYNAMIC
+"It refers to the ""eternal"" duties",refers,It,STATIVE
+"all Hindus have to follow, regardless of class, caste, or sect, such as honesty,",have,Hindus,STATIVE
+"refraining from injuring living beings, purity, goodwill, mercy, patience, forbearance, self-restraint, generosity, and asceticism.",refraining,,CANNOT_DECIDE
+"This is contrasted with svadharma, one's ""own duty"",",contrasted,This,STATIVE
+the duties to be followed by members of a specific caste and stage of life.,followed,duties,CANNOT_DECIDE
+"According to Knott, this also",According,,CANNOT_DECIDE
+According to the Encyclopdia Britannica;-,According,,CANNOT_DECIDE
+====Hindu modernism====,,,CANNOT_DECIDE
+"Major representatives of ""Hindu modernism"" are Vivekananda, Sarvepalli Radhakrishnan and Mahatma Gandhi.",are,=,STATIVE
+"According to Flood,",According,,STATIVE
+"""Swami Vivekananda (1863-1902) is a figure",is,Vivekananda,STATIVE
+"of great importance in the development of a modern Hindu self-understanding and in formulating the West's view of Hinduism.""",formulating,development,CANNOT_DECIDE
+Central to his philosophy is the idea,is,Central,STATIVE
+"that the divine exists in all beings,",exists,divine,STATIVE
+"that all human beings can achieve union with this ""innate divinity"",",achieve,divine,DYNAMIC
+and that seeing this divine,seeing,,STATIVE
+as the essence of others will further love and social harmony.,further,divine,DYNAMIC
+"According to Vivekananda, there is an essential unity to Hinduism,",According,,STATIVE
+which underlies the diversity of its many forms.,underlies,Hinduism,STATIVE
+"According to Flood, Vivekananda's vision of Hinduism ""is one",is,vision,STATIVE
+"generally accepted by most English-speaking middle-class Hindus today.""",accepted,one,CANNOT_DECIDE

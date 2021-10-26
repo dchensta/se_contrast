@@ -1,0 +1,217 @@
+Clause,mainVerb,mainReferent,Gold
+American football (known as football in the United States and gridiron in some other countries),known,football,STATIVE
+is a sport,is,football,STATIVE
+played by two teams of eleven players on a rectangular field 120 yards long by 53.33 yards wide with goalposts at each end.,played,sport,DYNAMIC
+The offense attempts to advance an oval ball,attempts,offense,DYNAMIC
+(the football) down the field by running with,running,offense,DYNAMIC
+or passing it.,passing,offense,DYNAMIC
+They must advance it,advance,They,DYNAMIC
+at least ten yards in four downs to receive a new set of four downs,receive,downs,CANNOT_DECIDE
+and continue the drive;,continue,downs,CANNOT_DECIDE
+"if not, they turn over the football to the opposing team.",turn,they,DYNAMIC
+Most points are scored by advancing the ball into the opposing team's end zone for a touchdown,scored,points,DYNAMIC
+or kicking the ball through the opponent's goalposts for a field goal.,kicking,,DYNAMIC
+The team with the most points at the end of a game wins.,points,team,DYNAMIC
+"American football evolved in the United States,",evolved,football,DYNAMIC
+originating from the sport of rugby football.,originating,,STATIVE
+"The first game of American football was played on November 6, 1869, between two college teams, Rutgers and Princeton, under rules",played,game,DYNAMIC
+resembling rugby and soccer.,resembling,rules,STATIVE
+"A set of rule changes drawn up from 1880 onward by Walter Camp, the ""Father of American Football,""",drawn,changes,DYNAMIC
+"established the snap, eleven-player teams and the concept of downs,",established,set,DYNAMIC
+"and later rule changes legalized the forward pass,",legalized,set,DYNAMIC
+"created the neutral zone,",created,changes,DYNAMIC
+and specified the size and shape of the football.,specified,changes,DYNAMIC
+American football as a whole is the most popular sport in the United States;,is,football,STATIVE
+"professional football and college football are the most popular forms of the game, with the other major levels being high school and youth football.",are,football,STATIVE
+"As of 2012, nearly 1.1 million high school athletes and 70,000 college athletes play the sport in the United States annually.",play,athletes,DYNAMIC
+"The National Football League, the most popular American football league, has the highest average attendance of any sports league in the world;",has,League,STATIVE
+"its championship game, the Super Bowl, ranks among the most-watched club sporting events in the world,",ranks,game,STATIVE
+and the league has an annual revenue of around $10 billion.,has,game,STATIVE
+==Etymology and names==,,,CANNOT_DECIDE
+"In the United States, American football is referred to as ""football.""",referred,football,STATIVE
+"The term ""football"" was officially established in the rulebook for the 1876 college football season,",established,football,DYNAMIC
+when the sport first shifted from soccer-style rules to rugby-style rules,shifted,sport,DYNAMIC
+"; although it could easily have been called ""rugby"" at this point, Harvard, one of the primary proponents of the rugby-style game,",called,it,STATIVE
+compromised,compromised,Harvard,DYNAMIC
+"and did not request the name of the sport be changed to ""rugby"".",request,Harvard,DYNAMIC
+"In countries where other codes of football are popular, such as the United Kingdom and Australia, the terms ""gridiron"" or ""American football"" are favored.",favored,gridiron,STATIVE
+==History==,,,CANNOT_DECIDE
+===Early history===,,,CANNOT_DECIDE
+American football evolved from the sport of rugby football.,evolved,football,DYNAMIC
+"Rugby, like American football, is a team sport",is,,STATIVE
+"where two competing teams vie for control of a ball,",vie,teams,DYNAMIC
+which can be kicked through a set of goalposts,kicked,control,DYNAMIC
+or run into the opponent's goal area to score points.,run,control,DYNAMIC
+"The first American football game was played on November 6, 1869 between Rutgers and Princeton.",played,game,DYNAMIC
+"The game was played between two teams of 25 players each,",played,game,DYNAMIC
+"used a round ball,",used,game,DYNAMIC
+and resembled a combination of rugby and soccer in its rules;,resembled,game,STATIVE
+the ball could not be picked up,picked,ball,DYNAMIC
+"or carried,",carried,ball,DYNAMIC
+"but it could be kicked or batted with the feet, hands, head or sides, with the ultimate goal of advancing it into the opponent's goal.",kicked,ball,DYNAMIC
+Rutgers won the game 6-4.,won,Rutgers,DYNAMIC
+Collegiate play continued for several years,continued,play,STATIVE
+in which matches,,,CANNOT_DECIDE
+were played using the rules of the host school.,played,matches,DYNAMIC
+"Representatives of Yale, Columbia, Princeton and Rutgers met on October 19, 1873 to create a standard set of rules",met,Representatives,DYNAMIC
+for all schools to adhere to.,adhere,schools,CANNOT_DECIDE
+"Teams were set at 20 players each,",set,Teams,DYNAMIC
+and fields of 400 by 250 feet were specified.,specified,Teams,DYNAMIC
+"Harvard abstained from the conference,",abstained,Harvard,DYNAMIC
+as they favored a rugby-style game,favored,they,STATIVE
+that allowed running with the ball.,allowed,game,STATIVE
+An 1875 Harvard-Yale game played under rugby-style rules was observed by two impressed Princeton athletes.,observed,game,DYNAMIC
+"These players introduced the sport to Princeton, a feat the Professional Football Researchers Association compared to ""selling refrigerators to Eskimos.""",introduced,players,DYNAMIC
+"Princeton, Harvard, Yale and Columbia then agreed to intercollegiate play",agreed,Princeton,DYNAMIC
+using a form,using,,DYNAMIC
+of rugby union rules with a modified scoring system.,modified,,CANNOT_DECIDE
+"These schools formed the Intercollegiate Football Association,",formed,schools,DYNAMIC
+although Yale did not join until 1879.,join,Yale,DYNAMIC
+"Yale player Walter Camp, now regarded as the ""Father of American Football,""",regarded,Camp,STATIVE
+passed rule changes in 1880,passed,Camp,DYNAMIC
+that reduced the team size from 15 to 11 players,reduced,changes,DYNAMIC
+and instituted the snap to replace the chaotic and inconsistent scrum.,instituted,changes,DYNAMIC
+===Evolution of the game===,,,CANNOT_DECIDE
+The introduction of the snap resulted in unexpected strategy changes.,resulted,Evolution,DYNAMIC
+"Previously, the strategy had been to punt",been,strategy,STATIVE
+if a scrum resulted in bad field position.,resulted,scrum,DYNAMIC
+A group of Princeton players realized,realized,group,DYNAMIC
+"that, as the snap was uncontested,",uncontested,snap,STATIVE
+they now could hold the ball indefinitely to prevent their opponent from scoring.,hold,they,DYNAMIC
+"In 1881, both contestants in a Yale-Princeton game used this strategy to maintain their undefeated records.",used,contestants,DYNAMIC
+"Each team held the ball,",held,team,DYNAMIC
+"gaining no ground, for an entire half.",gaining,team,DYNAMIC
+"This ""block game"" proved extremely unpopular with spectators and fans of both teams.",proved,game,DYNAMIC
+"A rule change was necessary to prevent this strategy,",was,change,STATIVE
+and a reversion to the scrum was considered,considered,change,DYNAMIC
+until Camp passed a rule in 1882,passed,considered,DYNAMIC
+that stated,stated,rule,STATIVE
+"that a team would have three downs, or tackles, to advance the ball five yards.",have,team,STATIVE
+Failure to do so would forfeit control of the ball to the other team.,forfeit,Failure,DYNAMIC
+"This change made American football a separate sport from rugby,",made,change,DYNAMIC
+and the resulting five-yard lines added to the field,resulting,,DYNAMIC
+made it resemble a gridiron in appearance.,made,change,DYNAMIC
+"Other major rule changes included a reduction of the field size to 110 yards long by 53.33 yards wide, and the adoption of a scoring system",included,changes,STATIVE
+"that awarded four points for a touchdown, two for a safety and a goal",awarded,system,DYNAMIC
+"following a touchdown, and five for a goal from field.",following,,CANNOT_DECIDE
+In 1888 tackling below the waist was legalized.,legalized,tackling,DYNAMIC
+Football remained a violent sport despite these innovations.,remained,Football,STATIVE
+Dangerous mass-formations like the flying wedge resulted in serious injuries and occasional deaths among players.,resulted,mass-formations,DYNAMIC
+A 1905 peak of 19 fatalities nationwide resulted in a threat by President Theodore Roosevelt to abolish the game,resulted,peak,DYNAMIC
+unless major changes were made.,made,changes,CANNOT_DECIDE
+"Sixty-two schools met in New York City to discuss rule changes on December 28, 1905,",met,schools,DYNAMIC
+"and these proceedings resulted in the formation of the Intercollegiate Athletic Association of the United States,",resulted,schools,DYNAMIC
+later named the National Collegiate Athletic Association (NCAA).,named,Association,DYNAMIC
+"The legal forward pass was introduced in 1906 after its suggestion by John Heisman,",introduced,pass,DYNAMIC
+although its impact was limited due to the restrictions,limited,impact,STATIVE
+placed on its use.,placed,restrictions,DYNAMIC
+Further 1906 rules changes included the reduction of the time of play from 70 to 60 minutes and the increase of the distance requirement for a first down to 10 yards over three downs.,included,changes,STATIVE
+"To reduce infighting and dirty play between teams,",reduce,,CANNOT_DECIDE
+the neutral zone was created along the width of the football.,created,zone,DYNAMIC
+Field goals were lowered to three points in 1909,lowered,goals,DYNAMIC
+and touchdowns raised to six points in 1912.,raised,touchdowns,DYNAMIC
+"The field was also reduced to 100 yards long,",reduced,field,DYNAMIC
+"but two 10-yard-long end zones were created,",created,field,DYNAMIC
+and teams were given four downs instead of three to advance the ball 10 yards.,given,zones,DYNAMIC
+"The roughing-the-passer penalty was implemented in 1914,",implemented,penalty,DYNAMIC
+and eligible players were first allowed to catch the ball anywhere on the field in 1918.,allowed,penalty,DYNAMIC
+===The professional era===,,,CANNOT_DECIDE
+Pudge heffelfinger.,,,CANNOT_DECIDE
+"jpg|thumb|right|200px|William ""Pudge"" Heffelfinger, widely regarded as the first professional football player",|,|,STATIVE
+"The first instance of professional play in American football was on November 12, 1892,",was,instance,STATIVE
+"when William ""Pudge"" Heffelfinger was paid $500 to play a game for the Allegheny Athletic Association in a match against the Pittsburgh Athletic Club.",paid,Heffelfinger,DYNAMIC
+This is the first recorded instance of a player,is,This,STATIVE
+"being paid to participate in a game of American football,",paid,player,DYNAMIC
+"although many athletic clubs in the 1880s offered to help players attain employment,",offered,clubs,DYNAMIC
+"gave out trophies or watches that players would pawn for money,",gave,clubs,DYNAMIC
+or paid double in expense money.,paid,clubs,DYNAMIC
+"Despite these extra benefits, the game had a strict sense of amateurism at the time,",had,game,STATIVE
+"and direct payment to players was frowned upon, if not outright illegal.",frowned,game,STATIVE
+"Over time, professional play became increasingly common,",became,play,DYNAMIC
+"and with it came rising salaries and unpredictable player movement, as well as the illegal payment of college players",came,play,DYNAMIC
+who were still in school.,were,players,STATIVE
+"The National Football League (NFL), a group of professional teams",,,CANNOT_DECIDE
+"that was originally established in 1920 as the American Professional Football Association, aimed to solve these problems.",aimed,League,DYNAMIC
+"This new league's stated goals included an end to bidding wars over players, prevention of the use of college players, and abolition of the practice",included,goals,STATIVE
+of paying players to leave another team.,paying,practice,CANNOT_DECIDE
+The NFL by 1922 had established itself as the premier professional football league.,established,NFL,DYNAMIC
+"The dominant form of football at the time was played at the collegiate level,",played,form,DYNAMIC
+but the upstart NFL received a boost to its legitimacy in 1925,received,form,DYNAMIC
+"when an NFL team, the Pottsville Maroons, defeated a team of Notre Dame all-stars in an exhibition game.",defeated,team,DYNAMIC
+A greater emphasis on the passing game helped professional football to further distinguish itself from the college game during the late 1930s.,helped,emphasis,DYNAMIC
+"Football in general became increasingly popular following the 1958 NFL Championship game, a match between the Baltimore Colts and the New York Giants",became,Football,DYNAMIC
+"that is still referred to as the ""Greatest Game Ever Played"".",referred,Giants,DYNAMIC
+"The game, a 2317 overtime victory by the Colts, was seen by millions of television viewers",seen,game,DYNAMIC
+and had a major impact on the popularity of the sport.,had,game,STATIVE
+This helped football to become the most popular sport in the United States by the mid-1960s.,helped,This,DYNAMIC
+"A rival, the American Football League (AFL),",,,CANNOT_DECIDE
+arose in 1960,arose,rival,DYNAMIC
+and challenged the NFL's dominance.,challenged,rival,DYNAMIC
+The AFL began in relative obscurity,began,AFL,DYNAMIC
+but survived for several years due to a television contract with the ABC network.,survived,AFL,STATIVE
+"Competition for players heated up in 1965,",heated,Competition,DYNAMIC
+"when the AFL New York Jets signed rookie Joe Namath to a then-record US $437,000 contract.",signed,Jets,DYNAMIC
+"A five-year, $40 million NBC television contract followed,",followed,contract,DYNAMIC
+which helped to sustain the young league.,helped,which,DYNAMIC
+"The bidding war for players ended in 1966,",ended,war,DYNAMIC
+when the two leagues agreed on a merger,agreed,leagues,DYNAMIC
+that would take full effect in 1970.,take,merger,DYNAMIC
+This agreement provided for a common draft,provided,agreement,DYNAMIC
+"that would take place each year,",take,draft,DYNAMIC
+and it instituted an annual championship game to be played between the champions of each league.,instituted,agreement,DYNAMIC
+That game began play in 1966,began,game,DYNAMIC
+and came to be known as the Super Bowl.,came,game,DYNAMIC
+College football maintained a tradition of postseason bowl games.,maintained,football,STATIVE
+"Each bowl game would be associated with a particular conference,",associated,game,STATIVE
+and earning a spot in a bowl game was the reward for winning a conference.,was,earning,STATIVE
+"This arrangement was profitable,",was,arrangement,STATIVE
+"but it tended to prevent the two top-ranked teams from meeting in a true national championship game,",tended,arrangement,DYNAMIC
+as they would normally be committed to the bowl games of their respective conferences.,committed,they,STATIVE
+Several systems have been used since 1992 to determine a national champion of college football.,used,systems,DYNAMIC
+"The first was the Bowl Coalition, in place from 1992 to 1994.",was,first,STATIVE
+"This was replaced in 1995 by the Bowl Alliance,",replaced,This,DYNAMIC
+which gave way in 1997 to the Bowl Championship Series (BCS).,gave,Alliance,DYNAMIC
+"The BCS arrangement has been controversial,",been,arrangement,STATIVE
+and will be replaced in 2014 by a four-team playoff system.,replaced,arrangement,DYNAMIC
+==Teams and positions==,,,CANNOT_DECIDE
+A football game is played between two teams of 11 players each.,played,game,DYNAMIC
+Playing with more on the field is punishable by a penalty.,is,Playing,STATIVE
+Teams may substitute any number of their players between downs;,substitute,Teams,DYNAMIC
+"this ""platoon"" system replaced the original system,",replaced,system,DYNAMIC
+"which featured limited substitution rules,",featured,system,STATIVE
+and has resulted in teams,resulted,system,DYNAMIC
+"utilizing specialized offensive, defensive and special teams squads.",utilizing,teams,DYNAMIC
+Individual players in a football game must be designated with a uniform number between 1 and 99.,designated,players,STATIVE
+"NFL teams are required to number their players by a league-approved numbering system,",required,teams,STATIVE
+and any exceptions must be approved by the Commissioner.,approved,teams,DYNAMIC
+"NCAA and NFHS teams are ""strongly advised"" to number their offensive players according to a league-suggested numbering scheme.",advised,teams,STATIVE
+===Offensive unit===,,,CANNOT_DECIDE
+The role of the offensive unit is to advance the football down the field with the ultimate goal of scoring a touchdown.,is,=,STATIVE
+The offensive team must line up in a legal formation,line,team,DYNAMIC
+before they can snap the ball.,snap,they,DYNAMIC
+An offensive formation is considered illegal,considered,formation,STATIVE
+if there are more than four players in the backfield,are,players,STATIVE
+or fewer than five players numbered 50-79 on the offensive line.,numbered,players,STATIVE
+Players can temporarily line up in a position,line,Players,DYNAMIC
+"whose eligibility is different from what their number permits as long as they immediately report the change to the referee,",is,eligibility,STATIVE
+who then informs the defensive team of the change.,informs,referee,DYNAMIC
+"Neither team's players, with the exception of the snapper, are allowed to line up in",allowed,players,STATIVE
+or cross the neutral zone,cross,players,CANNOT_DECIDE
+until the ball is snapped.,snapped,ball,DYNAMIC
+Interior offensive linemen are not allowed to move until the snap of the ball.,allowed,linemen,STATIVE
+The main backfield positions are the quarterback,are,HB/TB,STATIVE
+"(QB), halfback/tailback (HB/TB) and fullback (FB).",,,CANNOT_DECIDE
+The quarterback is the leader of the offense.,is,quarterback,STATIVE
+Either he or a coach calls the plays.,calls,he,DYNAMIC
+Quarterbacks typically inform the rest of the offense of the play in the huddle before the team lines up.,inform,Quarterbacks,DYNAMIC
+The quarterback lines up behind the center to take the snap,take,center,DYNAMIC
+"and then hands the ball off,",hands,lines,DYNAMIC
+throws it,throws,lines,DYNAMIC
+or runs with it.,runs,lines,DYNAMIC
+"The primary role of the halfback, who is also known as the tailback,",known,halfback,STATIVE
+is to carry the ball on running plays.,is,role,STATIVE
+Halfbacks may also serve as receivers.,serve,Halfbacks,DYNAMIC
+Fullbacks tend to be larger than halfbacks,tend,Fullbacks,STATIVE
+"and function primarily as blockers,",function,Fullbacks,DYNAMIC
+but they are sometimes used as runners in short-yardage situations,used,Fullbacks,DYNAMIC
+and often are not used in passing situations.,used,they,DYNAMIC

@@ -1,0 +1,29 @@
+Clause,mainVerb,mainReferent,Gold
+The blobfish (Psychrolutes marcidus),,,CANNOT_DECIDE
+is a deep sea fish of the family Psychrolutidae.,is,blobfish,STATIVE
+"It inhabits the deep waters off the coasts of mainland Australia and Tasmania, as well as the waters of New Zealand.",inhabits,It,STATIVE
+Blobfish are typically shorter than 30 cm.,are,Blobfish,STATIVE
+"They live at depths between where the pressure is several dozen times higher than at sea level,",live,They,STATIVE
+which would likely make gas bladders inefficient for maintaining buoyancy.,make,which,DYNAMIC
+"Instead, the flesh of the blobfish is primarily a gelatinous mass with a density slightly less than water;",is,flesh,STATIVE
+this allows the fish to float above the sea floor,allows,this,STATIVE
+without expending energy on swimming.,expending,fish,DYNAMIC
+Its relative lack of muscle is not a disadvantage,is,lack,STATIVE
+as it primarily swallows edible matter,swallows,it,DYNAMIC
+that floats in front of it such as deep-ocean crustaceans.,floats,matter,DYNAMIC
+Blobfish are often caught as bycatch in bottom trawling nets.,caught,Blobfish,DYNAMIC
+Scientists now fear,fear,Scientists,STATIVE
+the blobfish could become an endangered species because of deep-ocean trawling.,become,blobfish,DYNAMIC
+Two Psychrolutes marcidus.,marcidus,Psychrolutes,CANNOT_DECIDE
+jpg|223px|thumb|Artist's impression of two blobfish in situ,,,CANNOT_DECIDE
+== Popular culture ==,,,CANNOT_DECIDE
+"Due to its low density flesh, the blobfish's shape is very different",is,shape,STATIVE
+when it is out of water.,is,it,STATIVE
+Its unappealing looks have created much discussion in media outlets.,looks,unappealing,DYNAMIC
+"The musician and author Michael Hearst featured a composition titled ""Blobfish"",",featured,Hearst,DYNAMIC
+"inspired by the animal, on his 2012 album Songs For Unusual Creatures,",inspired,composition,STATIVE
+and subsequently created a blobfish episode for his PBS Digital series.,created,composition,DYNAMIC
+"In September 2013 the blobfish was voted the ""World's Ugliest Animal"",",voted,blobfish,DYNAMIC
+"based on photographs of decompressed specimens,",based,blobfish,STATIVE
+"and adopted as the mascot of the Ugly Animal Preservation Society, in an initiative",adopted,blobfish,DYNAMIC
+"""dedicated to raising the profile of some of Mother Natures more aesthetically challenged children"".",raising,,STATIVE

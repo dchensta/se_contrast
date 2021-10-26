@@ -1,0 +1,104 @@
+Clause,mainVerb,mainReferent,Gold
+Dublin and the Dubliners,,,CANNOT_DECIDE
+"As capital of Europes most explosive economy, Dublin seems to be changing before your very eyes.",seems,Dublin,STATIVE
+"New construction is everywhere,",is,construction,STATIVE
+"the streets buzz, traffic is increasingly congested,",is,buzz,DYNAMIC
+and in the frenetic pace of rush hour everyone in Dublin seems intent on changing places with everyone else.,seems,construction,STATIVE
+At night the streets are crowded with people bent on having a good time.,crowded,streets,STATIVE
+Prosperity is in the air;,is,Prosperity,STATIVE
+the roar of the Celtic Tiger can clearly be heard.,heard,roar,DYNAMIC
+But this is not the whole picture.,is,this,STATIVE
+The proverbial hospitality and warm welcome are still here.,are,hospitality,STATIVE
+"This busy, modern European city sits on a thousand years of historyhistory is present everywhere, from elegant Merrion Square to the bullet holes on the General Post Office.",sits,city,STATIVE
+"Its also a city of the imagination, reinvented and reappraised in the literature of its exiles.",’s,It,STATIVE
+"And the old Dublin is with us, toothe irreverent city of wit and charm and that peculiar magic",is,Dublin,STATIVE
+possessed by Ireland and the Irish.,possessed,us,STATIVE
+Prosperity has brought with it a new emphasis on historic preservation.,brought,Prosperity,DYNAMIC
+Dublin excels in packaging its past for the visitor.,excels,Dublin,DYNAMIC
+"You can view artifacts from the Bronze Age,",view,You,DYNAMIC
+"trace the history of the Easter Rising,",trace,You,DYNAMIC
+or revisit Leopold Blooms odyssey in Ulysses.,revisit,You,DYNAMIC
+Old buildings are being recycled;,recycled,buildings,DYNAMIC
+"for example, the 17th-century Royal Hospital now holds the Museum of Modern Art.",holds,Hospital,STATIVE
+"And Dublin, a city large in expectations, is still small enough for the visitor to see most of its sights on foot.",is,Dublin,STATIVE
+City on the Liffey,,,CANNOT_DECIDE
+The River Liffey flows from west to east through the center of the city to Dublin Bay.,flows,City,STATIVE
+The river forms a natural line between the north and south sections of the city.,forms,river,STATIVE
+This geography is important in understanding Dublin.,is,geography,STATIVE
+"Historically and culturally this north-south distinction has always been significant,",been,Historically,STATIVE
+"and it still is today, with a dose of good-humored rivalry between the two areas.",is,it,STATIVE
+" I never go north of the Liffey, one man remarked.",remarked,man,DYNAMIC
+"Farther out, both north and south, are the sweeping curves of the Royal and Grand Canals.",are,curves,STATIVE
+The occasional cry of gulls and unexpected distant vistas will remind you,remind,cry,DYNAMIC
+"that Dublin is by the sea,",is,Dublin,STATIVE
+"and the Wicklow mountains, which hold Dublin closely to the coast,",hold,mountains,STATIVE
+are visible from everywhere.,are,mountains,STATIVE
+"Dublin is an intimate city, physically small but tightly packed, a perfect place for walking.",is,Dublin,STATIVE
+"College Green, the home of Trinity College, provides a natural focus just south of the OConnell Street bridge.",provides,Green,DYNAMIC
+"OConnell Street, the citys grand boulevard, leads north to Parnell Square.",leads,Street,STATIVE
+To the south and east is St. Stephens Green and Georgian Dublin,is,Green,STATIVE
+where the national museums are located.,located,museums,STATIVE
+"Along the Liffey to the west is Temple Bar, center of nightlife and home to many of Dublins cutting-edge artists and artistic endeavors.",is,Bar,STATIVE
+Up the hill from Temple Bar are Dublin Castle and Christ Church Cathedral.,are,Castle,STATIVE
+It wont rain on you in Dublin all the time.,n’t,It,STATIVE
+The climate here can best be described,described,climate,DYNAMIC
+"as changeable and yet the sudden shifts from light to dark, sunshine to shower, are part of the citys magic.",are,shifts,STATIVE
+Buildings seem to transform themselves depending on the light;,seem,Buildings,STATIVE
+Dublin under a lowering sky is a different place from Dublin in sunshine.,is,Dublin,STATIVE
+Enjoying Dublin,,,CANNOT_DECIDE
+"Literature has always flourished in Dublin, the only city to have produced three Nobel Prize winners for literatureYeats, Shaw, and Beckett.",flourished,Literature,DYNAMIC
+"Joyce, the high priest of literary Modernism, imagined and interpreted Dublin for the world in Ulysses",imagined,Joyce,DYNAMIC
+(youll see references to it all over).,’ll,you,DYNAMIC
+"However, sometimes it seems",seems,it,STATIVE
+"that the city produced artists of this stature by accident, even against its will.",produced,city,DYNAMIC
+"Beckett and Joyce, among others, had to leave their homeland to understand itand to be understood.",had,Joyce,DYNAMIC
+"Dublin theater is legendary,",is,theater,STATIVE
+and no visitor should miss seeing a performance at the Abbey Theatre or Gate Theatre.,miss,theater,DYNAMIC
+The citys impact on the rock and pop music scene with the likes of U2 and Bob Geldof is well knowntheres even a self-guided tour of their haunts.,known,impact,STATIVE
+"Traditional Irish music is also alive and well, especially in the pubs,",is,music,STATIVE
+"and there has been a revival of storytelling, poetry reading, and traditional dancing.",been,,STATIVE
+"And in this city, where literature and theater have historically dominated the scene, visual arts are finally coming into their own with the new Museum of Modern Art and the many galleries",coming,arts,DYNAMIC
+that display the work of modern Irish artists.,display,galleries,STATIVE
+"The constantly crowded and busy Grafton street is the most visible center for shopping,",is,street,STATIVE
+but there are shops all over,are,center,STATIVE
+that carry an international array of goods as well as the Irish crafts and souvenirs,carry,over,STATIVE
+you expect.,expect,you,STATIVE
+"And while multinational chains have made inroads,",made,chains,DYNAMIC
+they seem less blatant here than elsewhere.,seem,they,STATIVE
+"Many shops, and also hotels and guest houses, have been owned and managed by the same families for years,",owned,also,STATIVE
+and theirs is the welcome of traditional Dublin hospitality.,is,theirs,STATIVE
+Dublins food has undergone a metamorphosis.,undergone,food,DYNAMIC
+There was a time,was,time,STATIVE
+"when you might have apologized for it, but no longer.",apologized,you,DYNAMIC
+"Dublin has international restaurants galore,",has,Dublin,STATIVE
+"and the New Irish Cuisine is built upon fresh products of Irelands seas, rivers, and farms.",built,Dublin,STATIVE
+Coffee has replaced,replaced,Coffee,DYNAMIC
+the ubiquitous teaDublin is now almost as much a coffee city as Vienna or Seattle.,is,Dublin,STATIVE
+City and Countryside,,,CANNOT_DECIDE
+In a city of such human proportions it is not surprising,is,Countryside,STATIVE
+that parks and gardens abound for recreation and relaxation.,abound,surprising,STATIVE
+"Phoenix Park in the northwest is the largest open space,",is,Park,STATIVE
+but squares like St. Stephens Green are the garden oases of the city.,are,squares,STATIVE
+"On the coast, Sandymount, Dollymount, and Killiney strands are the places to go.",are,strands,STATIVE
+"The beautiful Wicklow Mountains, and the Wicklow Mountains National Park provide a more rugged countryside,",provide,Park,STATIVE
+"and the area has breathtaking houses and gardens such as Castletown, Mount Usher, and Powerscourt.",has,Mountains,STATIVE
+"To the north and west are the ancient sites of Ireland: Malahide Castle, the evocative hill of Tara, and the long barrows of Knowth and Newgrange.",are,sites,STATIVE
+The DART (Dublin Area Rapid Transit),,,CANNOT_DECIDE
+runs north and south along the coast.,runs,DART,STATIVE
+Its an ideal way,’s,It,STATIVE
+for the visitor to reach outlying sights and villages.,reach,visitor,CANNOT_DECIDE
+"There are many guided bus tours to sights outside the city,",are,tours,STATIVE
+and some are accessible by city bus.,are,some,STATIVE
+Young at Heart?,,,CANNOT_DECIDE
+Dublin is a young city.,is,Dublin,STATIVE
+"Almost half of Irelands population is under twenty-five,",is,half,STATIVE
+"and with its universities and professional schools, Dublin also has a large student population.",has,half,STATIVE
+"The universities attract students from all over the world,",attract,universities,DYNAMIC
+"and this influx helps to make Dublin a busy,",helps,universities,DYNAMIC
+buzzing international city.,,,CANNOT_DECIDE
+"However, young and old, stranger and Dubliner rub shoulders quite happily.",rub,stranger,DYNAMIC
+Religion and respect for parents has not yet gone out of fashion.,gone,Religion,STATIVE
+And young graduates are not leaving nowmultinational corporations,leaving,graduates,DYNAMIC
+and European Union investment mean there are plenty of opportunities for them at home.,mean,graduates,STATIVE
+Unemployment is at an all-time low.,is,Unemployment,STATIVE
+The Irish are actually beginning to come home.,beginning,Irish,DYNAMIC

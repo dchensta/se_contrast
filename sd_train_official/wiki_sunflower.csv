@@ -1,0 +1,54 @@
+Clause,mainVerb,mainReferent,Gold
+Helianthus L. (sunflower),,,CANNOT_DECIDE
+is a genus of plants,is,L.,STATIVE
+"comprising about 52 species in the Asteraceae family,",comprising,plants,STATIVE
+all of which are native to North America.,are,all,STATIVE
+"The common name ""sunflower"" also applies to the popular annual species Helianthus annuus.",applies,sunflower,STATIVE
+"This and other species, notably Jerusalem artichoke (H. tuberosus),",,,CANNOT_DECIDE
+are cultivated in temperate regions as food crops and ornamental plants.,cultivated,species,DYNAMIC
+The genus is one of many in the Asteraceae,is,genus,STATIVE
+that are known as sunflowers.,known,many,STATIVE
+It is distinguished technically by the fact,is,It,DYNAMIC
+"that the ray flowers, when present, are sterile, and by the presence on the disk flowers of a pappus",are,flowers,STATIVE
+that is of two awn-like scales,is,pappus,STATIVE
+that are cauducous,are,scales,STATIVE
+"(that is, easily detached and falling at maturity).",is,that,STATIVE
+"Some species also have additional shorter scales in the pappus,",have,species,STATIVE
+and there is one species,is,species,STATIVE
+that lacks a pappus entirely.,lacks,species,STATIVE
+"Another technical feature that distinguishes the genus more reliably,",distinguishes,feature,STATIVE
+"but requires a microscope to see,",requires,feature,STATIVE
+"is the presence of a prominent, multicellular appendage at the apex of the style.",is,feature,STATIVE
+There is quite a bit of variability among the perennial species,is,bit,STATIVE
+that make up the bulk of the species in the genus.,make,species,STATIVE
+Some have most or all of the large leaves in a rosette at the base of the plant,have,Some,STATIVE
+and produce a flowering stem,produce,Some,DYNAMIC
+that has leaves,has,stem,STATIVE
+that are reduced in size.,reduced,leaves,STATIVE
+Most of the perennials have disk flowers,have,Most,STATIVE
+"that are entirely yellow,",are,flowers,STATIVE
+but a few have disk flowers with reddish lobes.,have,Most,STATIVE
+"One species, H. radula, lacks ray flowers altogether.",lacks,species,STATIVE
+"The domesticated sunflower, Helianthus annuus, is the most familiar species.",is,sunflower,STATIVE
+Perennial sunflower species are not as popular for gardens due to their tendency to spread rapidly,are,species,STATIVE
+and become invasive.,become,tendency,DYNAMIC
+"Whorled sunflowers, Helianthus verticillatus, were listed as an endangered species in 2014",listed,sunflowers,DYNAMIC
+when the U.S. Fish and Wildlife Service issued a final rule,issued,Fish,DYNAMIC
+protecting it under the Endangered Species Act.,protecting,rule,STATIVE
+"The primary threats are industrial forestry and pine plantations in Alabama, Georgia, and Tennessee.",are,threats,STATIVE
+They grow to six feet tall,grow,They,DYNAMIC
+"and are primarily found in woodlands, adjacent to creeks and moist, prairie-like areas.",found,They,STATIVE
+==Description==,,,CANNOT_DECIDE
+"These are usually tall annuals, growing to a height of 50-390 or more cm.",are,These,STATIVE
+The rough and hairy stem is branched in the upper part in wild plants,branched,stem,STATIVE
+but is usually unbranched in domesticated cultivars.,unbranched,stem,STATIVE
+The petiolate leaves are dentate and often sticky.,leaves,petiolate,STATIVE
+"The lower leaves are opposite, ovate or often heart-shaped.",are,leaves,STATIVE
+The upper leaves are alternate and narrower.,are,leaves,STATIVE
+They bear one,bear,They,STATIVE
+"or several to many wide, terminal capitula (flower heads), with bright yellow ray florets at the outside and yellow or maroon disc florets inside.",,,CANNOT_DECIDE
+Several ornamental cultivars have red-colored ray florets;,have,cultivars,STATIVE
+all of them stem from a single original mutant.,stem,all,STATIVE
+"During growth, sunflowers tilt during the day to face the sun,",tilt,sunflowers,DYNAMIC
+but stop,stop,sunflowers,DYNAMIC
+once they begin blooming.,begin,they,DYNAMIC

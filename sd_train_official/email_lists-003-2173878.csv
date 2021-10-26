@@ -1,0 +1,97 @@
+Clause,mainVerb,mainReferent,Gold
+"docno=""lists-003-2173878""",,,CANNOT_DECIDE
+"received=""Mon Jun 21 10:40:25 1993 EST""",received,lists-003-2173878,CANNOT_DECIDE
+"sent=""Wed, 16 Jun 1993 15:13:52 +0200""",sent,EST,CANNOT_DECIDE
+"name=""Borka Jerman-Blazic""",,,CANNOT_DECIDE
+"email=""jerman-blazic@ijs.si""",,,CANNOT_DECIDE
+"subject=""IETF BOF""",,,CANNOT_DECIDE
+"id=""1149*/S=jerman-blazic/O=ijs/PRMD=ac/ADMD=mail/C=si/@MHS""",,,CANNOT_DECIDE
+"inreplyto=""""",,,CANNOT_DECIDE
+To: WG-CHAR <WG-CHAR@rare.nl>,<WG-CHAR@rare.nl>,WG-CHAR,CANNOT_DECIDE
+The timing for the BOF will be announced soon.,announced,timing,DYNAMIC
+I am enclosing the approved version of the charter.,enclosing,I,DYNAMIC
+"Regards,",,,CANNOT_DECIDE
+Borka,,,CANNOT_DECIDE
+==================,,,CANNOT_DECIDE
+"Erik and IESG members,",,,CANNOT_DECIDE
+I believe,believe,I,STATIVE
+that the revised charter defines most of the issues,defines,charter,STATIVE
+and defines them well.,defines,charter,STATIVE
+I believe,believe,I,STATIVE
+that the number of issues to be covered in one BOF session to be somewhat intimidating.,be,number,STATIVE
+"However, our criteria for this BOF should be that it helps illuminate and define the problem and advances the understanding",be,criteria,STATIVE
+"needed to define WGs,",needed,understanding,STATIVE
+and I think,think,criteria,STATIVE
+it is more likely to do that than anything else,is,it,STATIVE
+we are likely to come up with.,are,we,STATIVE
+"And it is ""only"" a BOF",is,it,STATIVE
+and does not commit us to long-term action,commit,it,DYNAMIC
+until we see the outcome and Borka's minutes.,see,we,DYNAMIC
+Let's go with it.,Let,,CANNOT_DECIDE
+john,,,CANNOT_DECIDE
+------ revised draft charter ---------,---------,------,CANNOT_DECIDE
+The Universal Character Set Standard (UCS) in Networked Services,,,CANNOT_DECIDE
+or,,,CANNOT_DECIDE
+Can We Think About Real Multilingual Networking?,Think,------,CANNOT_DECIDE
+We are in the process of building global directory systems and other information services on the global Internet.,are,We,STATIVE
+In many parts of the world it is seen as essential for the success of the global services,seen,it,STATIVE
+"that they should be able to recognize, store,",be,they,STATIVE
+"and present textual information like personal and organizational names,",present,they,CANNOT_DECIDE
+represented in the character sets,represented,success,STATIVE
+used by those concerned.,used,sets,DYNAMIC
+This means,means,This,STATIVE
+that the Directory must be able to handle national characters,be,Directory,STATIVE
+not found in the US-ASCII repetoire.,found,characters,STATIVE
+The same applies to the other global information services on the network,applies,same,STATIVE
+(e.g the data bases,e.g,applies,CANNOT_DECIDE
+used in many information servers).,used,bases,DYNAMIC
+This is especially a problem,is,This,STATIVE
+as information services are provided for clients on various difference hardware architectures.,provided,problem,DYNAMIC
+"Currently, for the Western European languages at least 5 different encodings are in use on the network: ISO-7 National Variants, ISO 8859/1, ROMAN8, T.61, and RC850.",are,encodings,STATIVE
+(See RFC1345 for further information on these character sets.),See,,CANNOT_DECIDE
+If we consider the other scripts used in Europe and the other encodings,consider,we,STATIVE
+the number of different charater set codes rise to as many as 40.,rise,number,DYNAMIC
+This is the real,is,messy,STATIVE
+(and messy) world,,,CANNOT_DECIDE
+we live in.,live,we,STATIVE
+"Changing the character sets in this world is not an option,",is,Changing,STATIVE
+as current systems run applications,run,systems,DYNAMIC
+which can support only the character sets,support,applications,STATIVE
+used by that system.,used,sets,DYNAMIC
+"However, a universal encoding has begun to appear:",begun,encoding,DYNAMIC
+UCS (ISO 10646).,,,CANNOT_DECIDE
+Initial experience with this solution has been positive.,been,experience,STATIVE
+"However, there are still many issued to be addressed in the context of ISO 10 646 and the other character set codes,",are,agree,STATIVE
+which will exist on the Internet in the future:,exist,ISO,STATIVE
+(1) Can we agree on some common network services/model for character set handling?,agree,we,CANNOT_DECIDE
+(2) Should a general-purpose SW tool be designed,designed,,CANNOT_DECIDE
+that will support both UCS and regional character sets?,support,that,STATIVE
+(3) Is there a solution,Is,3,CANNOT_DECIDE
+"that will make character set convertors for diffrent codes ""plug-and-play"" (i.e. an API) without specifying the actual underlying implementation?",make,solution,DYNAMIC
+Can we use UCS as a common denominator for that?,use,we,CANNOT_DECIDE
+(4) Is it necessary to have a document,Is,,CANNOT_DECIDE
+identifying the language and the character sets,identifying,document,CANNOT_DECIDE
+which cater for particular language?,cater,sets,CANNOT_DECIDE
+(5) If we need to solve these problems,need,we,STATIVE
+and UCS (ISO 10 646) is the only available general option today,is,need,STATIVE
+"which is maybe close to be sufficient,",is,option,STATIVE
+can we start with UCS,start,we,CANNOT_DECIDE
+and make minimal changes or specifications,make,we,DYNAMIC
+which will be sufficient for our needs.,be,specifications,STATIVE
+Can we discuss the missing agreement/specifiactions,discuss,we,CANNOT_DECIDE
+required in the communication protocols such as:,required,agreement/specifiactions,STATIVE
+(5.1) The order of octets in the interchange of data is left to be specified by the sender and the recipient in UCS.,left,order,STATIVE
+"What are the ""sender"" and ""recipient"" on the Internet?",are,sender,CANNOT_DECIDE
+Can we define a mechanism to identify the serialized byte order of a data stream?,define,we,CANNOT_DECIDE
+(5.2) Additional encoding mechanisms for the UCS have been proposed.,proposed,mechanisms,DYNAMIC
+Do these schemes have any merit?,have,schemes,CANNOT_DECIDE
+"(5.3) Some amount of profiling may be necessary for UCS use in some countries, do we need to specify",need,we,STATIVE
+that globally or we can leave it to particular region to be solved as regional matter?,leave,globally,CANNOT_DECIDE
+(5.4) Do we need to differentiate or specify,Do,5.4,CANNOT_DECIDE
+how tagged data,tagged,,CANNOT_DECIDE
+(i.e the field typ e in a data base),i.e,,CANNOT_DECIDE
+"and how ""serialized byte order"" data are treated in a communication protocol",treated,we,CANNOT_DECIDE
+or will some common specification for the tag and the type be sufficient?,be,specification,CANNOT_DECIDE
+The goal of the BOF is to test the interest for the various issues.,is,goal,STATIVE
+If possible a clear set of issues could be identified then WG,identified,set,DYNAMIC
+(s) will be defined.,defined,WG,DYNAMIC

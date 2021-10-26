@@ -1,0 +1,98 @@
+Clause,mainVerb,mainReferent,Gold
+A leaf is an organ of a vascular plant,is,leaf,STATIVE
+and is the principal lateral appendage of the stem.,is,,STATIVE
+The leaves and stem together form the shoot.,form,leaves,STATIVE
+Foliage is a mass noun,is,Foliage,STATIVE
+that refers to leaves collectively.,refers,noun,STATIVE
+"Typically a leaf is a thin, dorsiventrally flattened organ,",is,borne,STATIVE
+borne above ground,borne,organ,STATIVE
+and specialized for photosynthesis.,specialized,organ,STATIVE
+Most leaves have distinctive upper (adaxial),have,leaves,STATIVE
+and lower (abaxial) surfaces,,,CANNOT_DECIDE
+"that differ in colour, hairiness, the number of stomata",differ,surfaces,STATIVE
+(pores that intake and output gases) and other features.,pores,number,DYNAMIC
+"The primary site of photosynthesis in most leaves (palisade mesophyll) almost always occurs on the upper side of the blade or lamina of the leaf but in some species,",occurs,site,DYNAMIC
+including the mature foliage of Eucalyptus palisade occurs on both sides and the leaves are said to be isobilateral.,including,,STATIVE
+Many types of leaves are adapted in ways almost unrecognisable in those terms:,adapted,types,STATIVE
+some are not flat,are,for,STATIVE
+"(for example many succulent leaves and the needles of conifers), some are not above ground",are,some,STATIVE
+"(such as bulb scales), and some are without major photosynthetic function",are,some,STATIVE
+"(consider for example cataphylls, and spines).",consider,function,CANNOT_DECIDE
+"Furthermore, several kinds of leaf-like structures found in vascular plants are not totally homologous with them.",are,kinds,STATIVE
+Examples include cladodes,include,Examples,STATIVE
+"(flattened plant stems),",flattened,cladodes,CANNOT_DECIDE
+"phylloclades (flattened branches),",flattened,phylloclades,CANNOT_DECIDE
+and phyllodes (flattened,flattened,phyllodes,CANNOT_DECIDE
+"leaf stems),",stems,leaf,CANNOT_DECIDE
+all of which differ from leaves in their structure and origin.,differ,of,STATIVE
+"Conversely, many structures of non-vascular plants, and even of some lichens, which are not plants at all",are,structures,STATIVE
+"(in the sense of being members of the kingdom Plantae),",being,,STATIVE
+do look and function much like leaves.,look,structures,STATIVE
+==Leaf development==,=,=,CANNOT_DECIDE
+"According to Agnes Arber's partial-shoot theory of the leaf, leaves are partial shoots.",are,leaves,STATIVE
+Compound leaves are closer to shoots than simple leaves.,are,leaves,STATIVE
+Developmental studies have shown,shown,studies,DYNAMIC
+"that compound leaves, like shoots, may branch in three dimensions.",branch,leaves,DYNAMIC
+"On the basis of molecular genetics, Eckardt and Baum (2010) concluded",concluded,Eckardt,DYNAMIC
+"that ""it is now generally accepted",accepted,it,STATIVE
+"that compound leaves express both leaf and shoot properties.""",express,leaves,STATIVE
+==General characteristics of leaves==,,,CANNOT_DECIDE
+"Typically leaves are flat and thin,",are,characteristics,STATIVE
+thereby maximising the surface area,maximising,,DYNAMIC
+directly exposed to light,exposed,area,STATIVE
+and promoting photosynthetic function.,promoting,,DYNAMIC
+They are arranged on the plant,arranged,They,STATIVE
+so as to expose their surfaces to light as efficiently as possible,expose,They,CANNOT_DECIDE
+"without shading each other,",shading,,STATIVE
+but there are many exceptions and complications;,are,They,STATIVE
+"for instance plants adapted to windy conditions may have pendent leaves, such as in many willows and Eucalyptus.",have,plants,STATIVE
+"The internal organisation of most kinds of leaves has evolved to maximise exposure of the photosynthetic organelles, the chloroplasts, to light",evolved,organisation,DYNAMIC
+and to increase the absorption of carbon dioxide.,increase,,CANNOT_DECIDE
+"Gas exchange is controlled by stomata,",controlled,exchange,STATIVE
+"which open or close to regulate the exchange of carbon dioxide, oxygen, and water vapour with the atmosphere.",regulate,stomata,DYNAMIC
+Some leaf forms are adapted to modulate the amount of light,adapted,forms,STATIVE
+"they absorb to avoid or mitigate excessive heat, ultraviolet damage, or desiccation,",absorb,they,DYNAMIC
+or to sacrifice light-absorption efficiency in favour of protection from herbivory.,sacrifice,,CANNOT_DECIDE
+"For xerophytes the major constraint is not light flux or intensity, but drought.",is,constraint,STATIVE
+Some window plants such as Fenestraria species and some Haworthia species such as Haworthia tesselata and Haworthia truncata are examples of xerophytes.,are,plants,STATIVE
+and Bulbine mesembryanthemoides.,,,CANNOT_DECIDE
+"The shape and structure of leaves vary considerably from species to species of plant, depending largely on their adaptation to climate and available light,",vary,shape,STATIVE
+"but also to other factors such as grazing animals (such as deer), available nutrients, and ecological competition from other plants.",,,CANNOT_DECIDE
+"Considerable changes in leaf type occur within species too, for example",occur,changes,DYNAMIC
+as a plant matures;,matures,plant,DYNAMIC
+"as a case in point Eucalyptus species commonly have isobilateral, pendent leaves",leaves,pendent,STATIVE
+when mature and dominating their neighbours;,dominating,,STATIVE
+"however, such trees tend to have erect or horizontal dorsiventral leaves as seedlings,",tend,trees,STATIVE
+when their growth is limited by the available light.,limited,growth,STATIVE
+Other factors include the need to balance water loss at high temperature and low humidity against the need to absorb atmospheric carbon dioxide.,include,factors,STATIVE
+In most plants leaves also are the primary organs responsible for transpiration and guttation,are,leaves,STATIVE
+(beads of fluid forming at leaf margins).,forming,fluid,DYNAMIC
+"Leaves can also store food and water,",store,Leaves,STATIVE
+"and are modified accordingly to meet these functions, for example in the leaves of succulent plants and in bulb scales.",modified,Leaves,STATIVE
+The concentration of photosynthetic structures in leaves requires,requires,concentration,STATIVE
+"that they be richer in protein, minerals, and sugars, than say, woody stem tissues.",be,they,STATIVE
+Accordingly leaves are prominent in the diet of many animals.,are,leaves,STATIVE
+"This is true for humans,",is,This,STATIVE
+for whom leaf vegetables commonly are food staples.,are,vegetables,STATIVE
+"Correspondingly, leaves represent heavy investment on the part of the plants",represent,leaves,STATIVE
+"bearing them,",bearing,plants,STATIVE
+"and their retention or disposition are the subject of elaborate strategies for dealing with pest pressures, seasonal conditions, and protective measures such as the growth of thorns and the production of phytoliths, lignins, tannins and poisons.",are,retention,STATIVE
+"Deciduous plants in frigid or cold temperate regions typically shed their leaves in autumn,",shed,plants,DYNAMIC
+"whereas in areas with a severe dry season, some plants may shed their leaves",shed,plants,DYNAMIC
+until the dry season ends.,ends,season,DYNAMIC
+In either case the shed leaves may be expected to contribute their retained nutrients to the soil,expected,leaves,STATIVE
+where they fall.,fall,they,DYNAMIC
+"In contrast, many other non-seasonal plants, such as palms and conifers, retain their leaves for long periods;",retain,plants,STATIVE
+Welwitschia retains its two main leaves throughout a lifetime,retains,Welwitschia,STATIVE
+that may exceed a thousand years.,exceed,lifetime,DYNAMIC
+Not all plants have true leaves.,have,plants,STATIVE
+"Bryophytes (e.g., mosses and liverworts)",,,CANNOT_DECIDE
+"are non-vascular plants,",are,Bryophytes,STATIVE
+"and, although they produce flattened, leaf-like structures",produce,they,DYNAMIC
+"that are rich in chlorophyll, these organs differ morphologically from the leaves of vascular plants;",differ,plants,STATIVE
+"For one thing, they lack vascular tissue.",lack,they,STATIVE
+"Vascularised leaves first evolved during the Devonian period,",leaves,Vascularised,DYNAMIC
+when carbon dioxide concentration in the atmosphere dropped significantly.,dropped,concentration,DYNAMIC
+"This occurred independently in several separate lineages of vascular plants,",occurred,This,DYNAMIC
+"including the microphylls of lycophytes and the euphylls (""true leaves"") of Sphenopsida, ferns, gymnosperms, and angiosperms.",including,,STATIVE
+"Euphylls are also referred to as macrophylls or megaphylls (""large leaves"").",referred,Euphylls,DYNAMIC

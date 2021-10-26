@@ -1,0 +1,104 @@
+Clause,mainVerb,mainReferent,Gold
+"Herbalism (""herbology"" or ""herbal medicine"")",,,CANNOT_DECIDE
+"is use of plants for medicinal purposes, and the study of such use.",is,Herbalism,STATIVE
+"Plants have been the basis for medical treatments through much of human history,",been,Plants,STATIVE
+and such traditional medicine is still widely practiced today.,practiced,basis,DYNAMIC
+Modern medicine recognizes herbalism as a form,recognizes,medicine,STATIVE
+"of alternative medicine, as the practice of herbalism is not strictly based on evidence",based,practice,STATIVE
+gathered using the scientific method.,gathered,evidence,DYNAMIC
+"Modern medicine, does, however, make use of many plant-derived compounds as the basis for evidence-tested pharmaceutical drugs, and phytotherapy works to apply modern standards of effectiveness testing to herbs and medicines",does,medicine,DYNAMIC
+that are derived from natural sources.,derived,medicines,STATIVE
+"The scope of herbal medicine is sometimes extended to include fungal and bee products, as well as minerals, shells and certain animal parts.",extended,scope,DYNAMIC
+==History==,,,CANNOT_DECIDE
+Archaeological evidence indicates,indicates,History,STATIVE
+"that the use of medicinal plants dates at least to the Paleolithic, approximately 60,000 years ago.",dates,use,STATIVE
+"Written evidence of herbal remedies dates back over 5,000 years, to the Sumerians,",dates,evidence,STATIVE
+who created lists of plants.,created,Sumerians,DYNAMIC
+A number of ancient cultures wrote on plants and their medical uses.,wrote,number,DYNAMIC
+"In ancient Egypt, herbs are mentioned in Egyptian medical papyri,",mentioned,herbs,DYNAMIC
+"depicted in tomb illustrations,",depicted,papyri,STATIVE
+or on rare occasions found in medical jars,found,occasions,DYNAMIC
+containing trace amounts of herbs.,containing,jars,STATIVE
+"The earliest known Greek herbals were those of Diocles of Carystus,",were,earliest,STATIVE
+"written during the 3rd century B.C,",written,those,DYNAMIC
+"and one by Krateuas from the 1st century B.C. Only a few fragments of these works have survived intact,",survived,those,DYNAMIC
+but from what remains,remains,what,STATIVE
+scholars have noted,noted,scholars,DYNAMIC
+that there is a large amount of overlap with the Egyptian herbals.,is,amount,STATIVE
+Seeds likely used for herbalism have been found in the archaeological sites of Bronze Age China,found,Seeds,DYNAMIC
+dating from the Shang Dynasty.,dating,sites,STATIVE
+"Over a hundred of the 224 drugs mentioned in the Huangdi Neijing, an early Chinese medical text, are herbs.",are,Neijing,STATIVE
+"Herbs were also common in the medicine of ancient India,",were,Herbs,STATIVE
+where the principal treatment for diseases was diet.,was,treatment,STATIVE
+"De Materia Medica by Pedanius Dioscorides, a Roman physician, is a particularly important example of such writings.",is,Medica,STATIVE
+"The documentation of herbs and their uses was a central part of both Western and Eastern medical scholarship through to the 1600s,",was,documentation,STATIVE
+and these works played an important role in the development of the science of botany.,played,part,DYNAMIC
+==Modern herbal medicine==,,,CANNOT_DECIDE
+The World Health Organization (WHO),,,CANNOT_DECIDE
+estimates,estimates,=,STATIVE
+that 80 percent of the population of some Asian and African countries presently use herbal medicine for some aspect of primary health care.,use,percent,DYNAMIC
+"Pharmaceuticals are prohibitively expensive for most of the world's population,",are,Pharmaceuticals,STATIVE
+half of which lived on less than $2 U.S. per day in 2002.,lived,half,STATIVE
+"In comparison, herbal medicines can be grown from seed",grown,medicines,DYNAMIC
+or gathered from nature for little or no cost.,gathered,medicines,DYNAMIC
+"Many of the pharmaceuticals currently available to physicians have a long history of use as herbal remedies,",have,Many,STATIVE
+"including opium, aspirin, digitalis, and quinine.",including,,STATIVE
+"According to the World Health Organization, approximately 25% of modern drugs",According,,CANNOT_DECIDE
+used in the United States have been derived from plants.,derived,%,DYNAMIC
+"At least 7,000 medical compounds in the modern pharmacopoeia are derived from plants.",derived,compounds,STATIVE
+Among the 120 active compounds currently isolated from the higher plants,isolated,compounds,DYNAMIC
+"and widely used in modern medicine today, 80% show a positive correlation between their modern therapeutic use and the traditional use of the plants",show,%,STATIVE
+from which they are derived.,derived,they,STATIVE
+===Clinical tests===,,,CANNOT_DECIDE
+"In a 2010 survey of the most common 1000 plant-derived compounds, only 156 had clinical trials",had,156,STATIVE
+published.,published,trials,DYNAMIC
+Preclinical studies (tissue-culture and animal studies),,,CANNOT_DECIDE
+"were reported for about one-half of the plant products,",reported,studies,DYNAMIC
+"while 12% of the plants, although available in the Western market,",,,CANNOT_DECIDE
+"had ""no substantial studies"" of their properties.",had,%,STATIVE
+Strong evidence was found,found,evidence,DYNAMIC
+"that 5 were toxic or allergenic,",were,5,STATIVE
+so that their use ought to be discouraged or forbidden.,discouraged,use,STATIVE
+Nine plants had considerable evidence of therapeutic effect.,had,plants,STATIVE
+"According to Cancer Research UK,",According,,CANNOT_DECIDE
+"""there is currently no strong evidence from studies in people",is,evidence,STATIVE
+"that herbal remedies can treat, prevent or cure cancer"".",treat,remedies,DYNAMIC
+The U.S. National Center for Complementary and Alternative Medicine of the National Institutes of Health funds clinical trials of the effectiveness of herbal medicines,funds,Center,DYNAMIC
+and provides fact sheets,provides,Center,DYNAMIC
+summarizing the effectiveness and side effects of many plant-derived preparations.,summarizing,sheets,STATIVE
+===Prevalence of use===,,,CANNOT_DECIDE
+A survey released in May 2004 by the National Center for Complementary and Alternative Medicine focused on who used complementary and alternative medicines,focused,Prevalence,STATIVE
+"(CAM), what was used,",used,medicines,DYNAMIC
+and why it was used.,used,who,DYNAMIC
+"The survey was limited to adults,",limited,survey,STATIVE
+"aged 18 years and over during 2002,",aged,limited,STATIVE
+living in the United States.,living,,STATIVE
+"According to this survey, herbal therapy, or use of natural products other than vitamins and minerals, was the most commonly used CAM therapy (18.9%)",was,therapy,STATIVE
+when all use of prayer was excluded.,excluded,use,STATIVE
+Herbal remedies are very common in Europe.,are,remedies,STATIVE
+"In Germany, herbal medications are dispensed by apothecaries (e.g., Apotheke).",dispensed,medications,DYNAMIC
+"Prescription drugs are sold alongside essential oils, herbal extracts, or herbal teas.",sold,drugs,DYNAMIC
+Herbal remedies are seen by some as a treatment to be preferred to pure medical compounds,seen,remedies,STATIVE
+that have been industrially produced.,produced,compounds,DYNAMIC
+In India the herbal remedy is so popular,is,remedy,STATIVE
+that the government of India has created a separate departmentAYUSHunder the Ministry of Health & Family Welfare.,created,government,DYNAMIC
+The National Medicinal Plants Board was also established in 2000 by the Indian government,established,Board,DYNAMIC
+in order to deal with the herbal medical system.,deal,,CANNOT_DECIDE
+"Avid public interest in herbalism in the UK has been recently confirmed by the popularity of the topic in mainstream media, such as the prime-time hit TV series",Avid,Drugs,DYNAMIC
+"BBC's Grow Your Own Drugs,",,,CANNOT_DECIDE
+which demonstrated,demonstrated,Drugs,DYNAMIC
+how to grow and prepare herbal remedies at home.,grow,Drugs,CANNOT_DECIDE
+===Herbal preparations===,,,CANNOT_DECIDE
+There are many forms,are,forms,STATIVE
+"in which herbs can be administered,",administered,herbs,DYNAMIC
+the most common of which is in the form of a liquid,is,common,STATIVE
+that is drunk by the patienteither an herbal tea or a,is,liquid,DYNAMIC
+(possibly diluted),diluted,plant,CANNOT_DECIDE
+plant extract.,,,CANNOT_DECIDE
+"Whole herb consumption is also practiced either fresh, in dried form or as fresh juice.",practiced,consumption,DYNAMIC
+Several methods of standardization may be determining the amount of herbs,determining,methods,DYNAMIC
+used.,used,amount,DYNAMIC
+One is the ratio of raw materials to solvent.,is,One,STATIVE
+However different specimens of even the same plant species may vary in chemical content.,vary,specimens,STATIVE
+"For this reason, thin layer chromatography is sometimes used by growers to assess the content of their products before use.",used,chromatography,DYNAMIC
+Another method is standardization on a signal chemical.,is,method,STATIVE

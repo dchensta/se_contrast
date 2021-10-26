@@ -1,0 +1,100 @@
+Clause,mainVerb,mainReferent,Gold
+"The occult (from the Latin word occultus ""clandestine, hidden, secret"") is ""knowledge of the hidden"".",is,occult,STATIVE
+"In common English usage, occult refers to ""knowledge of the paranormal"",",refers,occult,STATIVE
+"as opposed to ""knowledge of the measurable"", usually referred to as science.",referred,,STATIVE
+The term is sometimes taken to mean knowledge,taken,term,DYNAMIC
+"that ""is meant only for certain people""",meant,that,STATIVE
+"or that ""must be kept hidden"",",kept,knowledge,DYNAMIC
+but for most practicing occultists it is simply the study of a deeper spiritual reality,is,it,STATIVE
+that extends beyond pure reason and the physical sciences.,extends,reality,STATIVE
+"The terms esoteric and arcane have very similar meanings,",have,terms,STATIVE
+and in most contexts the three terms are interchangeable.,are,terms,STATIVE
+"It also describes a number of magical organizations or orders, the teachings and practices",describes,It,STATIVE
+"taught by them, and to a large body of current and historical literature and spiritual philosophy related to this subject.",taught,teachings,DYNAMIC
+==Occultism==,,,CANNOT_DECIDE
+"Occultism is the study of occult practices,",is,limited,STATIVE
+"including (but not limited to) magic, alchemy, extra-sensory perception, astrology, spiritualism, religion, and divination.",including,,STATIVE
+"Interpretation of occultism and its concepts can be found in the belief structures of philosophies and religions such as Chaos magic, Gnosticism, Hermeticism, Theosophy, Wicca, Thelema and modern paganism.",found,Interpretation,STATIVE
+A broad definition is offered by Nicholas Goodrick-Clarke:,offered,definition,STATIVE
+"From the 15th to 17th century, these ideas that are alternatively described as Western esotericism,",described,ideas,STATIVE
+"which had a revival from about 1770 onwards, due to a renewed desire for mystery, an interest in the Middle Ages and a romantic ""reaction to the rationalist Enlightenment"".",had,esotericism,DYNAMIC
+"Alchemy was common among important seventeenth-century scientists, such as Isaac Newton, and Gottfried Leibniz.",was,Alchemy,STATIVE
+Newton was even accused of introducing occult agencies into natural science,accused,Newton,DYNAMIC
+when he postulated gravity as a force capable of acting over vast distances.,postulated,he,DYNAMIC
+"""By the eighteenth century these unorthodox religious and philosophical concerns were well-defined as 'occult',",well-defined,concerns,STATIVE
+"inasmuch as they lay on the outermost fringe of accepted forms of knowledge and discourse"".",lay,they,STATIVE
+"They were, however,",were,They,CANNOT_DECIDE
+preserved by antiquarians and mystics.,,,DYNAMIC
+Based on his research into the modern German occult revival,Based,,STATIVE
+"(18901910), Goodrick-Clarke puts forward a thesis on the driving force behind occultism.",puts,Goodrick-Clarke,DYNAMIC
+"Behind its many varied forms apparently lies a uniform function, ""a strong desire to reconcile the findings of modern natural science with a religious view",lies,forms,STATIVE
+"that could restore man to a position of centrality and dignity in the universe"".",restore,view,DYNAMIC
+Since that time many authors have emphasized a syncretic approach by drawing parallels between different disciplines.,emphasized,authors,DYNAMIC
+==Science and the occult==,,,CANNOT_DECIDE
+"To the occultist, occultism is conceived of as the study of the inner nature of things,",conceived,occultism,STATIVE
+as opposed to the outer characteristics,opposed,things,STATIVE
+that are studied by science.,studied,characteristics,DYNAMIC
+"The German philosopher Arthur Schopenhauer designates this ""inner nature"" with the term Will,",designates,Schopenhauer,DYNAMIC
+and suggests,suggests,Schopenhauer,DYNAMIC
+"that science and mathematics are unable to penetrate beyond the relationship between one thing and another in order to explain the ""inner nature"" of the thing itself, independent of any external causal relationships with other ""things"".",are,mathematics,STATIVE
+"Schopenhauer also points towards this inherently relativistic nature of mathematics and conventional science in his formulation of the ""World as Will"".",points,Schopenhauer,STATIVE
+By defining a thing solely in terms of its external relationships or effects we only find its external or explicit nature.,find,we,DYNAMIC
+"Occultism, on the other hand, is concerned with the nature of the ""thing-in-itself"".",is,Occultism,STATIVE
+"This is often accomplished through direct perceptual awareness,",accomplished,This,DYNAMIC
+known as mysticism.,known,awareness,STATIVE
+"From the scientific perspective, occultism is regarded as unscientific",regarded,occultism,STATIVE
+as it does not make use of the standard scientific method to obtain facts.,make,it,DYNAMIC
+===Occult qualities===,,,CANNOT_DECIDE
+Occult qualities are properties,are,=,STATIVE
+that have no rational explanation;,have,properties,STATIVE
+"in the Middle Ages, for example, magnetism was considered an occult quality.",considered,magnetism,STATIVE
+Newton's contemporaries severely criticized his theory,criticized,contemporaries,DYNAMIC
+"that gravity was effected through ""action at a distance"", as occult.",effected,gravity,DYNAMIC
+==Religion and the occult==,,,CANNOT_DECIDE
+Some religions and sects enthusiastically embrace occultism as an integral esoteric aspect of mystical religious experience.,embrace,religions,DYNAMIC
+This attitude is common within Wicca and many other modern pagan religions.,is,attitude,STATIVE
+Some other religious denominations disapprove of occultism in most or all forms.,disapprove,denominations,STATIVE
+They may view the occult as being anything supernatural or paranormal,view,They,STATIVE
+which is not achieved by or through God,achieved,anything,DYNAMIC
+"(as defined by those religious denominations),",defined,,STATIVE
+and is therefore the work of an opposing and malevolent entity.,is,,STATIVE
+"The word has negative connotations for many people,",has,word,STATIVE
+"and while certain practices considered by some to be ""occult"" are also found within mainstream religions, in this context",found,practices,DYNAMIC
+"the term ""occult"" is rarely used",used,word,DYNAMIC
+"and is sometimes substituted with ""esoteric"".",substituted,occult,DYNAMIC
+===Christian views===,,,CANNOT_DECIDE
+Christian authorities have generally regarded occultism as heretical,regarded,=,DYNAMIC
+"whenever they met this: from early Christian times, in the form of gnosticism, to late Renaissance times, in the form of various occult philosophies.",met,they,DYNAMIC
+Though there is a Christian occult tradition,is,tradition,STATIVE
+"that goes back at least to Renaissance times,",goes,tradition,STATIVE
+when Marsilio Ficino developed a Christian Hermeticism,developed,Ficino,DYNAMIC
+"and Pico della Mirandola developed a Christian form of Kabbalism,",developed,Mirandola,DYNAMIC
+"mainstream Christianity has always resisted occult influences,",resisted,Christianity,DYNAMIC
+which are:,are,influences,STATIVE
+* Monistic in contrast to Christian dualistic beliefs of a separation between body and spirit;,,,CANNOT_DECIDE
+* Gnostic i.e. involving the acquisition of secret knowledge rather than based on scripture and open church tradition,involving,i.e.,STATIVE
+* Seen as involving practices such as divination and calling on spirits,involving,Christianity,STATIVE
+which are forbidden in the Bible,forbidden,spirits,STATIVE
+"* Not monotheistic, frequently asserting a gradation of human souls between mortals and God; and",asserting,involving,DYNAMIC
+* Sometimes not even theistic in character.,*,Christianity,CANNOT_DECIDE
+===Hindu views===,,,CANNOT_DECIDE
+"Tantra, literally meaning ""formula"", ""method"", or ""way"",",meaning,Tantra,STATIVE
+"(parallel to the Chinese Tao, which also means ""the way"" or ""the method""),",parallel,,STATIVE
+"and also having the secondary meaning of ""loom"", ""thread"", or ""warp and woof"", is the name scholars give to a style of religious ritual and meditation",is,thread,STATIVE
+"that arose in medieval India no later than the fifth century CE, and which came to influence all forms of Asian religious expression to a greater or lesser degree.",arose,style,DYNAMIC
+"Tantra is at the same time a method of psychoanalysis, a way",is,Tantra,STATIVE
+"of integrating the body, mind, and spirit, and a way",integrating,way,CANNOT_DECIDE
+of using the mind,using,way,CANNOT_DECIDE
+"or will to cause change in one's external situations and circumstances, hence ""magic"".",cause,mind,CANNOT_DECIDE
+It includes amongst its various branches a variety of ritualistic practices,includes,It,STATIVE
+ranging from visualisation exercises and the chanting of mantras to elaborate rituals.,ranging,practices,STATIVE
+"Alchemy, astrology, herbalism, yogic practices, sex magic, and trance also together form the multifaceted and multilevel nature of Tantra.",form,trance,STATIVE
+"Yantra, literally: ""instrument"" or ""tool"" are geometric diagrams",are,instrument,STATIVE
+considered to be the subtle or finer representation of the psychological or natural powers,considered,diagrams,STATIVE
+"that are the deities, the proper use of which would result in the yantra becoming ""activated""",are,representation,STATIVE
+"and infused with the particular powers and capacities of the said deity, for the practitioner or adept to put to his or her use.",infused,,CANNOT_DECIDE
+Occult concepts have existed in the Vedic stream too.,existed,concepts,STATIVE
+"The Atharva Veda, representing an independent tradition markedly different from the other three Vedas,",representing,parallel,STATIVE
+"is a rich source parallel to the Vedic traditions of the Rig, Sam, and Yajur Vedas,",is,Veda,STATIVE
+containing detailed descriptions of various kinds of magical rituals for different results,containing,parallel,STATIVE
+"ranging from punishing enemies, to acquisition of wealth, health, long life, or a good harvest.",ranging,results,STATIVE

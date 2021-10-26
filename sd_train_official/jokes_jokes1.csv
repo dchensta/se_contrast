@@ -1,0 +1,546 @@
+Clause,mainVerb,mainReferent,Gold
+Scholastic Career,,,CANNOT_DECIDE
+A little girl had just finished her first week of school.,finished,Career,DYNAMIC
+"""I'm wasting my time,""",wasting,I,STATIVE
+she said to her mother.,said,she,DYNAMIC
+"""I can't read,",read,I,STATIVE
+I can't write -,write,I,STATIVE
+"and they won't let me talk!""",let,I,DYNAMIC
+Perspective View,,,CANNOT_DECIDE
+"""A Developer is someone",is,Developer,STATIVE
+who wants to build a house in the woods.,wants,someone,DYNAMIC
+An environmentalist is someone,is,environmentalist,STATIVE
+"who already owns a house in the woods.""",owns,someone,STATIVE
+--Dennis Miller,,,CANNOT_DECIDE
+Dry Humor,,,CANNOT_DECIDE
+"A visitor to Texas once asked, ""Does it ever rain out here?""",asked,Humor,DYNAMIC
+"A rancher quickly answered,",answered,rancher,DYNAMIC
+"""Yes, it does.""",does,it,STATIVE
+"""When?""",When,,CANNOT_DECIDE
+asked the visitor.,asked,,DYNAMIC
+"""Do you remember that part in the Bible",Do,,CANNOT_DECIDE
+"where it rained for 40 days and 40 nights?""",rained,it,DYNAMIC
+"The visitor replied,",replied,visitor,DYNAMIC
+"""Yes, I'm familiar with the account of Noah's flood.""",'m,I,STATIVE
+"""Well,"" the rancher drawled,",drawled,rancher,DYNAMIC
+"""we got nearly half an inch that year.""",got,we,DYNAMIC
+Entrepreneur,,,CANNOT_DECIDE
+"A newsboy was standing on the corner with a his papers,",standing,newsboy,STATIVE
+"yelling,",yelling,newsboy,DYNAMIC
+"""Read all about it.",Read,,CANNOT_DECIDE
+Fifty people swindled!,swindled,people,DYNAMIC
+"Fifty people swindled!""",swindled,people,DYNAMIC
+"Curious, a man walked over,",walked,man,DYNAMIC
+"bought a paper,",bought,Curious,DYNAMIC
+and checked the front page.,checked,Curious,DYNAMIC
+What he saw was yesterday's paper.,was,saw,DYNAMIC
+"The man said,",said,man,DYNAMIC
+"""Hey, this is an old paper,",is,this,STATIVE
+"where's the story about the big swindle?""",'s,,CANNOT_DECIDE
+The newsboy just ignored him,ignored,newsboy,DYNAMIC
+"and went on calling out,",went,newsboy,DYNAMIC
+"""Read all about it.",Read,,CANNOT_DECIDE
+"Fifty-one people swindled!""",swindled,people,DYNAMIC
+On the Blink.,,,CANNOT_DECIDE
+"On a recent flight, an elderly passenger kept peering out the window.",kept,passenger,DYNAMIC
+"Since it was totally dark,",was,it,STATIVE
+all she could see was the blinking wing-tip light.,was,all,STATIVE
+"Finally, she rang for the flight attendant.",rang,she,DYNAMIC
+"""I'm sorry to bother you,""",'m,said,STATIVE
+"she said,",said,sorry,DYNAMIC
+"""but I think",think,I,STATIVE
+you should inform the pilot,inform,you,DYNAMIC
+that his left-turn indicator is on,is,indicator,STATIVE
+"and has been for some time.""",been,indicator,STATIVE
+No Bull,,,CANNOT_DECIDE
+"After much urging by his wife, Uncle Joe applied for work on a farm.",applied,Joe,DYNAMIC
+The foreman decided to give him a try,decided,foreman,DYNAMIC
+"and sent him to milk a cow,",sent,foreman,DYNAMIC
+equipping him with a stool and a bucket.,equipping,him,DYNAMIC
+"An hour later Uncle Joe returned dirty and sweaty, the bucket in one hand and the broken stool in the other.",returned,Joe,DYNAMIC
+"""Extracting",Extracting,explained,CANNOT_DECIDE
+"the milk was easy,""",was,milk,STATIVE
+he explained.,explained,he,DYNAMIC
+"""The hard part was getting the cow to sit down on that darn stool!""",getting,part,STATIVE
+Universal Truth,,,CANNOT_DECIDE
+There is a theory,is,Truth,STATIVE
+which states,states,theory,STATIVE
+that if anyone ever discovers,discovers,anyone,DYNAMIC
+exactly what the Universe is for,is,discovers,STATIVE
+"and why it is here,",is,Universe,STATIVE
+it will instantly disappear and be replaced by something even more bizarre and inexplicable.,disappear,it,DYNAMIC
+"Then there is a second theory,",is,theory,STATIVE
+which postulates,postulates,theory,STATIVE
+that this has already happened.,happened,this,DYNAMIC
+Bumper Sticker,,,CANNOT_DECIDE
+"""Metaphors be with you.""",Metaphors,Sticker,STATIVE
+Ergo.,,,CANNOT_DECIDE
+"It's October,",'s,It,STATIVE
+and an Indian chief thinks,thinks,October,STATIVE
+it's going to be a cold winter.,going,it,STATIVE
+So he instructs his tribe to collect firewood.,instructs,he,DYNAMIC
+"To double-check his prediction, the chief calls the National Weather Service",calls,chief,DYNAMIC
+and asks a meteorologist,asks,chief,DYNAMIC
+if the winter is going to be a cold one.,going,winter,STATIVE
+"The man responds,",responds,man,DYNAMIC
+"""According to our indicators,",According,,STATIVE
+"we think it might.""",think,we,STATIVE
+"So the chief tells his people to find extra wood, just in case.",tells,chief,DYNAMIC
+"A week later he calls the National Weather Service again,",calls,he,DYNAMIC
+and they confirm,confirm,he,DYNAMIC
+that a harsh winter is headed their way.,headed,winter,STATIVE
+The chief orders all of his people to scavenge every scrap of wood they can.,scavenge,orders,DYNAMIC
+Two weeks later he calls the National Weather Service again,calls,he,DYNAMIC
+"and asks,",asks,he,DYNAMIC
+"""Are you absolutely sure",Are,asks,CANNOT_DECIDE
+"this winter is going to be very cold?""",going,winter,CANNOT_DECIDE
+"""Absolutely,"" the man replies.",replies,man,DYNAMIC
+"""The Indians are collecting wood like crazy.""",collecting,Indians,DYNAMIC
+Plain truth.,,,CANNOT_DECIDE
+"""The child had his mother's eyes, his mother's nose and his mother's mouth.",had,child,STATIVE
+"Which, when you think about it, probably left the mother",think,you,STATIVE
+"looking quite blank"".",looking,,STATIVE
+(according to Robert Benchley),according,,STATIVE
+Final Analysis,,,CANNOT_DECIDE
+"When weeding, the best way to make quite that sure",weeding,,CANNOT_DECIDE
+you are removing,removing,you,DYNAMIC
+"a weed and not a valuable plant, is to pull on it.",is,way,STATIVE
+If it comes out of the ground,comes,it,DYNAMIC
+"easily, it was not a weed.",was,it,STATIVE
+Quotes.,,,CANNOT_DECIDE
+"""I understand",understand,I,STATIVE
+"life isn't fair,",is,life,STATIVE
+"but why couldn't it just once be unfair in my favor?""",unfair,life,CANNOT_DECIDE
+(Christy Murphy),,,CANNOT_DECIDE
+"The pen is mightier than the sword, and considerably easier to write with.""",is,Murphy,STATIVE
+(Marty Feldman),,,CANNOT_DECIDE
+"Well, well.",,,CANNOT_DECIDE
+A couple is taking a stroll in a lovely meadow,taking,couple,DYNAMIC
+when they come upon a wishing well.,come,they,DYNAMIC
+"The woman leans over,",leans,woman,DYNAMIC
+"makes a wish,",makes,woman,DYNAMIC
+and throws in a quarter.,throws,woman,DYNAMIC
+Her husband decides,decides,husband,DYNAMIC
+he wants to make a,wants,he,DYNAMIC
+"wish, also.",,,CANNOT_DECIDE
+"Unfortunately, he leans over too far,",leans,he,DYNAMIC
+falls down into the well.,falls,,DYNAMIC
+"The woman stands there shaken for a moment,",stands,woman,STATIVE
+"and then exclaims,",exclaims,woman,DYNAMIC
+"""Wow, it WORKS!""",WORKS,it,STATIVE
+A Fine Story..,…,Story,CANNOT_DECIDE
+Here is a supposedly true story someone found regarding exams at Cambridge University.,is,Here,STATIVE
+It seems,seems,It,STATIVE
+that during an examination one day a bright young student popped up,popped,student,DYNAMIC
+and asked the proctor to bring him Cakes and Ale.,asked,student,DYNAMIC
+The following dialog ensued:,following,,DYNAMIC
+Proctor: I beg your pardon?,beg,Proctor,CANNOT_DECIDE
+"Student: Sir, I request",request,Student,DYNAMIC
+that you bring me Cakes and Ale.,bring,you,CANNOT_DECIDE
+"Proctor: Sorry, no.",,,CANNOT_DECIDE
+"Student: Sir, I really must insist.",insist,I,DYNAMIC
+I request and require,request,I,DYNAMIC
+that you bring me Cakes and Ale.,bring,you,DYNAMIC
+"At this point, the student produced a copy of the four hundred year old Laws of Cambridge,",produced,student,DYNAMIC
+"written in Latin and still nominally in effect,",written,,STATIVE
+and pointed to the section,pointed,student,DYNAMIC
+which read (roughly translated):,read,section,STATIVE
+"""Gentlemen sitting examinations may request and require Cakes and Ale.""",sitting,pointed,DYNAMIC
+"Pepsi and hamburgers were judged the modern equivalent,",judged,Pepsi,DYNAMIC
+"and the student sat there,",sat,Pepsi,STATIVE
+writing his examination,writing,,DYNAMIC
+and happily slurping away.,slurping,,DYNAMIC
+"Three weeks later, the same student was fined five pounds for not wearing a sword to the examination.",fined,student,DYNAMIC
+Off Key.,,,CANNOT_DECIDE
+Two keys hang in the undertaker's office - one for the organ in the chapel; the other for one of the vehicles in the garage.,hang,keys,STATIVE
+"Two small signs above the keys read ""Hymns"" and ""Hearse.""",read,signs,STATIVE
+Great Shape,,,CANNOT_DECIDE
+"You're in incredible shape,""",'re,Shape,STATIVE
+the doctor said.,said,doctor,DYNAMIC
+"""How old are you again?""",are,old,CANNOT_DECIDE
+"""I am 78.""",am,I,STATIVE
+The man said.,said,man,DYNAMIC
+"""78!""",78,,CANNOT_DECIDE
+replied the doctor.,replied,,DYNAMIC
+"""How do you stay so healthy?",stay,you,CANNOT_DECIDE
+"You look like a 60-year-old.""",look,You,STATIVE
+"""Well, my wife and I made a pact",made,I,DYNAMIC
+when we got married,married,we,DYNAMIC
+that whenever she got mad,got,mad,DYNAMIC
+she would go into the kitchen,go,she,DYNAMIC
+and cool off,cool,she,DYNAMIC
+"and I would go outside for a walk to settle down.""",go,wife,DYNAMIC
+the man explained.,explained,man,DYNAMIC
+"""What does that have to do with it?""",have,that,CANNOT_DECIDE
+asked the doctor.,asked,,DYNAMIC
+"""Well, I've lived pretty much of an outdoor life.""",lived,I,STATIVE
+Factor X,,,CANNOT_DECIDE
+Noah opens up the great front doors on the ark,opens,Noah,DYNAMIC
+"and let all the animals out,",let,Noah,DYNAMIC
+"telling them to ""Go forth",telling,Noah,DYNAMIC
+"and multiply.""",multiply,them,CANNOT_DECIDE
+He's closing them,'s,He,DYNAMIC
+again when he notices that there are two snakes still sitting in a dark corner.,notices,he,DYNAMIC
+"So he says to them,",says,he,DYNAMIC
+"""Didn't you hear me?",Did,,CANNOT_DECIDE
+You can go now.,go,You,DYNAMIC
+Go forth,Go,,CANNOT_DECIDE
+"and multiply.""",,,CANNOT_DECIDE
+"""Well, that's just it,",'s,that,STATIVE
+"you see Mr Noah"",",see,you,STATIVE
+"said the snakes, ""We can't,",said,see,DYNAMIC
+"because we're adders.""",'re,we,STATIVE
+Perfectly Reasonable Observations:,,,CANNOT_DECIDE
+"If your parents never had children, chances are... neither will you.",are,Observations,STATIVE
+~ Dick Cavett,Cavett,Dick,CANNOT_DECIDE
+My kids never understood logic.,understood,kids,STATIVE
+Both of them failed to see,failed,Both,STATIVE
+why they had to go to bed,had,they,STATIVE
+when I was tired.,was,I,STATIVE
+"""One thing about the speed of light...it gets here too early in the morning.""",gets,it,DYNAMIC
+- Unknown,Unknown,,CANNOT_DECIDE
+My therapist told me,told,therapist,DYNAMIC
+the way to achieve true inner peace is to finish,is,told,STATIVE
+what I start.,start,I,DYNAMIC
+"So far today I have finished one hamburger, a cheese pizza and 2 bags of chips.",finished,I,DYNAMIC
+I feel better already.,feel,I,STATIVE
+"""Never try to teach a pig to sing.",try,,CANNOT_DECIDE
+It wastes your time,wastes,It,DYNAMIC
+"and it annoys the pig.""",annoys,It,DYNAMIC
+PREGNANCY Q &amp; A,,,CANNOT_DECIDE
+Q: Should I have a baby after 35?,have,Q,CANNOT_DECIDE
+"A: No, 35 children is enough.",is,No,STATIVE
+Q: I'm two months pregnant now.,'m,I,STATIVE
+When will my baby move?,move,baby,CANNOT_DECIDE
+"A: With any luck, right after he finishes college.",finishes,right,DYNAMIC
+Q: What is the most common pregnancy craving?,Q,,CANNOT_DECIDE
+A: For men to be the ones,be,,CANNOT_DECIDE
+who get pregnant.,get,pregnant,DYNAMIC
+Q: What is the most reliable method to determine a baby's sex?,is,Q,CANNOT_DECIDE
+A: Childbirth.,,,CANNOT_DECIDE
+"Q: The more pregnant I get,",get,I,DYNAMIC
+the more often strangers smile at me.,smile,Q,DYNAMIC
+Why?,,,CANNOT_DECIDE
+A: 'Cause,,,CANNOT_DECIDE
+you're fatter,'re,you,STATIVE
+than they are.,are,they,STATIVE
+Q: My wife is five months pregnant and so moody that sometimes,is,wife,STATIVE
+she's borderline irrational.,'s,irrational,STATIVE
+A: So what's your question?,'s,A,CANNOT_DECIDE
+Q: My childbirth instructor says,says,Q,DYNAMIC
+"it's not pain I'll feel during labor, but pressure.",'s,it,STATIVE
+Is she right?,Is,she,CANNOT_DECIDE
+"A: Yes, in the same kind of way that a tornado might be called an air current.",called,kind,DYNAMIC
+Q: When is the best time to get an epidural?,is,time,CANNOT_DECIDE
+A: Right after you find out,find,Right,DYNAMIC
+you're pregnant.,'re,you,STATIVE
+Q: Is there any reason I have to be in the delivery room,Is,Q,CANNOT_DECIDE
+while my wife is in labor?,is,wife,STATIVE
+"A: Not unless the word ""alimony"" means anything to you.",means,A,STATIVE
+Q: Is there anything,Is,Q,CANNOT_DECIDE
+I should avoid,avoid,I,DYNAMIC
+while recovering from childbirth?,recovering,,DYNAMIC
+"A: Yes, pregnancy.",,,CANNOT_DECIDE
+Q: Do I have to have a baby shower?,have,Q,CANNOT_DECIDE
+A: Not if you change the baby's diaper very quickly.,change,A,DYNAMIC
+Q: Our baby was born last week.,born,Q,DYNAMIC
+When will my wife begin to feel and act normal again?,begin,wife,CANNOT_DECIDE
+A: When the kids are in college.,are,kids,STATIVE
+That's Easy,'s,That,STATIVE
+Fred and Harry took their lunches into the local cafe to eat.,took,Fred,DYNAMIC
+"""Hey!""",Hey,,CANNOT_DECIDE
+shouted the proprietor.,shouted,,DYNAMIC
+"""You can't eat your own food in here!""",eat,You,DYNAMIC
+"""O - kay,"" said Fred,",said,kay,DYNAMIC
+and they promptly swapped their sandwiches.,swapped,kay,DYNAMIC
+Liquid Lunch,Liquid,,CANNOT_DECIDE
+"Having arrived at the edge of the river,",arrived,Lunch,DYNAMIC
+the fisherman soon realized,realized,fisherman,DYNAMIC
+he had forgotten to bring any bait.,forgotten,he,DYNAMIC
+Just then he happened to see a little snake passing by who had caught a worm.,happened,he,DYNAMIC
+The fisherman snatched up the snake,snatched,fisherman,DYNAMIC
+and robbed him of his worm.,robbed,fisherman,DYNAMIC
+"Feeling sorry for the little snake with no lunch,",Feeling,he,STATIVE
+he snatched him up again,snatched,he,DYNAMIC
+and poured a little beer down his throat,poured,he,DYNAMIC
+and went about his fishing.,went,he,DYNAMIC
+An hour or so later the fisherman felt a tug at his pant leg.,felt,fisherman,DYNAMIC
+"Looking down,",Looking,he,DYNAMIC
+he saw,saw,he,DYNAMIC
+the same little snake had come back with three more worms.,come,snake,DYNAMIC
+May be Sung to 'The Sound of Music'.,be,May,DYNAMIC
+"DOH RE MI BEER, by Homer J. Simpson.",,,CANNOT_DECIDE
+DOUGH... the stuff...that buys me beer...,buys,stuff,DYNAMIC
+RAY..... the guy that sells me beer...,sells,guy,DYNAMIC
+ME......,,,CANNOT_DECIDE
+"the guy... who drinks the beer,",drinks,who,DYNAMIC
+FAR..... the distance to my beer,.....,guy,CANNOT_DECIDE
+SO......,,,CANNOT_DECIDE
+I think,think,I,STATIVE
+I'll have a beer...,have,think,DYNAMIC
+LA...... La la la la la la beer,.....,LA.,CANNOT_DECIDE
+"TEA..... no thanks, I'm drinking beer...",drinking,I,DYNAMIC
+That will bring us back to...(Looks into an empty glass),bring,That,DYNAMIC
+D'OH!,,,CANNOT_DECIDE
+You've got to be quick.,got,You,STATIVE
+"""My mother buried three husbands,",buried,mother,DYNAMIC
+"and two of them were just napping.""",were,two,STATIVE
+--Rita Rudner,,,CANNOT_DECIDE
+Dusty Answer,…,worry,CANNOT_DECIDE
+"""The day I worry about cleaning my house is the day",is,worry,STATIVE
+they come out with a ',come,they,DYNAMIC
+"ride on' vacuum cleaner.""",,,CANNOT_DECIDE
+The Thief,,,CANNOT_DECIDE
+A man was in the habit of carrying an umbrella,was,man,STATIVE
+wherever he went.,went,he,DYNAMIC
+Unfortunately he broke his last good one.,broke,he,DYNAMIC
+Looking at the six useless umbrellas in his umbrella stand,stand,Looking,DYNAMIC
+he decided to take them all in,decided,he,DYNAMIC
+and have them repaired.,have,he,DYNAMIC
+On the bus on the way home he picked up the umbrella of the woman,picked,he,DYNAMIC
+"sitting next to him, purely out of habit.",sitting,woman,STATIVE
+"She immediately cried,",cried,She,DYNAMIC
+"""Stop, thief!""",,,CANNOT_DECIDE
+and he surrendered the umbrella,surrendered,he,DYNAMIC
+and got off the bus much embarrassed.,got,he,DYNAMIC
+The next week he went to pick up his merchandise,went,he,DYNAMIC
+and when he got on the bus with the six umbrellas under his arm,got,he,DYNAMIC
+he just so happened to sit next to the very same woman.,happened,he,DYNAMIC
+She gave him an icy stare,gave,She,DYNAMIC
+"and said,",said,She,DYNAMIC
+"""Had a good day, huh?""",Had,said,CANNOT_DECIDE
+Second Opinion.,,,CANNOT_DECIDE
+A man brought a very limp dog into the veterinary clinic.,brought,man,DYNAMIC
+"As he lay the dog on the table, the doctor pulled out his stethoscope,",pulled,doctor,DYNAMIC
+placing the receptor on the dog's chest.,placing,doctor,DYNAMIC
+"After a moment or two, the vet shook his head sadly",shook,vet,DYNAMIC
+"and said,",said,vet,DYNAMIC
+"""I'm sorry,",'m,I,STATIVE
+"but your dog has passed away"".",passed,I,DYNAMIC
+"""What?""","""",,CANNOT_DECIDE
+", screamed the man,",,,DYNAMIC
+"""How can you tell?",tell,you,CANNOT_DECIDE
+You haven't done any testing on him or anything.,done,You,DYNAMIC
+"I want another opinion!""",want,I,STATIVE
+"With that, the vet turned and left the room.",turned,vet,DYNAMIC
+"In a few moments, he returned with a Labrador Retriever.",returned,he,DYNAMIC
+"The Retriever went right to work,",went,Retriever,DYNAMIC
+checking the poor dead dog out thoroughly.,checking,Retriever,DYNAMIC
+"After a considerable amount of sniffing, The Retriever sadly shook its head and barked.",shook,Retriever,DYNAMIC
+The veterinarian then took the Labrador out,took,veterinarian,DYNAMIC
+"and returned in a few moments with a cat,",returned,veterinarian,DYNAMIC
+who also checked out the poor dog on the table.,checked,cat,DYNAMIC
+"As had its predecessors,",had,,DYNAMIC
+the cat sadly shook its head and meowed.,shook,cat,DYNAMIC
+It then jumped off the table,jumped,It,DYNAMIC
+and ran out of the room.,ran,It,DYNAMIC
+The veterinarian handed the man a bill for 600 dollars.,handed,veterinarian,DYNAMIC
+The dog's owner went berserk.,went,owner,DYNAMIC
+"""600 dollars!",600,,CANNOT_DECIDE
+Just to tell me my dog is dead?,tell,,CANNOT_DECIDE
+"This is outrageous!""",is,This,STATIVE
+The vet shook his head sadly,shook,vet,DYNAMIC
+and explained.,explained,vet,DYNAMIC
+"""If you had taken my word or it,",taken,you,DYNAMIC
+"it would have been 50 dollars,",been,it,STATIVE
+"but you insisted on the Lab report and the Cat scan.....""",insisted,dollars,DYNAMIC
+"Same on the other side, but different.",,,CANNOT_DECIDE
+A Tibetan housewife smelled something burning in the kitchen.,smelled,housewife,DYNAMIC
+When she rushed in,rushed,she,DYNAMIC
+and saw smoke pouring out of the oven,saw,she,DYNAMIC
+"she cried out, ""Oh, my baking yak!""",cried,she,DYNAMIC
+A Line Joke,,,CANNOT_DECIDE
+"""According to a recent report, this years airline passengers have been subject to longer delays and ruder service than ever before.",been,passengers,STATIVE
+"When interviewed about this,",interviewed,,DYNAMIC
+"a spokesperson for the airlines said, 'Shut up",said,spokesperson,DYNAMIC
+and get back in line!',get,,CANNOT_DECIDE
+-- Conan O'Brien,,,CANNOT_DECIDE
+The Price of Fame...,,,CANNOT_DECIDE
+The doctor took his patient into a room,took,Price,DYNAMIC
+"and said,",said,Price,DYNAMIC
+"""I have some good news and some bad news.""",have,I,STATIVE
+"The patient said,",said,patient,DYNAMIC
+"""Please give me the good news first.""",give,Please,CANNOT_DECIDE
+"""They're going to name a disease after you.""",going,They,DYNAMIC
+Today's Joke -,,,CANNOT_DECIDE
+"Q. What's black and blue,",'s,Q.,CANNOT_DECIDE
+and floats in the Irish sea?,floats,Q.,CANNOT_DECIDE
+A. The Englishman who told one too many Irish Jokes.........,....,Englishman,DYNAMIC
+A classic tale.,,,CANNOT_DECIDE
+"This is a bricklayer's accident report,",is,This,STATIVE
+which was printed in the newsletter of the British equivalent of the Workers' Compensation Board.,printed,report,STATIVE
+This is the true story.,is,This,STATIVE
+"Had this guy died,",died,guy,DYNAMIC
+he'd have received a Darwin Award for sure...,received,he,DYNAMIC
+Dear Sir,,,CANNOT_DECIDE
+I am writing in response to your request for additional information in Block 3 of the accident report form.,writing,I,DYNAMIC
+"I put "" Poor planning"" as the cause of my accident.",put,I,DYNAMIC
+You asked for a fuller explanation,asked,You,DYNAMIC
+and I trust,trust,You,STATIVE
+the following details will be sufficient.,be,details,STATIVE
+am a bricklayer by trade.,am,,STATIVE
+"On the day of the accident, I was working alone on the roof of a new six-storey building.",working,I,DYNAMIC
+"When I completed my work,",completed,I,DYNAMIC
+I found,found,I,DYNAMIC
+"I had some bricks left over, which,",had,I,STATIVE
+"when weighed later, were found to be slightly in excess of 500lbs.",found,,DYNAMIC
+"Rather than carry the bricks down by hand,",carry,,CANNOT_DECIDE
+"I decided to lower them in a barrel by using a pulley,",decided,I,DYNAMIC
+which was attached to the side of the building on the sixth floor.,attached,pulley,STATIVE
+"Securing the rope at ground level,",Securing,I,DYNAMIC
+"I went up to the roof,",went,I,DYNAMIC
+I swung the barrel out,swung,I,DYNAMIC
+and loaded the bricks into it.,loaded,I,DYNAMIC
+Then I went down,went,I,DYNAMIC
+"and untied the rope,",untied,I,DYNAMIC
+holding it tightly to ensure a slow descent of the bricks.,holding,I,STATIVE
+You will note in Block 11 of the accident report form,note,You,DYNAMIC
+that I weigh 135lbs.,weigh,I,STATIVE
+Due to my surprise at being jerked off the ground,jerked,surprise,STATIVE
+"so suddenly, I lost my presence of mind",lost,I,DYNAMIC
+and forgot to let go of the rope.,forgot,I,DYNAMIC
+"Needless to say,",say,,STATIVE
+I proceeded at a rapid rate up the side of the building.,proceeded,I,DYNAMIC
+"In the vicinity of the third floor, I met the barrel",met,I,DYNAMIC
+which was now proceeding downward at an equally impressive speed.,proceeding,barrel,DYNAMIC
+"This explains the fractured skull, minor abrasions and the broken collarbone,",explains,This,STATIVE
+as listed in Section 3 of the accident report form.,listed,collarbone,STATIVE
+"Slowed only slightly,",Slowed,I,STATIVE
+"I continued my rapid ascent,",continued,I,DYNAMIC
+not stopping,stopping,I,DYNAMIC
+until the fingers of my right hand were two knuckles deep into the pulley.,were,fingers,STATIVE
+Fortunately by this time I had regained my presence of mind,regained,I,DYNAMIC
+"and was able to hold tightly to the rope, in spite of the excruciating pain",was,I,STATIVE
+I was now beginning to experience.,beginning,I,DYNAMIC
+"At approximately the same time, however, the barrel of bricks hit the ground",hit,barrel,DYNAMIC
+and the bottom fell out of the barrel.,fell,barrel,DYNAMIC
+"Now devoid of the weight of the bricks, that barrel weighed approximately 50 lbs.",weighed,barrel,STATIVE
+I refer you again to my weight.,refer,I,DYNAMIC
+"As you might imagine,",imagine,you,STATIVE
+"I began a rapid descent, down the side of the building.",began,I,DYNAMIC
+"In the vicinity of the third floor, I met the barrel coming up.",met,I,DYNAMIC
+"This accounts for the two fractured ankles, broken tooth and severe lacerations of my legs and lower body.",accounts,This,STATIVE
+Here my luck began to change slightly.,began,luck,DYNAMIC
+The encounter with the barrel seemed to slow me enough to lessen my injuries,seemed,encounter,STATIVE
+when I fell into the pile of bricks,fell,I,DYNAMIC
+and fortunately only three vertebrae were cracked.,cracked,I,DYNAMIC
+"I am sorry to report, however,",am,I,STATIVE
+"as I lay there on the pile of bricks, in pain, unable to move,",lay,I,STATIVE
+I again lost my composure and presence of mind,lost,I,DYNAMIC
+and let go of the rope,let,I,DYNAMIC
+and I had to lay there,had,I,STATIVE
+watching the empty barrel begin its journey back down onto me.,watching,lay,DYNAMIC
+This explains the two broken legs.,explains,This,STATIVE
+I hope,hope,I,STATIVE
+this answers your inquiry.,,,STATIVE
+Deep thoughts from comedian Steven Wright.......,,,CANNOT_DECIDE
+A bus station is where a bus stops.,is,station,STATIVE
+A train station is where a Train stops.,is,station,STATIVE
+"On my desk, I have a work station.",have,I,STATIVE
+"If Fed Ex and UPS were to merge,",merge,UPS,DYNAMIC
+would they call it Fed UP?,call,they,CANNOT_DECIDE
+"If quitters never win,",win,quitters,DYNAMIC
+"and winners never quit,",quit,quitters,DYNAMIC
+"what fool came up with,",came,fool,CANNOT_DECIDE
+"""Quit",Quit,,CANNOT_DECIDE
+"while you're ahead""?",'re,you,STATIVE
+Do Lipton employees take coffee breaks?,take,employees,CANNOT_DECIDE
+What hair color do they put on the driver's licenses of bald men?,put,they,CANNOT_DECIDE
+"I was thinking about how people seem to read the Bible a whole lot more as they get older,",thinking,I,DYNAMIC
+then it dawned on me...,dawned,it,DYNAMIC
+they were cramming for their finals...,cramming,they,DYNAMIC
+"I thought about how mothers feed their babies with little tiny spoons and forks,",thought,I,DYNAMIC
+so I wonder,wonder,I,STATIVE
+what Chinese mothers use.,use,mothers,DYNAMIC
+Toothpicks?,,,CANNOT_DECIDE
+Why do they put pictures of criminals up in the Post Office?,put,they,CANNOT_DECIDE
+What are we supposed to do . . . write to these men?,supposed,we,CANNOT_DECIDE
+Why don't they just put their pictures on the postage stamps,put,they,CANNOT_DECIDE
+so the mailmen could look for them,look,mailmen,DYNAMIC
+while they delivered the mail?,delivered,they,CANNOT_DECIDE
+How much deeper would oceans be if sponges didn't live there?,be,oceans,CANNOT_DECIDE
+If it's true,'s,it,STATIVE
+"that we are here to help others, then what exactly are the OTHERS here for?",are,we,CANNOT_DECIDE
+Clones are people two.,are,Clones,STATIVE
+"If you can't be kind, at least have the decency to be vague.",have,,STATIVE
+Ever wonder,wonder,Ever,CANNOT_DECIDE
+what the speed of lightning would be if it didn't zigzag?,be,speed,CANNOT_DECIDE
+I went for a walk last night,went,I,DYNAMIC
+and my kids asked me,asked,I,DYNAMIC
+how long I'd be gone.,gone,asked,STATIVE
+"I said, ""The whole time.""",said,I,DYNAMIC
+So what's the speed of dark?,'s,what,CANNOT_DECIDE
+"After eating, do amphibians need to wait an hour before getting OUT of the water?",need,amphibians,CANNOT_DECIDE
+"If you're sending someone some Styrofoam,",sending,you,DYNAMIC
+what do you pack it in?,pack,you,CANNOT_DECIDE
+I just got skylights,got,I,DYNAMIC
+put in my place.,,,CANNOT_DECIDE
+The people who live above me are furious.,are,people,STATIVE
+Is it true that cannibals don't eat clowns,true,it,CANNOT_DECIDE
+because they taste funny?,taste,they,STATIVE
+Isn't Disney World a people trap,Is,World,CANNOT_DECIDE
+operated by a mouse?,operated,people,STATIVE
+"Since light travels faster than sound, isn't that why some people appear bright",is,that,CANNOT_DECIDE
+until you hear them speak?,hear,you,DYNAMIC
+How come,come,,CANNOT_DECIDE
+abbreviated is such a long word?,is,abbreviated,CANNOT_DECIDE
+"If you take an Chinese person,",take,you,DYNAMIC
+close his eyes,close,you,DYNAMIC
+"and spin him around several times, does he become disoriented?",become,he,CANNOT_DECIDE
+Deer Tracks,,,CANNOT_DECIDE
+"There was a Mexican, Indian, and an Aggi.",was,Tracks,STATIVE
+"They were all out camping,",were,out,STATIVE
+when the Indian said,said,Indian,DYNAMIC
+"""Me hungry me go find food.""",go,me,STATIVE
+So he heads out.,heads,he,DYNAMIC
+Later that night he comes back with a deer on his shoulder.,comes,he,DYNAMIC
+"The Mexican says,",says,Mexican,DYNAMIC
+"""How you catch deer?""",catch,you,CANNOT_DECIDE
+"The Indian replied,",replied,Indian,DYNAMIC
+"""Me be very, very quiet, Me follow tracts, me shot,",be,Me,STATIVE
+"me catch deer.""",catch,me,DYNAMIC
+So the next day the Mexican went,went,Mexican,DYNAMIC
+out he also returned later that night with a deer on his shoulder too.,returned,day,DYNAMIC
+"The Aggi said,",said,Aggi,DYNAMIC
+"""How did you catch that deer?""",catch,you,CANNOT_DECIDE
+"The Mexican said,",said,Mexican,DYNAMIC
+"""Me be very, very quiet, me follow tracts, me shot,",be,Me,STATIVE
+"me catch deer.""",catch,me,DYNAMIC
+So the next day the Aggi went out.,went,day,DYNAMIC
+He returned the following day all black and blue.,returned,He,DYNAMIC
+"The Indian asked,",asked,Indian,DYNAMIC
+"""What happen?""",happen,What,CANNOT_DECIDE
+"The Aggi replied,",replied,Aggi,DYNAMIC
+"""Me be very, very quiet, me follow tracts,",be,Me,STATIVE
+"me shot,",shot,me,DYNAMIC
+"me get hit by train...""",hit,me,DYNAMIC
+My Goldfish Died,Died,Goldfish,DYNAMIC
+Little Tim was in the garden filling in a hole,was,Tim,STATIVE
+when his neighbor peered over the fence.,peered,neighbor,DYNAMIC
+"Interested in what the cheeky-faced youngster was up to,",Interested,he,STATIVE
+"he politely asked,",asked,he,DYNAMIC
+"""What are you up to there, Tim?""",are,you,CANNOT_DECIDE
+"""My goldfish died,""",died,tearfully,DYNAMIC
+"replied Tim tearfully, without looking up,",looking,,DYNAMIC
+"""and I've just buried him.""",buried,tearfully,DYNAMIC
+"The neighbor was concerned,",was,neighbor,STATIVE
+"""That's an awfully big hole for a goldfish, isn't it?""",'s,That,STATIVE
+"Tim patted down the last heap of earth then replied,",patted,Tim,DYNAMIC
+"""That's because he's inside your stupid cat.""",'s,That,STATIVE
+Ups and downs,,,CANNOT_DECIDE
+"A man is driving up a steep, narrow mountain road.",driving,man,DYNAMIC
+A woman is driving down the same road.,is,,DYNAMIC
+"As they pass each other, the woman leans out the window",leans,woman,DYNAMIC
+"and yells, ""PIG""!",,,DYNAMIC
+The man immediately leans out his window,leans,man,DYNAMIC
+and offers a suggestion of his own.,offers,man,DYNAMIC
+"They each continue on their way, and as the man rounds the next corner",continue,They,DYNAMIC
+he slams into the pig in the middle of the road.,slams,They,DYNAMIC
+Sum it up this way.,Sum,,CANNOT_DECIDE
+Why am I frowning?,am,,CANNOT_DECIDE
+It takes 42 muscles to frown and only 17 to smile,takes,It,DYNAMIC
+and I need the exercise!,need,It,STATIVE
+How's That Again??,'s,??,CANNOT_DECIDE
+"""If you've enjoyed watching this program just half as much as we've enjoyed doing it,",enjoyed,you,DYNAMIC
+"then we've enjoyed it twice as much as you.""",enjoyed,we,DYNAMIC
+"--Michael Palin, Monty Python's Flying Circus",Circus,Palin,CANNOT_DECIDE

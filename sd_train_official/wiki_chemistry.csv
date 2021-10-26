@@ -1,0 +1,119 @@
+Clause,mainVerb,mainReferent,Gold
+Chemistry is a branch of physical science,is,Chemistry,STATIVE
+"that studies the composition, structure, properties and change of matter.",studies,branch,STATIVE
+"Chemistry is chiefly concerned with atoms and molecules and their interactions and transformations, for example, the properties of the chemical bonds",is,Chemistry,STATIVE
+formed between atoms to create chemical compounds.,formed,Chemistry,DYNAMIC
+"As such, chemistry studies the involvement of electrons and various forms of energy in photochemical reactions, oxidation-reduction reactions, changes in phases of matter, and separation of mixtures.",studies,chemistry,STATIVE
+"Preparation and properties of complex substances, such as alloys, polymers, biological molecules, and pharmaceutical agents are considered in specialized fields of chemistry.",considered,Preparation,DYNAMIC
+"Chemistry is sometimes called the central science because it bridges other natural sciences like physics, geology and biology.",called,Chemistry,DYNAMIC
+Chemistry is a branch of physical science but distinct from physics.,is,Chemistry,STATIVE
+The etymology of the word chemistry has been much disputed.,been,etymology,DYNAMIC
+"The history of chemistry can be traced to certain practices,",traced,history,DYNAMIC
+"known as alchemy,",known,practices,STATIVE
+which had been practiced for several millennia in various parts of the world.,practiced,practices,DYNAMIC
+==Etymology==,,,CANNOT_DECIDE
+"The word chemistry comes from the word alchemy, an earlier set of practices",comes,=,STATIVE
+"that encompassed elements of chemistry, metallurgy, philosophy, astrology, astronomy, mysticism and medicine;",encompassed,practices,STATIVE
+it is commonly thought of as the quest to turn lead or another common starting material into gold.,thought,it,STATIVE
+"Alchemy, which was practiced around 330,",practiced,Alchemy,DYNAMIC
+"is the study of the composition of waters, movement, growth, embodying, disembodying,",is,Alchemy,STATIVE
+drawing the spirits from bodies and bonding the spirits within bodies (Zosimos).,drawing,embodying,CANNOT_DECIDE
+An alchemist was called a 'chemist',called,alchemist,STATIVE
+"in popular speech, and later the suffix ""-ry"" was added to this to describe the art of the chemist as ""chemistry"".",added,alchemist,DYNAMIC
+The word alchemy in turn is derived from the Arabic word al-km ().,derived,alchemy,STATIVE
+"In origin, the term is borrowed from the Greek  or .",borrowed,term,STATIVE
+This may have Egyptian origins.,have,This,STATIVE
+Many believe,believe,Many,STATIVE
+"that al-km is derived from the Greek ,",derived,al-kīmīā,STATIVE
+"which is in turn derived from the word Chemi or Kimi,",is,χημία,STATIVE
+which is the ancient name of Egypt in Egyptian.,is,Chemi,STATIVE
+"Alternately, al-km may be derived from ,",derived,al-kīmīā,STATIVE
+"meaning ""cast together"".",meaning,,STATIVE
+===Definition===,,,CANNOT_DECIDE
+"In retrospect, the definition of chemistry has changed over time,",changed,definition,DYNAMIC
+as new discoveries and theories add to the functionality of the science.,add,discoveries,DYNAMIC
+"The term ""chymistry"", in the view of noted scientist Robert Boyle in 1661, meant the subject of the material principles of mixed bodies.",meant,chymistry,STATIVE
+"In 1663, ""chymistry"" meant a scientific art,",meant,chymistry,STATIVE
+"by which one learns to dissolve bodies,",learns,meant,DYNAMIC
+"and draw from them the different substances on their composition,",draw,one,CANNOT_DECIDE
+"and how to unite them again,",unite,one,CANNOT_DECIDE
+and exalt them to a higher perfection -,exalt,one,CANNOT_DECIDE
+this definition was used by chemist Christopher Glaser.,used,definition,DYNAMIC
+"The 1730 definition of the word ""chemistry"", as used by Georg Ernst Stahl,",used,definition,DYNAMIC
+"meant the art of resolving mixed, compound, or aggregate bodies into their principles; and of composing such bodies from those principles.",meant,definition,STATIVE
+"In 1837, Jean-Baptiste Dumas considered the word ""chemistry"" to refer to the science concerned with the laws and effects of molecular forces.",considered,Dumas,STATIVE
+This definition further evolved,evolved,definition,DYNAMIC
+"until, in 1947, it came to mean the science of substances:",came,it,DYNAMIC
+"their structure, their properties, and the reactions that change them into other substances - a characterization",change,reactions,DYNAMIC
+accepted by Linus Pauling.,accepted,substances,DYNAMIC
+"More recently, in 1998, the definition of ""chemistry"" was broadened to mean the study of matter and the changes",broadened,definition,DYNAMIC
+"it undergoes,",undergoes,it,DYNAMIC
+as phrased by Professor Raymond Chang.,phrased,,DYNAMIC
+==History==,,,CANNOT_DECIDE
+"Early civilizations, such as the Egyptians Babylonians, Indians amassed practical knowledge concerning the arts of metallurgy, pottery and dyes,",amassed,Indians,DYNAMIC
+but didn't develop a systematic theory.,develop,Indians,DYNAMIC
+A basic chemical hypothesis first emerged in Classical Greece with the theory of four elements,emerged,hypothesis,DYNAMIC
+as propounded definitively by Aristotle stating,propounded,,DYNAMIC
+"that that fire, air, earth and water were the fundamental elements",were,earth,STATIVE
+from which everything is formed as a combination.,formed,everything,DYNAMIC
+"Greek atomism dates back to 440 BC,",dates,atomism,STATIVE
+arising in works by philosophers such as Democritus and Epicurus.,arising,,DYNAMIC
+"In 50 BC, the Roman philosopher Lucretius expanded upon the theory in his book De rerum natura (On The Nature of Things).",expanded,Lucretius,DYNAMIC
+"Unlike modern concepts of science, Greek atomism was purely philosophical in nature, with little concern for empirical observations and no concern for chemical experiments.",was,atomism,STATIVE
+"In the Hellenistic world the art of alchemy first proliferated,",,,DYNAMIC
+mingling magic and occultism into the study of natural substances with the ultimate goal of transmuting elements into gold,mingling,art,DYNAMIC
+and discovering the elixir of eternal life.,discovering,goal,DYNAMIC
+"Alchemy was discovered and practised widely throughout the Arab world after the Muslim conquests,",discovered,Alchemy,DYNAMIC
+"and from there, diffused into medieval and Renaissance Europe through Latin translations.",diffused,,DYNAMIC
+===Chemistry as science===,,,CANNOT_DECIDE
+"Under the influence of the new empirical methods propounded by Sir Francis Bacon and others,",propounded,methods,DYNAMIC
+"a group of chemists at Oxford, Robert Boyle, Robert Hooke and John Mayow began to reshape the old alchemical traditions into a scientific discipline.",began,group,DYNAMIC
+"Boyle in particular is regarded as the founding father of chemistry due to his most important work, the classic chemistry text The Sceptical Chymist",regarded,Chymist,STATIVE
+where the differentiation is made between the claims of alchemy and the empirical scientific discoveries of the new chemistry.,made,differentiation,DYNAMIC
+"He formulated Boyle's law,",formulated,He,DYNAMIC
+"rejected the classical ""four elements""",rejected,He,DYNAMIC
+and proposed a mechanistic alternative of atoms and chemical reactions,proposed,He,DYNAMIC
+that could be subject to rigorous experiment.,be,alternative,STATIVE
+The theory of phlogiston (a substance at the root of all combustion),,,CANNOT_DECIDE
+was propounded by the German Georg Ernst Stahl in the early 18th century,propounded,theory,DYNAMIC
+"and was only overturned by the end of the century by the French chemist Antoine Lavoisier, the chemical analogue of Newton in physics; who did more",overturned,theory,DYNAMIC
+"than any other to establish the new science on proper theoretical footing,",establish,physics,CANNOT_DECIDE
+by elucidating the principle of conservation of mass,elucidating,,DYNAMIC
+and developing a new system of chemical nomenclature,developing,,DYNAMIC
+used to this day.,used,nomenclature,DYNAMIC
+"Prior to his work, though, many important discoveries had been made,",made,discoveries,DYNAMIC
+specifically relating to the nature of 'air',relating,,STATIVE
+which was discovered to be composed of many different gases.,discovered,nature,DYNAMIC
+The Scottish chemist Joseph Black (the first experimental chemist),,,CANNOT_DECIDE
+"and the Dutchman J. B. van Helmont discovered carbon dioxide, or what Black called 'fixed air' in 1754;",discovered,Black,DYNAMIC
+Henry Cavendish discovered hydrogen,discovered,Cavendish,DYNAMIC
+and elucidated its properties,elucidated,Cavendish,DYNAMIC
+"and Joseph Priestley and, independently, Carl Wilhelm Scheele isolated pure oxygen.",isolated,Cavendish,DYNAMIC
+English scientist John Dalton proposed the modern theory of atoms,proposed,Dalton,DYNAMIC
+; that all substances are composed of indivisible 'atoms' of matter,composed,theory,STATIVE
+and that different atoms have varying atomic weights.,have,substances,STATIVE
+"The development of the electrochemical theory of chemical combinations occurred in the early 19th century as the result of the work of two scientists in particular, J. J. Berzelius and Humphry Davy,",occurred,development,DYNAMIC
+made possible by the prior invention of the voltaic pile by Alessandro Volta.,made,result,DYNAMIC
+Davy discovered nine new elements including the alkali metals by extracting them from their oxides with electric current.,discovered,Davy,DYNAMIC
+British William Prout first proposed ordering all the elements by their atomic weight,proposed,Prout,DYNAMIC
+as all atoms had a weight,had,atoms,STATIVE
+that was an exact multiple of the atomic weight of hydrogen.,was,weight,STATIVE
+"J. A. R. Newlands devised an early table of elements,",devised,Newlands,DYNAMIC
+which was then developed into the modern periodic table of elements by the German Julius Lothar Meyer and the Russian Dmitri Mendeleev in the 1860s.,developed,elements,DYNAMIC
+"The inert gases, later called",called,gases,DYNAMIC
+"the noble gases were discovered by William Ramsay in collaboration with Lord Rayleigh at the end of the century,",discovered,gases,DYNAMIC
+thereby filling in the basic structure of the table.,filling,century,DYNAMIC
+"Organic chemistry was developed by Justus von Liebig and others,",developed,chemistry,DYNAMIC
+following Friedrich Whler's synthesis of urea,following,,STATIVE
+which proved,proved,synthesis,DYNAMIC
+"that living organisms were, in theory, reducible to chemistry.",were,in,STATIVE
+Other crucial 19th century advances were; an understanding of valence bonding,were,advances,STATIVE
+(Edward Frankland in 1852) and the application of thermodynamics to chemistry (J. W. Gibbs and Svante Arrhenius in the 1870s).,,,CANNOT_DECIDE
+===Chemical structure===,,,CANNOT_DECIDE
+At the turn of the twentieth century the theoretical underpinnings of chemistry were finally understood due to a series of remarkable discoveries,understood,underpinnings,DYNAMIC
+that succeeded in probing and discovering the very nature of the internal structure of atoms.,succeeded,series,DYNAMIC
+"In 1897, J. J. Thomson of Cambridge University discovered the electron and soon",discovered,Thomson,DYNAMIC
+after the French scientist Becquerel as well as the couple Pierre and Marie Curie investigated the phenomenon of radioactivity.,investigated,Thomson,DYNAMIC
+"In a series of pioneering scattering experiments Ernest Rutherford at the University of Manchester discovered the internal structure of the atom and the existence of the proton,",discovered,Rutherford,DYNAMIC
+classified and explained the different types of radioactivity,classified,Rutherford,DYNAMIC
+and successfully transmuted the first element by bombarding nitrogen with alpha particles.,transmuted,Rutherford,DYNAMIC

@@ -1,0 +1,181 @@
+Clause,mainVerb,mainReferent,Gold
+The shoebill (Balaeniceps rex),,,CANNOT_DECIDE
+"also known as whalehead or shoe-billed stork, is a very large stork-like bird.",is,shoebill,STATIVE
+It derives its name from its massive shoe-shaped bill.,derives,It,STATIVE
+Although it has a somewhat stork-like overall form,has,it,STATIVE
+"and has previously been classified in the order Ciconiiformes, its true affiliations with other living birds is ambiguous.",is,affiliations,STATIVE
+Some authorities now reclassify it with the Pelecaniformes.,reclassify,authorities,STATIVE
+The adult is mainly grey,is,adult,STATIVE
+while the juveniles are browner.,are,juveniles,STATIVE
+It lives in tropical east Africa in large swamps from Sudan to Zambia.,lives,It,STATIVE
+==Taxonomy and systematics==,,,CANNOT_DECIDE
+The shoebill was only classified in the 19th century,classified,shoebill,DYNAMIC
+when some skins were brought to Europe.,brought,skins,DYNAMIC
+It was not until years later,was,,STATIVE
+that live specimens reached the scientific community.,reached,specimens,DYNAMIC
+"However, the bird was known to both ancient Egyptians and Arabs.",known,bird,STATIVE
+"Traditionally allied with the storks (Ciconiiformes), it was retained there in the Sibley-Ahlquist taxonomy",retained,it,STATIVE
+"which lumped a massive number of unrelated taxa into their ""Ciconiiformes"".",lumped,taxonomy,DYNAMIC
+"More recently, the shoebill has been considered to be closer to the pelicans",considered,shoebill,STATIVE
+(based on anatomical comparisons) or the herons,based,pelicans,STATIVE
+"(based on biochemical evidence; Hagey et al., 2002).",based,,STATIVE
+A recent DNA study suggests,suggests,study,DYNAMIC
+they are part of the Pelecaniformes.,are,they,STATIVE
+"The dispute has turned out to be mainly one of where to draw the boundary between Ciconiiformes and Pelecaniformes,",turned,dispute,DYNAMIC
+or whether to draw it at all.,draw,dispute,CANNOT_DECIDE
+"Since cormorants and relatives are probably not actually Pelecaniformes, a solution",are,,STATIVE
+"adopted by some modern authors is to merge the ""core"" Pelecaniformes with the Ciconiiformes.",is,solution,DYNAMIC
+"The shoebill and the hammerkop (Scopus umbretta) are the ""missing links""",are,hammerkop,STATIVE
+"that connect pelicans and storks,",connect,links,STATIVE
+and including the pelican lineage,including,,CANNOT_DECIDE
+in the Ciconiiformes expresses this more adequately,expresses,links,DYNAMIC
+than other treatments do.,do,treatments,DYNAMIC
+"So far, two fossil relatives of the shoebill have been described: Goliathia from the early Oligocene of Egypt and Paludavis from the Early Miocene of the same country.",described,relatives,DYNAMIC
+It has been suggested,suggested,It,DYNAMIC
+"that the enigmatic African fossil bird Eremopezus was a relative too,",was,Eremopezus,STATIVE
+but the evidence for that is unconfirmed.,is,evidence,STATIVE
+"All that is known of Eremopezus is that it was a very large, probably flightless bird with a flexible foot,",is,All,STATIVE
+allowing it to handle either vegetation or prey.,allowing,bird,STATIVE
+==Description==,,,CANNOT_DECIDE
+"The shoebill is a tall bird, with a typical height range of 110 to 140 cm (43 to 55 in) and some specimens reaching as much as 152 cm (60 in).",is,in,STATIVE
+Length from tail to beak can range from 100 to 140 cm (39 to 55 in) and wingspan is 230 to 260 cm (7 ft 7 in to 8 ft 6 in).,range,Length,STATIVE
+Weight has reportedly ranged from 4 to 7 kg (8.8 to 15.4 lb).,ranged,Weight,STATIVE
+A male will weigh on average around 5.6 kg (12 lb),weigh,male,STATIVE
+and is larger than a typical female of 4.9 kg (11 lb).,is,male,STATIVE
+"The signature feature of the species is its huge, bulbous bill,",is,feature,STATIVE
+which is straw-coloured with erratic greyish markings.,is,bill,STATIVE
+The exposed culmen,exposed,,CANNOT_DECIDE
+(or the measurement along the top of the upper mandible) is 18.8 to 24 cm (7.4 to 9.4 in).,is,culmen,STATIVE
+The sharp edges in the mandibles help the shoebill to decapitate their prey,help,edges,STATIVE
+and also to discard any vegetation,discard,shoebill,CANNOT_DECIDE
+after prey has been caught.,caught,prey,DYNAMIC
+"As in the pelicans, the upper mandible is strongly keeled,",keeled,mandible,STATIVE
+ending in a sharp nail.,ending,,STATIVE
+"The dark coloured legs are fairly long, with a tarsus length of 21.7 to 25.5 cm (8.5 to 10.0 in).",are,legs,STATIVE
+"The shoebill's feet are exceptionally large,",are,feet,STATIVE
+"with the middle toe reaching 16.8 to 18.5 cm (6.6 to 7.3 in) in length,",reaching,feet,DYNAMIC
+likely assisting the species in its ability to stand on aquatic vegetation while hunting.,assisting,toe,DYNAMIC
+The neck is relatively shorter and thicker than other long-legged wading birds such as herons and cranes.,is,neck,STATIVE
+"The wings are broad, with a wing chord length of 58.8 to 78 cm (23.1 to 30.7 in), and well-adapted to soaring.",are,in,STATIVE
+===Flight pattern===,,,CANNOT_DECIDE
+Its wings are held flat,held,=,STATIVE
+while soaring,soaring,,DYNAMIC
+"and, as in the pelicans and the storks of the genus Leptoptilos, the shoebill flies with its neck retracted.",retracted,soaring,DYNAMIC
+"Its flapping rate, at an estimated 150 flaps per minute, is one the slowest of any bird, with the exception of the larger stork species.",is,rate,STATIVE
+"The pattern is alternating flapping and gliding cycles of approximately seven seconds each,",alternating,pattern,STATIVE
+putting its gliding distance somewhere between the larger storks and the Andean condor (Vultur gryphus).,putting,flapping,STATIVE
+"When flushed,",flushed,,DYNAMIC
+shoebills usually try to fly no more than from their prior location.,try,shoebills,DYNAMIC
+"Long flights of the shoebill are rare,",are,flights,STATIVE
+and only a few flights beyond its minimum foraging distance of have been captured.,captured,flights,DYNAMIC
+The plumage of adult birds is blue-grey with darker slaty-grey flight feathers.,is,plumage,STATIVE
+"The breast presents some elongated feathers,",presents,breast,STATIVE
+which have dark shafts.,have,feathers,STATIVE
+"The juvenile has a similar plumage colour,",has,juvenile,STATIVE
+but is a darker grey with a brown tinge.,is,,STATIVE
+"When they are first born, shoebills have a more modestly-sized bill,",have,shoebills,STATIVE
+which is initially silvery-grey.,is,bill,STATIVE
+The bill becomes more noticeably large,becomes,bill,DYNAMIC
+when the chicks are 23 days old,are,chicks,STATIVE
+and becomes well developed by 43 days.,becomes,chicks,DYNAMIC
+===Identification===,,,CANNOT_DECIDE
+"At close range, it can be easily identified by its unique features.",identified,it,DYNAMIC
+"In flight, if its unique bill cannot be seen,",seen,bill,DYNAMIC
+"the shoebill's silhouette resembles that of a stork or condor,",resembles,silhouette,STATIVE
+but its feathers are a distinctive medium blue-grey.,are,feathers,STATIVE
+"Unusually also, its tail is the same colour as its wings.",is,tail,STATIVE
+"Under poor viewing conditions, its size and wingspan compared to other birds in its habitat can identify it.",compared,,DYNAMIC
+"Its legs, roughly the length of storks, extend straight back far past its tail when in flight.",extend,legs,STATIVE
+The wing to tail size can't be used for identification;,used,wing,DYNAMIC
+it is similar to several other birds.,is,it,STATIVE
+==Distribution and habitat==,,,CANNOT_DECIDE
+"The shoebill is distributed in freshwater swamps of central tropical Africa, from southern Sudan through parts of eastern Congo, Rwanda, Uganda and western Tanzania.",distributed,shoebill,STATIVE
+The species is most numerous in the West Nile sub-region and adjacent areas of the south Sudan;,is,species,STATIVE
+it is also significant in wetlands of Uganda and western Tanzania.,is,it,STATIVE
+"More isolated records have been reported of shoebills in Kenya, the Central African Republic, northern Cameroon, south-western Ethiopia, Malawi.",reported,records,DYNAMIC
+"Vagrant strays to the Okavango Basin, Botswana and the upper Congo River have also been sighted.",strays,Vagrant,DYNAMIC
+The distribution of this species seems to largely coincide with that of papyrus and lungfish.,seems,distribution,STATIVE
+"The shoebill is non-migratory with limited seasonal movements due to habitat changes, food availability and disturbance by humans.",is,shoebill,STATIVE
+"The shoebill occurs in extensive, dense freshwater marshes.",occurs,shoebill,DYNAMIC
+Almost all wetlands that attract the species have undisturbed Cyperus papyrus and reed beds of Phragmites and Typha.,have,wetlands,STATIVE
+"Although their distribution largely seems to correspond with the distribution of papyrus in central Africa, the species seems to avoid pure papyrus swamps",seems,species,STATIVE
+and is often attracted to areas with mixed vegetation.,attracted,species,DYNAMIC
+"More rarely, the species has been seen foraging in rice fields and flooded plantations.",seen,species,DYNAMIC
+==Behaviour and ecology==,,,CANNOT_DECIDE
+"The shoebill is noted for its slow movements and tendency to remain still for long periods,",noted,Behaviour,STATIVE
+"resulting in repeated descriptions of the species as ""statue-like"".",resulting,,DYNAMIC
+They are quite sensitive to human disturbance,are,They,STATIVE
+and may abandon their nests,abandon,They,DYNAMIC
+if flushed by humans.,flushed,,DYNAMIC
+"However, while foraging,",foraging,,DYNAMIC
+"if dense vegetation stands between it and humans, this wader can be fairly tame.",be,wader,STATIVE
+The shoebill is attracted to poorly oxygenated waters,attracted,shoebill,STATIVE
+where fish frequently surface to breathe.,surface,fish,DYNAMIC
+"Exceptionally for a bird this large, the shoebill often stands and perches on floating vegetation,",stands,shoebill,STATIVE
+"making them appear somewhat like a giant jacana,",making,,STATIVE
+although the similarly-sized and occasionally sympatric Goliath heron (Ardea goliath),,,CANNOT_DECIDE
+is also known to stand on aquatic vegetation.,known,heron,STATIVE
+Shoebills typically feed in muddy waters,feed,Shoebills,DYNAMIC
+"and, being solitary birds,",being,feed,STATIVE
+forage at a minimum distance of from one another even where relatively densely populated.,forage,Shoebills,DYNAMIC
+"This species stalks its prey patiently, in a slow and lurking fashion.",stalks,species,DYNAMIC
+"While hunting, the shoebill strides very slowly",strides,shoebill,DYNAMIC
+and is frequently motionless.,is,shoebill,STATIVE
+"Unlike some other large waders, this species hunts entirely",hunts,species,DYNAMIC
+using vision,using,,CANNOT_DECIDE
+and is not known to engage in tactile hunting.,known,species,STATIVE
+"When prey is spotted,",spotted,prey,DYNAMIC
+"it launches a quick, violent strike.",launches,it,DYNAMIC
+"However, depending on the size of the prey, handling time",depending,,STATIVE
+after the strike can exceed 10 minutes.,exceed,handling,DYNAMIC
+Around 60% of strikes are successful in yielding prey.,are,%,STATIVE
+Frequently water and vegetation is snatched up during the strike,snatched,vegetation,DYNAMIC
+and is spilled out from the edges of the mandibles.,spilled,water,DYNAMIC
+"Occasionally, the activity of hippopotamus may inadvertently benefit the shoebill,",benefit,activity,DYNAMIC
+as the huge mammals occasionally force fish to the surface of the water,force,mammals,DYNAMIC
+while they are submerged.,submerged,they,STATIVE
+Shoebills are largely piscivorous,are,Shoebills,STATIVE
+but are assured predators of a considerable range of wetland vertebrates.,assured,Shoebills,STATIVE
+"Preferred prey species have reportedly included marbled lungfish (Protopterus aethiopicus) and Senegal bichir (Polypterus senegalus) as well as various Tilapia species and catfish, the latter mainly in the genus Clarias.",included,species,STATIVE
+"Other prey eaten by this species has included frogs, water snakes, Nile monitors",included,prey,STATIVE
+(Varanus niloticus) and baby crocodiles.,,,CANNOT_DECIDE
+"More rarely, turtles, snails, rodents and small waterfowl have reportedly been eaten.",eaten,rodents,DYNAMIC
+There exists a single report of shoebills,exists,report,STATIVE
+"feeding on lechwe (Kobus leche) calves,",,,DYNAMIC
+although this would need confirmation.,need,this,STATIVE
+"Given its sharp-edged beak, huge bill and wide gape, the shoebill can hunt large prey,",hunt,shoebill,DYNAMIC
+often targeting prey bigger than other large wading birds.,targeting,shoebill,DYNAMIC
+Fish eaten by this species are commonly in the range of 15 to 50 cm (5.9 to 19.7 in) long,are,Fish,STATIVE
+"and weigh around 500 g (1.1 lb),",weigh,Fish,STATIVE
+though lungfish of as much as 1 m (3.3 ft) have been attacked.,attacked,lungfish,DYNAMIC
+Snakes preyed upon are commonly from 50 to 60 cm (20 to 24 in) long.,are,Snakes,STATIVE
+"In the Bangweulu Swamps of Zambia, the main prey items fed to young by the parents consisted of the catfish Clarias gariepinus (syn.",consisted,items,STATIVE
+C. mossambicus) and water snakes.,,,CANNOT_DECIDE
+"In Uganda, lungfish and catfish were mainly fed to the young.",fed,catfish,DYNAMIC
+===Breeding===,,,CANNOT_DECIDE
+The solitary nature of shoebills extends to their breeding habits.,extends,=,STATIVE
+"Nests typically occur at less than three nests per square kilometre, unlike herons, cormorants, pelicans and storks which predominantly nest in colonies.",occur,Nests,STATIVE
+The breeding pair of shoebills vigorously defends a territory of from conspecifics.,defends,pair,DYNAMIC
+"In the extreme north and south of the species' range, nesting starts right after the rains end.",starts,nesting,DYNAMIC
+"In more central regions of the range, it may nest near end of wet season in order to hatch around the beginning of the following wet season.",nest,it,DYNAMIC
+"Both parents engage in building the nest on floating platform, after clearing out an area of approximately across.",engage,parents,DYNAMIC
+"The large, flattish nesting platform is often partially submerged in water",submerged,platform,STATIVE
+and can be as much as deep.,be,platform,STATIVE
+The nest itself is about across.,is,nest,STATIVE
+Both the nest and platform are made of aquatic vegetation.,made,platform,STATIVE
+"In Sudan, the nests apparently were able to support the weight of an adult man,",were,nests,STATIVE
+although this was not the case in Zambia.,was,this,STATIVE
+From one to three white eggs are laid.,laid,eggs,DYNAMIC
+These eggs measure high by,measure,eggs,STATIVE
+and weigh around .,weigh,eggs,STATIVE
+Incubation lasts for approximately 30 days.,lasts,Incubation,STATIVE
+"Both parents actively brood, shade, guard and feed the nestling, though the females are perhaps slightly more attentive.",actively,parents,DYNAMIC
+Food items are regurgitated whole from the gullet straight into the bill of the young.,regurgitated,items,DYNAMIC
+"Shoebills rarely raise more than one chick, but will hatch more.",raise,Shoebills,DYNAMIC
+The younger chicks are intended as back-ups,intended,chicks,STATIVE
+in case the eldest dies or is weak.,dies,eldest,DYNAMIC
+Fledging is reached at around 105 days,reached,Fledging,DYNAMIC
+and the young birds can fly well by 112 days.,fly,Fledging,DYNAMIC
+"However, they are still fed for possibly a month or more after this.",fed,they,DYNAMIC
+It will take the young shoebills,take,It,DYNAMIC
+three years before they become fully sexually mature.,become,they,DYNAMIC

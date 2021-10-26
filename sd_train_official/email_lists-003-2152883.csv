@@ -1,0 +1,23 @@
+Clause,mainVerb,mainReferent,Gold
+"docno=""lists-003-2152883""",,,CANNOT_DECIDE
+"received=""Wed May 19 07:16:36 1993 EST""",received,docno,CANNOT_DECIDE
+"sent=""Wed, 19 May 1993 10:11:53 -0400",sent,,CANNOT_DECIDE
+"(EDT)""",,,CANNOT_DECIDE
+"name=""Dan Schlitt""",,,CANNOT_DECIDE
+"email=""dan@ees1a0.engr.ccny.cuny.edu""",,,CANNOT_DECIDE
+"subject=""Re: CHARSET considerations""",,,CANNOT_DECIDE
+"id=""Pine.3.05.9305191050.G5139-a100000@ees1a0.engr.ccny.cuny.edu""",,,CANNOT_DECIDE
+"inreplyto=""CHARSET considerations""",,,CANNOT_DECIDE
+To: Harald Tveit Alvestrand <harald.t.alvestrand@delab.sintef.no>,,,CANNOT_DECIDE
+"Cc: scs <scs@adam.mit.edu>, pine-info <pine-info@cac.washington.edu>,",,,CANNOT_DECIDE
+Thank you Harald.,Thank,<scs@adam.mit.edu>,CANNOT_DECIDE
+MIME is MIME is MIME.,is,MIME,STATIVE
+And if it violates the RFC,violates,it,DYNAMIC
+it isn't MIME,is,it,STATIVE
+and shouldn't pretend to be.,pretend,MIME,STATIVE
+That was the point of my original cryptic comment.,was,That,STATIVE
+Now PLEASE edit my address out of the headers of this.,edit,PLEASE,CANNOT_DECIDE
+And probably all of those other mailinglists and limit to pine-info.,,,CANNOT_DECIDE
+PLEASE.,,,CANNOT_DECIDE
+Thankyou.,,,CANNOT_DECIDE
+"Dan Schlitt School of Engineering Computer Systems dan@ee-mail.engr.ccny.cuny.edu City College of New York (212)650-6760 New York, NY 10031",,,CANNOT_DECIDE

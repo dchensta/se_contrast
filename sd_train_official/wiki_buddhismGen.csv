@@ -1,0 +1,94 @@
+Clause,mainVerb,mainReferent,Gold
+Buddhism is a nontheistic religion,is,Buddhism,STATIVE
+"that encompasses a variety of traditions, beliefs and practices largely based on teachings",encompasses,religion,STATIVE
+"attributed to Siddhartha Gautama,",attributed,teachings,STATIVE
+"who is commonly known as the Buddha,",known,Gautama,STATIVE
+"meaning ""the awakened one"".",meaning,religion,STATIVE
+"According to Buddhist tradition, the Buddha lived and taught in the eastern part of the Indian subcontinent sometime between the 6th and 4th centuries BCE.",According,,STATIVE
+He is recognized by Buddhists as an awakened or enlightened teacher,recognized,He,STATIVE
+who shared his insights to help sentient beings end their suffering through the elimination of ignorance and craving by way,shared,teacher,DYNAMIC
+"of understanding and the seeing of Dependent Origination and the Four Noble Truths, with the ultimate goal of attainment of the sublime state of Nirvana.",seeing,understanding,CANNOT_DECIDE
+===Nature of existence===,,,CANNOT_DECIDE
+"Buddhist scholars have produced a number of intellectual theories, philosophies and world view concepts",produced,Nature,DYNAMIC
+"(see, for example, Abhidharma, Buddhist philosophy and Reality in Buddhism).",see,,CANNOT_DECIDE
+"Some schools of Buddhism discourage doctrinal study,",discourage,schools,DYNAMIC
+and some regard it as essential practice.,regard,schools,STATIVE
+The concept of liberation (nirva)the goal of the Buddhist pathis closely related to overcoming ignorance,—,concept,STATIVE
+"(avidy), a fundamental misunderstanding or mis-perception of the nature of reality.",,,CANNOT_DECIDE
+"In awakening to the true nature of the self and all phenomena one develops dispassion for the objects of clinging,",develops,one,DYNAMIC
+and is liberated from suffering,liberated,one,DYNAMIC
+(dukkha) and the cycle of incessant rebirths (sasra).,,,CANNOT_DECIDE
+"To this end, the Buddha recommended viewing things",recommended,Buddha,DYNAMIC
+as characterized by the three marks of existence.,characterized,,STATIVE
+====Buddhas====,,,CANNOT_DECIDE
+According to Buddhist traditions,According,,CANNOT_DECIDE
+a Buddha is a fully awakened being,is,Buddha,STATIVE
+"who has completely purified his mind of the three poisons of desire, aversion and ignorance.",purified,=,DYNAMIC
+A Buddha is no longer bound by Samsara,bound,Buddha,STATIVE
+and has ended the suffering,ended,Buddha,DYNAMIC
+which unawakened people experience in life.,experience,people,DYNAMIC
+Buddhists do not consider Siddhartha Gautama to have been the only Buddha.,consider,Buddhists,STATIVE
+The Pali Canon refers to many previous ones,refers,Canon,STATIVE
+"(see List of the 28 Buddhas),",see,ones,CANNOT_DECIDE
+"while the Mahayana tradition additionally has many Buddhas of celestial, rather than historical, origin",has,tradition,STATIVE
+"(see Amitabha or Vairocana as examples, for lists of many thousands",see,has,CANNOT_DECIDE
+Buddha names see Taish Shinsh Daizky numbers 439448).,see,lists,CANNOT_DECIDE
+A common Theravada and Mahayana Buddhist belief is that the next Buddha will be one,is,Theravada,STATIVE
+named Maitreya (Pali: Metteyya).,named,Buddha,STATIVE
+==Buddhist texts==,,,CANNOT_DECIDE
+Buddhist scriptures and other texts exist in great variety.,exist,texts,STATIVE
+Different schools of Buddhism place varying levels of value on learning the various texts.,place,schools,DYNAMIC
+"Some schools venerate certain texts as religious objects in themselves,",venerate,schools,DYNAMIC
+while others take a more scholastic approach.,take,others,DYNAMIC
+"Buddhist scriptures are mainly written in Pli, Tibetan, Mongolian, and Chinese.",written,scriptures,STATIVE
+Some texts still exist in Sanskrit and Buddhist Hybrid Sanskrit.,exist,texts,STATIVE
+"Unlike many religions, Buddhism has no single central text",has,Buddhism,STATIVE
+that is universally referred to by all traditions.,referred,text,STATIVE
+"However, some scholars have referred to the Vinaya Pitaka and the first four Nikayas of the Sutta Pitaka as the common core of all Buddhist traditions.",referred,scholars,DYNAMIC
+This could be considered,considered,This,STATIVE
+"misleading, as Mahyna considers these merely a preliminary, and not a core, teaching.",considers,Mahāyāna,STATIVE
+The Tibetan Buddhists have not even translated most of the gamas,translated,Buddhists,DYNAMIC
+(though theoretically they recognize them),recognize,translated,STATIVE
+and they play no part in the religious life of either clergy or laity in China and Japan.,play,Buddhists,STATIVE
+Other scholars say,say,scholars,DYNAMIC
+there is no universally accepted common core.,accepted,core,STATIVE
+The size and complexity of the Buddhist canons have been seen by some,seen,complexity,DYNAMIC
+(including Buddhist social reformer Babasaheb Ambedkar) as presenting barriers to the wider understanding of Buddhist philosophy.,including,,STATIVE
+The followers of Theravda Buddhism take the scriptures,take,followers,DYNAMIC
+"known as the Pli Canon as definitive and authoritative, while the followers of Mahyna Buddhism base their faith and philosophy primarily on the Mahyna stras and their own vinaya.",known,scriptures,STATIVE
+"The Pli sutras, along with other, closely related scriptures, are known to the other schools as the gamas.",known,sutras,STATIVE
+"Over the years, various attempts have been made to synthesize a single Buddhist text",made,attempts,DYNAMIC
+that can encompass all of the major principles of Buddhism.,encompass,text,STATIVE
+"In the Theravada tradition, condensed 'study texts' were created that combined popular or influential scriptures into single volumes",created,texts,DYNAMIC
+that could be studied by novice monks.,studied,volumes,DYNAMIC
+"Later in Sri Lanka, the Dhammapada was championed as a unifying scripture.",championed,Dhammapada,DYNAMIC
+"Dwight Goddard collected a sample of Buddhist scriptures, with the emphasis on Zen, along with other classics of Eastern philosophy, such as the Tao Te Ching, into his 'Buddhist Bible' in the 1920s.",collected,Goddard,DYNAMIC
+"More recently, Dr. Babasaheb Ambedkar attempted to create a single, combined document of Buddhist principles in ""The Buddha and His Dhamma"".",attempted,Ambedkar,DYNAMIC
+"Other such efforts have persisted to present day,",persisted,efforts,DYNAMIC
+but currently there is no single text,is,efforts,STATIVE
+that represents all Buddhist traditions.,represents,text,STATIVE
+==Schools and traditions==,,,CANNOT_DECIDE
+Buddhists generally classify themselves as either Theravada or Mahayana.,classify,Schools,DYNAMIC
+This classification is also used by some scholars,used,classification,DYNAMIC
+and is the one,is,,STATIVE
+ordinarily used in the English language.,used,,DYNAMIC
+"An alternative scheme used by some scholars divides Buddhism into the following three traditions or geographical or cultural areas: Theravada, East Asian Buddhism and Tibetan Buddhism.",divides,scheme,DYNAMIC
+Some scholars use other schemes.,use,scholars,DYNAMIC
+Buddhists themselves have a variety of other schemes.,have,Buddhists,STATIVE
+"Hinayana (literally ""lesser vehicle"")",literally,Hinayana,CANNOT_DECIDE
+is used by Mahayana followers to name the family of early philosophical schools and traditions,used,Hinayana,DYNAMIC
+"from which contemporary Theravada emerged,",emerged,Theravada,DYNAMIC
+but as this term is rooted in the Mahayana viewpoint,rooted,term,STATIVE
+"and can be considered derogatory,",considered,term,STATIVE
+"a variety of other terms are increasingly used instead,",used,Hinayana,DYNAMIC
+"including rvakayna, Nikaya Buddhism, early Buddhist schools, sectarian Buddhism, conservative Buddhism, mainstream Buddhism and non-Mahayana Buddhism.",including,,STATIVE
+"Not all traditions of Buddhism share the same philosophical outlook,",share,traditions,STATIVE
+or treat the same concepts as central.,treat,traditions,DYNAMIC
+"Each tradition, however, does have its own core concepts,",have,tradition,STATIVE
+and some comparisons can be drawn between them.,drawn,tradition,DYNAMIC
+"For example, according to one Buddhist ecumenical organization, several concepts common to both major Buddhist branches:",according,,CANNOT_DECIDE
+*Both accept the Buddha as their teacher.,accept,concepts,STATIVE
+"*Both accept the Middle way, dependent origination, the Four Noble Truths, the Noble Eightfold Path and the Three marks of existence.",accept,Both,STATIVE
+*Both accept,accept,Both,STATIVE
+that members of the laity and of the sangha can pursue the path toward enlightenment (bodhi).,pursue,members,DYNAMIC
+*Both consider buddhahood the highest attainment.,consider,Both,STATIVE

@@ -1,0 +1,25 @@
+Clause,mainVerb,mainReferent,Gold
+NEW YORK UNIVERSITY,,,CANNOT_DECIDE
+GRADUATE SCHOOL OF ARTS AND SCIENCE,,,CANNOT_DECIDE
+OFFICE OF THE DEAN,,,CANNOT_DECIDE
+Fall 2000,,,CANNOT_DECIDE
+"Ms. FirstName LastName NumberStreetName Statename, StateZipCode",,,CANNOT_DECIDE
+Dear Ms. LastName,,,CANNOT_DECIDE
+"Over the past year, the Graduate School of Arts and Science has seen record level contributions from its alumni and alumnae to the Schools Annual Fund.",seen,School,DYNAMIC
+"This response is a marvelous endorsement of the work of our students, faculty, and staff.",is,response,STATIVE
+"As you read the enclosed Dean 's Report and Request,",read,you,DYNAMIC
+I hope,hope,I,STATIVE
+you will consider,consider,you,DYNAMIC
+how your support of the Graduate Schools Annual Fund shapes the lives of its faculty and students,shapes,support,DYNAMIC
+as it makes an impact on the depth and breadth of their NYU experience.,makes,it,DYNAMIC
+"Contributions to the Annual Fund help us to prepare our masters students with a thorough knowledge of their discipline, as well as the needed skills for success in the workplace.",help,Contributions,DYNAMIC
+"They enable us to provide students with access to state-of-the-art technology and opportunities to attend professional colloquia, seminars, and conferences on and off campus.",enable,They,DYNAMIC
+"Your support of the Graduate Schools Annual Fund is critical to maintaining the core values of GSAS: rigorous inquiry, the lifelong discovery of ideas, and our commitment to the ethics of scholarship.",is,support,STATIVE
+We also hope,hope,We,STATIVE
+"you have been able to follow the public education campaign for our masters programs in The New York Times and elsewhere, a sign of our belief in them.",been,sign,STATIVE
+Your gift reinforces our emphasis on these ideals,reinforces,gift,DYNAMIC
+that have distinguished the Graduate School of Arts and Science as a preeminent center for advanced learning since 1886.,distinguished,ideals,DYNAMIC
+I am grateful for your continued partnership in our pursuit of these shared values.,grateful,I,STATIVE
+"With best wishes,",,,CANNOT_DECIDE
+Catharine R. Stimpson Dean,,,CANNOT_DECIDE
+GRADUATE SCHOOL OF ARTS AND SCIENCE,SCHOOL,GRADUATE,CANNOT_DECIDE

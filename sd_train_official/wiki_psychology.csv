@@ -1,0 +1,110 @@
+Clause,mainVerb,mainReferent,Gold
+Psychology is an academic and applied discipline,is,Psychology,STATIVE
+that involves the scientific study of mental functions and behaviors.,involves,discipline,STATIVE
+Psychology has the immediate goal of understanding individuals and groups by both establishing general principles,has,Psychology,STATIVE
+"and researching specific cases, and by many accounts",researching,goal,CANNOT_DECIDE
+it ultimately aims to benefit society.,aims,Psychology,STATIVE
+"In this field, a professional practitioner or researcher is called a psychologist",called,researcher,STATIVE
+"and can be classified as a social, behavioral, or cognitive scientist.",be,practitioner,STATIVE
+"Psychologists attempt to understand the role of mental functions in individual and social behavior,",attempt,Psychologists,DYNAMIC
+while also exploring the physiological and biological processes,exploring,,DYNAMIC
+that underlie cognitive functions and behaviors.,underlie,processes,STATIVE
+"Psychologists explore concepts such as perception, cognition, attention, emotion, intelligence, phenomenology, motivation, brain functioning, personality, behavior, and interpersonal relationships,",explore,Psychologists,DYNAMIC
+"including psychological resilience, family resilience, and other areas.",including,,STATIVE
+Psychologists of diverse orientations also consider the unconscious mind.,consider,Psychologists,STATIVE
+Psychologists employ empirical methods to infer causal and correlational relationships between psychosocial variables.,employ,Psychologists,DYNAMIC
+"In addition, or in opposition, to employing empirical and deductive methods, someespecially clinical and counseling psychologistsat times rely upon symbolic interpretation and other inductive techniques.",rely,—,STATIVE
+"Psychology has been described as a ""hub science"", with psychological findings",described,Psychology,DYNAMIC
+"linking to research and perspectives from the social sciences, natural sciences, medicine, and the humanities, such as philosophy.",linking,findings,DYNAMIC
+"While psychological knowledge is often applied to the assessment and treatment of mental health problems,",applied,knowledge,DYNAMIC
+it is also directed towards understanding and solving problems in many different spheres of human activity.,directed,it,STATIVE
+"The majority of psychologists are involved in some kind of therapeutic role,",involved,majority,STATIVE
+"practicing in clinical, counseling, or school settings.",practicing,kind,DYNAMIC
+Many do scientific research on a wide range of topics,do,Many,DYNAMIC
+"related to mental processes and behavior,",related,topics,STATIVE
+and typically work in university psychology departments,work,topics,DYNAMIC
+"or teach in other academic settings (e.g., medical schools, hospitals).",teach,,DYNAMIC
+"Some are employed in industrial and organizational settings, or in other areas such as human development and aging, sports, health, and the media, as well as in forensic investigation and other aspects of law.",employed,Some,STATIVE
+==Etymology==,,,CANNOT_DECIDE
+"The word psychology literally means,",means,psychology,STATIVE
+"""study of the soul"" ( psukh, ""breath, spirit, soul"" and - -logia, ""study of"" or ""research"").",psukhē,ψυχή,CANNOT_DECIDE
+"The Latin word psychologia was first used by the Croatian humanist and Latinist Marko Maruli in his book, Psichiologia de ratione animae humanae in the late 15th century or early 16th century.",used,psychologia,DYNAMIC
+The earliest known reference to the word psychology in English was by Steven Blankaart in 1694 in The Physical Dictionary,was,reference,STATIVE
+"which refers to ""Anatomy,",refers,Dictionary,STATIVE
+"which treats of the Body, and Psychology,",treats,Anatomy,DYNAMIC
+"which treats of the Soul.""",treats,Body,DYNAMIC
+==History==,,,CANNOT_DECIDE
+"The study of psychology in a philosophical context dates back to the ancient civilizations of Egypt, Greece, China, India, and Persia.",dates,=,STATIVE
+Historians note,note,Historians,DYNAMIC
+"that Greek philosophers, including Thales, Plato, and Aristotle (especially in his De Anima treatise),",including,,STATIVE
+covered the workings of the mind in their writings.,covered,philosophers,DYNAMIC
+"As early as the 4th century BC, Greek physician Hippocrates theorized",theorized,Hippocrates,DYNAMIC
+"that mental disorders were of a physical, rather than divine, nature.",were,disorders,STATIVE
+===Structuralism===,,,CANNOT_DECIDE
+German physician Wilhelm Wundt is credited with introducing psychological discovery into a laboratory setting.,credited,Structuralism,STATIVE
+"Known as the ""father of experimental psychology"",",Known,he,STATIVE
+"he founded the first psychological laboratory, at Leipzig University, in 1879.",founded,he,DYNAMIC
+"Wundt focused on breaking down mental processes into the most basic components,",focused,Wundt,DYNAMIC
+"motivated in part by an analogy to recent advances in chemistry, and its successful investigation of the elements and structure of material.",motivated,components,STATIVE
+"Although Wundt, himself, was not a structuralist, his student Edward Titchener, a major figure in early American psychology, was a structuralist thinker opposed to functionalist approaches.",was,Titchener,STATIVE
+===Functionalism===,,,CANNOT_DECIDE
+Functionalism formed as a reaction to the theories of the structuralist school of thought,formed,Functionalism,DYNAMIC
+"and was heavily influenced by the work of the American philosopher, scientist, and psychologist William James.",influenced,Functionalism,DYNAMIC
+James felt,felt,James,STATIVE
+"that psychology should have practical value,",have,psychology,STATIVE
+and that psychologists should find out,find,psychology,DYNAMIC
+how the mind can function to a person's benefit.,function,mind,DYNAMIC
+"In his book, The Principles of Psychology, published in 1890,",published,book,DYNAMIC
+he laid the foundations for many of the questions,laid,he,DYNAMIC
+that psychologists would explore for years to come.,explore,psychologists,DYNAMIC
+Other major functionalist thinkers included John Dewey and Harvey Carr.,included,thinkers,STATIVE
+"Other 19th-century contributors to the field include the German psychologist Hermann Ebbinghaus, a pioneer in the experimental study of memory,",include,contributors,STATIVE
+"who developed quantitative models of learning and forgetting at the University of Berlin, and the Russian-Soviet physiologist Ivan Pavlov,",developed,Ebbinghaus,DYNAMIC
+who discovered in dogs a learning process,discovered,Pavlov,DYNAMIC
+"that was later termed ""classical conditioning""",termed,process,DYNAMIC
+and applied to human beings.,applied,process,DYNAMIC
+"Starting in the 1950s, the experimental techniques",Starting,,DYNAMIC
+"developed by Wundt, James, Ebbinghaus, and others re-emerged as experimental psychology became increasingly cognitivistconcerned with information",re-emerged,techniques,DYNAMIC
+"and its processingand, eventually, constituted a part of the wider cognitive science.",processing,,STATIVE
+"In its early years, this development was seen as a ""revolution,"" as cognitive science",seen,development,DYNAMIC
+both responded to,responded,both,DYNAMIC
+"and reacted against then-popular theories,",reacted,both,DYNAMIC
+including psychoanalytic and behaviorist theories.,including,,STATIVE
+===Psychoanalysis===,=,=,CANNOT_DECIDE
+"From the 1890s until his death in 1939, the Austrian physician Sigmund Freud developed psychoanalysis,",developed,Freud,DYNAMIC
+which comprised a method of investigating the mind and interpreting experience;,comprised,psychoanalysis,STATIVE
+"a systematized set of theories about human behavior; and a form of psychotherapy to treat psychological or emotional distress, especially unconscious conflict.",treat,psychoanalysis,CANNOT_DECIDE
+"Freud's psychoanalytic theory was largely based on interpretive methods, introspection and clinical observations.",based,theory,STATIVE
+"It became very well known,",became,It,DYNAMIC
+"largely because it tackled subjects such as sexuality, repression, and the unconscious mind as general aspects of psychological development.",tackled,it,STATIVE
+"These were largely considered taboo subjects at the time,",considered,These,STATIVE
+and Freud provided a catalyst,provided,These,DYNAMIC
+for them to be openly discussed in polite society.,discussed,catalyst,CANNOT_DECIDE
+"Clinically, Freud helped to pioneer the method of free association and a therapeutic interest in dream interpretation.",helped,Freud,DYNAMIC
+"Freud had a significant influence on Swiss psychiatrist Carl Jung,",had,Freud,STATIVE
+whose analytical psychology became an alternative form of depth psychology.,became,psychology,DYNAMIC
+"Other well-known psychoanalytic scholars of the mid-20th century included psychoanalysts, psychologists, psychiatrists, and philosophers.",included,scholars,STATIVE
+"Among these thinkers were Erik Erikson, Melanie Klein, D.W. Winnicott, Karen Horney, Erich Fromm, John Bowlby, and Sigmund Freud's daughter, Anna Freud.",were,Fromm,STATIVE
+"Throughout the 20th century, psychoanalysis evolved into diverse schools of thought,",evolved,psychoanalysis,DYNAMIC
+most of which may be classed as Neo-Freudian.,classed,most,DYNAMIC
+"Psychoanalytic theory and therapy were criticized by psychologists such as Hans Eysenck, and by philosophers",criticized,theory,DYNAMIC
+including Karl Popper.,including,,STATIVE
+"Popper, a philosopher of science, argued",argued,Popper,DYNAMIC
+"that psychoanalysis had been misrepresented as a scientific discipline,",misrepresented,psychoanalysis,DYNAMIC
+whereas Eysenck said,said,misrepresented,DYNAMIC
+that psychoanalytic tenets had been contradicted by experimental data.,contradicted,tenets,DYNAMIC
+"By the end of 20th century, psychology departments in American universities had become scientifically oriented,",become,departments,DYNAMIC
+marginalizing Freudian theory,marginalizing,,DYNAMIC
+"and dismissing it as a ""desiccated and dead"" historical artifact.",dismissing,,DYNAMIC
+"Meanwhile, however, researchers in the emerging field of neuro-psychoanalysis defended some of Freud's ideas on scientific grounds,",defended,researchers,DYNAMIC
+while scholars of the humanities maintained,maintained,scholars,STATIVE
+"that Freud was not a ""scientist at all,",was,Freud,STATIVE
+"but ... an interpreter.""",,,CANNOT_DECIDE
+===Behaviorism===,,,CANNOT_DECIDE
+"In the United States, behaviorism became the dominant school of thought during the 1950s.",became,behaviorism,DYNAMIC
+Behaviorism is a discipline,is,Behaviorism,STATIVE
+"that was established in the early 20th century by John B. Watson,",established,discipline,DYNAMIC
+"and embraced and extended by Edward Thorndike, Clark L. Hull, Edward C. Tolman, and later B.F. Skinner.",embraced,discipline,DYNAMIC
+Theories of learning emphasized the ways,emphasized,Theories,DYNAMIC
+"in which people might be predisposed,",predisposed,people,STATIVE
+"or conditioned, by their environments to behave in certain ways.",conditioned,people,CANNOT_DECIDE

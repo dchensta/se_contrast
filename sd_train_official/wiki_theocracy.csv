@@ -1,0 +1,121 @@
+Clause,mainVerb,mainReferent,Gold
+Theocracy is a form,is,Theocracy,STATIVE
+of government in which clergy have official recognition,have,clergy,STATIVE
+as the civil ruler and official policy is either governed by officials,governed,policy,DYNAMIC
+"regarded as divinely guided,",regarded,officials,STATIVE
+or is pursuant to the doctrine of a particular religion or religious group.,is,ruler,STATIVE
+==Synopsis==,,,CANNOT_DECIDE
+"From the perspective of the theocratic government, ""God himself is recognized as the head"" of the state, hence the term theocracy, from the Koine Greek grc ""rule of God"", a term",recognized,himself,STATIVE
+used by Josephus for the kingdoms of Israel and Judah.,used,term,DYNAMIC
+"Taken literally or strictly,",Taken,theocracy,DYNAMIC
+theocracy means rule by God or gods,means,theocracy,STATIVE
+"and refers primarily to an internal ""rule of the heart"", especially in its biblical application.",refers,theocracy,STATIVE
+"The common, generic use of the term, as defined above in terms of rule by a church or analogous religious leadership,",defined,use,DYNAMIC
+would be more accurately described as an ecclesiocracy.,described,use,DYNAMIC
+"In a pure theocracy, the civil leader is believed to have a personal connection with the civilization's religion or belief.",believed,leader,STATIVE
+"For example, Moses led the Israelites,",led,Moses,DYNAMIC
+and Muhammad ruled the early Muslims.,ruled,Moses,DYNAMIC
+Law proclaimed,proclaimed,Law,DYNAMIC
+"by the ruler is also considered a divine revelation, and hence the law of God.",considered,ruler,STATIVE
+"An ecclesiocracy, on the other hand, is a situation",is,ecclesiocracy,STATIVE
+"where the religious leaders assume a leading role in the state,",assume,leaders,DYNAMIC
+but do not claim,claim,leaders,DYNAMIC
+that they are instruments of divine revelation.,are,they,STATIVE
+"For example, the prince-bishops of the European Middle Ages, where the bishop was also the temporal ruler.",was,prince-bishops,STATIVE
+"Such a state may use the administrative hierarchy of the religion for its own administration,",use,state,DYNAMIC
+or it may have two 'arms'  administrators and clergy  but with the state administrative hierarchy subordinate to the religious hierarchy.,have,state,STATIVE
+"The papacy in the Papal States occupied a middle ground between theocracy and ecclesiocracy,",occupied,papacy,STATIVE
+since the pope did not claim,claim,pope,DYNAMIC
+he was a prophet,was,he,STATIVE
+who received revelation from God,received,prophet,DYNAMIC
+and translated it into civil law.,translated,prophet,DYNAMIC
+"Religiously endorsed monarchies fall between these two poles,",endorsed,Religiously,STATIVE
+according to the relative strengths of the religious and political organs.,according,,STATIVE
+"Theocracy is distinguished from other, secular forms of government",is,Theocracy,DYNAMIC
+"that have a state religion,",have,forms,STATIVE
+"or are influenced by theological or moral concepts,",influenced,forms,DYNAMIC
+"and monarchies held ""By the Grace of God"".",held,Theocracy,STATIVE
+"In the most common usage of the term, some civil rulers are leaders of the dominant religion",are,rulers,STATIVE
+"(e.g., the Byzantine emperor as patron and defender of the official Church); the government proclaims",proclaims,government,DYNAMIC
+"it rules on behalf of God or a higher power,",rules,it,CANNOT_DECIDE
+"as specified by the local religion, and divine approval of government institutions and laws.",specified,,DYNAMIC
+These characteristics apply also to a caesaropapist regime.,apply,characteristics,STATIVE
+The Byzantine Empire however was not theocratic,was,Empire,STATIVE
+"since the patriarch answered to the emperor, not vice versa;",answered,patriarch,DYNAMIC
+similarly in Tudor England the crown forced,forced,crown,DYNAMIC
+"the church to break away from Rome so the royal (and, especially later, parliamentary)",break,church,CANNOT_DECIDE
+power could assume full control of the now Anglican hierarchy,assume,power,DYNAMIC
+and confiscate most church property and income.,confiscate,power,DYNAMIC
+Secular governments can also co-exist with a state religion,co-exist,governments,STATIVE
+or delegate some aspects of civil law to religious communities.,delegate,governments,DYNAMIC
+"For example, in Israel marriage is governed by officially recognized religious bodies",governed,marriage,DYNAMIC
+"who each provide marriage services for their respected adherents, yet no form of civil marriage",provide,bodies,DYNAMIC
+"(free of religion, for atheists, for example) exists nor marriage by non-recognized minority religions.",exists,form,STATIVE
+"India similarly delegates control of marriage and some other civil matters to the religious communities, in large part as a way of accommodating its Muslim minority.",delegates,India,DYNAMIC
+==Etymology==,,,CANNOT_DECIDE
+The word theocracy originates from the Greek ,originates,=,STATIVE
+"meaning ""the rule of God"".",meaning,=,STATIVE
+This in turn derives from ,derives,This,STATIVE
+"(theos), meaning ""god"", and ",,,STATIVE
+"(krateo), meaning",meaning,theos,STATIVE
+"""to rule.""",rule,,CANNOT_DECIDE
+"Thus the meaning of the word in Greek was ""rule by god",was,meaning,STATIVE
+"(s)"" or human incarnation(s) of god(s).",,,CANNOT_DECIDE
+It was first coined by Josephus Flavius in the first century A.D. to describe the characteristic government for Jews.,coined,It,DYNAMIC
+Josephus argued,argued,Josephus,DYNAMIC
+that while the Greeks recognized three types of government:,recognized,Greeks,STATIVE
+"monarchy, aristocracy, and anarchy, the Jews were unique",were,Jews,STATIVE
+in that they had a system of government,had,Jews,STATIVE
+that did not fit into those categories.,fit,system,STATIVE
+Josephus understood theocracy as a fourth form of government,understood,Josephus,STATIVE
+in which only God and his law is sovereign.,sovereign,law,STATIVE
+"Josephus' definition was widely accepted until the Enlightenment era,",accepted,definition,DYNAMIC
+"when the term started to collect more universalistic and negative connotations, especially in Hegel's hands.",started,term,DYNAMIC
+"The first recorded English use was in 1622, with the meaning ""sacerdotal government under divine inspiration""",was,use,STATIVE
+"(as in Biblical Israel before the rise of kings); the meaning ""priestly or religious body wielding political and civil power"" is recorded from 1825.",Biblical,meaning,DYNAMIC
+==Current theocracies==,,,CANNOT_DECIDE
+===Christian theocracies===,,,CANNOT_DECIDE
+====Holy See (Vatican City)====,,,CANNOT_DECIDE
+"Following the unification of Italy, Vatican City became the last surviving territory of the former Papal States.",Following,,DYNAMIC
+"In 1929, the State of Vatican City was formally recognized as an independent state through treaties with the Italian government.",recognized,State,DYNAMIC
+"The head of state of the Vatican is the pope,",is,head,STATIVE
+"elected by the College of Cardinals, an assembly of Senatorial-princes of the Church,",elected,pope,DYNAMIC
+"who are usually clerics,",are,assembly,STATIVE
+"appointed as Ordinaries,",appointed,assembly,DYNAMIC
+but in the past have also included men,included,assembly,DYNAMIC
+who were not bishops nor clerics.,were,men,STATIVE
+A pope is elected for life.,elected,pope,DYNAMIC
+They may resign.,resign,They,DYNAMIC
+Voting is limited to cardinals under 80 years of age.,limited,Voting,STATIVE
+"A Secretary for Relations with States, directly responsible for international relations, is appointed by the pope.",appointed,Secretary,DYNAMIC
+The Vatican legal system is rooted in canon law,rooted,system,STATIVE
+but ultimately is decided by the pope;,decided,system,DYNAMIC
+"the Bishop of Rome as the Supreme Pontiff, ""has the fullness of legislative, executive and judicial powers.""",has,Bishop,STATIVE
+"Although the laws of Vatican City come from the secular laws of Italy, under article 3 of the Law of the Sources of the Law, provision is made for the supplementary application of the laws",made,provision,STATIVE
+promulgated by the Kingdom of Italy.,promulgated,laws,DYNAMIC
+The government of the Vatican can also be considered an ecclesiocracy,considered,government,STATIVE
+(ruled by the Church).,ruled,ecclesiocracy,STATIVE
+===Islamic states or Islamic theocracies===,,,CANNOT_DECIDE
+An Islamic state is a state,is,=,STATIVE
+"that has adopted Islam, specifically Sharia, as its foundations for political institutions, or laws, exclusively,",adopted,state,DYNAMIC
+"and has implemented the Islamic ruling system khilafah (Arabic: ),",implemented,state,DYNAMIC
+and is therefore a theocracy.,is,,STATIVE
+"Although there is much debate as to which states or groups operate strictly according to Islamic Law, Sharia is the official basis for state laws in the following countries: Afghanistan, Iran, Mauritania, Saudi Arabia, Somalia, Sudan, and Yemen.",according,,STATIVE
+"In Nigeria, the constitution provides",provides,constitution,STATIVE
+"that states may elect to use Shari'a laws and courts,",elect,states,DYNAMIC
+though non-Muslims are not required in any state to submit to Shari'a jurisdiction,required,non-Muslims,STATIVE
+and adherence varies by state.,varies,non-Muslims,STATIVE
+Saudi Arabia maintains religious courts for all aspects of law,maintains,Arabia,STATIVE
+and has religious police to maintain social compliance.,has,Arabia,STATIVE
+Pakistan has Islam as its only official religion,Islam,Pakistan,STATIVE
+and its Federal Shariat Court has the duty of striking down any law,has,Pakistan,STATIVE
+not complying with the Sharia code of Islamic law;,complying,law,STATIVE
+"however, ruling falls upon legal scholars who,",falls,ruling,STATIVE
+"while required to be Muslim, are not religious clerics.",are,scholars,STATIVE
+====Iran====,,,CANNOT_DECIDE
+"The Islamic Republic of Iran has been described as a ""theocratic republic""",described,=,DYNAMIC
+"(by the US Central Intelligence Agency), and its constitution a ""hybrid"" of ""theocratic and democratic elements"" (by Francis Fukuyama).",,,CANNOT_DECIDE
+Like other Islamic states it maintains religious laws,maintains,it,STATIVE
+and has religious courts to interpret all aspects of law.,has,it,STATIVE
+"According to Iran's constitution,",According,,STATIVE
+"""all civil, penal financial, economic, administrative, cultural, military, political, and other laws and regulations must be based on Islamic criteria.""",based,laws,STATIVE

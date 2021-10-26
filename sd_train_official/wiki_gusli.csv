@@ -1,0 +1,82 @@
+Clause,mainVerb,mainReferent,Gold
+:For single-stringed instrument see Gusle.,see,instrument,CANNOT_DECIDE
+Gusli (),,,CANNOT_DECIDE
+is the oldest Russian multi-string plucked instrument.,is,Gusli,STATIVE
+Its exact history is unknown.,is,history,STATIVE
+"It may have derived from a Byzantine form of the Greek kythare,",derived,It,DYNAMIC
+which in turn derived from the ancient lyre.,derived,form,DYNAMIC
+"It has its relatives throughout the world - kantele in Finland, kannel in Estonia, kankls and kokle in Lithuania and Latvia.",has,It,STATIVE
+"Furthermore, we can find kanun in Arabic countries and the autoharp in the USA.",find,we,DYNAMIC
+It is also related to such ancient instruments as Chinese gu zheng,related,It,STATIVE
+which has a thousand-year history and its Japanese relative koto.,has,instruments,STATIVE
+==Etymology==,,,CANNOT_DECIDE
+"In the times of Kievan Rus', the term Gusli is thought to simply refer to any generic stringed instrument.",thought,Gusli,STATIVE
+The root of the term comes from the word to make sound in the wind.,comes,root,STATIVE
+The term was eventually associated with the trapezoidal Gusli-psaltyry,associated,term,DYNAMIC
+(which may have originated in Byzantium).,originated,Gusli-psaltyry,DYNAMIC
+==History==,,,CANNOT_DECIDE
+The Gusli is one of the oldest musical instruments,is,Gusli,STATIVE
+that have played an important role in the Russian music culture.,played,instruments,DYNAMIC
+The Greek historians Theophylact Simocatta and Theophan were the first to mention the gusli.,were,Theophan,STATIVE
+"During the war at the end of the 6th century, the Greeks took Slavonic prisoners",took,Greeks,DYNAMIC
+and found a musical instrument,found,Greeks,DYNAMIC
+named the Gusli.,named,instrument,STATIVE
+This corresponds to what the Arabic authors Al-Masudi and Ibn-Dasta mentioned in the 10th century.,corresponds,This,STATIVE
+Vertkov states,states,Vertkov,DYNAMIC
+that the first mentions of the Gusli date back to 591 AD to a treatise by the Greek historian Theophylact Simocatta,AD,mentions,STATIVE
+which describes the instrument,describes,treatise,DYNAMIC
+being used by Slavs from the area of the later Kievan Rus' kingdom.,used,instrument,DYNAMIC
+The gusli are thought to have been the instrument,thought,gusli,STATIVE
+used by the legendary Boyan,used,instrument,DYNAMIC
+(a singer of tales) described in the Lay of Igor's campaign.,described,instrument,DYNAMIC
+The instruments were used by the wandering Skomorokh musicians and entertainers.,used,instruments,DYNAMIC
+Preserved instruments,,,CANNOT_DECIDE
+discovered by archaeologists in various digs have between five and nine strings with one example having twelve strings.,have,instruments,STATIVE
+"The first notated piece of music for the Gusli was a Ukrainian song ""Oi pid Vyshneyu""",was,Vyshneyu,STATIVE
+( i ) which was recorded in St. Petersburg in 1803 by the French composer F. Bualde.,recorded,song,DYNAMIC
+==Types of Gusli==,,,CANNOT_DECIDE
+"Folk Gusli have from eleven to thirty-six gut or metal strings,",have,Types,STATIVE
+tuned diatonically.,tuned,diatonically,DYNAMIC
+There were two main forms,were,forms,STATIVE
+: helmet-shaped (Shlemovidnye gusli -  ) and wing-shaped (Krylovidnye gusli).,,,CANNOT_DECIDE
+===Shlemovidnye gusli===,,,CANNOT_DECIDE
+Shlemovidnye gusli (Helmet-shaped gusli;  ),,,CANNOT_DECIDE
+is a variety of Gusli,is,Shlemovidnye,STATIVE
+"held by the musician on his knees,",held,Gusli,STATIVE
+"so that the strings are horizontal, the resonator body under them.",are,body,STATIVE
+He uses his left hand to mute unnecessary strings,uses,He,DYNAMIC
+"and thus form chords,",form,He,CANNOT_DECIDE
+while strumming all the strings with his right hand.,strumming,,DYNAMIC
+The instrument was spread in southern and western regions of Kievan Rus'.,spread,instrument,STATIVE
+===Krylovidnye gusli===,,,CANNOT_DECIDE
+"Krylovidnye gusli (""wing-shaped gusli"";  )",,,CANNOT_DECIDE
+"is much smaller,",is,Krylovidnye,STATIVE
+and has more resemblance to Scandinavian folk psalteries such as the kantele.,has,Krylovidnye,STATIVE
+They are held much more like modern guitars,held,They,STATIVE
+(although the strings are still muted by the left hand through a special opening in the instrument's body).,muted,strings,DYNAMIC
+"This modification was more prevalent in northern parts of Russia, especially Novgorod and Pskov.",was,modification,STATIVE
+===Clavichord Gusli===,,,CANNOT_DECIDE
+"The Clavichord Gusli Gusli"" | ( )",,,CANNOT_DECIDE
+is a 19th-century derivative with an iron frame and metal strings,is,|,STATIVE
+tuned chromatically.,tuned,derivative,DYNAMIC
+It stands on a stand or table legs.,stands,It,STATIVE
+The instrument has a keyboard.,has,instrument,STATIVE
+Pressing the keys of the keyboard would raise the dampers on specific strings,raise,Pressing,DYNAMIC
+and allow the player to play glissandi and arpeggios over the range of the strings.,allow,Pressing,DYNAMIC
+This instrument is used primarily in Russian folk instrument orchestras.,used,instrument,DYNAMIC
+==Related instruments==,=,instruments,CANNOT_DECIDE
+A number of Slavic folk music instruments have names,have,instruments,STATIVE
+which are related to Gusli such as the Czech violin housleand the Balkan one-stringed fiddle gusle.,related,names,STATIVE
+"In western Ukraine and Belarus, husli can also refer to a fiddle or even a ducted flute.",refer,husli,STATIVE
+The violin-like variant of the instrument is also related to the Southern Slavic gusle.,related,variant,STATIVE
+The psaltery variant is related to the zither.,is,variant,STATIVE
+"It is also related to the Latvian kokle, the Lithuanian kankls and the Finnish kantele.",related,It,STATIVE
+Together these instruments make up the family,make,instruments,STATIVE
+known as Baltic psalteries.,known,family,STATIVE
+"A related instrument is the tsymbaly, a hammered dulcimer.",is,instrument,STATIVE
+"In Ukraine, it is thought",thought,it,STATIVE
+"that the gusli may have influenced the development of the multi-stringed bandura,",influenced,gusli,DYNAMIC
+which largely replaced it in the nineteenth century.,replaced,bandura,DYNAMIC
+===List of other related instruments===,,,CANNOT_DECIDE
+*Bandura,,,CANNOT_DECIDE
+*kankls,,,CANNOT_DECIDE
