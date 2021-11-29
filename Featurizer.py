@@ -21,8 +21,10 @@ class BERTFeaturizer(Featurizer):
         dataset = BERTFeatureDataset(docs, self.tokenizer)
         feature_loader = DataLoader(
             dataset, shuffle=False, batch_size=30, collate_fn=self.__pad_collate)
+            #dataset, shuffle=False, batch_size=30)
         doc_embeds = []
         # Predict hidden states features for each layer.
+
         for input_tok_ids, input_mask, input_seq_ids in feature_loader:
             all_encoder_layers, _ = self.model(
                 input_tok_ids, token_type_ids=input_seq_ids, attention_mask=input_mask)
@@ -52,7 +54,8 @@ class BERTFeatureDataset(Dataset):
         return len(self.docs)
 
     def __getitem__(self, idx) :
-        return self.docs[idx]
+        #return self.docs[idx]
+        return self.all_tokens[idx], self.all_token_ids[idx], self.all_token_masks[idx]
 
     def tokenize_data(self, docs, tokenizer):
 

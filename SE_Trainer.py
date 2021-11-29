@@ -9,6 +9,7 @@ from operator import itemgetter
 import pickle as pkl
 import warnings
 import pathlib
+import torch
 
 class SE_Trainer:
     def __init__(self, train_dir, model_dir):
@@ -30,22 +31,26 @@ class SE_Trainer:
 
         print('Initiating training process')
 
-        print("Running hyperparameter searches: Classifier")
-        clf_results = self.__run_hyperparam_search()
-        print("Models trained.")
+        #print("Running hyperparameter searches: Classifier")
+        #clf_results = self.__run_hyperparam_search()
+        #print("Models trained.")
 
-        clf_model = clf_results["model"]
-        clf_featurization = clf_results["featurization"]
-        clf_avg_score = clf_results["avg_score"]
-        clf_std = clf_results["std_score"]
+        # clf_model = clf_results["model"]
+        # clf_featurization = clf_results["featurization"]
+        # clf_avg_score = clf_results["avg_score"]
+        # clf_std = clf_results["std_score"]
 
-        report = f"Best performing classifier: {clf_model}, Featurization: {clf_featurization}, Classifier Performance: {clf_avg_score}, Classifier Standard Deviation: {clf_std}"
+        #report = f"Best performing classifier: {clf_model}, Featurization: {clf_featurization}, Classifier Performance: {clf_avg_score}, Classifier Standard Deviation: {clf_std}"
 
+        #11/1/21 attempt
+        X, y = self.get_data()
+        clf_model = LogisticRegression(solver="liblinear", random_state=0, max_iter=500).fit(X, y)
         print('Training Completed')
-        print(report)
+        #print(report)
 
-        pkl.dump(clf_model, open(self.model_path, "wb"))
-        return clf_results
+        pkl.dump(clf_model, open(self.model_path + "/lr_se_clf.pkl", "wb"))
+        #return clf_results
+        return "Finished training classifier."
     
     def get_data(self):
         '''
@@ -83,6 +88,7 @@ class SE_Trainer:
                             "Gold": gold})
 
         data = data.dropna(axis=0, subset=["Clause"])
+        data = data.dropna(axis=0, subset=["Gold"])
         return data
 
     def __create_trainset(self) :
@@ -90,9 +96,12 @@ class SE_Trainer:
         clauses = self.data["Clause"] #Access Clause column from master data DataFrame
         featurizer = FeaturizerFactory()
         print("Featurizing")
-        X = featurizer.featurize(clauses, "BERT")
+        # X = featurizer.featurize(clauses, "BERT")
+        # filtered_X = X[~torch.any(X.isnan(),dim=1)]
+        # torch.save(filtered_X, 'x_tensor.pt')
+        filtered_X = torch.load("x_tensor.pt")
         y = self.data["Gold"] #Gold stative/dynamic labels
-        return X, y
+        return filtered_X, y
 
     def __run_hyperparam_search(self):
         '''
@@ -137,7 +146,7 @@ class SE_Trainer:
                                         "model":{sklearn LogisticRegression} = Logistic Regression model that produced optimal average 5-fold cross-validation score
                                       }
         '''
-        solvers = ['newton-cg', 'lbfgs']
+        solvers = ['liblinear', 'newton-cg', 'lbfgs'] #algorithms that do some approximation 
         penalties = ['none', 'l2']
         c_values = [100, 10, 1.0, 0.1, 0.01]
 
