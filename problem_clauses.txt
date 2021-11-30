@@ -1,0 +1,126 @@
+Problem clauses for wiki_blackjack_contrast_results.csv: 
+It contains one or more decks of 52 cards.
+The game is won if you "beat the dealer
+A player and the dealer want his or her own ace as 1 point or 11 points.
+All other cards appear as the numeric value
+After receiving their initial two cards, players may pursue the option of getting a "hit",
+If a player hides an ace
+The dealer is asked to take hits
+If the player and dealer receive the same point total,
+Many rule variations of blackjack are played.
+Since the 1960s, blackjack has functioned as a high-profile target of advantage players, particularly card counters,
+Other casino games were inspired by blackjack, including Spanish 21 and pontoon.
+Twenty-one, a game of unknown origin, became regarded as a predecessor to Blackjack.
+Cervantes famously gambled,
+The game contains the Spanish baraja deck,
+Later references to this game also appear in France and Spain.
+One such bonus became a ten-to-one payout
+The player whose bet is at the front of the betting box has control over the position,
+Any player enjoys the luxury to control or bet in as many boxes
+Each box possesses an initial hand of two cards visible to the people
+The dealer's hand has its first card face up,
+Locations of hole card games usually resemble tables with a small mirror or electronic sensor
+In European casinos, "no hole card" games are often played;
+
+
+Problem clauses for news_20020731-nyt_contrast_results.csv: 
+Packwood no longer serves on the committee.
+"The document is clear,”
+The Ethics Committee did not take the bait.
+During that time, the panel believed that
+According to the committee,
+The ethics committee had been granted the power to punish lawmakers with sanctions
+"This matter proved to be far more serious than what the committee found,"
+Witness statements, store receipts, and other documents were found
+Nor did it include a citation of a $1,590 Oriental carpet that Chang gave to Torricelli's former wife, Susan Holloway Torricelli.
+A person familiar with Torricelli's testimony to the committee believed that
+“I recognize that Senator Torricelli provided the committee with a full explanation of sources of income and any funds
+Desiring to quickly make a campaign issue of the Senate letter,
+
+
+Problem clauses for journal_Article247_400_contrast_results.csv: 
+But USA Today continues to focus on Princess Di.
+The NYT is adamant
+She aims to get Arafat to come out decisively and publicly for peace with Israel,
+The LAT comments on new dissension within the Israeli government about whether or not Israel should continue to maintain forces in southern Lebanon, dissension
+Perhaps the most striking indicator of a change of mood inside the government reported by the paper was revealed by the news
+Several papers received word
+This signifies a move
+Much of the continuing Diana coverage increasingly exists within the realm of meta- and meta-meta-pieces.
+But USAT and the WP also each contain pretty newsy Diana pieces as well.
+Both have a reveal
+How odd -- and a good illustration of how trying to shoe-horn in a "witty" headline necessarily involves a slippery slope into an idea
+
+
+Problem clauses for essays_A_defense_of_Michael_Moore_contrast_results.csv: 
+September 19, 1977 became a date
+Although for other cities this would simply create a minor economic setback, for the people of Youngstown and the surrounding area,
+The events that were on this date
+Those in the industry wanted to preserve the only source of employment
+Based on the area’s history, culture, and economic situation
+Although it was in Youngstown and the surrounding area more than in other regions,
+Their blast furnace, “Hopewell,” served as the very first blast furnace in the area.
+Youngstown also acted as a major railway crossroads, due to its strategic position between Cleveland, Pittsburgh, New York, and Chicago.
+In fact, The Center Street Bridge had more rail cars [a major bridge in Youngstown] on any given day than any other location in the country.
+During the 19th century, the center of iron manufacturing wasn’t in the far East Coast anymore.
+By 1880, Youngstown’s population was nearly 16,000,
+The town was very prosperous,
+This prosperity lingered until the late 1920s,
+Youngstown may have enjoyed prominence and prosperity in the post-war period,
+In 1973, the Experimental Negotiating Agreement was signed.
+Old technology was untouched
+These failures spelled certain doom
+The announcement of the closing of the mills in 1977 started a downward spiral,
+However, it became clear
+The closings marked the end of Youngstown’s only real industry, the end of its population growth, and then end of economic progress.
+Without an industrial or a residential base, commerce was down considerably.
+It was increasingly clear
+The very first thing that the workers could do was highlighted as “getting up a petition to stop the shutdown,
+The International chapter of the USWA held much more lobbying power,
+The petition was a needle in a haystack amongst paperwork and bureaucratic procedure.
+The Ecumenical Coalition is an organization
+The Coalition drafters wanted to know
+Here, too, they were unheeded.
+The Coalition lacked proper funds to buy the mills
+Several major factors existed as obstacles to saving the mills,
+The efforts to save the mills were for naught
+During World War II the rest of the world lusted for America’s iron and steel products;
+In fact, American steel imports were now bigger than exports.
+Foreign steel had become easier and more efficient to make,
+This led to a new status quo:
+Foreign steel also became much cheaper.
+Other steel-exporting countries simply didn't offer enough jobs,
+However, to American companies already suffering financial setbacks, outdated machinery, and fierce competition, this lack of demand became an inconvenience
+Youngstown was perhaps more desolate than any other town because of the collapse of the steel industry,
+The nationwide problem addressed many more mills and issues than Youngstown’s alone.
+“It is impossible to solve a nation-wide problem in a single city.”
+Trying to prop up one city’s mills appeared impossible
+In naming the campaign as such,
+Marches, speeches, and letter writing were all part of the drive to help stimulate the Campaign
+College tuition, clothes, food, and heating were all prioritized before donations to non-profit organizations.
+People outside of the area decided not to personally invest in the mills,
+The lack of money became crippling,
+No one had formed a concrete plan for
+People touted vague ideas of worker collectivization,
+Without a real plan, the campaign was incapable of achieving anything concrete.
+Without funds to drive the efforts, or even a real plan of action, the Save Our Valley Campaign was more harmful than beneficial.
+Some formed the union United Steel Workers of America
+Initially many worked under the assumption
+The union leaders of the USWA could not devise a solution for
+This would lead to a situation
+From its very first days, small villages and hamlets have packed the Mahoning Valley.
+People from each town are more likely to work, shop, eat,
+However, although traffic gets heavy between each separate district,
+Its residents are mainly Italian and Roman Catholic, with a small concentration of Methodists on the east side.
+Unemployment rates hit a lower point than in surrounding towns,
+With many more cultures, religions, and economic levels living in close proximity to one another, a curious phenomenon is increasingly belonging to the area: regionalism.
+Each town, with their own identity, wants to instill a strong regionalistic feeling within their respective populations,
+Oftentimes this regionalism involves bizarre forms of hatred, with certain towns
+With so much regional tension, it was very hard
+Workers from Poland Township did not want to attend rallies with workers from Campbell,
+A lack of cooperation represented a crippling problem for the movement,
+Black Monday dealt a devastating blow to an entire generation of people.
+Considering the events
+But to the thousands of people living there,
+The steel workers who tried to save their jobs and their lives had become part of something greater than themselves, something
+Even though they eventually were unable to succeed, the fact

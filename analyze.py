@@ -14,9 +14,9 @@ def analyze(dir, flag):
 
         #Count number of correct predictions, collect incorrect clauses.
         same = 0; diff = 0; same_clauses = []; diff_clauses = []
-        for gold, pred, clause in zip(df["Gold"], df["predictions"], df["Clause"]) :
+        for gold, pred, clause, contrast_bin in zip(df["Gold"], df["predictions"], df["Clause"], df["Contrast"]) :
             p = re.sub('[\[\]\']', '', pred)
-            if gold == p :
+            if gold == p and contrast_bin == "y":
                 same += 1
                 same_clauses.append(clause)
             else :
@@ -32,8 +32,6 @@ def analyze(dir, flag):
                 print(cl)
             print('\n')
         elif flag == "contrast" :
-            acc = round((diff/size)*100, 2)
-            print(f"Accuracy for {file.name}: {acc}%")
             print(f"Problem clauses for {file.name}: ")
             for cl in same_clauses :
                 print(cl)
