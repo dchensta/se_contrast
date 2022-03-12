@@ -1,0 +1,68 @@
+,Clause,mainVerb,mainReferent,Contrast Gold,predictions,Contrast,Contrast_Labels
+0,No More Kisses,,,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+1,"In light of Secretary of State Albright's imminent trip to the middle east, the deteriorating situation there attracts the New York Times, Los Angeles Times, and Washington Post’s attention.",emphasize,Post,STATIVE,['DYNAMIC'],y,DYNAMIC
+2,But USA Today continues to focus on Princess Di.,stays,Today,DYNAMIC,['DYNAMIC'],y,STATIVE
+3,The NYT is adamant,states,NYT,STATIVE,['STATIVE'],y,DYNAMIC
+4,"that when Albright shows up on Tuesday,",shows,Albright,DYNAMIC,['DYNAMIC'],,STATIVE
+5,"she will ""read the riot act"" to Yassir Arafat",read,she,DYNAMIC,['DYNAMIC'],,STATIVE
+6,about cracking down on terrorism.,cracking,she,CANNOT_DECIDE,['STATIVE'],,CANNOT_DECIDE
+7,"She aims to get Arafat to come out decisively and publicly for peace with Israel,",be,goal,DYNAMIC,['DYNAMIC'],y,STATIVE
+8,telling him,telling,,DYNAMIC,['DYNAMIC'],,STATIVE
+9,"that there can be no more attempts at co-opting Hamas, and ""no more kisses"" of its leaders.",be,,STATIVE,['STATIVE'],,DYNAMIC
+10,The Times prefers to focus on the larger geopolitical context.,emphasizes,Times,STATIVE,['DYNAMIC'],y,DYNAMIC
+11,Given,Given,states,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+12,"that the troubles on the West Bank have not only frosted relations between Arafat and Israel, but also those between Israel and Egypt and between Israel and Saudi Arabia,",frosted,troubles,DYNAMIC,['DYNAMIC'],,STATIVE
+13,the paper states that the U.S. is now facing the prospect that the moderate Arab coalition,states,paper,STATIVE,['STATIVE'],,DYNAMIC
+14,it built after the Persian Gulf war to contain Iraq and Iran is falling apart.,falling,prospect,DYNAMIC,['STATIVE'],,STATIVE
+15,"The LAT comments on new dissension within the Israeli government about whether or not Israel should continue to maintain forces in southern Lebanon, dissension",focuses,LAT,DYNAMIC,['DYNAMIC'],y,STATIVE
+16,fueled,fueled,dissension,DYNAMIC,['CANNOT_DECIDE'],,STATIVE
+17,"when an Israeli commando raid there late last week was ambushed, with twelve deaths the result.",was,raid,DYNAMIC,['DYNAMIC'],,STATIVE
+18,Perhaps the most striking indicator of a change of mood inside the government reported by the paper was revealed by the news,is,indicator,DYNAMIC,['DYNAMIC'],y,STATIVE
+19,"that cabinet member Ariel Sharon, who as Defense Minister in 1982 got Israel entrenched in Lebanon in the first place,",got,Sharon,DYNAMIC,['DYNAMIC'],,STATIVE
+20,is among those,is,Sharon,STATIVE,['STATIVE'],,DYNAMIC
+21,urging a reconsideration of the deployment.,urging,those,DYNAMIC,['DYNAMIC'],,STATIVE
+22,Several papers received word,have,papers,DYNAMIC,['DYNAMIC'],y,STATIVE
+23,"that H and R Block has finally wriggled out of its controlling stake of Compuserve,",wriggled,Block,DYNAMIC,['DYNAMIC'],,STATIVE
+24,but it's the Post with the news,'s,it,STATIVE,['STATIVE'],,DYNAMIC
+25,that AOL is set to take it over.,set,AOL,STATIVE,['STATIVE'],,DYNAMIC
+26,"The Wall Street Journal ""Outlook"" wishes to observe,",observes,Journal,STATIVE,['DYNAMIC'],y,DYNAMIC
+27,"""In the U.S. job market, the balance of power is shifting to employees from employers,""",shifting,Journal,DYNAMIC,['DYNAMIC'],,STATIVE
+28,and states,,,DYNAMIC,['CANNOT_DECIDE'],,STATIVE
+29,"that ""the retention frenzy was triggered in part by previous waves of corporate downsizing,""",triggered,frenzy,DYNAMIC,['DYNAMIC'],,STATIVE
+30,which left behind survivors,left,triggered,DYNAMIC,['DYNAMIC'],,STATIVE
+31,who took stock of career options and used Internet job listings,took,survivors,DYNAMIC,['DYNAMIC'],,STATIVE
+32,"and intensified recruiting to land better offers,",intensified,which,DYNAMIC,['DYNAMIC'],,STATIVE
+33,which in turn led to counter-offers and higher salaries.,led,Journal,DYNAMIC,['DYNAMIC'],,STATIVE
+34,This signifies a move,led,This,STATIVE,['STATIVE'],y,DYNAMIC
+35,"says the Journal , to annual compensation rising 5-6 percent a year.",says,Journal,DYNAMIC,['DYNAMIC'],,STATIVE
+36,Much of the continuing Diana coverage increasingly exists within the realm of meta- and meta-meta-pieces.,spinning,Much,STATIVE,['STATIVE'],y,DYNAMIC
+37,"The LAT , for instance, likes to examine",examines,LAT,STATIVE,['DYNAMIC'],y,DYNAMIC
+38,"what it takes to be a new ""cuddly-feely"" Britain born of the national grief experience.",takes,it,STATIVE,['STATIVE'],,DYNAMIC
+39,But USAT and the WP also each contain pretty newsy Diana pieces as well.,run,USAT,STATIVE,['STATIVE'],y,DYNAMIC
+40,Both have a reveal,reveal,Both,STATIVE,['STATIVE'],y,DYNAMIC
+41,"that Tony Blair had conferred with Diana about a goodwill ambassador job shortly before her death,",conferred,Blair,DYNAMIC,['DYNAMIC'],,STATIVE
+42,and USAT reports,reports,Both,DYNAMIC,['CANNOT_DECIDE'],,STATIVE
+43,that Le Figaro says,says,Figaro,DYNAMIC,['DYNAMIC'],,STATIVE
+44,a dying Diana gave two crash witnesses a message for her family and children.,gave,Diana,DYNAMIC,['DYNAMIC'],,STATIVE
+46,"""Not everyone in Calcutta, or India for that matter, unanimously praises the nun,",is,everyone,DYNAMIC,['STATIVE'],,STATIVE
+47,whose organization was able to raise millions of dollars worldwide,was,organization,STATIVE,['DYNAMIC'],,DYNAMIC
+48,but made virtually no significant changes in the social structure of this collapsing city's poor neighborhoods.,made,organization,DYNAMIC,['DYNAMIC'],,STATIVE
+49,Salvation -- hers and that of the destitute from the gutters --,rescued,she,STATIVE,['DYNAMIC'],y,DYNAMIC
+50,"was her aim, not economic or social development",was,Salvation,STATIVE,['STATIVE'],,DYNAMIC
+51,"as many others understand it,",understand,development,STATIVE,['STATIVE'],,DYNAMIC
+52,"she said.""",said,she,DYNAMIC,['DYNAMIC'],,STATIVE
+53,It's been regarded as odd,'s,It,DYNAMIC,['STATIVE'],y,STATIVE
+54,"however, that in repeating this charge, the Times didn't interview the man",interview,Times,DYNAMIC,['DYNAMIC'],,STATIVE
+55,"most closely associated with it, Christopher Hitchens,",associated,man,STATIVE,['STATIVE'],,DYNAMIC
+56,or refer to the book,refer,Times,CANNOT_DECIDE,['DYNAMIC'],,CANNOT_DECIDE
+57,"where he set it out, The Missionary Position .",set,he,DYNAMIC,['DYNAMIC'],,STATIVE
+60,the LAT puts over its picture of Martina Hingis standing next to Venus Williams after beating her at the U.S. Open --,puts,LAT,DYNAMIC,['DYNAMIC'],,STATIVE
+61,"""Venus Brought Back to Earth""?",,,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+62,Doesn't that sound like celebrating a defeat,sound,that,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+63,rather than celebrating a victory?,celebrating,defeat,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+64,"How odd -- and a good illustration of how trying to shoe-horn in a ""witty"" headline necessarily involves a slippery slope into an idea",drive,illustration,STATIVE,['STATIVE'],y,DYNAMIC
+65,that doesn't fit,fit,idea,STATIVE,['STATIVE'],,DYNAMIC
+66,or is undeserved.,is,idea,STATIVE,['STATIVE'],,DYNAMIC
+67,Given that Ms. Williams' parents hover over her,Given,surprised,DYNAMIC,['STATIVE'],y,STATIVE
+68,"and that she is a black in a still pretty-lilly-white sport, don't be surprised",surprised,,STATIVE,['STATIVE'],,DYNAMIC
+69,if there's a bit of a complaint about this.,'s,bit,STATIVE,['STATIVE'],,DYNAMIC

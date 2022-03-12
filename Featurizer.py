@@ -3,6 +3,7 @@ import torch
 import numpy as np
 import pickle as pkl
 from pytorch_pretrained_bert import BertTokenizer, BertModel
+from transformers import RobertaTokenizer, RobertaModel
 from torch.utils.data import TensorDataset, DataLoader, Dataset
 from torch.nn.utils.rnn import pad_sequence
 
@@ -15,6 +16,9 @@ class BERTFeaturizer(Featurizer):
     def __init__(self):
         self.model = BertModel.from_pretrained('bert-base-uncased')
         self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+
+        #self.model = RobertaModel.from_pretrained('roberta-base')
+        #self.tokenizer = RobertaTokenizer.from_pretrained('roberta-base')
 
     def featurize(self, docs):
         self.model.eval()

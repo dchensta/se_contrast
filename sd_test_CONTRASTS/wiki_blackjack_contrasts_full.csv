@@ -1,0 +1,115 @@
+Clause,origClause,mainVerb,mainReferent,contrastVerb,Contrast,Strategy,full_contrast_flag
+"Blackjack, which people have labeled twenty-one,","Blackjack, also known as twenty-one,",known,Blackjack,labeled,DYNAMIC,participant,
+has blossomed into the most widely played casino banking game in the world.,is the most widely played casino banking game in the world.,is,Blackjack,blossomed,DYNAMIC,becoming,full_contrast
+"Blackjack plays as a comparing card game between a player and dealer,","Blackjack is a comparing card game between a player and dealer,",is,Blackjack,plays,DYNAMIC,insert_verb,
+which creates a specific scenario,meaning,meaning,game,creates,DYNAMIC,insert_verb,full_contrast
+in which players are against the dealer but not against any other players.,that players compete against the dealer but not against any other players.,compete,players,are,STATIVE,copula,full_contrast
+It contains one or more decks of 52 cards.,It is played with one or more decks of 52 cards.,played,It,contains,STATIVE,descriptive,
+"The game is won if you ""beat the dealer","The object of the game is to ""beat the dealer",is,object,won,DYNAMIC,insert_verb,
+"', an endgame that has many possible paths","'', which can be done in a number of ways:",done,dealer,has,STATIVE,light_verb,full_contrast
+* Get 21 points on the player's first two cards,* Get 21 points on the player's first two cards,Get,object,,CANNOT_DECIDE,,
+"(achieving a blackjack), without a dealer blackjack;","(called a blackjack), without a dealer blackjack;",called,Get,achieving,DYNAMIC,becoming,full_contrast
+* Reach a final score higher than the dealer without exceeding 21; or,* Reach a final score higher than the dealer without exceeding 21; or,exceeding,object,,CANNOT_DECIDE,,
+* Let the dealer,* Let the dealer,Let,object,,CANNOT_DECIDE,,
+draw additional cards,draw additional cards,draw,dealer,,CANNOT_DECIDE,,
+until his or her hand is greater than 21.,until his or her hand exceeds 21.,exceeds,hand,is,STATIVE,copula,full_contrast
+The player or players know that they are dealt an initial two-card hand,The player or players are dealt an initial two-card hand,dealt,players,know,STATIVE,thought,
+and consider the added value of their cards.,and add together the value of their cards.,add,player,consider,STATIVE,thought,full_contrast
+"Face cards (kings, queens, and jacks)","Face cards (kings, queens, and jacks)",nan,nan,CANNOT_DECIDE,CANNOT_DECIDE,CANNOT_DECIDE,
+are worth ten points.,are counted as ten points.,counted,cards,are,STATIVE,copula,full_contrast
+A player and the dealer want his or her own ace as 1 point or 11 points.,A player and the dealer can count his or her own ace as 1 point or 11 points.,count,dealer,want,STATIVE,thought,
+All other cards appear as the numeric value,All other cards are counted as the numeric value,counted,cards,appear,STATIVE,descriptive,
+already displayed by the card.,shown on the card.,shown,value,revealed,DYNAMIC,participant,full_contrast
+"After receiving their initial two cards, players may pursue the option of getting a ""hit"",","After receiving their initial two cards, players have the option of getting a ""hit"",",have,players,pursue,DYNAMIC,heavy_verb,
+or taking an additional card.,or taking an additional card.,taking,option,,DYNAMIC,insert_verb,full_contrast
+"In a given round,","In a given round,",given,nan,CANNOT_DECIDE,CANNOT_DECIDE,CANNOT_DECIDE,
+having a score of 21 means the player or the dealer wins ,the player or the dealer wins by having a score of 21 or by having the highest score,wins,dealer,means,STATIVE,order,full_contrast
+or if they confirm that they have the highest score that is less than 21.,that is less than 21.,is,score,confirm,DYNAMIC,participant,full_contrast
+Having a score higher than 21,Scoring higher than 21,Scoring,nan,Having,STATIVE,light_verb,
+"(which players have labeled as ""busting""","(called ""busting""",called,nan,labeled,DYNAMIC,participant,full_contrast
+"or ""going bust"") constitutes a loss.","or ""going bust"") results in a loss.",results,Scoring,constitutes,STATIVE,descriptive,full_contrast
+A player having any final score equal to or less than 21 means that they win if the dealer busts.,A player may win by having any final score equal to or less than 21 if the dealer busts.,win,player,having,STATIVE,light_verb,
+If a player sees an ace,If a player holds an ace,holds,player,sees,DYNAMIC,participant,
+"valued as 11, the hand becomes ""soft"",","valued as 11, the hand is called ""soft"",",called,hand,becomes,DYNAMIC,becoming,full_contrast
+which creates a specific scenario,meaning,meaning,nan,creates,DYNAMIC,insert_verb,full_contrast
+"that the player need not fear taking an additional card, as they cannot go bust ;",that the player cannot go bust by taking an additional card;,go,player,need not,STATIVE,deontic,full_contrast
+Players add 11 plus the value of any other card to get less than or equal to 21 .,11 plus the value of any other card will always be less than or equal to 21.,be,11,add,DYNAMIC,participant,
+"Otherwise, the hand is treated as ""hard"".","Otherwise, the hand is ""hard"".",is,hand,treated,DYNAMIC,participant,
+The dealer is asked to take hits,The dealer has to take hits,has,dealer,asked,DYNAMIC,participant,
+until his or her cards add up to 17 or more points.,until his or her cards total 17 or more points.,nan,nan,add up,DYNAMIC,insert_verb,full_contrast
+"(In some casinos, the dealer also can have hits on a ""soft"" 17—e.g., an initial ace and six.)","(In some casinos, the dealer also hits on a ""soft"" 17e.g., an initial ace and six.)",hits,dealer,have,STATIVE,light_verb,full_contrast
+It is agreed that players win,Players win,win,Players,agreed,STATIVE,thought,
+if they have a game where they did not bust,if they do not bust,bust,they,have,STATIVE,light_verb,full_contrast
+and reach a total,and have a total,have,they,reach,DYNAMIC,heavy_verb,full_contrast
+that becomes higher than the dealer's.,that is higher than the dealer's.,is,total,becomes,DYNAMIC,becoming,full_contrast
+It is agreed that the dealer loses,The dealer loses,loses,dealer,agreed,STATIVE,thought,
+if he or she is seen to have busted or has a lesser hand than the player ,if he or she busts or has a lesser hand than the player,busts,she,seen,STATIVE,thought,full_contrast
+who is still in the game.,who has not busted.,busted,player,is,STATIVE,copula,full_contrast
+"If the player and dealer receive the same point total,","If the player and dealer have the same point total,",have,dealer,receive,DYNAMIC,participant,
+"this is labeled by all participants as a ""push"",","this is called a ""push"",",called,this,labeled,DYNAMIC,participant,full_contrast
+and the player's hand typically does not constitute a win or loss of money.,and the player typically does not win or lose money on that hand.,win,this,constitute,STATIVE,descriptive,full_contrast
+Many rule variations of blackjack are played.,Many rule variations of blackjack exist.,exist,variations,played,DYNAMIC,participant,
+"Since the 1960s, blackjack has functioned as a high-profile target of advantage players, particularly card counters,","Since the 1960s, blackjack has been a high-profile target of advantage players, particularly card counters,",been,blackjack,functioned,DYNAMIC,insert_verb,
+who wish to track the profile of cards,who track the profile of cards,track,target,wish to,STATIVE,thought,full_contrast
+that they consider as already dealt,that have been dealt,dealt,cards,consider,STATIVE,thought,full_contrast
+in order to have the ability to adapt their wagers and playing strategies accordingly.,and adapt their wagers and playing strategies accordingly.,adapt,target,have,STATIVE,light_verb,full_contrast
+"Other casino games were inspired by blackjack, including Spanish 21 and pontoon.",Other casino games inspired by blackjack include Spanish 21 and pontoon.,include,games,inspired,DYNAMIC,upgrade_ppl,
+The recreational British card game of black jack functions as a shedding-type game and unrelated to the subject of this article.,The recreational British card game of black jack is a shedding-type game and unrelated to the subject of this article.,is,game,is,DYNAMIC,insert_verb,
+==History==,==History==,=,twenty-one,,CANNOT_DECIDE,,
+"Twenty-one, a game of unknown origin, evolved in the public opinion to be viewed as a predecessor to Blackjack.","Blackjack's precursor was twenty-one, a game of unknown origin.",was,nan,became,DYNAMIC,insert_verb,
+"The first written reference was discovered in a book by the Spanish author Miguel de Cervantes, most famous for writing Don Quixote.","The first written reference is found in a book by the Spanish author Miguel de Cervantes, most famous for writing Don Quixote.",found,reference,discovered,DYNAMIC,participant,
+"Cervantes famously gambled,","Cervantes was a gambler,",was,Cervantes,gambled,DYNAMIC,insert_verb,
+"and the main characters of his tale Rinconete y Cortadillo, from Novelas Ejemplares, are exposed as a couple of cheats","and the main characters of his tale Rinconete y Cortadillo, from Novelas Ejemplares, are a couple of cheats",are,characters,exposed,DYNAMIC,participant,full_contrast
+who are content to be working in Seville.,working in Seville.,working,cheats,copula,STATIVE,copula,full_contrast
+They cheat frequently at ventiuna,They are proficient at cheating at ventiuna,are,They,cheat,DYNAMIC,insert_verb,
+"(Spanish for twenty-one), and declare","(Spanish for twenty-one), and state",state,They,declare,DYNAMIC,insert_verb,full_contrast
+that you win the game by reaching 21 points,that the object of the game is to reach 21 points,is,object,win,DYNAMIC,insert_verb,full_contrast
+without going over,without going over,going,object,,CANNOT_DECIDE,,
+and that the ace is chosen by the player to be 1 or 11.,and that the ace values 1 or 11.,values,object,chosen,DYNAMIC,participant,full_contrast
+"The game contains the Spanish baraja deck,","The game is played with the Spanish baraja deck,",played,game,contains,STATIVE,descriptive,
+"which lacks eights, nines and tens.","which lacks eights, nines and tens.",lacks,deck,,STATIVE,,
+"This short story first existed between 1601 and 1602,","This short story was written between 1601 and 1602,",written,story,existed,STATIVE,descriptive,
+which people narrowed down to imply,implying,implying,nan,narrowed down,DYNAMIC,participant,full_contrast
+that ventiuna had been part of Castilla since the beginning of the 17th century or earlier.,that ventiuna was played in Castilla since the beginning of the 17th century or earlier.,played,ventiuna,been,STATIVE,copula,full_contrast
+Later references to this game were also recorded in France and Spain.,Later references to this game are found in France and Spain.,found,references,recorded,DYNAMIC,participant,
+"When twenty-one was introduced in the United States, players loved flocking to gambling houses due to the bonus payouts they were offered there.","When twenty-one was introduced in the United States, gambling houses offered bonus payouts to stimulate players' interest.",offered,houses,introduced,STATIVE,thought,
+One such bonus became a ten-to-one payout,One such bonus was a ten-to-one payout,was,bonus,became,DYNAMIC,becoming,
+if the player showed that their hand contained an ace of spades and a black jack (either the jack of clubs or the jack of spades).,if the player's hand consisted of the ace of spades and a black jack (either the jack of clubs or the jack of spades).,consisted,hand,showed,DYNAMIC,insert_verb,full_contrast
+"This hand was christened a ""blackjack""","This hand was called a ""blackjack""",called,hand,christened,DYNAMIC,participant,
+"and the name was then synonymous to the game,","and the name stuck to the game,",stuck,name,was,STATIVE,copula,full_contrast
+even though players quickly wanted the ten-to-one bonus to be withdrawn.,even though the ten-to-one bonus was soon withdrawn.,withdrawn,bonus,wanted,STATIVE,thought,full_contrast
+"In the modern game, any hand of an ace plus a ten or face card, regardless of suits or colours, operates as the eponymous blackjack.","In the modern game, a blackjack refers to any hand of an ace plus a ten or face card, regardless of suits or colours.",refers,blackjack,operates,DYNAMIC,participant,
+==Rules of play at casinos==,==Rules of play at casinos==,nan,nan,,CANNOT_DECIDE,,
+"At a casino blackjack table, the dealer agrees to face five to seven playing positions from behind a semicircular table.","At a casino blackjack table, the dealer faces five to seven playing positions from behind a semicircular table.",faces,dealer,agrees,STATIVE,thought,
+The shuffling involves one to eight standard 52-card decks.,Between one and eight standard 52-card decks are shuffled together.,shuffled,decks,,STATIVE,descriptive,
+"At the beginning of each round, up to three players need to place their bets in the ""betting box"" at each position in play.","At the beginning of each round, up to three players place their bets in the ""betting box"" at each position in play.",place,players,need to,STATIVE,deontic,
+"The player whose bet is at the front of the betting box controls the position,","The player whose bet is at the front of the betting box is deemed to have control over the position,",deemed,player,controls,DYNAMIC,participant,
+and the dealer ought to consult the controlling player for playing decisions regarding the hand;,and the dealer will consult the controlling player for playing decisions regarding the hand;,consult,player,ought to,STATIVE,deontic,full_contrast
+"the other players of that box ""play behind"".","the other players of that box are said to ""play behind"".",said,players,play,DYNAMIC,upgrade_ppl,full_contrast
+Any player controls or bets in as many boxes,Any player is usually allowed to control or bet in as many boxes,allowed,player,controls or bets,DYNAMIC,participant,
+"as desired at a single table,","as desired at a single table,",desired,nan,,CANNOT_DECIDE,,
+but the players stop an individual,but it is prohibited,prohibited,player,stop,DYNAMIC,participant,full_contrast
+if they try play on more than one table at a time,for an individual to play on more than one table at a time,play,individual,,CANNOT_DECIDE,,
+or to place multiple bets within a single box.,or to place multiple bets within a single box.,place,individual,,CANNOT_DECIDE,,
+"In many U.S. casinos, however, players only play two or three positions at a table","In many U.S. casinos, however, players are limited to playing two or three positions at a table",limited,players,play,DYNAMIC,participant,
+and often only one person bets on each position.,and often only one person is allowed to bet on each position.,allowed,players,bets,DYNAMIC,upgrade_ppl,full_contrast
+The dealer knows to deal cards from his/her left,The dealer deals cards from his/her left,left,cards,knows,STATIVE,thought,
+"(the position on the dealer's far left is called ""first base"") to her far right (""third base"").","(the position on the dealer's far left is often referred to as ""first base"") to her far right (""third base"").",referred,position,called,STATIVE,descriptive,full_contrast
+Each box possesses an initial hand of two cards visible to the people,Each box is dealt an initial hand of two cards visible to the people,dealt,box,possesses,STATIVE,descriptive,
+"who play the game, and often to any other players.","playing on it, and often to any other players.",playing,people,play,DYNAMIC,upgrade_ppl,full_contrast
+"The dealer's hand has its first card face up,","The dealer's hand receives its first card face up,",receives,hand,has,STATIVE,light_verb,
+"and in ""hole card"" games their immediate second card is face down (the hole card),","and in ""hole card"" games immediately receives its second card face down (the hole card),",receives,hand,is,STATIVE,copula,full_contrast
+which the dealer is free to peek at,which the dealer peeks at,peeks,dealer,is,STATIVE,copula,full_contrast
+but needs to not reveal,but does not reveal,reveal,games,needs to,STATIVE,deontic,full_contrast
+unless the dealer's hand would be a blackjack.,unless it makes the dealer's hand a blackjack.,makes,it,be,STATIVE,copula,full_contrast
+Locations of hole card games usually resemble tables with a small mirror or electronic sensor,Hole card games are sometimes played on tables with a small mirror or electronic sensor,played,games,resemble,STATIVE,descriptive,
+that have a secure view of the hole card.,that is used to peek securely at the hole card.,used,mirror,have,STATIVE,light_verb,full_contrast
+"In European casinos, ""no hole card"" games are often played;","In European casinos, ""no hole card"" games are prevalent;",are,games,played,DYNAMIC,insert_verb,
+the dealer's second card remains neither drawn nor consulted,the dealer's second card is neither drawn nor consulted,drawn,card,remains,STATIVE,descriptive,full_contrast
+depending on whether all hands have been played,until the players have all played their hands.,played,players,depending on,STATIVE,downgrade_to_ppl,full_contrast
+"Cards appear either from one or two handheld decks, from a dealer's shoe, or from a shuffling machine.","Cards are dealt either from one or two handheld decks, from a dealer's shoe, or from a shuffling machine.",dealt,Cards,appear,STATIVE,descriptive,
+"Single cards involve dealing to each wagered-on position clockwise from the dealer's left,","Single cards are dealt to each wagered-on position clockwise from the dealer's left,",dealt,cards,involve,STATIVE,descriptive,
+"involving a single card that follows the dealer,","followed by a single card to the dealer,",followed,position,involving,STATIVE,descriptive,full_contrast
+and an additional card that corresponds to each of the positions in play.,followed by an additional card to each of the positions in play.,followed,position,corresponds,STATIVE,descriptive,full_contrast
+The players' initial cards need to consistently be dealt either face up,The players' initial cards may be dealt face up,dealt,cards,need to,STATIVE,deontic,
+or face down (more common in single-deck games).,or face down (more common in single-deck games).,face,nan,,CANNOT_DECIDE,,

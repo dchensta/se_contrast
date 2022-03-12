@@ -30,25 +30,28 @@ class SE_Trainer:
         #warnings.filterwarnings(action='ignore')
 
         print('Initiating training process')
+        '''
+        print("Running hyperparameter searches: Classifier")
+        clf_results = self.__run_hyperparam_search()
+        print("Models trained.")
 
-        #print("Running hyperparameter searches: Classifier")
-        #clf_results = self.__run_hyperparam_search()
-        #print("Models trained.")
-
-        # clf_model = clf_results["model"]
-        # clf_featurization = clf_results["featurization"]
-        # clf_avg_score = clf_results["avg_score"]
-        # clf_std = clf_results["std_score"]
+        clf_model = clf_results["model"]
+        clf_featurization = clf_results["featurization"]
+        clf_avg_score = clf_results["avg_score"]
+        clf_std = clf_results["std_score"]
+        '''
 
         #report = f"Best performing classifier: {clf_model}, Featurization: {clf_featurization}, Classifier Performance: {clf_avg_score}, Classifier Standard Deviation: {clf_std}"
 
         #11/1/21 attempt
         X, y = self.get_data()
         clf_model = LogisticRegression(solver="liblinear", random_state=0, max_iter=500).fit(X, y)
+        #clf_model = pkl.load(open("sd_model/lr_sd_clf_bert.pkl", "rb"))
+        print(cross_val_score(clf_model, X, y, cv=5))
         print('Training Completed')
         #print(report)
 
-        pkl.dump(clf_model, open(self.model_path + "/lr_se_clf.pkl", "wb"))
+        pkl.dump(clf_model, open(self.model_path + "/lr_se_clf_bert_march.pkl", "wb"))
         #return clf_results
         return "Finished training classifier."
     
@@ -96,10 +99,10 @@ class SE_Trainer:
         clauses = self.data["Clause"] #Access Clause column from master data DataFrame
         featurizer = FeaturizerFactory()
         print("Featurizing")
-        # X = featurizer.featurize(clauses, "BERT")
-        # filtered_X = X[~torch.any(X.isnan(),dim=1)]
-        # torch.save(filtered_X, 'x_tensor.pt')
-        filtered_X = torch.load("x_tensor.pt")
+        #X = featurizer.featurize(clauses, "BERT")
+        #filtered_X = X[~torch.any(X.isnan(),dim=1)]
+        #torch.save(filtered_X, 'x_tensor_roberta.pt')
+        filtered_X = torch.load("x_tensor_bert.pt")
         y = self.data["Gold"] #Gold stative/dynamic labels
         return filtered_X, y
 
@@ -146,8 +149,8 @@ class SE_Trainer:
                                         "model":{sklearn LogisticRegression} = Logistic Regression model that produced optimal average 5-fold cross-validation score
                                       }
         '''
-        solvers = ['liblinear', 'newton-cg', 'lbfgs'] #algorithms that do some approximation 
-        penalties = ['none', 'l2']
+        solvers = ['liblinear', 'newton-cg'] #algorithms that do some approximation 
+        penalties = ['l2'] #ValueError: penalty='none' is not supported for the liblinear solver
         c_values = [100, 10, 1.0, 0.1, 0.01]
 
         lr_hyperparams = []

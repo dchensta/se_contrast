@@ -1,0 +1,317 @@
+,Clause,mainVerb,mainReferent,Gold,predictions,Contrast,Contrast_Labels
+0,The Decline of the Northeastern Ohio Steel Market: Why Did Attempts by Union Leaders and Concerned Citizens to Revive the Steel Industry Ultimately Fail?,Fail,Market,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+1,"An Extended Essay in History By Philosophy E. Walker Candidate Number: xxxxxxxxx Supervisor: Alexis Mamaux Date: January 12, 2004 Word Count: 3215 United World College of the American West Montezuma, NM 87731 USA",,,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+2,"September 19, 1977 became a date",is,USA,DYNAMIC,['DYNAMIC'],y,STATIVE
+3,"that few people in Youngstown, Ohio will ever forget.",forget,people,DYNAMIC,['DYNAMIC'],,STATIVE
+4,"On that date Jennings Lambeth, president of Youngstown Sheet and Tube Company, thought",announced,Lambeth,STATIVE,['DYNAMIC'],y,DYNAMIC
+5,that most of the steel companys Campbell Works would close.,close,most,DYNAMIC,['DYNAMIC'],,STATIVE
+6,"Although for other cities this would simply create a minor economic setback, for the people of Youngstown and the surrounding area,",be,this,DYNAMIC,['DYNAMIC'],y,STATIVE
+7,it meant disaster.,meant,it,STATIVE,['STATIVE'],,DYNAMIC
+8,"Mahoning County was treated as a one-industry area,",was,County,DYNAMIC,['STATIVE'],y,STATIVE
+9,"and the people of Youngstown, Struthers, Campbell, Boardman Township, and the numerous other small towns and villages in the area only had one main employer: the steel mills.",had,area,STATIVE,['STATIVE'],,DYNAMIC
+10,The events that were on this date,follow,events,STATIVE,['STATIVE'],y,DYNAMIC
+11,(known as Black Monday),known,events,STATIVE,['DYNAMIC'],,DYNAMIC
+12,are seen by the people,seen,events,STATIVE,['DYNAMIC'],,DYNAMIC
+13,who witnessed them either as stories of great courage and determination or as monuments to human failure and false hope.,witnessed,people,DYNAMIC,['DYNAMIC'],,STATIVE
+14,Rather than sit back,sit,than,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+15,and wait,wait,than,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+16,"for their jobs to be snatched away, the workers and local union members in the mills fought long and hard to be able to keep the factories open.",fought,workers,DYNAMIC,['DYNAMIC'],,STATIVE
+17,Those in the industry wanted to preserve the only source of employment,attempted,collectivization,STATIVE,['STATIVE'],y,DYNAMIC
+18,that this town had.,had,source,STATIVE,['DYNAMIC'],,DYNAMIC
+19,They meant well with their efforts but ultimately failed,failed,efforts,STATIVE,['DYNAMIC'],y,DYNAMIC
+20,leaving thousands with shattered dreams and a distinct lack of trust in fellow humankind.,leaving,,DYNAMIC,['CANNOT_DECIDE'],,STATIVE
+21,But why did the brave attempts by union leaders and concerned citizens to revive the steel industry ultimately fail?,fail,attempts,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+22,"Based on the area’s history, culture, and economic situation",examining,identify,STATIVE,['STATIVE'],y,DYNAMIC
+23,we can identify four main reasons:,identify,we,DYNAMIC,['STATIVE'],,STATIVE
+24,"the refusal of the international leadership of United Steelworkers of America to support their unions Youngstown branch, the lagging international steel market, the lack of a clear, organized vision for individual initiatives such as the Save Our Valley Campaign, and crippling regionalism",support,refusal,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+25,"which caused animosity between different small towns in the region,",caused,regionalism,DYNAMIC,['DYNAMIC'],,STATIVE
+26,all contributed in some way to the failure of the workers and union leaders to save the industry.,contributed,all,DYNAMIC,['DYNAMIC'],,STATIVE
+27,"Most importantly, the problem in Youngstown amounted to a nationwide problem.",was,problem,DYNAMIC,['STATIVE'],y,STATIVE
+28,"Although it was in Youngstown and the surrounding area more than in other regions,",affected,it,STATIVE,['STATIVE'],y,DYNAMIC
+29,the local people simply could not solve a national crisis on a local level.,solve,people,DYNAMIC,['STATIVE'],,STATIVE
+30,A Brief History of Steel in Northeastern Ohio,,,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+31,"In 1802, Yellow Creek was lined with ore and coal in an area outside of Youngstown",discovered,History,STATIVE,['DYNAMIC'],y,DYNAMIC
+32,known as Poland Township.,known,area,STATIVE,['STATIVE'],,DYNAMIC
+33,"Their blast furnace, “Hopewell,” served as the very first blast furnace in the area.",was,furnace,DYNAMIC,['DYNAMIC'],y,STATIVE
+34,"During the Civil War, Youngstown was a supply depot offering the Union army access to iron products.",played,Youngstown,STATIVE,['DYNAMIC'],y,DYNAMIC
+35,"Youngstown also acted as a major railway crossroads, due to its strategic position between Cleveland, Pittsburgh, New York, and Chicago.",was,Youngstown,DYNAMIC,['DYNAMIC'],y,STATIVE
+36,"In fact, The Center Street Bridge had more rail cars [a major bridge in Youngstown] on any given day than any other location in the country.",passed,cars,STATIVE,['STATIVE'],y,DYNAMIC
+37,"During the 19th century, the center of iron manufacturing wasn’t in the far East Coast anymore.",shifted,center,STATIVE,['STATIVE'],y,DYNAMIC
+38,"(Massachusetts and Eastern Pennsylvania) to the Ohio Valley Pittsburgh regions of the Northeast, including the Mahoning Valley and the Hanging Rock region of Ohio and Kentucky.",including,,STATIVE,['CANNOT_DECIDE'],,DYNAMIC
+39,"By 1880, Youngstown’s population was nearly 16,000,",grown,population,STATIVE,['STATIVE'],y,DYNAMIC
+40,which meant,meant,"16,000",STATIVE,['STATIVE'],,DYNAMIC
+41,it had doubled in size over a twenty-year period.,doubled,it,DYNAMIC,['DYNAMIC'],,STATIVE
+42,"The town was very prosperous,",continued,town,STATIVE,['STATIVE'],y,DYNAMIC
+43,driven by the flux of immigrants,driven,continued,STATIVE,['DYNAMIC'],,DYNAMIC
+44,pouring in with the hopes of employment at the mills.,pouring,immigrants,DYNAMIC,['DYNAMIC'],,STATIVE
+45,"This prosperity lingered until the late 1920s,",continued,prosperity,DYNAMIC,['DYNAMIC'],y,STATIVE
+46,when the Great Depression hit the area hard.,hit,Depression,DYNAMIC,['DYNAMIC'],,STATIVE
+47,"Despite the Congress of Industrial Organizations successful efforts to establish a national steel workers union,",establish,efforts,CANNOT_DECIDE,['DYNAMIC'],,CANNOT_DECIDE
+48,the industry barely survived the Depression years.,survived,industry,DYNAMIC,['DYNAMIC'],,STATIVE
+49,"Finally, due to the outbreak of the Second World War, iron and steel were important again,",made,outbreak,STATIVE,['DYNAMIC'],y,DYNAMIC
+50,and Youngstown was bolstered out of its economic standstill into a fast-paced period of booming growth.,bolstered,outbreak,DYNAMIC,['DYNAMIC'],,STATIVE
+51,"Youngstown may have enjoyed prominence and prosperity in the post-war period,",been,Youngstown,DYNAMIC,['DYNAMIC'],y,STATIVE
+52,but the seeds for its downfall were slowly being sown.,sown,region,DYNAMIC,['DYNAMIC'],,STATIVE
+53,"There were strikes in the town during the forties, fifties, and sixties,",racked,Strikes,STATIVE,['DYNAMIC'],y,DYNAMIC
+54,and they were often long and bloody.,were,they,STATIVE,['STATIVE'],,DYNAMIC
+55,"In 1973, the Experimental Negotiating Agreement was signed.",signed,Agreement,DYNAMIC,['DYNAMIC'],y,STATIVE
+56,"Strikes and lockout were prohibited,",prohibited,This,STATIVE,['DYNAMIC'],y,DYNAMIC
+57,angering workers,angering,prohibited,DYNAMIC,['CANNOT_DECIDE'],,STATIVE
+58,and driving productivity and laborer morale down.,driving,prohibited,DYNAMIC,['DYNAMIC'],,STATIVE
+59,"At the same time, stricter governmental standards for environmental protection and the growth of imported steel were obstacles to producing and marketing American steel parts,",making,standards,STATIVE,['DYNAMIC'],y,DYNAMIC
+60,and the overeager shareholders in the companies stock were pushing for more and more of their share of the pie.,pushing,standards,DYNAMIC,['DYNAMIC'],,STATIVE
+61,"Most importantly, Youngstown’s steel mills were now less efficient and more expensive.",becoming,mills,STATIVE,['DYNAMIC'],y,DYNAMIC
+62,Old technology was untouched,replaced,technology,STATIVE,['STATIVE'],y,DYNAMIC
+63,"obsolete methods were not updated,",updated,technology,DYNAMIC,['DYNAMIC'],,STATIVE
+64,and almost none of the industrys profits were being utilized to help modernize.,utilized,technology,DYNAMIC,['STATIVE'],,STATIVE
+65,These failures spelled certain doom,was,It,DYNAMIC,['DYNAMIC'],y,STATIVE
+66,that would soon explode in the faces of hundreds of thousands of workers and their families.,explode,recipe,DYNAMIC,['DYNAMIC'],,STATIVE
+67,Black Monday and the Crash of the Steel Industry,,,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+68,"The announcement of the closing of the mills in 1977 started a downward spiral,",was,Crash,DYNAMIC,['DYNAMIC'],y,STATIVE
+69,which would send the entire valley into chaos and ruin.,send,spiral,DYNAMIC,['DYNAMIC'],,STATIVE
+70,Mill closings happened five times between 1977 and 1981.,closed,total,STATIVE,['DYNAMIC'],y,DYNAMIC
+71,"and approximately 25,000 jobs were lost countywide.",lost,total,DYNAMIC,['DYNAMIC'],,STATIVE
+72,Union officials and mill bosses were in hurried meetings in an attempt to persuade the powers,set,Meetings,STATIVE,['DYNAMIC'],y,DYNAMIC
+73,that be to reconsider their statement.,be,powers,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+74,"However, it became clear",was,it,DYNAMIC,['DYNAMIC'],y,STATIVE
+75,"that, in the words of USWA president Lloyd McBride, If",,,CANNOT_DECIDE,['DYNAMIC'],,CANNOT_DECIDE
+76,"you cant make a buck,",make,you,DYNAMIC,['DYNAMIC'],,STATIVE
+77,you get out of the business.,get,you,DYNAMIC,['DYNAMIC'],,STATIVE
+78,"The closings marked the end of Youngstown’s only real industry, the end of its population growth, and then end of economic progress.",meant,closings,DYNAMIC,['DYNAMIC'],y,STATIVE
+79,"Without the mills, people needed other places of employment in adjoining states or even other areas of the country.",sought,people,STATIVE,['DYNAMIC'],y,DYNAMIC
+80,People who could afford to soundly desired to move.,did,Those,STATIVE,['DYNAMIC'],y,DYNAMIC
+81,those that couldnt afford to move mostly ended up on the streets.,ended,those,DYNAMIC,['DYNAMIC'],,STATIVE
+82,"Without an industrial or a residential base, commerce was down considerably.",shrank,commerce,STATIVE,['STATIVE'],y,DYNAMIC
+83,It was increasingly clear,becoming,It,STATIVE,['STATIVE'],y,DYNAMIC
+84,that without the industrial base provided,provided,base,CANNOT_DECIDE,['STATIVE'],,CANNOT_DECIDE
+85,"by the mills, the city of Youngstown would soon become a ghost town,",become,city,DYNAMIC,['STATIVE'],,STATIVE
+86,inhabited by those too poor or hopeful to escape.,inhabited,town,STATIVE,['STATIVE'],,DYNAMIC
+87,The workers knew,decided,workers,STATIVE,['DYNAMIC'],y,DYNAMIC
+88,"they needed to do something to save their city,",needed,they,STATIVE,['STATIVE'],,DYNAMIC
+89,and so they mobilized in a variety of ways.,mobilized,they,DYNAMIC,['DYNAMIC'],,STATIVE
+90,Attempts to Save the Mills,Save,Attempts,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+91,"The very first thing that the workers could do was highlighted as “getting up a petition to stop the shutdown,",“,Attempts,DYNAMIC,['DYNAMIC'],y,STATIVE
+92," says Ed Mann, a local union leader and organizer.",says,”,DYNAMIC,['DYNAMIC'],,STATIVE
+93,They had a petition go around,circulated,petition,STATIVE,['DYNAMIC'],y,DYNAMIC
+94,eventually including thousands of signatures;,including,circulated,STATIVE,['DYNAMIC'],,DYNAMIC
+95,it was then given to USWA representatives to present to President Carter in Washington.,given,it,DYNAMIC,['DYNAMIC'],,STATIVE
+96,"However, the representatives were unhappy",shunted,representatives,STATIVE,['DYNAMIC'],y,DYNAMIC
+97,"and ignored in Washington,",ignored,representatives,DYNAMIC,['DYNAMIC'],,STATIVE
+98,since Youngstowns political influence had died with its industry.,died,influence,DYNAMIC,['DYNAMIC'],,STATIVE
+99,"The International chapter of the USWA held much more lobbying power,",had,chapter,DYNAMIC,['DYNAMIC'],y,STATIVE
+100,but they refused to support the local union members.,refused,chapter,DYNAMIC,['DYNAMIC'],,STATIVE
+101,The petition was a needle in a haystack amongst paperwork and bureaucratic procedure.,lost,petition,STATIVE,['STATIVE'],y,DYNAMIC
+102,The Ecumenical Coalition is an organization,decided,workers,STATIVE,['STATIVE'],y,DYNAMIC
+103,of local religious groups which spearheaded the attempt to reopen the Youngstown works.,spearheaded,groups,DYNAMIC,['DYNAMIC'],,STATIVE
+104,The Coalition drafters wanted to know,drafter,Coalition,STATIVE,['STATIVE'],y,DYNAMIC
+105,if a group of workers might purchase the mill,purchase,group,DYNAMIC,['DYNAMIC'],,STATIVE
+106,and run it collectively.,run,group,DYNAMIC,['DYNAMIC'],,STATIVE
+107,The letters remained unread by Lykes,ignored,Lykes,STATIVE,['DYNAMIC'],y,DYNAMIC
+108,so the Coalition turned once again to the federal government.,turned,Coalition,DYNAMIC,['DYNAMIC'],,STATIVE
+109,"Here, too, they were unheeded.",ignored,they,STATIVE,['STATIVE'],y,DYNAMIC
+110,The Coalition lacked proper funds to buy the mills,had,Coalition,DYNAMIC,['DYNAMIC'],y,STATIVE
+111,so they could do nothing,do,they,DYNAMIC,['DYNAMIC'],,STATIVE
+112,but sit back,sit,they,DYNAMIC,['CANNOT_DECIDE'],,STATIVE
+113,and watch,watch,they,DYNAMIC,['DYNAMIC'],,STATIVE
+114,as the mills closed.,closed,mills,DYNAMIC,['DYNAMIC'],,STATIVE
+115,"Finally, following the shutdown of US Steel’s plant in 1980, local union leaders were outside the US Steel Headquarters in Youngstown.",following,,STATIVE,['DYNAMIC'],y,DYNAMIC
+116,"They depended on local people and politicians to witness the scene,",invited,They,STATIVE,['DYNAMIC'],y,DYNAMIC
+117,then charged the Headquarters,charged,They,DYNAMIC,['DYNAMIC'],,STATIVE
+118,and took it over.,took,They,DYNAMIC,['DYNAMIC'],,STATIVE
+119,The workers were there until the next day.,stayed,workers,STATIVE,['DYNAMIC'],y,DYNAMIC
+120,when US Steel declared,declared,Steel,DYNAMIC,['DYNAMIC'],,STATIVE
+121,that they were ready to talk about selling the mill.,were,they,STATIVE,['STATIVE'],,DYNAMIC
+122,"Immediately after the workers left the building, US steel representatives wanted to let the local union leaders know",told,representatives,STATIVE,['DYNAMIC'],y,DYNAMIC
+123,that they had changed their minds,changed,they,DYNAMIC,['DYNAMIC'],,STATIVE
+124,and were no longer interested in allowing the workers to purchase the mill.,were,they,STATIVE,['DYNAMIC'],,DYNAMIC
+125,"All these efforts eventually were for nothing,",came,efforts,STATIVE,['DYNAMIC'],y,DYNAMIC
+126,and Youngstowns steel mills remained closed.,remained,efforts,STATIVE,['DYNAMIC'],,DYNAMIC
+127,"Several major factors existed as obstacles to saving the mills,",hindered,attempts,STATIVE,['STATIVE'],y,DYNAMIC
+128,"including the decline of the world steel market,",including,,STATIVE,['STATIVE'],,DYNAMIC
+129,which made American steel impossible to sell or export.,made,factors,DYNAMIC,['DYNAMIC'],,STATIVE
+130,The Decline of the World Market,,,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+131,The efforts to save the mills were for naught,failed,Decline,STATIVE,['STATIVE'],y,DYNAMIC
+132,partly because the international market for steel had largely dried up.,dried,market,DYNAMIC,['STATIVE'],,STATIVE
+133,During World War II the rest of the world lusted for America’s iron and steel products;,was,rest,DYNAMIC,['DYNAMIC'],y,STATIVE
+134,"however, by the seventies no foreign nations needed to import steel in such large quantities.",needed,nations,STATIVE,['DYNAMIC'],,DYNAMIC
+135,"In fact, American steel imports were now bigger than exports.",beginning,imports,STATIVE,['STATIVE'],y,DYNAMIC
+136,"Foreign steel had become easier and more efficient to make,",was,steel,DYNAMIC,['DYNAMIC'],y,STATIVE
+137,and was often of higher quality than domestic steel.,was,steel,STATIVE,['STATIVE'],,DYNAMIC
+138,"Foreign steel companies were heavily invested in their factories,",invested,companies,STATIVE,['DYNAMIC'],y,DYNAMIC
+139,updating their technology and replacing their equipment often.,updating,companies,DYNAMIC,['DYNAMIC'],,STATIVE
+140,This led to a new status quo:,meant,This,DYNAMIC,['DYNAMIC'],y,STATIVE
+141,"that foreign facilities were more modern and efficient than any plants in America,",were,facilities,STATIVE,['STATIVE'],,DYNAMIC
+142,and therefore were able to export a more competitive product.,were,facilities,STATIVE,['DYNAMIC'],,DYNAMIC
+143,Foreign steel also became much cheaper.,was,steel,DYNAMIC,['DYNAMIC'],y,STATIVE
+144,"Wage hikes, although they signified improved living conditions of steel workers in the US,",helped,made,STATIVE,['DYNAMIC'],y,DYNAMIC
+145,made American steel far more expensive.,made,hikes,DYNAMIC,['DYNAMIC'],,STATIVE
+146,"Also, international competitors drew on a large supply of very cheap labor.",drew,competitors,DYNAMIC,['STATIVE'],y,STATIVE
+147,"Other steel-exporting countries simply didn't offer enough jobs,",were,Jobs,DYNAMIC,['DYNAMIC'],y,STATIVE
+148,and labor laws were either non-existent or allowed employers to pay much less for work.,were,laws,STATIVE,['STATIVE'],,DYNAMIC
+149,"Labor costs in America appeared to continually rise,",continued,costs,STATIVE,['DYNAMIC'],y,DYNAMIC
+150,"draining US companies of their resources,",draining,,DYNAMIC,['DYNAMIC'],,STATIVE
+151,while companies overseas were able to cut labor costs,were,companies,STATIVE,['DYNAMIC'],,DYNAMIC
+152,and put that money back into updating and renovating their facilities.,put,companies,DYNAMIC,['DYNAMIC'],,STATIVE
+153,"On a worldwide scale, newer materials such as aluminum, plastic, and composites seemed to be substitutions for steel both at home and abroad.",beginning,materials,STATIVE,['DYNAMIC'],y,DYNAMIC
+154,Steel demand worldwide were having shortages ,beginning,demand,STATIVE,['DYNAMIC'],y,DYNAMIC
+155,and it affected both domestic and foreign companies.,affected,demand,DYNAMIC,['DYNAMIC'],,STATIVE
+156,"However, to American companies already suffering financial setbacks, outdated machinery, and fierce competition, this lack of demand became an inconvenience",was,lack,DYNAMIC,['DYNAMIC'],y,STATIVE
+157,they could not afford.,afford,they,STATIVE,['DYNAMIC'],,DYNAMIC
+158,"America’s steel found no buyers,",remained,steel,DYNAMIC,['DYNAMIC'],,STATIVE
+159,flooding the world market with inferior products,flooding,steel,DYNAMIC,['DYNAMIC'],,STATIVE
+160,that no one wanted to buy.,wanted,one,STATIVE,['DYNAMIC'],,DYNAMIC
+161,"Since this problem yielded national consequences rather than local ones, the problems",was,problem,DYNAMIC,['STATIVE'],y,STATIVE
+162,that were occurring in Youngstown were not unique.,were,problems,STATIVE,['STATIVE'],,DYNAMIC
+163,"Youngstown was perhaps more desolate than any other town because of the collapse of the steel industry,",hit,Youngstown,STATIVE,['STATIVE'],y,DYNAMIC
+164,but it was not alone.,was,it,STATIVE,['STATIVE'],,DYNAMIC
+165,The nationwide problem addressed many more mills and issues than Youngstown’s alone.,was,problem,DYNAMIC,['DYNAMIC'],y,STATIVE
+166,"J. Philip Richley, a union member and organizer of many attempts to save the mills, had this to say after:",save,attempts,STATIVE,['DYNAMIC'],y,DYNAMIC
+167,“It is impossible to solve a nation-wide problem in a single city.”,“,”,STATIVE,['STATIVE'],y,DYNAMIC
+168,The decline of the world steel market included not just in Youngstown but the entire steel community in America.,affected,decline,STATIVE,['DYNAMIC'],y,DYNAMIC
+169,Trying to prop up one city’s mills appeared impossible,was,Trying,DYNAMIC,['DYNAMIC'],y,STATIVE
+170,when faced with the depression,faced,,DYNAMIC,['DYNAMIC'],,STATIVE
+171,that spread throughout the entire industry.,spread,depression,DYNAMIC,['DYNAMIC'],,STATIVE
+172,The Save Our Valley Campaign: Lack of Funds and Plans,,,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+173,"Eventually, some religious leaders involved in the Ecumenical Coalition, along with community members and former steel mill employees, agreed to form the Save Our Valley Campaign.",joined,Campaign,STATIVE,['DYNAMIC'],y,DYNAMIC
+174,"In naming the campaign as such,",suggests,name,DYNAMIC,['DYNAMIC'],y,STATIVE
+175,"local leaders wanted to instill the people of Youngstown with a fierce sense of urgency,",wanted,leaders,STATIVE,['STATIVE'],,DYNAMIC
+176,driving them forward to confront steel companies and owners,driving,,DYNAMIC,['DYNAMIC'],,STATIVE
+177,and help secure the future of the region.,help,,DYNAMIC,['CANNOT_DECIDE'],,STATIVE
+178,"Marches, speeches, and letter writing were all part of the drive to help stimulate the Campaign",employed,speeches,STATIVE,['STATIVE'],y,DYNAMIC
+179,and rally the people.,rally,,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+180,But the Campaign felt heavy losses from the lack of proper funding.,bogged,Campaign,STATIVE,['DYNAMIC'],y,DYNAMIC
+181,"The unemployed people of Youngstown, being now unemployed couldn’t spend on anything but staying alive.",unemployed,people,DYNAMIC,['STATIVE'],y,STATIVE
+182,"College tuition, clothes, food, and heating were all prioritized before donations to non-profit organizations.",had,all,DYNAMIC,['DYNAMIC'],y,STATIVE
+183,"People outside of the area decided not to personally invest in the mills,",had,People,DYNAMIC,['DYNAMIC'],y,STATIVE
+184,and so it was difficult to convince anyone from out of the county to contribute funds.,was,it,STATIVE,['DYNAMIC'],,DYNAMIC
+185,"The lack of money became crippling,",proved,lack,DYNAMIC,['DYNAMIC'],y,STATIVE
+186,because it prevented the organizations involved from purchasing the mills to run collectively.,prevented,it,DYNAMIC,['DYNAMIC'],,STATIVE
+187,"Without funds, the Save Our Valley Campaign had no power to help salvage the city’s dying economy.",do,Campaign,STATIVE,['DYNAMIC'],y,DYNAMIC
+188,The Save Our Valley Campaign also did not consider one essential component: an actual concrete plan.,lacked,Campaign,DYNAMIC,['STATIVE'],y,STATIVE
+189,No one had formed a concrete plan for,seemed,one,DYNAMIC,['DYNAMIC'],y,STATIVE
+190,just how to go about fixing the problems.,go,one,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+191,"Letters and petitions appeared to serve their basic functions,",were,petitions,DYNAMIC,['STATIVE'],y,STATIVE
+192,but they did little to improve the situation.,did,all,DYNAMIC,['DYNAMIC'],,STATIVE
+193,"People touted vague ideas of worker collectivization,",clung,People,DYNAMIC,['DYNAMIC'],y,STATIVE
+194,but no one could really fathom,fathom,People,DYNAMIC,['STATIVE'],,STATIVE
+195,exactly how that would work;,work,that,DYNAMIC,['STATIVE'],,STATIVE
+196,"the people of Youngstown were, after all, not particularly familiar with socialism or collectivization in general.",were,people,STATIVE,['STATIVE'],,DYNAMIC
+197,"Beyond that, no one could articulate",knew,one,DYNAMIC,['STATIVE'],y,STATIVE
+198,how they should proceed:,proceed,they,DYNAMIC,['CANNOT_DECIDE'],,STATIVE
+199,everyone knew that saving,knew,everyone,STATIVE,['STATIVE'],,DYNAMIC
+200,"the mills was important,",was,saving,STATIVE,['STATIVE'],,DYNAMIC
+201,but nobody stepped forward with a full-fledged plan to do it,stepped,saving,DYNAMIC,['DYNAMIC'],,STATIVE
+202,without losing huge amounts of money,losing,,DYNAMIC,['DYNAMIC'],,STATIVE
+203,and dragging even more people down.,dragging,,DYNAMIC,['DYNAMIC'],,STATIVE
+204,"Without a real plan, the campaign was incapable of achieving anything concrete.",achieved,nothing,STATIVE,['STATIVE'],y,DYNAMIC
+205,"Without funds to drive the efforts, or even a real plan of action, the Save Our Valley Campaign was more harmful than beneficial.",did,Campaign,STATIVE,['STATIVE'],y,DYNAMIC
+206,"In effect, this meant raising the hopes of workers",raised,it,STATIVE,['DYNAMIC'],y,DYNAMIC
+207,without having any real chance at saving anything.,having,hopes,STATIVE,['STATIVE'],,DYNAMIC
+208,"People were excited and kept waiting for the mills to reappear,",became,People,STATIVE,['DYNAMIC'],y,DYNAMIC
+209,but they never did.,did,People,DYNAMIC,['DYNAMIC'],,STATIVE
+210,The Campaign was unable to save any jobs,failed,Campaign,STATIVE,['DYNAMIC'],y,DYNAMIC
+211,and Youngstown was plunged into economic chaos.,plunged,Campaign,DYNAMIC,['DYNAMIC'],,STATIVE
+212,The Apathy of USWA,,,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+213,Some formed the union United Steel Workers of America,was,Apathy,DYNAMIC,['DYNAMIC'],y,STATIVE
+214,representing the Youngstown steel workers,representing,union,STATIVE,['DYNAMIC'],,DYNAMIC
+215,when the closings hit.,hit,closings,DYNAMIC,['DYNAMIC'],,STATIVE
+216,Initially many worked under the assumption,assumed,many,DYNAMIC,['DYNAMIC'],y,STATIVE
+217,that their union would take a lead role in fighting for the recovery of their jobs.,take,union,DYNAMIC,['DYNAMIC'],,STATIVE
+218,"However, they soon realized",became,it,STATIVE,['DYNAMIC'],y,DYNAMIC
+219,"that although the local union leaders were prepared to fight,",were,leaders,STATIVE,['STATIVE'],,DYNAMIC
+220,the international branch was not.,was,branch,STATIVE,['STATIVE'],,DYNAMIC
+221,"The higher levels of the union were increasingly estranged Youngstown and its plight,",became,levels,STATIVE,['DYNAMIC'],y,DYNAMIC
+222,attempting to shut out the appeals from workers and local union representatives,attempting,,DYNAMIC,['DYNAMIC'],,STATIVE
+223,and to ignore,ignore,,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+224,what was really happening.,happening,what,DYNAMIC,['DYNAMIC'],,STATIVE
+225,The union leaders of the USWA could not devise a solution for,was,reason,DYNAMIC,['DYNAMIC'],y,STATIVE
+226,what to do.,do,what,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+227,"No one had ever been witness to a shutdown of this magnitude and rapidity before,",seen,one,STATIVE,['DYNAMIC'],y,DYNAMIC
+228,"and none of the leaders of USWA, not even president Lynn Williams, knew",knew,one,STATIVE,['STATIVE'],,DYNAMIC
+229,what could be done.,done,what,DYNAMIC,['DYNAMIC'],,STATIVE
+230,Everyone accepted,was,It,DYNAMIC,['STATIVE'],y,STATIVE
+231,"that the economic fallout from this series of closings would be one of the worst in US history,",be,fallout,STATIVE,['STATIVE'],,DYNAMIC
+232,and so without any real precedents the union leaders were flustered.,were,leaders,STATIVE,['DYNAMIC'],,DYNAMIC
+233,"Rather than try and come up with some sort of scenario, the USWA did not want to acknowledge",ignored,USWA,STATIVE,['DYNAMIC'],y,DYNAMIC
+234,"what was going on in Youngstown,",going,what,DYNAMIC,['STATIVE'],,STATIVE
+235,hoping,hoping,what,STATIVE,['STATIVE'],,DYNAMIC
+236,"that perhaps the problem would resolve itself,",resolve,problem,DYNAMIC,['DYNAMIC'],,STATIVE
+237,or at least not spread any further,,,DYNAMIC,['DYNAMIC'],,STATIVE
+238,than it already had.,had,problem,DYNAMIC,['DYNAMIC'],,STATIVE
+239,"Besides incompetence, the USWA gave one other major reason for rejecting their local counterpart: fear of socialism.",had,USWA,DYNAMIC,['STATIVE'],y,STATIVE
+240,"Obviously the union itself did not fear socialist action,",was,union,DYNAMIC,['STATIVE'],y,STATIVE
+241,but they worried,worried,union,STATIVE,['DYNAMIC'],,DYNAMIC
+242,that the federal government might see the efforts of Youngstown workers to collectivize as a movement towards socialism and perhaps even communism.,see,government,DYNAMIC,['DYNAMIC'],,STATIVE
+243,"If the USWA publicly wanted to revive the mills and encouraged worker control and ownership of the factories,",supported,USWA,STATIVE,['DYNAMIC'],y,DYNAMIC
+244,then the government (and potentially other important people and institutions as well),,,CANNOT_DECIDE,['DYNAMIC'],,CANNOT_DECIDE
+245,might begin to think,begin,government,DYNAMIC,['STATIVE'],,STATIVE
+246,that the UWSA leaders were encouraging socialism.,encouraging,leaders,DYNAMIC,['STATIVE'],,STATIVE
+247,This would lead to a situation,mean,This,DYNAMIC,['DYNAMIC'],y,STATIVE
+248,"that UWSA would lose credibility with the American government and its people, something",lose,UWSA,DYNAMIC,['DYNAMIC'],,STATIVE
+249,they could not afford to do.,afford,they,STATIVE,['STATIVE'],,DYNAMIC
+250,"Therefore, they preferred withdrawing support",decided,they,STATIVE,['DYNAMIC'],y,DYNAMIC
+251,and let the local branch fight it out alone.,let,they,DYNAMIC,['CANNOT_DECIDE'],,STATIVE
+252,Regionalism,,,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+253,"From its very first days, small villages and hamlets have packed the Mahoning Valley.",been,Valley,DYNAMIC,['DYNAMIC'],y,STATIVE
+254,The major city area rests in Youngstown,is,Youngstown,DYNAMIC,['STATIVE'],y,STATIVE
+255,but surrounding it on all sides are small communities,are,surrounding,STATIVE,['STATIVE'],,DYNAMIC
+256,which to the casual viewer are indistinguishable from the main city itself.,are,communities,STATIVE,['STATIVE'],,DYNAMIC
+257,"Boardman, Poland Township, Struthers, Lowellville, Warren, Lordstown, Canfield, Niles, and many other towns and districts crowd around Youngstown",crowded,Township,DYNAMIC,['STATIVE'],,STATIVE
+258,(see Figure 3).,see,,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+259,"People from each town are more likely to work, shop, eat,",shop,People,STATIVE,['STATIVE'],y,DYNAMIC
+260,"and socialize in towns separate from their own,",socialize,People,DYNAMIC,['DYNAMIC'],,STATIVE
+261,making each town strongly dependent on every other town.,making,,STATIVE,['STATIVE'],,DYNAMIC
+262,"However, although traffic gets heavy between each separate district,",is,traffic,DYNAMIC,['DYNAMIC'],y,STATIVE
+263,"each area has its own distinct cultural ethnicity, educational system, heritage, history, and even food.",has,area,STATIVE,['STATIVE'],,DYNAMIC
+264,"For example, Struthers houses a large Slovak population,",is,Struthers,DYNAMIC,['STATIVE'],y,STATIVE
+265,"where education is generally better than in surrounding towns,",is,education,STATIVE,['STATIVE'],,DYNAMIC
+266,but unemployment is much higher,is,unemployment,STATIVE,['STATIVE'],,DYNAMIC
+267,and pollution is widespread.,is,pollution,STATIVE,['STATIVE'],,DYNAMIC
+268,Most people in Struthers practice either the Orthodox or Baptist faith.,are,people,DYNAMIC,['STATIVE'],y,STATIVE
+269,"Two blocks over lies Boardman, a well-off township with a reputation for rich but unsuccessful schools.",finds,blocks,DYNAMIC,['STATIVE'],y,STATIVE
+270,"Its residents are mainly Italian and Roman Catholic, with a small concentration of Methodists on the east side.",are,residents,STATIVE,['STATIVE'],y,DYNAMIC
+271,"Unemployment rates hit a lower point than in surrounding towns,",is,Unemployment,DYNAMIC,['DYNAMIC'],y,STATIVE
+272,and the streets are clean and well kept.,are,streets,STATIVE,['STATIVE'],,DYNAMIC
+273,"With many more cultures, religions, and economic levels living in close proximity to one another, a curious phenomenon is increasingly belonging to the area: regionalism.",overtaken,phenomenon,STATIVE,['STATIVE'],y,DYNAMIC
+274,"Each town, with their own identity, wants to instill a strong regionalistic feeling within their respective populations,",instills,town,STATIVE,['STATIVE'],y,DYNAMIC
+275,"which dictates many habits, exchanges, and interactions between populations.",dictates,populations,DYNAMIC,['DYNAMIC'],,STATIVE
+276,"Oftentimes this regionalism involves bizarre forms of hatred, with certain towns",takes,regionalism,STATIVE,['STATIVE'],y,DYNAMIC
+277,becoming sworn enemies of others.,becoming,regionalism,DYNAMIC,['DYNAMIC'],,STATIVE
+278,"With so much regional tension, it was very hard",became,it,STATIVE,['STATIVE'],y,DYNAMIC
+279,"for workers to unite under a common cause, even one",unite,workers,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+280,that would save their jobs and their futures.,save,one,DYNAMIC,['STATIVE'],,STATIVE
+281,"Workers from Poland Township did not want to attend rallies with workers from Campbell,",refuse,Workers,STATIVE,['STATIVE'],y,DYNAMIC
+282,and citizens of Struthers would become suspicious,become,Workers,DYNAMIC,['DYNAMIC'],,STATIVE
+283,"of people from Boardman, even if they were supposed to be working towards the same thing.",supposed,they,STATIVE,['STATIVE'],,DYNAMIC
+284,"A lack of cooperation represented a crippling problem for the movement,",became,lack,STATIVE,['STATIVE'],y,DYNAMIC
+285,because no one was willing to put aside regional differences to work together.,was,one,STATIVE,['STATIVE'],,DYNAMIC
+286,"In some instances, small companies wanted to show support in helping the movement",express,companies,STATIVE,['DYNAMIC'],y,DYNAMIC
+287,"or in relocating their business in the area,",relocating,interest,DYNAMIC,['DYNAMIC'],,STATIVE
+288,but because of regional pride no one could ever agree,agree,companies,DYNAMIC,['DYNAMIC'],,STATIVE
+289,where the new businesses should relocate.,relocate,businesses,DYNAMIC,['DYNAMIC'],,STATIVE
+290,In this way the people of the Mahoning Valley didn’t have access to many opportunities for new industrial or commercial lifeblood because of arbitrary arguments,missed,people,STATIVE,['DYNAMIC'],y,DYNAMIC
+291,where the goal was simply to protect regional pride.,was,goal,STATIVE,['STATIVE'],,DYNAMIC
+292,Conclusion: The Aftershock and the Significance of Black Monday,,,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+293,Black Monday dealt a devastating blow to an entire generation of people.,was,Aftershock,DYNAMIC,['DYNAMIC'],y,STATIVE
+295,after the fact were unsuccessful for four main reasons:,were,fact,STATIVE,['STATIVE'],,DYNAMIC
+296,"the failure of the international steel market, the lack of funds and plans in initiatives such as the Save Our Valley Campaign, the refusal of the USWA to support their local chapter out of ineptitude and fear, and the absurd but very real regionalism",support,USWA,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+297,which corrupted solidarity efforts,corrupted,regionalism,DYNAMIC,['DYNAMIC'],,STATIVE
+298,and drove away any hope for brining in new companies.,drove,regionalism,DYNAMIC,['DYNAMIC'],,STATIVE
+299,Considering the events,happened,What,STATIVE,['STATIVE'],y,DYNAMIC
+300,"in Youngstown may not seem significant on an international or even on a national level, and perhaps",seem,happened,STATIVE,['STATIVE'],,DYNAMIC
+301,it is not.,is,happened,STATIVE,['STATIVE'],,DYNAMIC
+302,"But to the thousands of people living there,",living,people,CANNOT_DECIDE,['CANNOT_DECIDE'],y,CANNOT_DECIDE
+303,the loss of the mills was a devastating event,was,loss,STATIVE,['STATIVE'],,DYNAMIC
+304,"that sent shock waves through their economic, political, and social futures.",sent,event,DYNAMIC,['DYNAMIC'],,STATIVE
+305,"Because of the mills and their conspicuous absence, hundreds of people knew they were effectively uprooted, forced to leave their homes and tightly knit communities.",uprooted,hundreds,STATIVE,['DYNAMIC'],y,DYNAMIC
+306,"The unemployment lines seemed to have hundreds more join,",joined,Hundreds,STATIVE,['DYNAMIC'],y,DYNAMIC
+307,or even began living on the streets.,began,joined,DYNAMIC,['DYNAMIC'],,STATIVE
+308,"For the people of Youngstown, they didn’t look at Black Monday as just a historical event-",was,Monday,DYNAMIC,['STATIVE'],y,STATIVE
+309,it was the most important event in their lives.,was,it,STATIVE,['STATIVE'],,DYNAMIC
+310,"The steel workers who tried to save their jobs and their lives had become part of something greater than themselves, something",were,workers,DYNAMIC,['DYNAMIC'],y,STATIVE
+311,which would endure,endure,something,STATIVE,['STATIVE'],,DYNAMIC
+312,long after they had moved away,moved,they,DYNAMIC,['DYNAMIC'],,STATIVE
+313,and moved on.,moved,they,DYNAMIC,['DYNAMIC'],,STATIVE
+314,"Even though they eventually were unable to succeed, the fact",failed,they,STATIVE,['STATIVE'],y,DYNAMIC
+315,that they tried to preserve,tried,they,DYNAMIC,['DYNAMIC'],,STATIVE
+316,what they felt belonged to them is an amazing example of how far people will go to save their lives and the futures of their children.,is,fact,STATIVE,['STATIVE'],,DYNAMIC

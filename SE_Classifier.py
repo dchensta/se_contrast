@@ -5,12 +5,14 @@ import pandas as pd
 import torch
 import numpy as np
 import os
+import random
 
 os.environ['KMP_DUPLICATE_LIB_OK']='True'
 
 class SE_Classifier:
     def __init__(self, test_dir, test):
         self.testFlag = test
+        print(test_dir)
         self.data, self.filenames = self.__read_data(test_dir, test)
         self.featX, self.featY = self.__create_testset()
         self.model = self.__read_model()
@@ -19,15 +21,17 @@ class SE_Classifier:
         if test == "test" :
             self.output_path = "sd_test_output"
         elif test == "contrast" :
-            self.output_path = "sd_contrast_output"
+            self.output_path = "sd_contrast_output_subsets"
 
     def __read_model(self):
-        clf_model = pkl.load(open("sd_model/lr_se_clf.pkl", "rb"))
+        clf_model = pkl.load(open("sd_model/lr_sd_clf_bert.pkl", "rb"))
+        #clf_model = pkl.load(open("sd_model/lr_sd_clf_roberta.pkl", "rb"))
         return clf_model
 
     def __read_data(self, test_dir, test):
         '''
         This function, called at class object initialization time, creates a DataFrame for each test file.
+        Sets to self.data variable for __create_testset() to use
 
         @param {string} test_dir
         @caller __init__
@@ -50,7 +54,7 @@ class SE_Classifier:
             if test == "test" :
                 gold_key = "Gold"
             else :
-                gold_key = "Gold/Contrast"
+                gold_key = "Contrast" #used to be Gold/Contrast
 
             clauses = list(df["Clause"])
             mainVerbs = list(df["mainVerb"])
@@ -73,6 +77,7 @@ class SE_Classifier:
     def __create_testset(self) :
         print("Creating test set")
         featX = []; featY = []
+        '''Original SE Classifier
         for file in self.data :
             clauses = file["Clause"] #Access Clause column from master data DataFrame
             featurizer = FeaturizerFactory()
@@ -83,7 +88,35 @@ class SE_Classifier:
 
             featX.append(filtered_X)
             featY.append(y)
+        '''
+
+        '''Subset SE Classifier'''
+        X = []; y = []; stative_count = 0; dynamic_count = 0
+        for file in self.data :
+            if stative_count == 120 and dynamic_count == 120 :
+                break
+            #if stative_count == 84 and dynamic_count == 120 :
+            #    break
+            featurizer = FeaturizerFactory()
+            clauses = file["Clause"]; contrasts = file["Gold"]
+            paired_list = list(zip(clauses, contrasts))
+            random.shuffle(paired_list)
+            for clause, contrast in paired_list :
+                if contrast == "STATIVE" :
+                    stative_count += 1
+                elif contrast == "DYNAMIC" :
+                    dynamic_count += 1
+
+                #happens for both types of labels
+                X += clause
+                y += contrast
+        X = featurizer.featurize(X, "BERT")
+        filtered_X = X[~torch.any(X.isnan(),dim=1)]
+        featX = [filtered_X]
+        featY = [y]
+
         return featX, featY
+
 
     def get_data(self):
         '''
@@ -103,7 +136,9 @@ class SE_Classifier:
                 predictions.append(self.model.predict(x))
 
             data = self.data[file_idx] #Pull out relevant data file to append predictions column to.
-            filename = self.filenames[file_idx]
+            #filename = self.filenames[file_idx]
+            filename = "random_clauses_equal.csv"
+            #filename = "random_clauses_resemble_test_distr.csv"
 
             pred_column_name = "predictions"
             data[pred_column_name] = predictions

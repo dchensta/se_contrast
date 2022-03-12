@@ -1,115 +1,115 @@
-,Clause,mainVerb,mainReferent,Gold,predictions
-0,"Blackjack, also known as twenty-one,",known,Blackjack,STATIVE,['CANNOT_DECIDE']
-1,is the most widely played casino banking game in the world.,is,Blackjack,STATIVE,['STATIVE']
-2,"Blackjack is a comparing card game between a player and dealer,",is,Blackjack,STATIVE,['STATIVE']
-3,meaning,meaning,game,STATIVE,['CANNOT_DECIDE']
-4,that players compete against the dealer but not against any other players.,compete,players,DYNAMIC,['STATIVE']
-5,It is played with one or more decks of 52 cards.,played,It,DYNAMIC,['DYNAMIC']
-6,"The object of the game is to ""beat the dealer",is,object,STATIVE,['STATIVE']
-7,"'', which can be done in a number of ways:",done,dealer,DYNAMIC,['STATIVE']
-8,* Get 21 points on the player's first two cards,Get,object,CANNOT_DECIDE,['STATIVE']
-9,"(called a blackjack), without a dealer blackjack;",called,Get,STATIVE,['STATIVE']
-10,* Reach a final score higher than the dealer without exceeding 21; or,exceeding,object,CANNOT_DECIDE,['CANNOT_DECIDE']
-11,* Let the dealer,Let,object,CANNOT_DECIDE,['CANNOT_DECIDE']
-12,draw additional cards,draw,dealer,CANNOT_DECIDE,['CANNOT_DECIDE']
-13,until his or her hand exceeds 21.,exceeds,hand,DYNAMIC,['DYNAMIC']
-14,The player or players are dealt an initial two-card hand,dealt,players,DYNAMIC,['DYNAMIC']
-15,and add together the value of their cards.,add,player,DYNAMIC,['CANNOT_DECIDE']
-16,"Face cards (kings, queens, and jacks)",,,CANNOT_DECIDE,['CANNOT_DECIDE']
-17,are counted as ten points.,counted,cards,DYNAMIC,['DYNAMIC']
-18,A player and the dealer can count his or her own ace as 1 point or 11 points.,count,dealer,DYNAMIC,['DYNAMIC']
-19,All other cards are counted as the numeric value,counted,cards,DYNAMIC,['STATIVE']
-20,shown on the card.,shown,value,STATIVE,['STATIVE']
-21,"After receiving their initial two cards, players have the option of getting a ""hit"",",have,players,STATIVE,['DYNAMIC']
-22,or taking an additional card.,taking,option,DYNAMIC,['DYNAMIC']
-23,"In a given round,",given,,CANNOT_DECIDE,['DYNAMIC']
-24,the player or the dealer wins by having a score of 21 or by having the highest score,wins,dealer,DYNAMIC,['DYNAMIC']
-25,that is less than 21.,is,score,STATIVE,['STATIVE']
-26,Scoring higher than 21,Scoring,,CANNOT_DECIDE,['DYNAMIC']
-27,"(called ""busting""",called,,STATIVE,['CANNOT_DECIDE']
-28,"or ""going bust"") results in a loss.",results,Scoring,DYNAMIC,['DYNAMIC']
-29,A player may win by having any final score equal to or less than 21 if the dealer busts.,win,player,DYNAMIC,['DYNAMIC']
-30,If a player holds an ace,holds,player,STATIVE,['DYNAMIC']
-31,"valued as 11, the hand is called ""soft"",",called,hand,STATIVE,['STATIVE']
-32,meaning,meaning,,STATIVE,['CANNOT_DECIDE']
-33,that the player cannot go bust by taking an additional card;,go,player,DYNAMIC,['DYNAMIC']
-34,11 plus the value of any other card will always be less than or equal to 21.,be,11,STATIVE,['STATIVE']
-35,"Otherwise, the hand is ""hard"".",is,hand,STATIVE,['STATIVE']
-36,The dealer has to take hits,has,dealer,STATIVE,['DYNAMIC']
-37,until his or her cards total 17 or more points.,,,STATIVE,['DYNAMIC']
-38,"(In some casinos, the dealer also hits on a ""soft"" 17e.g., an initial ace and six.)",hits,dealer,DYNAMIC,['DYNAMIC']
-39,Players win,win,Players,DYNAMIC,['DYNAMIC']
-40,if they do not bust,bust,they,DYNAMIC,['DYNAMIC']
-41,and have a total,have,they,STATIVE,['STATIVE']
-42,that is higher than the dealer's.,is,total,STATIVE,['STATIVE']
-43,The dealer loses,loses,dealer,DYNAMIC,['DYNAMIC']
-44,if he or she busts or has a lesser hand than the player,busts,she,DYNAMIC,['DYNAMIC']
-45,who has not busted.,busted,player,DYNAMIC,['DYNAMIC']
-46,"If the player and dealer have the same point total,",have,dealer,STATIVE,['STATIVE']
-47,"this is called a ""push"",",called,this,STATIVE,['STATIVE']
-48,and the player typically does not win or lose money on that hand.,win,this,DYNAMIC,['DYNAMIC']
-49,Many rule variations of blackjack exist.,exist,variations,STATIVE,['STATIVE']
-50,"Since the 1960s, blackjack has been a high-profile target of advantage players, particularly card counters,",been,blackjack,STATIVE,['DYNAMIC']
-51,who track the profile of cards,track,target,DYNAMIC,['STATIVE']
-52,that have been dealt,dealt,cards,DYNAMIC,['DYNAMIC']
-53,and adapt their wagers and playing strategies accordingly.,adapt,target,DYNAMIC,['DYNAMIC']
-54,Other casino games inspired by blackjack include Spanish 21 and pontoon.,include,games,STATIVE,['DYNAMIC']
-55,The recreational British card game of black jack is a shedding-type game and unrelated to the subject of this article.,is,game,STATIVE,['STATIVE']
-56,==History==,=,twenty-one,CANNOT_DECIDE,['CANNOT_DECIDE']
-57,"Blackjack's precursor was twenty-one, a game of unknown origin.",was,,STATIVE,['STATIVE']
-58,"The first written reference is found in a book by the Spanish author Miguel de Cervantes, most famous for writing Don Quixote.",found,reference,STATIVE,['STATIVE']
-59,"Cervantes was a gambler,",was,Cervantes,STATIVE,['STATIVE']
-60,"and the main characters of his tale Rinconete y Cortadillo, from Novelas Ejemplares, are a couple of cheats",are,characters,STATIVE,['STATIVE']
-61,working in Seville.,working,cheats,DYNAMIC,['STATIVE']
-62,They are proficient at cheating at ventiuna,are,They,STATIVE,['STATIVE']
-63,"(Spanish for twenty-one), and state",state,They,STATIVE,['STATIVE']
-64,that the object of the game is to reach 21 points,is,object,STATIVE,['DYNAMIC']
-65,without going over,going,object,CANNOT_DECIDE,['STATIVE']
-66,and that the ace values 1 or 11.,values,object,STATIVE,['STATIVE']
-67,"The game is played with the Spanish baraja deck,",played,game,DYNAMIC,['DYNAMIC']
-68,"which lacks eights, nines and tens.",lacks,deck,STATIVE,['STATIVE']
-69,"This short story was written between 1601 and 1602,",written,story,DYNAMIC,['DYNAMIC']
-70,implying,implying,,STATIVE,['CANNOT_DECIDE']
-71,that ventiuna was played in Castilla since the beginning of the 17th century or earlier.,played,ventiuna,DYNAMIC,['DYNAMIC']
-72,Later references to this game are found in France and Spain.,found,references,STATIVE,['DYNAMIC']
-73,"When twenty-one was introduced in the United States, gambling houses offered bonus payouts to stimulate players' interest.",offered,houses,DYNAMIC,['DYNAMIC']
-74,One such bonus was a ten-to-one payout,was,bonus,STATIVE,['STATIVE']
-75,if the player's hand consisted of the ace of spades and a black jack (either the jack of clubs or the jack of spades).,consisted,hand,STATIVE,['DYNAMIC']
-76,"This hand was called a ""blackjack""",called,hand,STATIVE,['STATIVE']
-77,"and the name stuck to the game,",stuck,name,DYNAMIC,['DYNAMIC']
-78,even though the ten-to-one bonus was soon withdrawn.,withdrawn,bonus,DYNAMIC,['DYNAMIC']
-79,"In the modern game, a blackjack refers to any hand of an ace plus a ten or face card, regardless of suits or colours.",refers,blackjack,STATIVE,['STATIVE']
-80,==Rules of play at casinos==,,,CANNOT_DECIDE,['CANNOT_DECIDE']
-81,"At a casino blackjack table, the dealer faces five to seven playing positions from behind a semicircular table.",faces,dealer,DYNAMIC,['DYNAMIC']
-82,Between one and eight standard 52-card decks are shuffled together.,shuffled,decks,DYNAMIC,['DYNAMIC']
-83,"At the beginning of each round, up to three players place their bets in the ""betting box"" at each position in play.",place,players,DYNAMIC,['DYNAMIC']
-84,"The player whose bet is at the front of the betting box is deemed to have control over the position,",deemed,player,STATIVE,['DYNAMIC']
-85,and the dealer will consult the controlling player for playing decisions regarding the hand;,consult,player,DYNAMIC,['DYNAMIC']
-86,"the other players of that box are said to ""play behind"".",said,players,STATIVE,['DYNAMIC']
-87,Any player is usually allowed to control or bet in as many boxes,allowed,player,STATIVE,['DYNAMIC']
-88,"as desired at a single table,",desired,,CANNOT_DECIDE,['DYNAMIC']
-89,but it is prohibited,prohibited,player,STATIVE,['STATIVE']
-90,for an individual to play on more than one table at a time,play,individual,CANNOT_DECIDE,['CANNOT_DECIDE']
-91,or to place multiple bets within a single box.,place,individual,CANNOT_DECIDE,['DYNAMIC']
-92,"In many U.S. casinos, however, players are limited to playing two or three positions at a table",limited,players,STATIVE,['STATIVE']
-93,and often only one person is allowed to bet on each position.,allowed,players,STATIVE,['DYNAMIC']
-94,The dealer deals cards from his/her left,left,cards,DYNAMIC,['DYNAMIC']
-95,"(the position on the dealer's far left is often referred to as ""first base"") to her far right (""third base"").",referred,position,DYNAMIC,['STATIVE']
-96,Each box is dealt an initial hand of two cards visible to the people,dealt,box,DYNAMIC,['DYNAMIC']
-97,"playing on it, and often to any other players.",playing,people,STATIVE,['DYNAMIC']
-98,"The dealer's hand receives its first card face up,",receives,hand,DYNAMIC,['DYNAMIC']
-99,"and in ""hole card"" games immediately receives its second card face down (the hole card),",receives,hand,DYNAMIC,['STATIVE']
-100,which the dealer peeks at,peeks,dealer,DYNAMIC,['DYNAMIC']
-101,but does not reveal,reveal,games,DYNAMIC,['DYNAMIC']
-102,unless it makes the dealer's hand a blackjack.,makes,it,DYNAMIC,['STATIVE']
-103,Hole card games are sometimes played on tables with a small mirror or electronic sensor,played,games,DYNAMIC,['STATIVE']
-104,that is used to peek securely at the hole card.,used,mirror,DYNAMIC,['DYNAMIC']
-105,"In European casinos, ""no hole card"" games are prevalent;",are,games,STATIVE,['STATIVE']
-106,the dealer's second card is neither drawn nor consulted,drawn,card,DYNAMIC,['DYNAMIC']
-107,until the players have all played their hands.,played,players,DYNAMIC,['DYNAMIC']
-108,"Cards are dealt either from one or two handheld decks, from a dealer's shoe, or from a shuffling machine.",dealt,Cards,DYNAMIC,['DYNAMIC']
-109,"Single cards are dealt to each wagered-on position clockwise from the dealer's left,",dealt,cards,DYNAMIC,['DYNAMIC']
-110,"followed by a single card to the dealer,",followed,position,DYNAMIC,['CANNOT_DECIDE']
-111,followed by an additional card to each of the positions in play.,followed,position,DYNAMIC,['DYNAMIC']
-112,The players' initial cards may be dealt face up,dealt,cards,DYNAMIC,['DYNAMIC']
-113,or face down (more common in single-deck games).,face,,CANNOT_DECIDE,['DYNAMIC']
+,Clause,mainVerb,mainReferent,Gold,predictions,Contrast,Strategy
+0,"Blackjack, also known as twenty-one,",known,Blackjack,STATIVE,['CANNOT_DECIDE'],y,participant
+1,is the most widely played casino banking game in the world.,is,Blackjack,STATIVE,['STATIVE'],,
+2,"Blackjack is a comparing card game between a player and dealer,",is,Blackjack,STATIVE,['STATIVE'],y,insert_verb
+3,meaning,meaning,game,STATIVE,['CANNOT_DECIDE'],,
+4,that players compete against the dealer but not against any other players.,compete,players,DYNAMIC,['STATIVE'],,
+5,It is played with one or more decks of 52 cards.,played,It,DYNAMIC,['DYNAMIC'],y,descriptive
+6,"The object of the game is to ""beat the dealer",is,object,STATIVE,['STATIVE'],y,insert_verb
+7,"'', which can be done in a number of ways:",done,dealer,DYNAMIC,['STATIVE'],,
+8,* Get 21 points on the player's first two cards,Get,object,CANNOT_DECIDE,['STATIVE'],,
+9,"(called a blackjack), without a dealer blackjack;",called,Get,STATIVE,['STATIVE'],,
+10,* Reach a final score higher than the dealer without exceeding 21; or,exceeding,object,CANNOT_DECIDE,['CANNOT_DECIDE'],,
+11,* Let the dealer,Let,object,CANNOT_DECIDE,['CANNOT_DECIDE'],,
+12,draw additional cards,draw,dealer,CANNOT_DECIDE,['CANNOT_DECIDE'],,
+13,until his or her hand exceeds 21.,exceeds,hand,DYNAMIC,['DYNAMIC'],,
+14,The player or players are dealt an initial two-card hand,dealt,players,DYNAMIC,['DYNAMIC'],y,thought
+15,and add together the value of their cards.,add,player,DYNAMIC,['CANNOT_DECIDE'],,
+16,"Face cards (kings, queens, and jacks)",,,CANNOT_DECIDE,['CANNOT_DECIDE'],,CANNOT_DECIDE
+17,are counted as ten points.,counted,cards,DYNAMIC,['DYNAMIC'],,
+18,A player and the dealer can count his or her own ace as 1 point or 11 points.,count,dealer,DYNAMIC,['DYNAMIC'],y,thought
+19,All other cards are counted as the numeric value,counted,cards,DYNAMIC,['STATIVE'],y,descriptive
+20,shown on the card.,shown,value,STATIVE,['STATIVE'],,
+21,"After receiving their initial two cards, players have the option of getting a ""hit"",",have,players,STATIVE,['DYNAMIC'],y,heavy_verb
+22,or taking an additional card.,taking,option,DYNAMIC,['DYNAMIC'],,
+23,"In a given round,",given,,CANNOT_DECIDE,['DYNAMIC'],,CANNOT_DECIDE
+24,the player or the dealer wins by having a score of 21 or by having the highest score,wins,dealer,DYNAMIC,['DYNAMIC'],,
+25,that is less than 21.,is,score,STATIVE,['STATIVE'],,
+26,Scoring higher than 21,Scoring,,CANNOT_DECIDE,['DYNAMIC'],y,light_verb
+27,"(called ""busting""",called,,STATIVE,['CANNOT_DECIDE'],,
+28,"or ""going bust"") results in a loss.",results,Scoring,DYNAMIC,['DYNAMIC'],y,
+29,A player may win by having any final score equal to or less than 21 if the dealer busts.,win,player,DYNAMIC,['DYNAMIC'],y,light_verb
+30,If a player holds an ace,holds,player,STATIVE,['DYNAMIC'],,participant
+31,"valued as 11, the hand is called ""soft"",",called,hand,STATIVE,['STATIVE'],,
+32,meaning,meaning,,STATIVE,['CANNOT_DECIDE'],,
+33,that the player cannot go bust by taking an additional card;,go,player,DYNAMIC,['DYNAMIC'],,
+34,11 plus the value of any other card will always be less than or equal to 21.,be,11,STATIVE,['STATIVE'],y,participant
+35,"Otherwise, the hand is ""hard"".",is,hand,STATIVE,['STATIVE'],y,participant
+36,The dealer has to take hits,has,dealer,STATIVE,['DYNAMIC'],y,participant
+37,until his or her cards total 17 or more points.,,,STATIVE,['DYNAMIC'],,
+38,"(In some casinos, the dealer also hits on a ""soft"" 17e.g., an initial ace and six.)",hits,dealer,DYNAMIC,['DYNAMIC'],y,thought
+39,Players win,win,Players,DYNAMIC,['DYNAMIC'],,
+40,if they do not bust,bust,they,DYNAMIC,['DYNAMIC'],,
+41,and have a total,have,they,STATIVE,['STATIVE'],,
+42,that is higher than the dealer's.,is,total,STATIVE,['STATIVE'],y,thought
+43,The dealer loses,loses,dealer,DYNAMIC,['DYNAMIC'],,
+44,if he or she busts or has a lesser hand than the player,busts,she,DYNAMIC,['DYNAMIC'],,
+45,who has not busted.,busted,player,DYNAMIC,['DYNAMIC'],y,participant
+46,"If the player and dealer have the same point total,",have,dealer,STATIVE,['STATIVE'],,
+47,"this is called a ""push"",",called,this,STATIVE,['STATIVE'],,
+48,and the player typically does not win or lose money on that hand.,win,this,DYNAMIC,['DYNAMIC'],y,participant
+49,Many rule variations of blackjack exist.,exist,variations,STATIVE,['STATIVE'],y,insert_verb
+50,"Since the 1960s, blackjack has been a high-profile target of advantage players, particularly card counters,",been,blackjack,STATIVE,['DYNAMIC'],,
+51,who track the profile of cards,track,target,DYNAMIC,['STATIVE'],,
+52,that have been dealt,dealt,cards,DYNAMIC,['DYNAMIC'],,
+53,and adapt their wagers and playing strategies accordingly.,adapt,target,DYNAMIC,['DYNAMIC'],y,upgrade_ppl
+54,Other casino games inspired by blackjack include Spanish 21 and pontoon.,include,games,STATIVE,['DYNAMIC'],y,insert_verb
+55,The recreational British card game of black jack is a shedding-type game and unrelated to the subject of this article.,is,game,STATIVE,['STATIVE'],,
+56,==History==,=,twenty-one,CANNOT_DECIDE,['CANNOT_DECIDE'],y,insert_verb
+57,"Blackjack's precursor was twenty-one, a game of unknown origin.",was,,STATIVE,['STATIVE'],y,participant
+58,"The first written reference is found in a book by the Spanish author Miguel de Cervantes, most famous for writing Don Quixote.",found,reference,STATIVE,['STATIVE'],y,insert_verb
+59,"Cervantes was a gambler,",was,Cervantes,STATIVE,['STATIVE'],,
+60,"and the main characters of his tale Rinconete y Cortadillo, from Novelas Ejemplares, are a couple of cheats",are,characters,STATIVE,['STATIVE'],,
+61,working in Seville.,working,cheats,DYNAMIC,['STATIVE'],y,insert_verb
+62,They are proficient at cheating at ventiuna,are,They,STATIVE,['STATIVE'],,
+63,"(Spanish for twenty-one), and state",state,They,STATIVE,['STATIVE'],,
+64,that the object of the game is to reach 21 points,is,object,STATIVE,['DYNAMIC'],,
+65,without going over,going,object,CANNOT_DECIDE,['STATIVE'],,
+66,and that the ace values 1 or 11.,values,object,STATIVE,['STATIVE'],y,descriptive
+67,"The game is played with the Spanish baraja deck,",played,game,DYNAMIC,['DYNAMIC'],,
+68,"which lacks eights, nines and tens.",lacks,deck,STATIVE,['STATIVE'],y,descriptive
+69,"This short story was written between 1601 and 1602,",written,story,DYNAMIC,['DYNAMIC'],,
+70,implying,implying,,STATIVE,['CANNOT_DECIDE'],,
+71,that ventiuna was played in Castilla since the beginning of the 17th century or earlier.,played,ventiuna,DYNAMIC,['DYNAMIC'],y,participant
+72,Later references to this game are found in France and Spain.,found,references,STATIVE,['DYNAMIC'],y,thought
+73,"When twenty-one was introduced in the United States, gambling houses offered bonus payouts to stimulate players' interest.",offered,houses,DYNAMIC,['DYNAMIC'],y,becoming
+74,One such bonus was a ten-to-one payout,was,bonus,STATIVE,['STATIVE'],,
+75,if the player's hand consisted of the ace of spades and a black jack (either the jack of clubs or the jack of spades).,consisted,hand,STATIVE,['DYNAMIC'],y,participant
+76,"This hand was called a ""blackjack""",called,hand,STATIVE,['STATIVE'],,
+77,"and the name stuck to the game,",stuck,name,DYNAMIC,['DYNAMIC'],,
+78,even though the ten-to-one bonus was soon withdrawn.,withdrawn,bonus,DYNAMIC,['DYNAMIC'],y,participant
+79,"In the modern game, a blackjack refers to any hand of an ace plus a ten or face card, regardless of suits or colours.",refers,blackjack,STATIVE,['STATIVE'],,
+80,==Rules of play at casinos==,,,CANNOT_DECIDE,['CANNOT_DECIDE'],y,thought
+81,"At a casino blackjack table, the dealer faces five to seven playing positions from behind a semicircular table.",faces,dealer,DYNAMIC,['DYNAMIC'],y,descriptive
+82,Between one and eight standard 52-card decks are shuffled together.,shuffled,decks,DYNAMIC,['DYNAMIC'],y,deontic
+83,"At the beginning of each round, up to three players place their bets in the ""betting box"" at each position in play.",place,players,DYNAMIC,['DYNAMIC'],y,participant
+84,"The player whose bet is at the front of the betting box is deemed to have control over the position,",deemed,player,STATIVE,['DYNAMIC'],,
+85,and the dealer will consult the controlling player for playing decisions regarding the hand;,consult,player,DYNAMIC,['DYNAMIC'],,
+86,"the other players of that box are said to ""play behind"".",said,players,STATIVE,['DYNAMIC'],y,participant
+87,Any player is usually allowed to control or bet in as many boxes,allowed,player,STATIVE,['DYNAMIC'],,
+88,"as desired at a single table,",desired,,CANNOT_DECIDE,['DYNAMIC'],,
+89,but it is prohibited,prohibited,player,STATIVE,['STATIVE'],,
+90,for an individual to play on more than one table at a time,play,individual,CANNOT_DECIDE,['CANNOT_DECIDE'],,
+91,or to place multiple bets within a single box.,place,individual,CANNOT_DECIDE,['DYNAMIC'],y,participant
+92,"In many U.S. casinos, however, players are limited to playing two or three positions at a table",limited,players,STATIVE,['STATIVE'],,
+93,and often only one person is allowed to bet on each position.,allowed,players,STATIVE,['DYNAMIC'],y,thought
+94,The dealer deals cards from his/her left,left,cards,DYNAMIC,['DYNAMIC'],,
+95,"(the position on the dealer's far left is often referred to as ""first base"") to her far right (""third base"").",referred,position,DYNAMIC,['STATIVE'],y,descriptive
+96,Each box is dealt an initial hand of two cards visible to the people,dealt,box,DYNAMIC,['DYNAMIC'],,
+97,"playing on it, and often to any other players.",playing,people,STATIVE,['DYNAMIC'],y,light_verb
+98,"The dealer's hand receives its first card face up,",receives,hand,DYNAMIC,['DYNAMIC'],,
+99,"and in ""hole card"" games immediately receives its second card face down (the hole card),",receives,hand,DYNAMIC,['STATIVE'],,
+100,which the dealer peeks at,peeks,dealer,DYNAMIC,['DYNAMIC'],,
+101,but does not reveal,reveal,games,DYNAMIC,['DYNAMIC'],,
+102,unless it makes the dealer's hand a blackjack.,makes,it,DYNAMIC,['STATIVE'],y,descriptive
+103,Hole card games are sometimes played on tables with a small mirror or electronic sensor,played,games,DYNAMIC,['STATIVE'],,
+104,that is used to peek securely at the hole card.,used,mirror,DYNAMIC,['DYNAMIC'],y,insert_verb
+105,"In European casinos, ""no hole card"" games are prevalent;",are,games,STATIVE,['STATIVE'],,
+106,the dealer's second card is neither drawn nor consulted,drawn,card,DYNAMIC,['DYNAMIC'],,
+107,until the players have all played their hands.,played,players,DYNAMIC,['DYNAMIC'],y,descriptive
+108,"Cards are dealt either from one or two handheld decks, from a dealer's shoe, or from a shuffling machine.",dealt,Cards,DYNAMIC,['DYNAMIC'],y,descriptive
+109,"Single cards are dealt to each wagered-on position clockwise from the dealer's left,",dealt,cards,DYNAMIC,['DYNAMIC'],,
+110,"followed by a single card to the dealer,",followed,position,DYNAMIC,['CANNOT_DECIDE'],,
+111,followed by an additional card to each of the positions in play.,followed,position,DYNAMIC,['DYNAMIC'],y,deontic
+112,The players' initial cards may be dealt face up,dealt,cards,DYNAMIC,['DYNAMIC'],,
+113,or face down (more common in single-deck games).,face,,CANNOT_DECIDE,['DYNAMIC'],,
