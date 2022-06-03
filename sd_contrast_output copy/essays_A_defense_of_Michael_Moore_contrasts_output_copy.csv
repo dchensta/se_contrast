@@ -1,318 +1,318 @@
 ,Clause,origClause,mainVerb,mainReferent,contrastVerb,Contrast,predictions,Strategy
 0,The Decline of the Northeastern Ohio Steel Market: Why Did Attempts by Union Leaders and Concerned Citizens to Revive the Steel Industry Ultimately Fail?,The Decline of the Northeastern Ohio Steel Market: Why Did Attempts by Union Leaders and Concerned Citizens to Revive the Steel Industry Ultimately Fail?,Fail,Market,,CANNOT_DECIDE,['CANNOT_DECIDE'],
 1,"An Extended Essay in History By Philosophy E. Walker Candidate Number: xxxxxxxxx Supervisor: Alexis Mamaux Date: January 12, 2004 Word Count: 3215 United World College of the American West Montezuma, NM 87731 USA","An Extended Essay in History By Philosophy E. Walker Candidate Number: xxxxxxxxx Supervisor: Alexis Mamaux Date: January 12, 2004 Word Count: 3215 United World College of the American West Montezuma, NM 87731 USA",,,,CANNOT_DECIDE,['CANNOT_DECIDE'],
-2,"September 19, 1977 became a date","September 19, 1977 is a date",is,USA,became,DYNAMIC,['DYNAMIC'],BECOMING
+2,"September 19, 1977 became a date","September 19, 1977 is a date",is,USA,became,DYNAMIC,['DYNAMIC'],becoming
 3,"that few people in Youngstown, Ohio will ever forget.","that few people in Youngstown, Ohio will ever forget.",forget,people,,DYNAMIC,['DYNAMIC'],
-4,"On that date Jennings Lambeth, president of Youngstown Sheet and Tube Company, thought","On that date Jennings Lambeth, president of Youngstown Sheet and Tube Company, announced",announced,Lambeth,thought,STATIVE,['DYNAMIC'],THOUGHT VERB
+4,"On that date Jennings Lambeth, president of Youngstown Sheet and Tube Company, thought","On that date Jennings Lambeth, president of Youngstown Sheet and Tube Company, announced",announced,Lambeth,thought,STATIVE,['DYNAMIC'],thought
 5,that most of the steel companys Campbell Works would close.,that most of the steel companys Campbell Works would close.,close,most,,DYNAMIC,['DYNAMIC'],
-6,"Although for other cities this would simply create a minor economic setback, for the people of Youngstown and the surrounding area,","Although for other cities this would simply be a minor economic setback, for the people of Youngstown and the surrounding area,",be,this,create,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+6,"Although for other cities this would simply create a minor economic setback, for the people of Youngstown and the surrounding area,","Although for other cities this would simply be a minor economic setback, for the people of Youngstown and the surrounding area,",be,this,create,DYNAMIC,['DYNAMIC'],participant
 7,it meant disaster.,it meant disaster.,meant,it,,STATIVE,['STATIVE'],
-8,"Mahoning County was treated as a one-industry area,","Mahoning County was a one-industry area,",was,County,treated,DYNAMIC,['STATIVE'],NEW PARTICIPANT
+8,"Mahoning County was treated as a one-industry area,","Mahoning County was a one-industry area,",was,County,treated,DYNAMIC,['STATIVE'],participant
 9,"and the people of Youngstown, Struthers, Campbell, Boardman Township, and the numerous other small towns and villages in the area only had one main employer: the steel mills.","and the people of Youngstown, Struthers, Campbell, Boardman Township, and the numerous other small towns and villages in the area only had one main employer: the steel mills.",had,area,,STATIVE,['STATIVE'],
-10,The events that were on this date,The events that would follow this date,follow,events,were,STATIVE,['STATIVE'],COPULA
+10,The events that were on this date,The events that would follow this date,follow,events,were,STATIVE,['STATIVE'],copula
 11,(known as Black Monday),(known as Black Monday),known,events,,STATIVE,['DYNAMIC'],
 12,are seen by the people,are seen by the people,seen,events,,STATIVE,['DYNAMIC'],
 13,who witnessed them either as stories of great courage and determination or as monuments to human failure and false hope.,who witnessed them either as stories of great courage and determination or as monuments to human failure and false hope.,witnessed,people,,DYNAMIC,['DYNAMIC'],
 14,Rather than sit back,Rather than sit back,sit,than,,CANNOT_DECIDE,['CANNOT_DECIDE'],
 15,and wait,and wait,wait,than,,CANNOT_DECIDE,['CANNOT_DECIDE'],
 16,"for their jobs to be snatched away, the workers and local union members in the mills fought long and hard to be able to keep the factories open.","for their jobs to be snatched away, the workers and local union members in the mills fought long and hard to be able to keep the factories open.",fought,workers,,DYNAMIC,['DYNAMIC'],
-17,Those in the industry wanted to preserve the only source of employment,"Petitions, protests, rallies, collectivization, and even the takeover of a steel companys headquarters were all attempted in a desperate movement by those in the industry to preserve the only source of employment",attempted,collectivization,wanted,STATIVE,['STATIVE'],THOUGHT VERB
+17,Those in the industry wanted to preserve the only source of employment,"Petitions, protests, rallies, collectivization, and even the takeover of a steel companys headquarters were all attempted in a desperate movement by those in the industry to preserve the only source of employment",attempted,collectivization,wanted,STATIVE,['STATIVE'],thought
 18,that this town had.,that this town had.,had,source,,STATIVE,['DYNAMIC'],
-19,They meant well with their efforts but ultimately failed,"These well-intentioned efforts ultimately failed,",failed,efforts,meant well,STATIVE,['DYNAMIC'],THOUGHT VERB
+19,They meant well with their efforts but ultimately failed,"These well-intentioned efforts ultimately failed,",failed,efforts,meant well,STATIVE,['DYNAMIC'],thought
 20,leaving thousands with shattered dreams and a distinct lack of trust in fellow humankind.,leaving thousands with shattered dreams and a distinct lack of trust in fellow humankind.,leaving,,,DYNAMIC,['CANNOT_DECIDE'],
 21,But why did the brave attempts by union leaders and concerned citizens to revive the steel industry ultimately fail?,But why did the brave attempts by union leaders and concerned citizens to revive the steel industry ultimately fail?,fail,attempts,,CANNOT_DECIDE,['CANNOT_DECIDE'],
-22,"Based on the area’s history, culture, and economic situation","When examining the areas history, culture, and economic situation",examining,identify,based on,STATIVE,['STATIVE'],DOWNGRADE TO PPL
+22,"Based on the area’s history, culture, and economic situation","When examining the areas history, culture, and economic situation",examining,identify,based on,STATIVE,['STATIVE'],downgrade_to_ppl
 23,we can identify four main reasons:,we can identify four main reasons:,identify,we,,DYNAMIC,['STATIVE'],
 24,"the refusal of the international leadership of United Steelworkers of America to support their unions Youngstown branch, the lagging international steel market, the lack of a clear, organized vision for individual initiatives such as the Save Our Valley Campaign, and crippling regionalism","the refusal of the international leadership of United Steelworkers of America to support their unions Youngstown branch, the lagging international steel market, the lack of a clear, organized vision for individual initiatives such as the Save Our Valley Campaign, and crippling regionalism",support,refusal,,CANNOT_DECIDE,['CANNOT_DECIDE'],
 25,"which caused animosity between different small towns in the region,","which caused animosity between different small towns in the region,",caused,regionalism,,DYNAMIC,['DYNAMIC'],
 26,all contributed in some way to the failure of the workers and union leaders to save the industry.,all contributed in some way to the failure of the workers and union leaders to save the industry.,contributed,all,,DYNAMIC,['DYNAMIC'],
-27,"Most importantly, the problem in Youngstown amounted to a nationwide problem.","Most importantly, the problem in Youngstown was a nationwide problem.",was,problem,amounted,DYNAMIC,['STATIVE'],DESCRIPTIVE VERB
-28,"Although it was in Youngstown and the surrounding area more than in other regions,","Although it affected Youngstown and the surrounding area more than it affected other regions,",affected,it,was,STATIVE,['STATIVE'],COPULA
+27,"Most importantly, the problem in Youngstown amounted to a nationwide problem.","Most importantly, the problem in Youngstown was a nationwide problem.",was,problem,amounted,DYNAMIC,['STATIVE'],descriptive
+28,"Although it was in Youngstown and the surrounding area more than in other regions,","Although it affected Youngstown and the surrounding area more than it affected other regions,",affected,it,was,STATIVE,['STATIVE'],copula
 29,the local people simply could not solve a national crisis on a local level.,the local people simply could not solve a national crisis on a local level.,solve,people,,DYNAMIC,['STATIVE'],
 30,A Brief History of Steel in Northeastern Ohio,A Brief History of Steel in Northeastern Ohio,,,,CANNOT_DECIDE,['CANNOT_DECIDE'],
-31,"In 1802, Yellow Creek was lined with ore and coal in an area outside of Youngstown",In 1802 James and Daniel Heaton discovered ore and coal lining Yellow Creek in an area outside of Youngstown,discovered,History,lined,STATIVE,['DYNAMIC'],NEW PARTICIPANT
+31,"In 1802, Yellow Creek was lined with ore and coal in an area outside of Youngstown",In 1802 James and Daniel Heaton discovered ore and coal lining Yellow Creek in an area outside of Youngstown,discovered,History,lined,STATIVE,['DYNAMIC'],participant
 32,known as Poland Township.,known as Poland Township.,known,area,,STATIVE,['STATIVE'],
-33,"Their blast furnace, “Hopewell,” served as the very first blast furnace in the area.","Their blast furnace, Hopewell, was the very first blast furnace in the area.",was,furnace,served,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
-34,"During the Civil War, Youngstown was a supply depot offering the Union army access to iron products.","During the Civil War, Youngstown played a vital role in supplying the Union army with iron products.",played,Youngstown,played,STATIVE,['DYNAMIC'],NEW PARTICIPANT
-35,"Youngstown also acted as a major railway crossroads, due to its strategic position between Cleveland, Pittsburgh, New York, and Chicago.","Youngstown also was a major railway crossroads, due to its strategic position between Cleveland, Pittsburgh, New York, and Chicago.",was,Youngstown,acted,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
-36,"In fact, The Center Street Bridge had more rail cars [a major bridge in Youngstown] on any given day than any other location in the country.","In fact, more rail cars passed under the Center Street Bridge [a major bridge in Youngstown] per day than any other location in the country. ",passed,cars,had,STATIVE,['STATIVE'],LIGHT VERB
-37,"During the 19th century, the center of iron manufacturing wasn’t in the far East Coast anymore.","During the 19th century, the center of iron manufacturing had gradually shifted from the far East Coast",shifted,center,wasn't,STATIVE,['STATIVE'],COPULA
+33,"Their blast furnace, “Hopewell,” served as the very first blast furnace in the area.","Their blast furnace, Hopewell, was the very first blast furnace in the area.",was,furnace,served,DYNAMIC,['DYNAMIC'],participant
+34,"During the Civil War, Youngstown was a supply depot offering the Union army access to iron products.","During the Civil War, Youngstown played a vital role in supplying the Union army with iron products.",played,Youngstown,played,STATIVE,['DYNAMIC'],participant
+35,"Youngstown also acted as a major railway crossroads, due to its strategic position between Cleveland, Pittsburgh, New York, and Chicago.","Youngstown also was a major railway crossroads, due to its strategic position between Cleveland, Pittsburgh, New York, and Chicago.",was,Youngstown,acted,DYNAMIC,['DYNAMIC'],participant
+36,"In fact, The Center Street Bridge had more rail cars [a major bridge in Youngstown] on any given day than any other location in the country.","In fact, more rail cars passed under the Center Street Bridge [a major bridge in Youngstown] per day than any other location in the country. ",passed,cars,had,STATIVE,['STATIVE'],light_verb
+37,"During the 19th century, the center of iron manufacturing wasn’t in the far East Coast anymore.","During the 19th century, the center of iron manufacturing had gradually shifted from the far East Coast",shifted,center,wasn't,STATIVE,['STATIVE'],copula
 38,"(Massachusetts and Eastern Pennsylvania) to the Ohio Valley Pittsburgh regions of the Northeast, including the Mahoning Valley and the Hanging Rock region of Ohio and Kentucky.","(Massachusetts and Eastern Pennsylvania) to the Ohio Valley Pittsburgh regions of the Northeast, including the Mahoning Valley and the Hanging Rock region of Ohio and Kentucky.",including,,,STATIVE,['CANNOT_DECIDE'],
-39,"By 1880, Youngstown’s population was nearly 16,000,","By 1880, Youngstowns population had grown to nearly 16,000,",grown,population,was,STATIVE,['STATIVE'],COPULA
+39,"By 1880, Youngstown’s population was nearly 16,000,","By 1880, Youngstowns population had grown to nearly 16,000,",grown,population,was,STATIVE,['STATIVE'],copula
 40,which meant,which meant,meant,"16,000",,STATIVE,['STATIVE'],
 41,it had doubled in size over a twenty-year period.,it had doubled in size over a twenty-year period.,doubled,it,,DYNAMIC,['DYNAMIC'],
-42,"The town was very prosperous,","The town continued to prosper,",continued,town,was,STATIVE,['STATIVE'],COPULA
+42,"The town was very prosperous,","The town continued to prosper,",continued,town,was,STATIVE,['STATIVE'],copula
 43,driven by the flux of immigrants,driven by the flux of immigrants,driven,continued,,STATIVE,['DYNAMIC'],
 44,pouring in with the hopes of employment at the mills.,pouring in with the hopes of employment at the mills.,pouring,immigrants,,DYNAMIC,['DYNAMIC'],
-45,"This prosperity lingered until the late 1920s,","This prosperity continued until the late 1920s,",continued,prosperity,lingered,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+45,"This prosperity lingered until the late 1920s,","This prosperity continued until the late 1920s,",continued,prosperity,lingered,DYNAMIC,['DYNAMIC'],participant
 46,when the Great Depression hit the area hard.,when the Great Depression hit the area hard.,hit,Depression,,DYNAMIC,['DYNAMIC'],
 47,"Despite the Congress of Industrial Organizations successful efforts to establish a national steel workers union,","Despite the Congress of Industrial Organizations successful efforts to establish a national steel workers union,",establish,efforts,,CANNOT_DECIDE,['DYNAMIC'],
 48,the industry barely survived the Depression years.,the industry barely survived the Depression years.,survived,industry,,DYNAMIC,['DYNAMIC'],
-49,"Finally, due to the outbreak of the Second World War, iron and steel were important again,","Finally, the outbreak of the Second World War made iron and steel important again,",made,outbreak,were,STATIVE,['DYNAMIC'],COPULA
+49,"Finally, due to the outbreak of the Second World War, iron and steel were important again,","Finally, the outbreak of the Second World War made iron and steel important again,",made,outbreak,were,STATIVE,['DYNAMIC'],copula
 50,and Youngstown was bolstered out of its economic standstill into a fast-paced period of booming growth.,and Youngstown was bolstered out of its economic standstill into a fast-paced period of booming growth.,bolstered,outbreak,,DYNAMIC,['DYNAMIC'],
-51,"Youngstown may have enjoyed prominence and prosperity in the post-war period,","Youngstown may have been an important and prosperous region in the post-war period,",been,Youngstown,,DYNAMIC,['DYNAMIC'],INSERT VERB
+51,"Youngstown may have enjoyed prominence and prosperity in the post-war period,","Youngstown may have been an important and prosperous region in the post-war period,",been,Youngstown,,DYNAMIC,['DYNAMIC'],insert_verb
 52,but the seeds for its downfall were slowly being sown.,but the seeds for its downfall were slowly being sown.,sown,region,,DYNAMIC,['DYNAMIC'],
-53,"There were strikes in the town during the forties, fifties, and sixties,","Strikes racked the town during the forties, fifties, and sixties,",racked,Strikes,were,STATIVE,['DYNAMIC'],COPULA
+53,"There were strikes in the town during the forties, fifties, and sixties,","Strikes racked the town during the forties, fifties, and sixties,",racked,Strikes,were,STATIVE,['DYNAMIC'],copula
 54,and they were often long and bloody.,and they were often long and bloody.,were,they,,STATIVE,['STATIVE'],
 55,"In 1973, the Experimental Negotiating Agreement was signed.","In 1973, the Experimental Negotiating Agreement was signed.",signed,Agreement,,DYNAMIC,['DYNAMIC'],
-56,"Strikes and lockout were forbidden actions,","This prohibited strikes and lockout,",prohibited,This,were,STATIVE,['STATIVE'],COPULA
+56,"Strikes and lockout were forbidden actions,","This prohibited strikes and lockout,",prohibited,This,were,STATIVE,['STATIVE'],copula
 57,angering workers,angering workers,angering,prohibited,,DYNAMIC,['CANNOT_DECIDE'],
 58,and driving productivity and laborer morale down.,and driving productivity and laborer morale down.,driving,prohibited,,DYNAMIC,['DYNAMIC'],
-59,"At the same time, stricter governmental standards for environmental protection and the growth of imported steel were obstacles to producing and marketing American steel parts,","At the same time, stricter governmental standards for environmental protection and the growth of imported steel were making it harder to produce and market American steel parts,",making,standards,were,STATIVE,['DYNAMIC'],COPULA
+59,"At the same time, stricter governmental standards for environmental protection and the growth of imported steel were obstacles to producing and marketing American steel parts,","At the same time, stricter governmental standards for environmental protection and the growth of imported steel were making it harder to produce and market American steel parts,",making,standards,were,STATIVE,['DYNAMIC'],copula
 60,and the overeager shareholders in the companies stock were pushing for more and more of their share of the pie.,and the overeager shareholders in the companies stock were pushing for more and more of their share of the pie.,pushing,standards,,DYNAMIC,['DYNAMIC'],
-61,"Most importantly, Youngstown’s steel mills were now less efficient and more expensive.","Most importantly, Youngstowns steel mills were slowly becoming less efficient and more expensive.",becoming,mills,were,STATIVE,['DYNAMIC'],COPULA
-62,Old technology was untouched,"Old technology was not replaced,",replaced,technology,was,STATIVE,['STATIVE'],COPULA
+61,"Most importantly, Youngstown’s steel mills were now less efficient and more expensive.","Most importantly, Youngstowns steel mills were slowly becoming less efficient and more expensive.",becoming,mills,were,STATIVE,['DYNAMIC'],copula
+62,Old technology was untouched,"Old technology was not replaced,",replaced,technology,was,STATIVE,['STATIVE'],copula
 63,"obsolete methods were not updated,","obsolete methods were not updated,",updated,technology,,DYNAMIC,['DYNAMIC'],
 64,and almost none of the industrys profits were being utilized to help modernize.,and almost none of the industrys profits were being utilized to help modernize.,utilized,technology,,DYNAMIC,['STATIVE'],
-65,These failures propelled the industry certain doom,It was a recipe for disaster,was,It,propelled,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+65,These failures propelled the industry certain doom,It was a recipe for disaster,was,It,propelled,DYNAMIC,['DYNAMIC'],participant
 66,that would soon explode in the faces of hundreds of thousands of workers and their families.,that would soon explode in the faces of hundreds of thousands of workers and their families.,explode,recipe,,DYNAMIC,['DYNAMIC'],
 67,Black Monday and the Crash of the Steel Industry,Black Monday and the Crash of the Steel Industry,,,,CANNOT_DECIDE,['CANNOT_DECIDE'],
-68,"The announcement of the closing of the mills in 1977 started a downward spiral,","The announcement of the closing of the mills in 1977 was the beginning of a downward spiral,",was,Crash,started,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+68,"The announcement of the closing of the mills in 1977 started a downward spiral,","The announcement of the closing of the mills in 1977 was the beginning of a downward spiral,",was,Crash,started,DYNAMIC,['DYNAMIC'],participant
 69,which would send the entire valley into chaos and ruin.,which would send the entire valley into chaos and ruin.,send,spiral,,DYNAMIC,['DYNAMIC'],
-70,The number of mill closings included at least five times between 1977 and 1981.,"Between 1977 and 1981, a total of five mills were closed",closed,total,included,STATIVE,['DYNAMIC'],DESCRIPTIVE VERB
+70,The number of mill closings included at least five times between 1977 and 1981.,"Between 1977 and 1981, a total of five mills were closed",closed,total,included,STATIVE,['DYNAMIC'],descriptive
 71,"and approximately 25,000 jobs were lost countywide.","and approximately 25,000 jobs were lost countywide.",lost,total,,DYNAMIC,['DYNAMIC'],
-72,Union officials and mill bosses were in hurried meetings in an attempt to persuade the powers,Meetings of union officials and mill bosses were hurriedly set up in an attempt to persuade the powers,set,Meetings,were,STATIVE,['DYNAMIC'],COPULA
+72,Union officials and mill bosses were in hurried meetings in an attempt to persuade the powers,Meetings of union officials and mill bosses were hurriedly set up in an attempt to persuade the powers,set,Meetings,were,STATIVE,['DYNAMIC'],copula
 73,that be to reconsider their statement.,that be to reconsider their statement.,be,powers,,CANNOT_DECIDE,['CANNOT_DECIDE'],
-74,"However, it became clear","However, it was clear",was,it,became,DYNAMIC,['DYNAMIC'],BECOMING
+74,"However, it became clear","However, it was clear",was,it,became,DYNAMIC,['DYNAMIC'],becoming
 75,"that, in the words of USWA president Lloyd McBride, If","that, in the words of USWA president Lloyd McBride, If",,,,CANNOT_DECIDE,['DYNAMIC'],
 76,"you cant make a buck,","you cant make a buck,",make,you,,DYNAMIC,['DYNAMIC'],
 77,you get out of the business.,you get out of the business.,get,you,,DYNAMIC,['DYNAMIC'],
-78,"The closings accelerated the end of Youngstown’s only real industry, the end of its population growth, and then end of economic progress.","The closings meant the end of Youngstowns only real industry, the end of its population growth, and then end of economic progress.",meant,closings,accelerated,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
-79,"Without the mills, people needed other places of employment in adjoining states or even other areas of the country.","Without the mills, people sought other places of employment in adjoining states or even other areas of the country.",sought,people,needed,STATIVE,['DYNAMIC'],THOUGHT VERB
-80,People who could afford to soundly desired to move.,Those that could afford to move did so;,did,Those,desired,STATIVE,['DYNAMIC'],THOUGHT VERB
+78,"The closings accelerated the end of Youngstown’s only real industry, the end of its population growth, and then end of economic progress.","The closings meant the end of Youngstowns only real industry, the end of its population growth, and then end of economic progress.",meant,closings,accelerated,DYNAMIC,['DYNAMIC'],participant
+79,"Without the mills, people needed other places of employment in adjoining states or even other areas of the country.","Without the mills, people sought other places of employment in adjoining states or even other areas of the country.",sought,people,needed,STATIVE,['DYNAMIC'],thought
+80,People who could afford to soundly desired to move.,Those that could afford to move did so;,did,Those,desired,STATIVE,['DYNAMIC'],thought
 81,those that couldnt afford to move mostly ended up on the streets.,those that couldnt afford to move mostly ended up on the streets.,ended,those,,DYNAMIC,['DYNAMIC'],
-82,"Without an industrial or a residential base, commerce was down considerably.","Without an industrial or a residential base, commerce shrank considerably.",shrank,commerce,was,STATIVE,['STATIVE'],COPULA
-83,It was increasingly clear,It was becoming increasingly clear,becoming,It,was,STATIVE,['STATIVE'],COPULA
+82,"Without an industrial or a residential base, commerce was down considerably.","Without an industrial or a residential base, commerce shrank considerably.",shrank,commerce,was,STATIVE,['STATIVE'],copula
+83,It was increasingly clear,It was becoming increasingly clear,becoming,It,was,STATIVE,['STATIVE'],copula
 84,that without the industrial base provided,that without the industrial base provided,provided,base,,CANNOT_DECIDE,['STATIVE'],
 85,"by the mills, the city of Youngstown would soon become a ghost town,","by the mills, the city of Youngstown would soon become a ghost town,",become,city,,DYNAMIC,['STATIVE'],
 86,inhabited by those too poor or hopeful to escape.,inhabited by those too poor or hopeful to escape.,inhabited,town,,STATIVE,['STATIVE'],
-87,The workers knew,The workers decided,decided,workers,knew,STATIVE,['DYNAMIC'],THOUGHT VERB
+87,The workers knew,The workers decided,decided,workers,knew,STATIVE,['DYNAMIC'],thought
 88,"they needed to do something to save their city,","they needed to do something to save their city,",needed,they,,STATIVE,['STATIVE'],
 89,and so they mobilized in a variety of ways.,and so they mobilized in a variety of ways.,mobilized,they,,DYNAMIC,['DYNAMIC'],
 90,Attempts to Save the Mills,Attempts to Save the Mills,Save,Attempts,,CANNOT_DECIDE,['CANNOT_DECIDE'],
-91,"The very first thing that the workers could do was highlighted as “getting up a petition to stop the shutdown,","The very first thing that the workers could do was to get up a petition to stop the shutdown,",“,Attempts,highlighted,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+91,"The very first thing that the workers could do was highlighted as “getting up a petition to stop the shutdown,","The very first thing that the workers could do was to get up a petition to stop the shutdown,",“,Attempts,highlighted,DYNAMIC,['DYNAMIC'],participant
 92," says Ed Mann, a local union leader and organizer."," says Ed Mann, a local union leader and organizer.",says,”,,DYNAMIC,['DYNAMIC'],
-93,They had a petition go around,"The petition was circulated,",circulated,petition,had,STATIVE,['DYNAMIC'],LIGHT VERB
+93,They had a petition go around,"The petition was circulated,",circulated,petition,had,STATIVE,['DYNAMIC'],light_verb
 94,eventually including thousands of signatures;,eventually including thousands of signatures;,including,circulated,,STATIVE,['DYNAMIC'],
 95,it was then given to USWA representatives to present to President Carter in Washington.,it was then given to USWA representatives to present to President Carter in Washington.,given,it,,DYNAMIC,['DYNAMIC'],
-96,"However, the representatives were unhappy","However, the representatives were shunted to the side",shunted,representatives,were,STATIVE,['DYNAMIC'],COPULA
+96,"However, the representatives were unhappy","However, the representatives were shunted to the side",shunted,representatives,were,STATIVE,['DYNAMIC'],copula
 97,"and ignored in Washington,","and ignored in Washington,",ignored,representatives,,DYNAMIC,['DYNAMIC'],
 98,since Youngstowns political influence had died with its industry.,since Youngstowns political influence had died with its industry.,died,influence,,DYNAMIC,['DYNAMIC'],
-99,"The International chapter of the USWA held much more lobbying power,","The International chapter of the USWA had much more lobbying power,",had,chapter,held,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+99,"The International chapter of the USWA held much more lobbying power,","The International chapter of the USWA had much more lobbying power,",had,chapter,held,DYNAMIC,['DYNAMIC'],participant
 100,but they refused to support the local union members.,but they refused to support the local union members.,refused,chapter,,DYNAMIC,['DYNAMIC'],
-101,The petition was a needle in a haystack amongst paperwork and bureaucratic procedure.,The petition was lost among paperwork and bureaucratic procedure.,lost,petition,was,STATIVE,['STATIVE'],COPULA
-102,The Ecumenical Coalition is an organization,"Next, workers decided to form the Ecumenical Coalition, an organization",decided,workers,is,STATIVE,['STATIVE'],COPULA
+101,The petition was a needle in a haystack amongst paperwork and bureaucratic procedure.,The petition was lost among paperwork and bureaucratic procedure.,lost,petition,was,STATIVE,['STATIVE'],copula
+102,The Ecumenical Coalition is an organization,"Next, workers decided to form the Ecumenical Coalition, an organization",decided,workers,is,STATIVE,['STATIVE'],copula
 103,of local religious groups which spearheaded the attempt to reopen the Youngstown works.,of local religious groups which spearheaded the attempt to reopen the Youngstown works.,spearheaded,groups,,DYNAMIC,['DYNAMIC'],
-104,The Coalition drafters wanted to know,The Coalition drafter letters to the Lykes Company asking,drafter,Coalition,wanted,STATIVE,['STATIVE'],THOUGHT VERB
+104,The Coalition drafters wanted to know,The Coalition drafter letters to the Lykes Company asking,drafter,Coalition,wanted,STATIVE,['STATIVE'],thought
 105,if a group of workers might purchase the mill,if a group of workers might purchase the mill,purchase,group,,DYNAMIC,['DYNAMIC'],
 106,and run it collectively.,and run it collectively.,run,group,,DYNAMIC,['DYNAMIC'],
-107,The letters remained unread by Lykes,"Lykes ignored the letters,",ignored,Lykes,remained,STATIVE,['DYNAMIC'],DESCRIPTIVE VERB
+107,The letters remained unread by Lykes,"Lykes ignored the letters,",ignored,Lykes,remained,STATIVE,['DYNAMIC'],descriptive
 108,so the Coalition turned once again to the federal government.,so the Coalition turned once again to the federal government.,turned,Coalition,,DYNAMIC,['DYNAMIC'],
-109,"Here, too, they were a people unheeded.","Here, too, they were ignored.",ignored,they,were,STATIVE,['STATIVE'],COPULA
-110,The Coalition were still begging for proper funds to buy the mills,"The Coalition had no proper funds to buy the mills,",had,Coalition,begging,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+109,"Here, too, they were a people unheeded.","Here, too, they were ignored.",ignored,they,were,STATIVE,['STATIVE'],copula
+110,The Coalition were still begging for proper funds to buy the mills,"The Coalition had no proper funds to buy the mills,",had,Coalition,begging,DYNAMIC,['DYNAMIC'],participant
 111,so they could do nothing,so they could do nothing,do,they,,DYNAMIC,['DYNAMIC'],
 112,but sit back,but sit back,sit,they,,DYNAMIC,['CANNOT_DECIDE'],
 113,and watch,and watch,watch,they,,DYNAMIC,['DYNAMIC'],
 114,as the mills closed.,as the mills closed.,closed,mills,,DYNAMIC,['DYNAMIC'],
-115,"Finally, following the shutdown of US Steel’s plant in 1980, local union leaders were outside the US Steel Headquarters in Youngstown.","Finally, following the shutdown of US Steels plant in 1980, local union leaders congregated outside the US Steel Headquarters in Youngstown.",following,,were,STATIVE,['DYNAMIC'],COPULA
-116,"They depended on local people and politicians to witness the scene,","They invited local people and politicians to witness the scene,",invited,They,depended,STATIVE,['DYNAMIC'],NEW PARTICIPANT
+115,"Finally, following the shutdown of US Steel’s plant in 1980, local union leaders were outside the US Steel Headquarters in Youngstown.","Finally, following the shutdown of US Steels plant in 1980, local union leaders congregated outside the US Steel Headquarters in Youngstown.",following,,were,STATIVE,['DYNAMIC'],copula
+116,"They depended on local people and politicians to witness the scene,","They invited local people and politicians to witness the scene,",invited,They,depended,STATIVE,['DYNAMIC'],participant
 117,then charged the Headquarters,then charged the Headquarters,charged,They,,DYNAMIC,['DYNAMIC'],
 118,and took it over.,and took it over.,took,They,,DYNAMIC,['DYNAMIC'],
-119,The workers were there until the next day.,"The workers stayed there until the next day,",stayed,workers,were,STATIVE,['DYNAMIC'],COPULA
+119,The workers were there until the next day.,"The workers stayed there until the next day,",stayed,workers,were,STATIVE,['DYNAMIC'],copula
 120,when US Steel declared,when US Steel declared,declared,Steel,,DYNAMIC,['DYNAMIC'],
 121,that they were ready to talk about selling the mill.,that they were ready to talk about selling the mill.,were,they,,STATIVE,['STATIVE'],
-122,"Immediately after the workers left the building, US steel representatives wanted to let the local union leaders know","Immediately after the workers left the building, US steel representatives told the local union leaders",told,representatives,wanted,STATIVE,['DYNAMIC'],THOUGHT VERB
+122,"Immediately after the workers left the building, US steel representatives wanted to let the local union leaders know","Immediately after the workers left the building, US steel representatives told the local union leaders",told,representatives,wanted,STATIVE,['DYNAMIC'],thought
 123,that they had changed their minds,that they had changed their minds,changed,they,,DYNAMIC,['DYNAMIC'],
 124,and were no longer interested in allowing the workers to purchase the mill.,and were no longer interested in allowing the workers to purchase the mill.,were,they,,STATIVE,['DYNAMIC'],
-125,"All these efforts eventually were for nothing,","All these efforts eventually came to nothing,",came,efforts,were,STATIVE,['DYNAMIC'],COPULA
+125,"All these efforts eventually were for nothing,","All these efforts eventually came to nothing,",came,efforts,were,STATIVE,['DYNAMIC'],copula
 126,and Youngstowns steel mills remained closed.,and Youngstowns steel mills remained closed.,remained,efforts,,STATIVE,['DYNAMIC'],
-127,"Several major factors existed as obstacles to saving the mills,","These attempts to save the mills were hindered by several major factors,",hindered,attempts,existed,STATIVE,['STATIVE'],DESCRIPTIVE VERB
+127,"Several major factors existed as obstacles to saving the mills,","These attempts to save the mills were hindered by several major factors,",hindered,attempts,existed,STATIVE,['STATIVE'],descriptive
 128,"including the decline of the world steel market,","including the decline of the world steel market,",including,,,STATIVE,['STATIVE'],
 129,which made American steel impossible to sell or export.,which made American steel impossible to sell or export.,made,factors,,DYNAMIC,['DYNAMIC'],
 130,The Decline of the World Market,The Decline of the World Market,,,,CANNOT_DECIDE,['CANNOT_DECIDE'],
-131,The efforts to save the mills were for naught,The efforts to save the mills failed,failed,Decline,were,STATIVE,['STATIVE'],COPULA
+131,The efforts to save the mills were for naught,The efforts to save the mills failed,failed,Decline,were,STATIVE,['STATIVE'],copula
 132,partly because the international market for steel had largely dried up.,partly because the international market for steel had largely dried up.,dried,market,,DYNAMIC,['STATIVE'],
-133,During World War II the rest of the world begged for America’s iron and steel products;,During World War II the rest of the world was hungry for Americas iron and steel products;,was,rest,begged,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+133,During World War II the rest of the world begged for America’s iron and steel products;,During World War II the rest of the world was hungry for Americas iron and steel products;,was,rest,begged,DYNAMIC,['DYNAMIC'],participant
 134,"however, by the seventies no foreign nations needed to import steel in such large quantities.","however, by the seventies no foreign nations needed to import steel in such large quantities.",needed,nations,,STATIVE,['DYNAMIC'],
-135,"In fact, American steel imports were now bigger than exports.","In fact, American steel imports were beginning to outweigh exports.",beginning,imports,,STATIVE,['STATIVE'],COPULA
-136,"Foreign steel had become easier and more efficient to make,","Foreign steel was easier and more efficient to make,",was,steel,become,DYNAMIC,['DYNAMIC'],BECOMING
+135,"In fact, American steel imports were now bigger than exports.","In fact, American steel imports were beginning to outweigh exports.",beginning,imports,,STATIVE,['STATIVE'],copula
+136,"Foreign steel had become easier and more efficient to make,","Foreign steel was easier and more efficient to make,",was,steel,become,DYNAMIC,['DYNAMIC'],becoming
 137,and was often of higher quality than domestic steel.,and was often of higher quality than domestic steel.,was,steel,,STATIVE,['STATIVE'],
-138,"Foreign steel companies were heavily invested in their factories,","Foreign steel companies invested in their factories,",invested,companies,were,STATIVE,['DYNAMIC'],COPULA
+138,"Foreign steel companies were heavily invested in their factories,","Foreign steel companies invested in their factories,",invested,companies,were,STATIVE,['DYNAMIC'],copula
 139,updating their technology and replacing their equipment often.,updating their technology and replacing their equipment often.,updating,companies,,DYNAMIC,['DYNAMIC'],
-140,This led to a new status quo:,This meant,meant,This,led,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+140,This led to a new status quo:,This meant,meant,This,led,DYNAMIC,['DYNAMIC'],participant
 141,"that foreign facilities were more modern and efficient than any plants in America,","that foreign facilities were more modern and efficient than any plants in America,",were,facilities,,STATIVE,['STATIVE'],
 142,and therefore were able to export a more competitive product.,and therefore were able to export a more competitive product.,were,facilities,,STATIVE,['DYNAMIC'],
-143,Foreign steel also became much cheaper.,Foreign steel was also much cheaper.,was,steel,became,DYNAMIC,['DYNAMIC'],BECOMING
-144,"Wage hikes, although they signified improved living conditions of steel workers in the US,","Wage hikes, although they helped to improve living conditions of steel workers in the US,",helped,made,signified,STATIVE,['DYNAMIC'],DESCRIPTIVE VERB
+143,Foreign steel also became much cheaper.,Foreign steel was also much cheaper.,was,steel,became,DYNAMIC,['DYNAMIC'],becoming
+144,"Wage hikes, although they signified improved living conditions of steel workers in the US,","Wage hikes, although they helped to improve living conditions of steel workers in the US,",helped,made,signified,STATIVE,['DYNAMIC'],descriptive
 145,made American steel far more expensive.,made American steel far more expensive.,made,hikes,,DYNAMIC,['DYNAMIC'],
-146,"Also, international competitors drew on a large supply of very cheap labor.","Also, international competitors drew on a large supply of very cheap labor.",drew,competitors,drew,DYNAMIC,['STATIVE'],NEW PARTICIPANT
-147,"Other steel-exporting countries simply didn't offer enough jobs,","Jobs were scarce in other steel-exporting countries,",were,Jobs,offer,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+146,"Also, international competitors drew on a large supply of very cheap labor.","Also, international competitors drew on a large supply of very cheap labor.",drew,competitors,drew,DYNAMIC,['STATIVE'],participant
+147,"Other steel-exporting countries simply didn't offer enough jobs,","Jobs were scarce in other steel-exporting countries,",were,Jobs,offer,DYNAMIC,['DYNAMIC'],participant
 148,and labor laws were either non-existent or allowed employers to pay much less for work.,and labor laws were either non-existent or allowed employers to pay much less for work.,were,laws,,STATIVE,['STATIVE'],
-149,"Labor costs in America appeared to continually rise,","Labor costs in America continued to go up,",continued,costs,appear,STATIVE,['DYNAMIC'],DESCRIPTIVE VERB
+149,"Labor costs in America appeared to continually rise,","Labor costs in America continued to go up,",continued,costs,appear,STATIVE,['DYNAMIC'],descriptive
 150,"draining US companies of their resources,","draining US companies of their resources,",draining,,,DYNAMIC,['DYNAMIC'],
 151,while companies overseas were able to cut labor costs,while companies overseas were able to cut labor costs,were,companies,,STATIVE,['DYNAMIC'],
 152,and put that money back into updating and renovating their facilities.,and put that money back into updating and renovating their facilities.,put,companies,,DYNAMIC,['DYNAMIC'],
-153,"On a worldwide scale, newer materials such as aluminum, plastic, and composites seemed to be substitutions for steel both at home and abroad.","On a worldwide scale, newer materials such as aluminum, plastic, and composites were beginning to substitute steel both at home and abroad.",beginning,materials,seemed,STATIVE,['DYNAMIC'],DESCRIPTIVE VERB
-154,Steel demand worldwide were having shortages ,"Steel demand worldwide was beginning to decline,",beginning,demand,having,STATIVE,['DYNAMIC'],LIGHT VERB
+153,"On a worldwide scale, newer materials such as aluminum, plastic, and composites seemed to be substitutions for steel both at home and abroad.","On a worldwide scale, newer materials such as aluminum, plastic, and composites were beginning to substitute steel both at home and abroad.",beginning,materials,seemed,STATIVE,['DYNAMIC'],descriptive
+154,Steel demand worldwide were having shortages ,"Steel demand worldwide was beginning to decline,",beginning,demand,having,STATIVE,['DYNAMIC'],light_verb
 155,and it affected both domestic and foreign companies.,and it affected both domestic and foreign companies.,affected,demand,,DYNAMIC,['DYNAMIC'],
-156,"However, to American companies already suffering financial setbacks, outdated machinery, and fierce competition, this lack of demand became an inconvenience","However, to American companies already suffering financial setbacks, outdated machinery, and fierce competition, this lack of demand was an inconvenience",was,lack,became,DYNAMIC,['DYNAMIC'],BECOMING
+156,"However, to American companies already suffering financial setbacks, outdated machinery, and fierce competition, this lack of demand became an inconvenience","However, to American companies already suffering financial setbacks, outdated machinery, and fierce competition, this lack of demand was an inconvenience",was,lack,became,DYNAMIC,['DYNAMIC'],becoming
 157,they could not afford.,they could not afford.,afford,they,,STATIVE,['DYNAMIC'],
-158,"America’s steel found no buyers,","Americas steel remained unsold,",remained,steel,found,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+158,"America’s steel found no buyers,","Americas steel remained unsold,",remained,steel,found,DYNAMIC,['DYNAMIC'],participant
 159,flooding the world market with inferior products,flooding the world market with inferior products,flooding,steel,,DYNAMIC,['DYNAMIC'],
 160,that no one wanted to buy.,that no one wanted to buy.,wanted,one,,STATIVE,['DYNAMIC'],
-161,"Since this problem yielded national consequences rather than local ones, the problems","Since this problem was a national one rather than a local one, the problems",was,problem,yielded,DYNAMIC,['STATIVE'],NEW PARTICIPANT
+161,"Since this problem yielded national consequences rather than local ones, the problems","Since this problem was a national one rather than a local one, the problems",was,problem,yielded,DYNAMIC,['STATIVE'],participant
 162,that were occurring in Youngstown were not unique.,that were occurring in Youngstown were not unique.,were,problems,,STATIVE,['STATIVE'],
-163,"Youngstown was perhaps more desolate than any other town because of the collapse of the steel industry,","Youngstown was perhaps hit harder than any other town by the collapse of the steel industry,",hit,Youngstown,was,STATIVE,['STATIVE'],COPULA
+163,"Youngstown was perhaps more desolate than any other town because of the collapse of the steel industry,","Youngstown was perhaps hit harder than any other town by the collapse of the steel industry,",hit,Youngstown,was,STATIVE,['STATIVE'],copula
 164,but it was not alone.,but it was not alone.,was,it,,STATIVE,['STATIVE'],
-165,The nationwide problem addressed many more mills and issues than Youngstown’s alone.,"The problem was a national one, involving many more mills and issues than Youngstowns alone.",was,problem,addressed,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
-166,"J. Philip Richley, a union member and organizer of many attempts to save the mills, had this to say after:","J. Philip Richley, a union member and organizer of many attempts to save 5the mills, has summed it up thus:",save,attempts,had,STATIVE,['DYNAMIC'],LIGHT VERB
+165,The nationwide problem addressed many more mills and issues than Youngstown’s alone.,"The problem was a national one, involving many more mills and issues than Youngstowns alone.",was,problem,addressed,DYNAMIC,['DYNAMIC'],participant
+166,"J. Philip Richley, a union member and organizer of many attempts to save the mills, had this to say after:","J. Philip Richley, a union member and organizer of many attempts to save 5the mills, has summed it up thus:",save,attempts,had,STATIVE,['DYNAMIC'],light_verb
 167,“It is impossible to solve a nation-wide problem in a single city.”,You just cant solve a nation-wide problem in a single city.,“,”,,STATIVE,['STATIVE'],
-168,The decline of the world steel market included not just in Youngstown but the entire steel community in America.,The decline of the world steel market affected not just Youngstown but the entire steel community in America.,affected,decline,included,STATIVE,['DYNAMIC'],DESCRIPTIVE VERB
-169,Trying to prop up one city’s mills appeared impossible,Trying to prop up one citys mills was impossible,was,Trying,appeared,DYNAMIC,['DYNAMIC'],DESCRIPTIVE VERB
+168,The decline of the world steel market included not just in Youngstown but the entire steel community in America.,The decline of the world steel market affected not just Youngstown but the entire steel community in America.,affected,decline,included,STATIVE,['DYNAMIC'],descriptive
+169,Trying to prop up one city’s mills appeared impossible,Trying to prop up one citys mills was impossible,was,Trying,appeared,DYNAMIC,['DYNAMIC'],descriptive
 170,when faced with the depression,when faced with the depression,faced,,,DYNAMIC,['DYNAMIC'],
 171,that spread throughout the entire industry.,that spread throughout the entire industry.,spread,depression,,DYNAMIC,['DYNAMIC'],
 172,The Save Our Valley Campaign: Lack of Funds and Plans,The Save Our Valley Campaign: Lack of Funds and Plans,,,,CANNOT_DECIDE,['CANNOT_DECIDE'],
-173,"Eventually, some religious leaders involved in the Ecumenical Coalition, along with community members and former steel mill employees, agreed to form the Save Our Valley Campaign.","Eventually, some religious leaders involved in the Ecumenical Coalition joined forces within community members and former steel mill employees to create the Save Our Valley Campaign.",joined,Campaign,agreed,STATIVE,['DYNAMIC'],THOUGHT VERB
-174,"In naming the campaign as such,","As the name suggests,",suggests,name,naming,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+173,"Eventually, some religious leaders involved in the Ecumenical Coalition, along with community members and former steel mill employees, agreed to form the Save Our Valley Campaign.","Eventually, some religious leaders involved in the Ecumenical Coalition joined forces within community members and former steel mill employees to create the Save Our Valley Campaign.",joined,Campaign,agreed,STATIVE,['DYNAMIC'],thought
+174,"In naming the campaign as such,","As the name suggests,",suggests,name,naming,DYNAMIC,['DYNAMIC'],participant
 175,"local leaders wanted to instill the people of Youngstown with a fierce sense of urgency,","local leaders wanted to instill the people of Youngstown with a fierce sense of urgency,",wanted,leaders,,STATIVE,['STATIVE'],
 176,driving them forward to confront steel companies and owners,driving them forward to confront steel companies and owners,driving,,,DYNAMIC,['DYNAMIC'],
 177,and help secure the future of the region.,and help secure the future of the region.,help,,,DYNAMIC,['CANNOT_DECIDE'],
-178,"Marches, speeches, and letter writing were all part of the drive to help stimulate the Campaign","Marches, speeches, and letter writing were all employed to help stimulate the Campaign",employed,speeches,were,STATIVE,['STATIVE'],COPULA
+178,"Marches, speeches, and letter writing were all part of the drive to help stimulate the Campaign","Marches, speeches, and letter writing were all employed to help stimulate the Campaign",employed,speeches,were,STATIVE,['STATIVE'],copula
 179,and rally the people.,and rally the people.,rally,,,CANNOT_DECIDE,['CANNOT_DECIDE'],
-180,But the Campaign felt that there were heavy losses from the lack of proper funding.,But the Campaign was bogged down heavily by the lack of proper funding.,bogged,Campaign,felt,STATIVE,['DYNAMIC'],THOUGHT VERB
-181,"The unemployed people of Youngstown, being now unemployed couldn’t spend on anything but staying alive.","The people of Youngstown, being now unemployed had very little money to spend on anything but staying alive.",unemployed,people,spend,DYNAMIC,['STATIVE'],NEW PARTICIPANT
-182,"College tuition, clothes, food, and heating were all prioritized before donations to non-profit organizations.","College tuition, clothes, food, and heating all had to come before donations to non-profit organizations.",had,all,prioritized,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
-183,"People outside of the area decided not to personally invest in the mills,","People outside of the area had no personal investment in the mills,",had,People,decided,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+180,But the Campaign felt that there were heavy losses from the lack of proper funding.,But the Campaign was bogged down heavily by the lack of proper funding.,bogged,Campaign,felt,STATIVE,['DYNAMIC'],thought
+181,"The unemployed people of Youngstown, being now unemployed couldn’t spend on anything but staying alive.","The people of Youngstown, being now unemployed had very little money to spend on anything but staying alive.",unemployed,people,spend,DYNAMIC,['STATIVE'],participant
+182,"College tuition, clothes, food, and heating were all prioritized before donations to non-profit organizations.","College tuition, clothes, food, and heating all had to come before donations to non-profit organizations.",had,all,prioritized,DYNAMIC,['DYNAMIC'],participant
+183,"People outside of the area decided not to personally invest in the mills,","People outside of the area had no personal investment in the mills,",had,People,decided,DYNAMIC,['DYNAMIC'],participant
 184,and so it was difficult to convince anyone from out of the county to contribute funds.,and so it was difficult to convince anyone from out of the county to contribute funds.,was,it,,STATIVE,['DYNAMIC'],
-185,"The lack of money became crippling,","The lack of money proved to be crippling,",proved,lack,became,DYNAMIC,['DYNAMIC'],BECOMING
+185,"The lack of money became crippling,","The lack of money proved to be crippling,",proved,lack,became,DYNAMIC,['DYNAMIC'],becoming
 186,because it prevented the organizations involved from purchasing the mills to run collectively.,because it prevented the organizations involved from purchasing the mills to run collectively.,prevented,it,,DYNAMIC,['DYNAMIC'],
-187,"Without funds, the Save Our Valley Campaign had no power to help salvage the city’s dying economy.","Without funds, the Save Our Valley Campaign could do nothing major to help salvage the citys dying economy.",do,Campaign,had,STATIVE,['DYNAMIC'],LIGHT VERB
-188,The Save Our Valley Campaign also did not consider one essential component: an actual concrete plan.,The Save Our Valley Campaign also lacked one essential component: an actual concrete plan.,lacked,Campaign,consider,DYNAMIC,['STATIVE'],NEW PARTICIPANT
-189,No one had formed a concrete plan for,No one seemed to know,seemed,one,formed,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+187,"Without funds, the Save Our Valley Campaign had no power to help salvage the city’s dying economy.","Without funds, the Save Our Valley Campaign could do nothing major to help salvage the citys dying economy.",do,Campaign,had,STATIVE,['DYNAMIC'],light_verb
+188,The Save Our Valley Campaign also did not consider one essential component: an actual concrete plan.,The Save Our Valley Campaign also lacked one essential component: an actual concrete plan.,lacked,Campaign,consider,DYNAMIC,['STATIVE'],participant
+189,No one had formed a concrete plan for,No one seemed to know,seemed,one,formed,DYNAMIC,['DYNAMIC'],participant
 190,just how to go about fixing the problems.,just how to go about fixing the problems.,go,one,,CANNOT_DECIDE,['CANNOT_DECIDE'],
-191,"Letters and petitions purportedly served their basic functions,","Letters and petitions were all very well,",were,petitions,served,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+191,"Letters and petitions purportedly served their basic functions,","Letters and petitions were all very well,",were,petitions,served,DYNAMIC,['DYNAMIC'],participant
 192,but they did little to improve the situation.,but they did little to improve the situation.,did,all,,DYNAMIC,['DYNAMIC'],
-193,"People touted vague ideas of worker collectivization,","People clung to vague ideas of worker collectivization,",clung,People,touted,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+193,"People touted vague ideas of worker collectivization,","People clung to vague ideas of worker collectivization,",clung,People,touted,DYNAMIC,['DYNAMIC'],participant
 194,but no one could really fathom,but no one could really fathom,fathom,People,,DYNAMIC,['STATIVE'],
 195,exactly how that would work;,exactly how that would work;,work,that,,DYNAMIC,['STATIVE'],
 196,"the people of Youngstown were, after all, not particularly familiar with socialism or collectivization in general.","the people of Youngstown were, after all, not particularly familiar with socialism or collectivization in general.",were,people,,STATIVE,['STATIVE'],
-197,"Beyond that, no one could articulate","Beyond that, no one knew",knew,one,articulate,DYNAMIC,['STATIVE'],NEW PARTICIPANT
+197,"Beyond that, no one could articulate","Beyond that, no one knew",knew,one,articulate,DYNAMIC,['STATIVE'],participant
 198,how they should proceed:,how they should proceed:,proceed,they,,DYNAMIC,['CANNOT_DECIDE'],
 199,everyone knew that saving,everyone knew that saving,knew,everyone,,STATIVE,['STATIVE'],
 200,"the mills was important,","the mills was important,",was,saving,,STATIVE,['STATIVE'],
 201,but nobody stepped forward with a full-fledged plan to do it,but nobody stepped forward with a full-fledged plan to do it,stepped,saving,,DYNAMIC,['DYNAMIC'],
 202,without losing huge amounts of money,without losing huge amounts of money,losing,,,DYNAMIC,['DYNAMIC'],
 203,and dragging even more people down.,and dragging even more people down.,dragging,,,DYNAMIC,['DYNAMIC'],
-204,"Without a real plan, the campaign was incapable of achieving anything concrete.","Without a real plan, nothing could truly be achieved.",achieved,nothing,was,STATIVE,['STATIVE'],COPULA
-205,"Without funds to drive the efforts, or even a real plan of action, the Save Our Valley Campaign was more harmful than beneficial.","Without funds to drive the efforts, or even a real plan of action, the Save Our Valley Campaign did more harm than good.",did,Campaign,was,STATIVE,['STATIVE'],COPULA
-206,"In effect, this meant raising the hopes of workers","In effect, it raised the hopes of workers",raised,it,meant,STATIVE,['DYNAMIC'],DESCRIPTIVE VERB
+204,"Without a real plan, the campaign was incapable of achieving anything concrete.","Without a real plan, nothing could truly be achieved.",achieved,nothing,was,STATIVE,['STATIVE'],copula
+205,"Without funds to drive the efforts, or even a real plan of action, the Save Our Valley Campaign was more harmful than beneficial.","Without funds to drive the efforts, or even a real plan of action, the Save Our Valley Campaign did more harm than good.",did,Campaign,was,STATIVE,['STATIVE'],copula
+206,"In effect, this meant raising the hopes of workers","In effect, it raised the hopes of workers",raised,it,meant,STATIVE,['DYNAMIC'],descriptive
 207,without having any real chance at saving anything.,without having any real chance at saving anything.,having,hopes,,STATIVE,['STATIVE'],
-208,"People were excited and kept waiting for the mills to reappear,","People became excited and waited for the mills to reappear,",became,People,were,STATIVE,['DYNAMIC'],COPULA
+208,"People were excited and kept waiting for the mills to reappear,","People became excited and waited for the mills to reappear,",became,People,were,STATIVE,['DYNAMIC'],copula
 209,but they never did.,but they never did.,did,People,,DYNAMIC,['DYNAMIC'],
-210,The Campaign was unable to save any jobs,The Campaign failed to save any jobs,failed,Campaign,was,STATIVE,['DYNAMIC'],COPULA
+210,The Campaign was unable to save any jobs,The Campaign failed to save any jobs,failed,Campaign,was,STATIVE,['DYNAMIC'],copula
 211,and Youngstown was plunged into economic chaos.,and Youngstown was plunged into economic chaos.,plunged,Campaign,,DYNAMIC,['DYNAMIC'],
 212,The Apathy of USWA,The Apathy of USWA,,,,CANNOT_DECIDE,['CANNOT_DECIDE'],
-213,Some formed the union United Steel Workers of America,United Steel Workers of America was the union,was,Apathy,formed,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+213,Some formed the union United Steel Workers of America,United Steel Workers of America was the union,was,Apathy,formed,DYNAMIC,['DYNAMIC'],participant
 214,representing the Youngstown steel workers,representing the Youngstown steel workers,representing,union,,STATIVE,['DYNAMIC'],
 215,when the closings hit.,when the closings hit.,hit,closings,,DYNAMIC,['DYNAMIC'],
-216,Initially many worked under the assumption,Initially many assumed,assumed,many,worked,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+216,Initially many worked under the assumption,Initially many assumed,assumed,many,worked,DYNAMIC,['DYNAMIC'],participant
 217,that their union would take a lead role in fighting for the recovery of their jobs.,that their union would take a lead role in fighting for the recovery of their jobs.,take,union,,DYNAMIC,['DYNAMIC'],
-218,"However, they soon realized","However, it soon became clear",became,it,realized,STATIVE,['DYNAMIC'],THOUGHT VERB
+218,"However, they soon realized","However, it soon became clear",became,it,realized,STATIVE,['DYNAMIC'],thought
 219,"that although the local union leaders were prepared to fight,","that although the local union leaders were prepared to fight,",were,leaders,,STATIVE,['STATIVE'],
 220,the international branch was not.,the international branch was not.,was,branch,,STATIVE,['STATIVE'],
-221,"The higher levels of the union were increasingly estranged from Youngstown and its plight,","The higher levels of the union became increasingly disassociated with Youngstown and its plight,",became,levels,were,STATIVE,['DYNAMIC'],COPULA
+221,"The higher levels of the union were increasingly estranged from Youngstown and its plight,","The higher levels of the union became increasingly disassociated with Youngstown and its plight,",became,levels,were,STATIVE,['DYNAMIC'],copula
 222,attempting to shut out the appeals from workers and local union representatives,attempting to shut out the appeals from workers and local union representatives,attempting,,,DYNAMIC,['DYNAMIC'],
 223,and to ignore,and to ignore,ignore,,,CANNOT_DECIDE,['CANNOT_DECIDE'],
 224,what was really happening.,what was really happening.,happening,what,,DYNAMIC,['DYNAMIC'],
-225,The union leaders of the USWA could not devise a solution for,"Actually, one main reason for the behavior of the USWA was that union leaders really had no idea",was,reason,devise,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+225,The union leaders of the USWA could not devise a solution for,"Actually, one main reason for the behavior of the USWA was that union leaders really had no idea",was,reason,devise,DYNAMIC,['DYNAMIC'],participant
 226,what to do.,what to do.,do,what,,CANNOT_DECIDE,['CANNOT_DECIDE'],
-227,"No one had ever been witness to a shutdown of this magnitude and rapidity before,","No one had ever seen a shutdown of this magnitude and rapidity before,",seen,one,been,STATIVE,['DYNAMIC'],COPULA
+227,"No one had ever been witness to a shutdown of this magnitude and rapidity before,","No one had ever seen a shutdown of this magnitude and rapidity before,",seen,one,been,STATIVE,['DYNAMIC'],copula
 228,"and none of the leaders of USWA, not even president Lynn Williams, knew","and none of the leaders of USWA, not even president Lynn Williams, knew",knew,one,,STATIVE,['STATIVE'],
 229,what could be done.,what could be done.,done,what,,DYNAMIC,['DYNAMIC'],
-230,Everyone accepted,It was clear to everyone,was,It,accepted,DYNAMIC,['STATIVE'],NEW PARTICIPANT
+230,Everyone accepted,It was clear to everyone,was,It,accepted,DYNAMIC,['STATIVE'],participant
 231,"that the economic fallout from this series of closings would be one of the worst in US history,","that the economic fallout from this series of closings would be one of the worst in US history,",be,fallout,,STATIVE,['STATIVE'],
 232,and so without any real precedents the union leaders were flustered.,and so without any real precedents the union leaders were flustered.,were,leaders,,STATIVE,['DYNAMIC'],
-233,"Rather than try and come up with some sort of scenario, the USWA did not want to acknowledge","Rather than try and come up with some sort of scenario, the USWA simply ignored",ignored,USWA,want,STATIVE,['DYNAMIC'],THOUGHT VERB
+233,"Rather than try and come up with some sort of scenario, the USWA did not want to acknowledge","Rather than try and come up with some sort of scenario, the USWA simply ignored",ignored,USWA,want,STATIVE,['DYNAMIC'],thought
 234,"what was going on in Youngstown,","what was going on in Youngstown,",going,what,,DYNAMIC,['STATIVE'],
 235,hoping,hoping,hoping,what,,STATIVE,['STATIVE'],
 236,"that perhaps the problem would resolve itself,","that perhaps the problem would resolve itself,",resolve,problem,,DYNAMIC,['DYNAMIC'],
 237,or at least not spread any further,or at least not spread any further,,,,DYNAMIC,['DYNAMIC'],
 238,than it already had.,than it already had.,had,problem,,DYNAMIC,['DYNAMIC'],
-239,"Besides incompetence, the USWA gave one other major reason for rejecting their local counterpart: fear of socialism.","Besides incompetence, the USWA had one other major reason for rejecting their local counterpart: fear of socialism.",had,USWA,gave,DYNAMIC,['STATIVE'],NEW PARTICIPANT
-240,"Obviously the union itself did not fear socialist action,","Obviously the union itself was not afraid of socialist action,",was,union,fear,DYNAMIC,['STATIVE'],THOUGHT VERB
+239,"Besides incompetence, the USWA gave one other major reason for rejecting their local counterpart: fear of socialism.","Besides incompetence, the USWA had one other major reason for rejecting their local counterpart: fear of socialism.",had,USWA,gave,DYNAMIC,['STATIVE'],participant
+240,"Obviously the union itself did not fear socialist action,","Obviously the union itself was not afraid of socialist action,",was,union,fear,DYNAMIC,['STATIVE'],thought
 241,but they worried,but they worried,worried,union,,STATIVE,['DYNAMIC'],
 242,that the federal government might see the efforts of Youngstown workers to collectivize as a movement towards socialism and perhaps even communism.,that the federal government might see the efforts of Youngstown workers to collectivize as a movement towards socialism and perhaps even communism.,see,government,,DYNAMIC,['DYNAMIC'],
-243,"If the USWA publicly wanted to revive the mills and encouraged worker control and ownership of the factories,","If the USWA supported the efforts to revive the mills and encouraged worker control and ownership of the factories,",supported,USWA,wanted,STATIVE,['DYNAMIC'],THOUGHT VERB
+243,"If the USWA publicly wanted to revive the mills and encouraged worker control and ownership of the factories,","If the USWA supported the efforts to revive the mills and encouraged worker control and ownership of the factories,",supported,USWA,wanted,STATIVE,['DYNAMIC'],thought
 244,then the government (and potentially other important people and institutions as well),then the government (and potentially other important people and institutions as well),,,,CANNOT_DECIDE,['DYNAMIC'],
 245,might begin to think,might begin to think,begin,government,,DYNAMIC,['STATIVE'],
 246,that the UWSA leaders were encouraging socialism.,that the UWSA leaders were encouraging socialism.,encouraging,leaders,,DYNAMIC,['STATIVE'],
-247,This would lead to a situation,This would mean,mean,This,lead,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+247,This would lead to a situation,This would mean,mean,This,lead,DYNAMIC,['DYNAMIC'],participant
 248,"that UWSA would lose credibility with the American government and its people, something","that UWSA would lose credibility with the American government and its people, something",lose,UWSA,,DYNAMIC,['DYNAMIC'],
 249,they could not afford to do.,they could not afford to do.,afford,they,,STATIVE,['STATIVE'],
-250,"Therefore, they preferred withdrawing support","Therefore, they decided to withdraw support",decided,they,preferred,STATIVE,['DYNAMIC'],THOUGHT VERB
+250,"Therefore, they preferred withdrawing support","Therefore, they decided to withdraw support",decided,they,preferred,STATIVE,['DYNAMIC'],thought
 251,and let the local branch fight it out alone.,and let the local branch fight it out alone.,let,they,,DYNAMIC,['CANNOT_DECIDE'],
 252,Regionalism,Regionalism,,,,CANNOT_DECIDE,['CANNOT_DECIDE'],
-253,"From its very first days, small villages and hamlets have packed the Mahoning Valley.",From its very first days the Mahoning Valley has been an area packed with small villages and hamlets.,been,Valley,packed,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
-254,The major city area is concentrated in Youngstown,"Youngstown is the name of the major city area,",is,Youngstown,concentrated,DYNAMIC,['STATIVE'],NEW PARTICIPANT
+253,"From its very first days, small villages and hamlets have packed the Mahoning Valley.",From its very first days the Mahoning Valley has been an area packed with small villages and hamlets.,been,Valley,packed,DYNAMIC,['DYNAMIC'],participant
+254,The major city area is concentrated in Youngstown,"Youngstown is the name of the major city area,",is,Youngstown,concentrated,DYNAMIC,['STATIVE'],participant
 255,but surrounding it on all sides are small communities,but surrounding it on all sides are small communities,are,surrounding,,STATIVE,['STATIVE'],
 256,which to the casual viewer are indistinguishable from the main city itself.,which to the casual viewer are indistinguishable from the main city itself.,are,communities,,STATIVE,['STATIVE'],
-257,"Boardman, Poland Township, Struthers, Lowellville, Warren, Lordstown, Canfield, Niles, and many other towns and districts crowd around Youngstown","Boardman, Poland Township, Struthers, Lowellville, Warren, Lordstown, Canfield, Niles, and many other towns and districts are crowded around Youngstown",crowded,Township,crowd,DYNAMIC,['STATIVE'],NEW PARTICIPANT
+257,"Boardman, Poland Township, Struthers, Lowellville, Warren, Lordstown, Canfield, Niles, and many other towns and districts crowd around Youngstown","Boardman, Poland Township, Struthers, Lowellville, Warren, Lordstown, Canfield, Niles, and many other towns and districts are crowded around Youngstown",crowded,Township,crowd,DYNAMIC,['STATIVE'],participant
 258,(see Figure 3).,(see Figure 3).,see,,,CANNOT_DECIDE,['CANNOT_DECIDE'],
-259,"People from each town are more likely to work, shop, eat,","People from each town work, shop, eat,",shop,People,are,STATIVE,['STATIVE'],COPULA
+259,"People from each town are more likely to work, shop, eat,","People from each town work, shop, eat,",shop,People,are,STATIVE,['STATIVE'],copula
 260,"and socialize in towns separate from their own,","and socialize in towns separate from their own,",socialize,People,,DYNAMIC,['DYNAMIC'],
 261,making each town strongly dependent on every other town.,making each town strongly dependent on every other town.,making,,,STATIVE,['STATIVE'],
-262,"However, although traffic gets heavy between each separate district,","However, although traffic is heavy between each separate district,",is,traffic,gets,DYNAMIC,['DYNAMIC'],BECOMING
+262,"However, although traffic gets heavy between each separate district,","However, although traffic is heavy between each separate district,",is,traffic,gets,DYNAMIC,['DYNAMIC'],becoming
 263,"each area has its own distinct cultural ethnicity, educational system, heritage, history, and even food.","each area has its own distinct cultural ethnicity, educational system, heritage, history, and even food.",has,area,,STATIVE,['STATIVE'],
-264,"For example, Struthers houses a large Slovak population,","For example, Struthers is a poor town with a large Slovak population,",is,Struthers,houses,DYNAMIC,['STATIVE'],NEW PARTICIPANT
+264,"For example, Struthers houses a large Slovak population,","For example, Struthers is a poor town with a large Slovak population,",is,Struthers,houses,DYNAMIC,['STATIVE'],participant
 265,"where education is generally better than in surrounding towns,","where education is generally better than in surrounding towns,",is,education,,STATIVE,['STATIVE'],
 266,but unemployment is much higher,but unemployment is much higher,is,unemployment,,STATIVE,['STATIVE'],
 267,and pollution is widespread.,and pollution is widespread.,is,pollution,,STATIVE,['STATIVE'],
-268,Most people in Struthers practice either the Orthodox or Baptist faith.,Most people in Struthers are either Orthodox or Baptist.,are,people,practice,DYNAMIC,['STATIVE'],NEW PARTICIPANT
+268,Most people in Struthers practice either the Orthodox or Baptist faith.,Most people in Struthers are either Orthodox or Baptist.,are,people,practice,DYNAMIC,['STATIVE'],participant
 269,"Two blocks over one finds Boardman, a well-off township with a reputation for rich but unsuccessful schools.","Two blocks over one finds Boardman, a well-off township with a reputation for rich but unsuccessful schools.",finds,blocks,,DYNAMIC,['DYNAMIC'],
-270,"It is populated mainly by Italian and Roman Catholic residents, with a small concentration of Methodists on the east side.","Its residents are mainly Italian and Roman Catholic, with a small concentration of Methodists on the east side.",are,residents,populated,DYNAMIC,['STATIVE'],NEW PARTICIPANT
-271,"Unemployment rates hit a lower point than in surrounding towns,","Unemployment is low in comparison with surrounding towns,",is,Unemployment,hit,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+270,"It is populated mainly by Italian and Roman Catholic residents, with a small concentration of Methodists on the east side.","Its residents are mainly Italian and Roman Catholic, with a small concentration of Methodists on the east side.",are,residents,populated,DYNAMIC,['STATIVE'],participant
+271,"Unemployment rates hit a lower point than in surrounding towns,","Unemployment is low in comparison with surrounding towns,",is,Unemployment,hit,DYNAMIC,['DYNAMIC'],participant
 272,and the streets are clean and well kept.,and the streets are clean and well kept.,are,streets,,STATIVE,['STATIVE'],
-273,"With many more cultures, religions, and economic levels living in close proximity to one another, a curious phenomenon is increasingly belonging to the area: regionalism.","With many more cultures, religions, and economic levels living in close proximity to one another, a curious phenomenon has overtaken the area: regionalism.",overtaken,phenomenon,belonging,STATIVE,['STATIVE'],DESCRIPTIVE VERB
-274,"Each town, with their own identity, wants to instill a strong regionalistic feeling within their respective populations,","Each town, with their own identity, instills a strong regionalistic feeling within their respective populations,",instills,town,wants,STATIVE,['STATIVE'],THOUGHT VERB
+273,"With many more cultures, religions, and economic levels living in close proximity to one another, a curious phenomenon is increasingly belonging to the area: regionalism.","With many more cultures, religions, and economic levels living in close proximity to one another, a curious phenomenon has overtaken the area: regionalism.",overtaken,phenomenon,belonging,STATIVE,['STATIVE'],descriptive
+274,"Each town, with their own identity, wants to instill a strong regionalistic feeling within their respective populations,","Each town, with their own identity, instills a strong regionalistic feeling within their respective populations,",instills,town,wants,STATIVE,['STATIVE'],thought
 275,"which dictates many habits, exchanges, and interactions between populations.","which dictates many habits, exchanges, and interactions between populations.",dictates,populations,,DYNAMIC,['DYNAMIC'],
-276,"Oftentimes this regionalism involves bizarre forms of hatred, with certain towns","Oftentimes this regionalism takes the form of bizarre forms of hatred, with certain towns",takes,regionalism,involves,STATIVE,['STATIVE'],DESCRIPTIVE VERB
+276,"Oftentimes this regionalism involves bizarre forms of hatred, with certain towns","Oftentimes this regionalism takes the form of bizarre forms of hatred, with certain towns",takes,regionalism,involves,STATIVE,['STATIVE'],descriptive
 277,becoming sworn enemies of others.,becoming sworn enemies of others.,becoming,regionalism,,DYNAMIC,['DYNAMIC'],
-278,"With so much regional tension, it was very hard","With so much regional tension, it became very hard",became,it,was,STATIVE,['STATIVE'],COPULA
+278,"With so much regional tension, it was very hard","With so much regional tension, it became very hard",became,it,was,STATIVE,['STATIVE'],copula
 279,"for workers to unite under a common cause, even one","for workers to unite under a common cause, even one",unite,workers,,CANNOT_DECIDE,['CANNOT_DECIDE'],
 280,that would save their jobs and their futures.,that would save their jobs and their futures.,save,one,,DYNAMIC,['STATIVE'],
-281,"Workers from Poland Township did not want to attend rallies with workers from Campbell,","Workers from Poland Township would refuse to attend rallies with workers from Campbell,",refuse,Workers,want,STATIVE,['STATIVE'],THOUGHT VERB
+281,"Workers from Poland Township did not want to attend rallies with workers from Campbell,","Workers from Poland Township would refuse to attend rallies with workers from Campbell,",refuse,Workers,want,STATIVE,['STATIVE'],thought
 282,and citizens of Struthers would become suspicious,and citizens of Struthers would become suspicious,become,Workers,,DYNAMIC,['DYNAMIC'],
 283,"of people from Boardman, even if they were supposed to be working towards the same thing.","of people from Boardman, even if they were supposed to be working towards the same thing.",supposed,they,,STATIVE,['STATIVE'],
-284,"A lack of cooperation was thought to be a crippling problem for the movement,","A lack of cooperation became a crippling problem for the movement,",became,lack,thought,STATIVE,['STATIVE'],THOUGHT VERB
+284,"A lack of cooperation was thought to be a crippling problem for the movement,","A lack of cooperation became a crippling problem for the movement,",became,lack,thought,STATIVE,['STATIVE'],thought
 285,because no one was willing to put aside regional differences to work together.,because no one was willing to put aside regional differences to work together.,was,one,,STATIVE,['STATIVE'],
-286,"In some instances, small companies wanted to show support in helping the movement","In some instances, small companies would express interest in helping the movement",express,companies,wanted,STATIVE,['DYNAMIC'],THOUGHT VERB
+286,"In some instances, small companies wanted to show support in helping the movement","In some instances, small companies would express interest in helping the movement",express,companies,wanted,STATIVE,['DYNAMIC'],thought
 287,"or in relocating their business in the area,","or in relocating their business in the area,",relocating,interest,,DYNAMIC,['DYNAMIC'],
 288,but because of regional pride no one could ever agree,but because of regional pride no one could ever agree,agree,companies,,DYNAMIC,['DYNAMIC'],
 289,where the new businesses should relocate.,where the new businesses should relocate.,relocate,businesses,,DYNAMIC,['DYNAMIC'],
-290,In this way the people of the Mahoning Valley were bereft of many opportunities for new industrial or commercial lifeblood because of arbitrary arguments,In this way the people of the Mahoning Valley missed many opportunities for new industrial or commercial lifeblood because of arbitrary arguments,missed,people,were,STATIVE,['STATIVE'],COPULA
+290,In this way the people of the Mahoning Valley were bereft of many opportunities for new industrial or commercial lifeblood because of arbitrary arguments,In this way the people of the Mahoning Valley missed many opportunities for new industrial or commercial lifeblood because of arbitrary arguments,missed,people,were,STATIVE,['STATIVE'],copula
 291,where the goal was simply to protect regional pride.,where the goal was simply to protect regional pride.,was,goal,,STATIVE,['STATIVE'],
 292,Conclusion: The Aftershock and the Significance of Black Monday,Conclusion: The Aftershock and the Significance of Black Monday,,,,CANNOT_DECIDE,['CANNOT_DECIDE'],
-293,Black Monday dealt a devastating blow to an entire generation of people.,Black Monday was a devastating blow to an entire generation of people.,was,Aftershock,dealt,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+293,Black Monday dealt a devastating blow to an entire generation of people.,Black Monday was a devastating blow to an entire generation of people.,was,Aftershock,dealt,DYNAMIC,['DYNAMIC'],participant
 294,The efforts to avoid catastrophe,The efforts to avoid catastrophe,avoid,efforts,,CANNOT_DECIDE,['CANNOT_DECIDE'],
 295,after the fact were unsuccessful for four main reasons:,after the fact were unsuccessful for four main reasons:,were,fact,,STATIVE,['STATIVE'],
 296,"the failure of the international steel market, the lack of funds and plans in initiatives such as the Save Our Valley Campaign, the refusal of the USWA to support their local chapter out of ineptitude and fear, and the absurd but very real regionalism","the failure of the international steel market, the lack of funds and plans in initiatives such as the Save Our Valley Campaign, the refusal of the USWA to support their local chapter out of ineptitude and fear, and the absurd but very real regionalism",support,USWA,,CANNOT_DECIDE,['CANNOT_DECIDE'],
 297,which corrupted solidarity efforts,which corrupted solidarity efforts,corrupted,regionalism,,DYNAMIC,['DYNAMIC'],
 298,and drove away any hope for brining in new companies.,and drove away any hope for brining in new companies.,drove,regionalism,,DYNAMIC,['DYNAMIC'],
-299,Thinking about the events,What happened,happened,What,thinking,STATIVE,['DYNAMIC'],THOUGHT VERB
+299,Thinking about the events,What happened,happened,What,thinking,STATIVE,['DYNAMIC'],thought
 300,"in Youngstown may not seem significant on an international or even on a national level, and perhaps","in Youngstown may not seem significant on an international or even on a national level, and perhaps",seem,happened,,STATIVE,['STATIVE'],
 301,it is not.,it is not.,is,happened,,STATIVE,['STATIVE'],
 302,"But to the thousands of people living there,","But to the thousands of people living there,",living,people,,CANNOT_DECIDE,['CANNOT_DECIDE'],
 303,the loss of the mills was a devastating event,the loss of the mills was a devastating event,was,loss,,STATIVE,['STATIVE'],
 304,"that sent shock waves through their economic, political, and social futures.","that sent shock waves through their economic, political, and social futures.",sent,event,,DYNAMIC,['DYNAMIC'],
-305,"Because of the mills and their conspicuous absence, hundreds of people knew they were effectively uprooted, forced to leave their homes and tightly knit communities.","Because of the mills and their conspicuous absence, hundreds of people were uprooted, forced to leave their homes and tightly knit communities.",uprooted,hundreds,knew,STATIVE,['DYNAMIC'],THOUGHT VERB
-306,"The unemployment lines seemed to have hundreds more join,","Hundreds more joined the unemployment lines,",joined,Hundreds,seemed,STATIVE,['DYNAMIC'],DESCRIPTIVE VERB
+305,"Because of the mills and their conspicuous absence, hundreds of people knew they were effectively uprooted, forced to leave their homes and tightly knit communities.","Because of the mills and their conspicuous absence, hundreds of people were uprooted, forced to leave their homes and tightly knit communities.",uprooted,hundreds,knew,STATIVE,['DYNAMIC'],thought
+306,"The unemployment lines seemed to have hundreds more join,","Hundreds more joined the unemployment lines,",joined,Hundreds,seemed,STATIVE,['DYNAMIC'],descriptive
 307,or even began living on the streets.,or even began living on the streets.,began,joined,,DYNAMIC,['DYNAMIC'],
-308,"For the people of Youngstown, they didn’t look at Black Monday as just a historical event-","For the people of Youngstown, Black Monday was not just a historical event-",was,Monday,look,DYNAMIC,['STATIVE'],NEW PARTICIPANT
+308,"For the people of Youngstown, they didn’t look at Black Monday as just a historical event-","For the people of Youngstown, Black Monday was not just a historical event-",was,Monday,look,DYNAMIC,['STATIVE'],participant
 309,it was the most important event in their lives.,it was the most important event in their lives.,was,it,,STATIVE,['STATIVE'],
-310,"The steel workers who tried to save their jobs and their lives had become part of something greater than themselves, something","The steel workers who tried to save their jobs and their lives were part of something greater than themselves, something",were,workers,become,DYNAMIC,['DYNAMIC'],BECOMING
+310,"The steel workers who tried to save their jobs and their lives had become part of something greater than themselves, something","The steel workers who tried to save their jobs and their lives were part of something greater than themselves, something",were,workers,become,DYNAMIC,['DYNAMIC'],becoming
 311,which would endure,which would endure,endure,something,,STATIVE,['STATIVE'],
 312,long after they had moved away,long after they had moved away,moved,they,,DYNAMIC,['DYNAMIC'],
 313,and moved on.,and moved on.,moved,they,,DYNAMIC,['DYNAMIC'],
-314,"Even though they eventually were unable to succeed, the fact","Even though they eventually failed, the fact",failed,they,were,STATIVE,['STATIVE'],COPULA
+314,"Even though they eventually were unable to succeed, the fact","Even though they eventually failed, the fact",failed,they,were,STATIVE,['STATIVE'],copula
 315,that they tried to preserve,that they tried to preserve,tried,they,,DYNAMIC,['DYNAMIC'],
 316,what they felt belonged to them is an amazing example of how far people will go to save their lives and the futures of their children.,what they felt belonged to them is an amazing example of how far people will go to save their lives and the futures of their children.,is,fact,,STATIVE,['STATIVE'],

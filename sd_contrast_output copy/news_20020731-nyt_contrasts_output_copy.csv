@@ -1,86 +1,86 @@
 ,Clause,origClause,mainVerb,mainReferent,contrastVerb,Contrast,predictions,Strategy
-0,SENATE ETHICS PANEL DISAPPROVES OF NEW JERSEY SENATOR’S CONDUCT RELATED TO GIFTS,SENATE ETHICS PANEL ADMONISHES NEW JERSEY SENATOR FOR CONDUCT RELATED TO GIFTS,ETHICS,WASHINGTON,disapproves,STATIVE,['DYNAMIC'],THOUGHT VERB
+0,SENATE ETHICS PANEL DISAPPROVES OF NEW JERSEY SENATOR’S CONDUCT RELATED TO GIFTS,SENATE ETHICS PANEL ADMONISHES NEW JERSEY SENATOR FOR CONDUCT RELATED TO GIFTS,ETHICS,WASHINGTON,disapproves,STATIVE,['DYNAMIC'],thought
 1,WASHINGTON,WASHINGTON,WASHINGTON,Torricelli,,CANNOT_DECIDE,['CANNOT_DECIDE'],
-2,"The Senate Ethics Committee on Tuesday night ""severely disapproved of the conduct"" of Sen. Robert G. Torricelli, D-N.J.,","The Senate Ethics Committee on Tuesday night ""severely admonished"" Sen. Robert G. Torricelli, D-N.J.,",,,disapproved,STATIVE,['DYNAMIC'],THOUGHT VERB
+2,"The Senate Ethics Committee on Tuesday night ""severely disapproved of the conduct"" of Sen. Robert G. Torricelli, D-N.J.,","The Senate Ethics Committee on Tuesday night ""severely admonished"" Sen. Robert G. Torricelli, D-N.J.,",,,disapproved,STATIVE,['DYNAMIC'],thought
 3,saying,saying,saying,Torricelli,,DYNAMIC,['STATIVE'],
 4,he had violated Senate rules by accepting and failing to disclose expensive gifts from a former contributor to whom he repeatedly gave help.,he had violated Senate rules by accepting and failing to disclose expensive gifts from a former contributor to whom he repeatedly gave help.,violated,he,,DYNAMIC,['DYNAMIC'],
-5,"On the basis of thousands of pages of information developed in an earlier federal inquiry into Torricelli's activities, the committee wanted him to be condemned for using poor judgment","On the basis of thousands of pages of information developed in an earlier federal inquiry into Torricelli's activities, the committee chastised him for using poor judgment",chastised,committee,wanted,STATIVE,['DYNAMIC'],THOUGHT VERB
+5,"On the basis of thousands of pages of information developed in an earlier federal inquiry into Torricelli's activities, the committee wanted him to be condemned for using poor judgment","On the basis of thousands of pages of information developed in an earlier federal inquiry into Torricelli's activities, the committee chastised him for using poor judgment",chastised,committee,wanted,STATIVE,['DYNAMIC'],thought
 6,"and disregarding Senate rules in his dealings with the former donor, David Chang.","and disregarding Senate rules in his dealings with the former donor, David Chang.",disregarding,committee,,DYNAMIC,['DYNAMIC'],
-7,"""Your actions and failure to act constituted direct violations of Senate rules","""Your actions and failure to act led to violations of Senate rules",act,actions,constituted,STATIVE,['STATIVE'],DESCRIPTIVE VERB
+7,"""Your actions and failure to act constituted direct violations of Senate rules","""Your actions and failure to act led to violations of Senate rules",act,actions,constituted,STATIVE,['STATIVE'],descriptive
 8,"(and related statutes) and created at least the appearance of impropriety,""","(and related statutes) and created at least the appearance of impropriety,""",related,led,,DYNAMIC,['DYNAMIC'],
 9,the three Democrats and three Republicans on the committee said in a three-page letter to Torricelli.,the three Democrats and three Republicans on the committee said in a three-page letter to Torricelli.,said,Republicans,,DYNAMIC,['DYNAMIC'],
-10,"The ethics panel also agreed to force Torricelli to pay back Chang -- with interest -- for the full value of a large-screen television set and compact-disc player, and for expensive earrings","The ethics panel also ordered Torricelli to pay back Chang -- with interest -- for the full value of a large-screen television set and compact-disc player, and for expensive earrings",ordered,panel,agreed,STATIVE,['DYNAMIC'],THOUGHT VERB
+10,"The ethics panel also agreed to force Torricelli to pay back Chang -- with interest -- for the full value of a large-screen television set and compact-disc player, and for expensive earrings","The ethics panel also ordered Torricelli to pay back Chang -- with interest -- for the full value of a large-screen television set and compact-disc player, and for expensive earrings",ordered,panel,agreed,STATIVE,['DYNAMIC'],thought
 11,"that Chang gave to Torricelli's sister, to one of his close aides and to one of Torricelli's former girlfriends.","that Chang gave to Torricelli's sister, to one of his close aides and to one of Torricelli's former girlfriends.",gave,Chang,,DYNAMIC,['DYNAMIC'],
-12,The committee’s action appears to take place,The committee's action comes,comes,action,appears,STATIVE,['DYNAMIC'],DESCRIPTIVE VERB
+12,The committee’s action appears to take place,The committee's action comes,comes,action,appears,STATIVE,['DYNAMIC'],descriptive
 13,six months after federal prosecutors ended a lengthy criminal investigation into Torricelli's activities,six months after federal prosecutors ended a lengthy criminal investigation into Torricelli's activities,ended,prosecutors,,DYNAMIC,['DYNAMIC'],
 14,without filing criminal charges.,without filing criminal charges.,,,,DYNAMIC,['CANNOT_DECIDE'],
-15,"The ethics panel, knowing the evidence from the criminal case,","The ethics panel, to which evidence from the criminal case was forwarded,",forwarded,evidence,knowing,STATIVE,['DYNAMIC'],THOUGHT VERB
+15,"The ethics panel, knowing the evidence from the criminal case,","The ethics panel, to which evidence from the criminal case was forwarded,",forwarded,evidence,knowing,STATIVE,['DYNAMIC'],thought
 16,concluded its review,concluded its review,concluded,panel,,DYNAMIC,['DYNAMIC'],
 17,"just as Torricelli is gearing up his campaign for re-election against the Republican candidate, Douglas R. Forrester.","just as Torricelli is gearing up his campaign for re-election against the Republican candidate, Douglas R. Forrester.",gearing,Torricelli,,DYNAMIC,['DYNAMIC'],
-18,"After months in which polls showed Torricelli well ahead of his relatively unknown Republican rival, the contest appears closer than ever.","After months in which polls showed Torricelli well ahead of his relatively unknown Republican rival, the contest has narrowed in recent weeks.",narrowed,contest,appears,STATIVE,['DYNAMIC'],DESCRIPTIVE VERB
-19,It marked the first time,It was the first time,was,voted,,DYNAMIC,['STATIVE'],INSERT VERB
+18,"After months in which polls showed Torricelli well ahead of his relatively unknown Republican rival, the contest appears closer than ever.","After months in which polls showed Torricelli well ahead of his relatively unknown Republican rival, the contest has narrowed in recent weeks.",narrowed,contest,appears,STATIVE,['DYNAMIC'],descriptive
+19,It marked the first time,It was the first time,was,voted,,DYNAMIC,['STATIVE'],insert_verb
 20,"that the Senate Ethics Committee had voted to take action against a senator since 1995,","that the Senate Ethics Committee had voted to take action against a senator since 1995,",voted,time,,DYNAMIC,['STATIVE'],
 21,when it recommended,when it recommended,recommended,it,,DYNAMIC,['DYNAMIC'],
 22,"that Bob Packwood, an Oregon Republican, be expelled on the ground of sexual and official misconduct.","that Bob Packwood, an Oregon Republican, be expelled on the ground of sexual and official misconduct.",expelled,Packwood,,CANNOT_DECIDE,['DYNAMIC'],
-23,Packwood is no longer on the committee.,Packwood later resigned.,resigned,Packwood,copula,STATIVE,['STATIVE'],COPULA
-24,"Sen. Daniel K. Inouye, D-Hawaii, who was asked to lead the ethics inquiry,","Sen. Daniel K. Inouye, D-Hawaii, who led the ethics inquiry,",led,Inouye,asked,STATIVE,['DYNAMIC'],NEW PARTICIPANT
+23,Packwood is no longer on the committee.,Packwood later resigned.,resigned,Packwood,copula,STATIVE,['STATIVE'],is
+24,"Sen. Daniel K. Inouye, D-Hawaii, who was asked to lead the ethics inquiry,","Sen. Daniel K. Inouye, D-Hawaii, who led the ethics inquiry,",led,Inouye,asked,STATIVE,['DYNAMIC'],participant
 25,said,said,said,Inouye,,DYNAMIC,['DYNAMIC'],
 26,he believed,he believed,believed,he,,STATIVE,['STATIVE'],
 27,the investigation was thorough and fair,the investigation was thorough and fair,was,investigation,,STATIVE,['STATIVE'],
 28,but would not offer a detailed description of the committee's secret deliberations.,but would not offer a detailed description of the committee's secret deliberations.,offer,investigation,,DYNAMIC,['STATIVE'],
-29,"""The document is clear,”","""The document speaks for itself,""",speaks,document,is,STATIVE,['STATIVE'],COPULA
+29,"""The document is clear,”","""The document speaks for itself,""",speaks,document,is,STATIVE,['STATIVE'],copula
 30,"said Inouye,","said Inouye,",said,Inouye,,DYNAMIC,['DYNAMIC'],
 31,who said,who said,said,Inouye,,DYNAMIC,['CANNOT_DECIDE'],
 32,that he considered the matter closed with the letter.,that he considered the matter closed with the letter.,considered,he,,STATIVE,['DYNAMIC'],
-33,"Within minutes after the committee released its letter publicly, Torricelli appeared to apologize to the people of New Jersey for allowing his seat in the chamber","Within minutes after the committee released its letter publicly, Torricelli took the Senate floor Tuesday night to apologize to the people of New Jersey for allowing his seat in the chamber",took,Torricelli,appeared,STATIVE,['DYNAMIC'],DESCRIPTIVE VERB
+33,"Within minutes after the committee released its letter publicly, Torricelli appeared to apologize to the people of New Jersey for allowing his seat in the chamber","Within minutes after the committee released its letter publicly, Torricelli took the Senate floor Tuesday night to apologize to the people of New Jersey for allowing his seat in the chamber",took,Torricelli,appeared,STATIVE,['DYNAMIC'],descriptive
 34,"""to be placed in this position.""","""to be placed in this position.""",placed,seat,,CANNOT_DECIDE,['STATIVE'],
-35,"During nearly seven hours of sworn testimony last week before the members and staff of the ethics panel, Torricelli knew the whole time","During nearly seven hours of sworn testimony last week before the members and staff of the ethics panel, Torricelli said",said,Torricelli,knew,STATIVE,['DYNAMIC'],THOUGHT VERB
+35,"During nearly seven hours of sworn testimony last week before the members and staff of the ethics panel, Torricelli knew the whole time","During nearly seven hours of sworn testimony last week before the members and staff of the ethics panel, Torricelli said",said,Torricelli,knew,STATIVE,['DYNAMIC'],thought
 36,"that he had not taken any gifts from Chang,","that he had not taken any gifts from Chang,",taken,he,,DYNAMIC,['DYNAMIC'],
 37,and that what items he had accepted from the businessman,and that what items he had accepted from the businessman,accepted,he,,DYNAMIC,['DYNAMIC'],
 38,"he had later paid Chang for,","he had later paid Chang for,",paid,he,,DYNAMIC,['DYNAMIC'],
 39,one person familiar with his account said.,one person familiar with his account said.,said,he,,DYNAMIC,['DYNAMIC'],
-40,Torricelli also believed,Torricelli also insisted,insisted,Torricelli,believed,STATIVE,['DYNAMIC'],THOUGHT VERB
+40,Torricelli also believed,Torricelli also insisted,insisted,Torricelli,believed,STATIVE,['DYNAMIC'],thought
 41,"that he had not done any unusual favors for Chang,","that he had not done any unusual favors for Chang,",done,he,,DYNAMIC,['DYNAMIC'],
 42,who first turned to the senator in 1995 for help in winning the repayment of some $71 million,who first turned to the senator in 1995 for help in winning the repayment of some $71 million,turned,Chang,,DYNAMIC,['DYNAMIC'],
 43,he said,he said,said,he,,DYNAMIC,['DYNAMIC'],
 44,he was then owed in a failed business deal with the North Korean government.,he was then owed in a failed business deal with the North Korean government.,owed,he,,STATIVE,['DYNAMIC'],
-45,The Ethics Committee did not take the bait.,The Ethics Committee was unconvinced.,was,Committee,take,DYNAMIC,['DYNAMIC'],INSERT VERB
+45,The Ethics Committee did not take the bait.,The Ethics Committee was unconvinced.,was,Committee,take,DYNAMIC,['DYNAMIC'],insert_verb
 46,"In its letter, which was signed by all six members,","In its letter, which was signed by all six members,",signed,letter,,CANNOT_DECIDE,['DYNAMIC'],
-47,In the letter which bore the signature,PLACEHOLDER,,,bore,STATIVE,['STATIVE'],DESCRIPTIVE VERB
-48,"In the letter which had been signed eagerly by all six members,",PLACEHOLDER,,,signed,DYNAMIC,['DYNAMIC'],UPGRADE
+47,In the letter which bore the signature,PLACEHOLDER,,,bore,STATIVE,['STATIVE'],descriptive
+48,"In the letter which had been signed eagerly by all six members,",PLACEHOLDER,,,signed,DYNAMIC,['DYNAMIC'],upgrade_ppl
 49,the panel wrote,the panel wrote,wrote,panel,,DYNAMIC,['DYNAMIC'],
 50,"that it was ""troubled by incongruities, inconsistencies and conflicts,","that it was ""troubled by incongruities, inconsistencies and conflicts,",was,,,STATIVE,['STATIVE'],
 51,particularly concerning actions taken by you,particularly concerning actions taken by you,concerning,,,DYNAMIC,['DYNAMIC'],
 52,which were,which were,were,actions,,STATIVE,['STATIVE'],
 53,"or could have been of potential benefit to Chang.""","or could have been of potential benefit to Chang.""",been,actions,,STATIVE,['DYNAMIC'],
-54,"The committee was aghast at Torricelli for maintaining a ""personal and official relationship with Chang under circumstances","The committee criticized Torricelli for maintaining a ""personal and official relationship with Chang under circumstances",criticized,committee,was,STATIVE,['DYNAMIC'],COPULA
+54,"The committee was aghast at Torricelli for maintaining a ""personal and official relationship with Chang under circumstances","The committee criticized Torricelli for maintaining a ""personal and official relationship with Chang under circumstances",criticized,committee,was,STATIVE,['DYNAMIC'],copula
 55,where you knew,where you knew,knew,you,,STATIVE,['STATIVE'],
 56,"that he was attempting to ingratiate himself, in part through a pattern of attempts to provide you and those around you with gifts over a period of several years.""","that he was attempting to ingratiate himself, in part through a pattern of attempts to provide you and those around you with gifts over a period of several years.""",attempting,he,,DYNAMIC,['DYNAMIC'],
-57,"During that time, the panel believed that","During that time, the panel said,",said,panel,believed,STATIVE,['STATIVE'],THOUGHT VERB
+57,"During that time, the panel believed that","During that time, the panel said,",said,panel,believed,STATIVE,['STATIVE'],thought
 58,"Torricelli and members of his Senate staff took a series of actions to help Chang,","Torricelli and members of his Senate staff took a series of actions to help Chang,",took,Torricelli,,DYNAMIC,['DYNAMIC'],
 59,"contacting U.S. government officials,","contacting U.S. government officials,",contacting,took,,DYNAMIC,['DYNAMIC'],
 60,writing letters to foreign government officials,writing letters to foreign government officials,writing,took,,DYNAMIC,['DYNAMIC'],
 61,and bringing Chang or his business representatives into meetings with foreign officials.,and bringing Chang or his business representatives into meetings with foreign officials.,bringing,took,,DYNAMIC,['DYNAMIC'],
-62,"The committee doubted some of the most serious allegations,","The committee did not confirm some of the most serious allegations,",confirm,committee,doubted,STATIVE,['DYNAMIC'],THOUGHT VERB
+62,"The committee doubted some of the most serious allegations,","The committee did not confirm some of the most serious allegations,",confirm,committee,doubted,STATIVE,['DYNAMIC'],thought
 63,including Chang's claim,including Chang's claim,including,,,STATIVE,['STATIVE'],
 64,that he gave Torricelli tens of thousands of dollars in cash.,that he gave Torricelli tens of thousands of dollars in cash.,gave,he,,DYNAMIC,['DYNAMIC'],
-65,"According to the committee,",The committee said,said,committee,according,STATIVE,['STATIVE'],DESCRIPTIVE VERB
+65,"According to the committee,",The committee said,said,committee,according,STATIVE,['STATIVE'],descriptive
 66,it had weighed the fact,it had weighed the fact,weighed,it,,DYNAMIC,['DYNAMIC'],
 67,"that Torricelli's principal accuser in the case had been Chang, ""a witness","that Torricelli's principal accuser in the case had been Chang, ""a witness",been,accuser,,STATIVE,['STATIVE'],
 68,"whose credibility has been called into question by the Department of Justice, a United States District judge and his own conduct.""","whose credibility has been called into question by the Department of Justice, a United States District judge and his own conduct.""",called,credibility,,DYNAMIC,['DYNAMIC'],
-69,"In May, Chang was subject to 18 months' imprisonment for obstructing justice","In May, that judge sentenced Chang to 18 months' imprisonment for obstructing justice",sentenced,judge,was,STATIVE,['DYNAMIC'],DESCRIPTIVE VERB
+69,"In May, Chang was subject to 18 months' imprisonment for obstructing justice","In May, that judge sentenced Chang to 18 months' imprisonment for obstructing justice",sentenced,judge,was,STATIVE,['DYNAMIC'],descriptive
 70,"and making $53,700 in illegal campaign contributions to Torricelli's 1996 Senate campaign.","and making $53,700 in illegal campaign contributions to Torricelli's 1996 Senate campaign.",making,,,DYNAMIC,['DYNAMIC'],
-71,"But at the time of Chang's sentencing, the judge, Alfred M. Wolin, also thought","But at the time of Chang's sentencing, the judge, Alfred M. Wolin, also said",said,judge,thought,STATIVE,['DYNAMIC'],THOUGHT VERB
+71,"But at the time of Chang's sentencing, the judge, Alfred M. Wolin, also thought","But at the time of Chang's sentencing, the judge, Alfred M. Wolin, also said",said,judge,thought,STATIVE,['DYNAMIC'],thought
 72,"the businessman had cooperated closely with federal investigators,","the businessman had cooperated closely with federal investigators,",cooperated,businessman,,DYNAMIC,['DYNAMIC'],
 73,providing them with information,providing them with information,providing,,,DYNAMIC,['DYNAMIC'],
 74,"that was ""material and credible.""","that was ""material and credible.""",was,information,,STATIVE,['STATIVE'],
-75,The ethics committee had been granted the power to punish lawmakers with sanctions,The ethics committee has the power to punish lawmakers with sanctions,has,committee,granted,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+75,The ethics committee had been granted the power to punish lawmakers with sanctions,The ethics committee has the power to punish lawmakers with sanctions,has,committee,granted,DYNAMIC,['DYNAMIC'],participant
 76,ranging from public or private letters of admonition to censure or expulsion.,ranging from public or private letters of admonition to censure or expulsion.,ranging,sanctions,,STATIVE,['DYNAMIC'],
-77,"In Torricelli's case, it appeared to have acted","In Torricelli's case, it acted",acted,it,appeared,STATIVE,['DYNAMIC'],DESCRIPTIVE VERB
+77,"In Torricelli's case, it appeared to have acted","In Torricelli's case, it acted",acted,it,appeared,STATIVE,['DYNAMIC'],descriptive
 78,"without conducting a full investigation,","without conducting a full investigation,",conducting,it,,DYNAMIC,['CANNOT_DECIDE'],
 79,saying,saying,saying,it,,DYNAMIC,['STATIVE'],
 80,the case had been exhaustively scrutinized by federal authorities.,the case had been exhaustively scrutinized by federal authorities.,scrutinized,case,,DYNAMIC,['DYNAMIC'],
-81,"A lawyer for Chang, Bradley D. Simon, felt Tuesday night","A lawyer for Chang, Bradley D. Simon, said Tuesday night",said,lawyer,felt,STATIVE,['DYNAMIC'],THOUGHT VERB
+81,"A lawyer for Chang, Bradley D. Simon, felt Tuesday night","A lawyer for Chang, Bradley D. Simon, said Tuesday night",said,lawyer,felt,STATIVE,['DYNAMIC'],thought
 82,that he was disappointed,that he was disappointed,disappointed,he,,STATIVE,['STATIVE'],
 83,that the ethics panel had confirmed only a handful of the gifts,that the ethics panel had confirmed only a handful of the gifts,confirmed,panel,,DYNAMIC,['DYNAMIC'],
 84,he said,he said,said,he,,DYNAMIC,['DYNAMIC'],
@@ -88,65 +88,65 @@
 86,and that the panel did not deal with what,and that the panel did not deal with what,deal,panel,,DYNAMIC,['DYNAMIC'],
 87,he said,he said,said,panel,,DYNAMIC,['DYNAMIC'],
 88,were actions by Torricelli to thwart the federal investigation.,were actions by Torricelli to thwart the federal investigation.,were,what,,STATIVE,['DYNAMIC'],
-89,"""This matter grew into something far more serious than what the committee found,""","""This matter was far more serious than what the committee found,""",was,matter,grew,DYNAMIC,['DYNAMIC'],INSERT VERB
+89,"""This matter grew into something far more serious than what the committee found,""","""This matter was far more serious than what the committee found,""",was,matter,grew,DYNAMIC,['DYNAMIC'],insert_verb
 90,Simon said.,Simon said.,said,Simon,,DYNAMIC,['DYNAMIC'],
-91,As stated by two government officials,According to two government officials,According,,stated,DYNAMIC,['STATIVE'],NEW PARTICIPANT
+91,As stated by two government officials,According to two government officials,According,,stated,DYNAMIC,['STATIVE'],participant
 92,"involved in the inquiry, the Ethics Committee received a vast amount of information from federal investigators, some of it under a court order","involved in the inquiry, the Ethics Committee received a vast amount of information from federal investigators, some of it under a court order",received,Committee,,DYNAMIC,['DYNAMIC'],
 93,issued in March.,issued in March.,issued,order,,DYNAMIC,['DYNAMIC'],
-94,"Witness statements, store receipts, and other documents were revealed","That information included witness statements, store receipts and other documents",included,information,revealed,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
+94,"Witness statements, store receipts, and other documents were revealed","That information included witness statements, store receipts and other documents",included,information,revealed,DYNAMIC,['DYNAMIC'],participant
 95,indicating,indicating,indicating,,,DYNAMIC,['CANNOT_DECIDE'],
 96,that Chang had paid for expensive items,that Chang had paid for expensive items,paid,Chang,,DYNAMIC,['DYNAMIC'],
 97,"given to Torricelli, his sister, one of his longtime aides, Roberta Stern, and one of Torricelli's former girlfriends, Judy D. Balaban.","given to Torricelli, his sister, one of his longtime aides, Roberta Stern, and one of Torricelli's former girlfriends, Judy D. Balaban.",given,items,,DYNAMIC,['DYNAMIC'],
-98,"The committee's letter did not contain information about Chang's reported gifts to Torricelli of an $8,100 Rolex watch, about a dozen Italian-made suits and a $3,816 antique grandfather clock.","The committee's letter did not mention Chang's reported gifts to Torricelli of an $8,100 Rolex watch, about a dozen Italian-made suits and a $3,816 antique grandfather clock.",mention,letter,contain,CANNOT_DECIDE,['DYNAMIC'],DESCRIPTIVE VERB
-99,"The committee's letter did not contain information about Chang's reported gifts to Torricelli of an $8,100 Rolex watch, about a dozen Italian-made suits and a $3,816 antique grandfather clock.",,,,contain,STATIVE,['DYNAMIC'],DESCRIPTIVE VERB
-100,"The committee did not mention Chang's reported gifts to Torricelli of an $8,100 Rolex watch, about a dozen Italian-made suits and a $3,816 antique grandfather clock.",,,,mention,DYNAMIC,['DYNAMIC'],NEW PARTICIPANT
-101,"Nor did it include a citation of a $1,590 Oriental carpet that Chang gave to Torricelli's former wife, Susan Holloway Torricelli.","Nor did it cite a $1,590 Oriental carpet that Chang gave to Torricelli's former wife, Susan Holloway Torricelli.",cite,it,,STATIVE,['STATIVE'],DESCRIPTIVE VERB
-102,A government official involved in the inquiry said,A government official involved in the inquiry said,said,official,said,STATIVE,['DYNAMIC'],DESCRIPTIVE VERB
+98,"The committee's letter did not contain information about Chang's reported gifts to Torricelli of an $8,100 Rolex watch, about a dozen Italian-made suits and a $3,816 antique grandfather clock.","The committee's letter did not mention Chang's reported gifts to Torricelli of an $8,100 Rolex watch, about a dozen Italian-made suits and a $3,816 antique grandfather clock.",mention,letter,contain,CANNOT_DECIDE,['DYNAMIC'],descriptive
+99,"The committee's letter did not contain information about Chang's reported gifts to Torricelli of an $8,100 Rolex watch, about a dozen Italian-made suits and a $3,816 antique grandfather clock.",,,,contain,STATIVE,['DYNAMIC'],descriptive
+100,"The committee did not mention Chang's reported gifts to Torricelli of an $8,100 Rolex watch, about a dozen Italian-made suits and a $3,816 antique grandfather clock.",,,,mention,DYNAMIC,['DYNAMIC'],agent change
+101,"Nor did it include a citation of a $1,590 Oriental carpet that Chang gave to Torricelli's former wife, Susan Holloway Torricelli.","Nor did it cite a $1,590 Oriental carpet that Chang gave to Torricelli's former wife, Susan Holloway Torricelli.",cite,it,,STATIVE,['STATIVE'],descriptive
+102,A government official involved in the inquiry said,A government official involved in the inquiry said,said,official,said,STATIVE,['DYNAMIC'],descriptive
 103,that evidence of those gifts was either incomplete or the subject of conflicting accounts by different witnesses.,that evidence of those gifts was either incomplete or the subject of conflicting accounts by different witnesses.,was,evidence,,STATIVE,['DYNAMIC'],
-104,The committee agreed with Torricelli's claims,The committee confirmed Torricelli's claims,confirmed,committee,agreed,STATIVE,['DYNAMIC'],THOUGHT VERB
+104,The committee agreed with Torricelli's claims,The committee confirmed Torricelli's claims,confirmed,committee,agreed,STATIVE,['DYNAMIC'],thought
 105,he had made partial repayments to Chang for two gifts: a large-screen television and a stereo compact-disc player.,he had made partial repayments to Chang for two gifts: a large-screen television and a stereo compact-disc player.,made,confirmed,,DYNAMIC,['DYNAMIC'],
-106,But their verdict included the reprimand that,But it said,said,it,included,STATIVE,['DYNAMIC'],DESCRIPTIVE VERB
+106,But their verdict included the reprimand that,But it said,said,it,included,STATIVE,['DYNAMIC'],descriptive
 107,"the senator had showed ""poor judgment"" by failing to reimburse him for the full market value of the gifts.","the senator had showed ""poor judgment"" by failing to reimburse him for the full market value of the gifts.",showed,senator,,DYNAMIC,['DYNAMIC'],
-108,A person familiar with Torricelli's testimony to the committee believed that,A person familiar with Torricelli's testimony to the committee said,said,person,believed,STATIVE,['STATIVE'],THOUGHT VERB
+108,A person familiar with Torricelli's testimony to the committee believed that,A person familiar with Torricelli's testimony to the committee said,said,person,believed,STATIVE,['STATIVE'],thought
 109,he had told its members,he had told its members,told,he,,DYNAMIC,['DYNAMIC'],
 110,"that he repaid the ""wholesale"" cost of the appliances","that he repaid the ""wholesale"" cost of the appliances",repaid,he,,DYNAMIC,['DYNAMIC'],
 111,because Chang told him,because Chang told him,told,Chang,,DYNAMIC,['DYNAMIC'],
 112,that was what he had paid.,that was what he had paid.,was,told,,STATIVE,['DYNAMIC'],
-113,The ethics panel also believed Torricelli had taken two bronze statues on loan from Chang.,The ethics panel also criticized Torricelli for taking two bronze statues on loan from Chang.,criticized,panel,believed,STATIVE,['DYNAMIC'],THOUGHT VERB
+113,The ethics panel also believed Torricelli had taken two bronze statues on loan from Chang.,The ethics panel also criticized Torricelli for taking two bronze statues on loan from Chang.,criticized,panel,believed,STATIVE,['DYNAMIC'],thought
 114,"The statues, the existence of which had not been publicly revealed before,","The statues, the existence of which had not been publicly known before,",known,existence,,DYNAMIC,['STATIVE'],
 115,were displayed in Torricelli's Senate office.,were displayed in Torricelli's Senate office.,displayed,statues,,DYNAMIC,['DYNAMIC'],
 116,"Finally, the committee discounted Torricelli's contention","Finally, the committee appeared to have discounted Torricelli's contention",appeared,committee,,STATIVE,['DYNAMIC'],
 117,that he was not responsible for expensive earrings,that he was not responsible for expensive earrings,was,he,,STATIVE,['STATIVE'],
 118,"that Chang had given as Christmas gifts to his sister, Stern and Balaban.","that Chang had given as Christmas gifts to his sister, Stern and Balaban.",given,Chang,,DYNAMIC,['DYNAMIC'],
-119,"The senator stated ""that such items were of little value","The senator's belief ""that such items were of little value",were,belief,stated,DYNAMIC,['STATIVE'],NEW PARTICIPANT
+119,"The senator stated ""that such items were of little value","The senator's belief ""that such items were of little value",were,belief,stated,DYNAMIC,['STATIVE'],participant
 120,"or were not gifts to you under the circumstances"" displayed poor judgment","or were not gifts to you under the circumstances"" displayed poor judgment",displayed,belief,,DYNAMIC,['DYNAMIC'],
 121,"and violated Senate gift rules,","and violated Senate gift rules,",violated,belief,,DYNAMIC,['DYNAMIC'],
 122,the panel found.,the panel found.,found,panel,,DYNAMIC,['CANNOT_DECIDE'],
-123,As stated by a government official,According to a government official,According,,stated,DYNAMIC,['STATIVE'],NEW PARTICIPANT
+123,As stated by a government official,According to a government official,According,,stated,DYNAMIC,['STATIVE'],participant
 124,"involved in the inquiry, the information","involved in the inquiry, the information",involved,official,,STATIVE,['CANNOT_DECIDE'],
 125,reviewed by the Ethics Committee also included an analysis by federal investigators showing,reviewed by the Ethics Committee also included an analysis by federal investigators showing,included,information,,STATIVE,['STATIVE'],
 126,"that during the period in which Chang claimed to have made numerous cash payments to Torricelli, the senator spent thousands of dollars more in cash","that during the period in which Chang claimed to have made numerous cash payments to Torricelli, the senator spent thousands of dollars more in cash",spent,senator,,CANNOT_DECIDE,['DYNAMIC'],
 127,than investigators could account for from his bank withdrawals and other known sources of income.,than investigators could account for from his bank withdrawals and other known sources of income.,account,investigators,,DYNAMIC,['DYNAMIC'],
-128,"The analysis, which consisted of discoveries made from banking and credit records, income-tax returns and congressional financial-disclosure forms,","The analysis, which was assembled from banking and credit records, income-tax returns and congressional financial-disclosure forms,",assembled,analysis,consisted,STATIVE,['DYNAMIC'],DESCRIPTIVE VERB
+128,"The analysis, which consisted of discoveries made from banking and credit records, income-tax returns and congressional financial-disclosure forms,","The analysis, which was assembled from banking and credit records, income-tax returns and congressional financial-disclosure forms,",assembled,analysis,consisted,STATIVE,['DYNAMIC'],descriptive
 129,showed by March,showed by March,showed,analysis,,DYNAMIC,['DYNAMIC'],
 130,"of 1998, Torricelli's cash expenditures were more than $22,000 in excess of the cash","of 1998, Torricelli's cash expenditures were more than $22,000 in excess of the cash",were,expenditures,,STATIVE,['STATIVE'],
 131,"he had generated from checks and automatic-teller machines,","he had generated from checks and automatic-teller machines,",generated,he,,DYNAMIC,['DYNAMIC'],
 132,an official who has reviewed the document said.,an official who has reviewed the document said.,said,official,,DYNAMIC,['DYNAMIC'],
-133,"A spokeswoman for Torricelli, Debra DeShong, wanted to assert","A spokeswoman for Torricelli, Debra DeShong, said",said,spokeswoman,wanted,STATIVE,['DYNAMIC'],THOUGHT VERB
+133,"A spokeswoman for Torricelli, Debra DeShong, wanted to assert","A spokeswoman for Torricelli, Debra DeShong, said",said,spokeswoman,wanted,STATIVE,['DYNAMIC'],thought
 134,he had fully accounted for all the money,he had fully accounted for all the money,accounted,he,,DYNAMIC,['STATIVE'],
 135,he had spent.,he had spent.,spent,he,,DYNAMIC,['DYNAMIC'],
-136,I consider it undeniable that Senator Torricelli provided the committee with a full explanation of sources of income and any funds,"""Senator Torricelli provided the committee with a full explanation of sources of income and any funds",provided,Torricelli,consider,STATIVE,['STATIVE'],THOUGHT VERB
+136,I consider it undeniable that Senator Torricelli provided the committee with a full explanation of sources of income and any funds,"""Senator Torricelli provided the committee with a full explanation of sources of income and any funds",provided,Torricelli,consider,STATIVE,['STATIVE'],thought
 137,"used for cash purposes,""","used for cash purposes,""",used,funds,,DYNAMIC,['DYNAMIC'],
 138,she said.,she said.,said,she,,DYNAMIC,['DYNAMIC'],
-139,"Even after the ethics committee disliked Torricelli on Tuesday night,","Even after the ethics committee admonished Torricelli on Tuesday night,",admonished,committee,disliked,STATIVE,['DYNAMIC'],THOUGHT VERB
+139,"Even after the ethics committee disliked Torricelli on Tuesday night,","Even after the ethics committee admonished Torricelli on Tuesday night,",admonished,committee,disliked,STATIVE,['DYNAMIC'],thought
 140,"one of his most important political supporters, Senate majority leader Tom Daschle, D-S.D., continued to defend him,","one of his most important political supporters, Senate majority leader Tom Daschle, D-S.D., continued to defend him,",continued,one,,DYNAMIC,['DYNAMIC'],
 141,stating,stating,stating,,,DYNAMIC,['STATIVE'],
 142,"that the panel had found Chang ""a witness wholly without credibility.""","that the panel had found Chang ""a witness wholly without credibility.""",found,panel,,DYNAMIC,['DYNAMIC'],
-143,"Desiring to quickly make a campaign issue of the Senate letter,","Moving quickly to make a campaign issue of the Senate letter,",Moving,Pascoe,desiring,STATIVE,['STATIVE'],THOUGHT VERB
+143,"Desiring to quickly make a campaign issue of the Senate letter,","Moving quickly to make a campaign issue of the Senate letter,",Moving,Pascoe,desiring,STATIVE,['STATIVE'],thought
 144,"Bill Pascoe, Forrester's campaign manager, said","Bill Pascoe, Forrester's campaign manager, said",said,Pascoe,,DYNAMIC,['DYNAMIC'],
 145,the findings were evidence,the findings were evidence,were,findings,,STATIVE,['STATIVE'],
 146,"that Torricelli had undertaken an ""extensive campaign of misinformation and deceit,""","that Torricelli had undertaken an ""extensive campaign of misinformation and deceit,""",undertaken,Torricelli,,DYNAMIC,['DYNAMIC'],
 147,and called on him to release the sworn testimony,and called on him to release the sworn testimony,called,Torricelli,,DYNAMIC,['DYNAMIC'],
 148,he gave to the panel.,he gave to the panel.,gave,he,,DYNAMIC,['DYNAMIC'],
-149,"Pascoe knew,","Pascoe said,",said,Pascoe,knew,STATIVE,['DYNAMIC'],THOUGHT VERB
+149,"Pascoe knew,","Pascoe said,",said,Pascoe,knew,STATIVE,['DYNAMIC'],thought
 150,"""Only then will New Jersey voters be able to decide Torricelli's fitness for office.""","""Only then will New Jersey voters be able to decide Torricelli's fitness for office.""",be,voters,,STATIVE,['STATIVE'],

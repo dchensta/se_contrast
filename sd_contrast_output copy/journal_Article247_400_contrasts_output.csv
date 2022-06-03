@@ -1,31 +1,31 @@
 ,Clause,origClause,mainVerb,mainReferent,contrastVerb,Contrast,predictions,gold_predictions,Strategy
 0,No More Kisses,No More Kisses,,,,CANNOT_DECIDE,['CANNOT_DECIDE'],['CANNOT_DECIDE'],
-1,"In light of Secretary of State Albright's imminent trip to the middle east, the deteriorating situation there attracts the New York Times, Los Angeles Times, and Washington Post’s attention.","In light of Secretary of State Albright's imminent trip to the middle east, the New York Times , Los Angeles Times and Washington Post emphasize the deteriorating situation there.",emphasize,Post,attract,STATIVE,['DYNAMIC'],['DYNAMIC'],DESCRIPTIVE VERB
-2,But USA Today continues to focus on Princess Di.,But USA Today stays with Princess Di.,stays,Today,continues,DYNAMIC,['DYNAMIC'],['DYNAMIC'],NEW PARTICIPANT
-3,The NYT is adamant,The NYT states,states,NYT,is,STATIVE,['STATIVE'],['STATIVE'],COPULA
+1,"In light of Secretary of State Albright's imminent trip to the middle east, the deteriorating situation there attracts the New York Times, Los Angeles Times, and Washington Post’s attention.","In light of Secretary of State Albright's imminent trip to the middle east, the New York Times , Los Angeles Times and Washington Post emphasize the deteriorating situation there.",emphasize,Post,attract,STATIVE,['DYNAMIC'],['DYNAMIC'],descriptive
+2,But USA Today continues to focus on Princess Di.,But USA Today stays with Princess Di.,stays,Today,continues,DYNAMIC,['DYNAMIC'],['DYNAMIC'],participant
+3,The NYT is adamant,The NYT states,states,NYT,is,STATIVE,['STATIVE'],['STATIVE'],copula
 4,"that when Albright shows up on Tuesday,","that when Albright shows up on Tuesday,",shows,Albright,,DYNAMIC,['DYNAMIC'],['DYNAMIC'],
 5,"she will ""read the riot act"" to Yassir Arafat","she will ""read the riot act"" to Yassir Arafat",read,she,,DYNAMIC,['DYNAMIC'],['DYNAMIC'],
 6,about cracking down on terrorism.,about cracking down on terrorism.,cracking,she,,CANNOT_DECIDE,['STATIVE'],['STATIVE'],
-7,"She aims to get Arafat to come out decisively and publicly for peace with Israel,","Her goal will be to get Arafat to come out decisively and publicly for peace with Israel,",be,goal,aims,DYNAMIC,['DYNAMIC'],['DYNAMIC'],NEW PARTICIPANT
+7,"She aims to get Arafat to come out decisively and publicly for peace with Israel,","Her goal will be to get Arafat to come out decisively and publicly for peace with Israel,",be,goal,aims,DYNAMIC,['DYNAMIC'],['DYNAMIC'],participant
 8,telling him,telling him,telling,,,DYNAMIC,['DYNAMIC'],['DYNAMIC'],
 9,"that there can be no more attempts at co-opting Hamas, and ""no more kisses"" of its leaders.","that there can be no more attempts at co-opting Hamas, and ""no more kisses"" of its leaders.",be,,,STATIVE,['STATIVE'],['STATIVE'],
-10,The Times prefers to focus on the larger geopolitical context.,The Times emphasizes the larger geopolitical context.,emphasizes,Times,prefers,STATIVE,['DYNAMIC'],['DYNAMIC'],THOUGHT VERB
+10,The Times prefers to focus on the larger geopolitical context.,The Times emphasizes the larger geopolitical context.,emphasizes,Times,prefers,STATIVE,['DYNAMIC'],['DYNAMIC'],thought
 11,Given,Given,Given,states,,CANNOT_DECIDE,['CANNOT_DECIDE'],['CANNOT_DECIDE'],
 12,"that the troubles on the West Bank have not only frosted relations between Arafat and Israel, but also those between Israel and Egypt and between Israel and Saudi Arabia,","that the troubles on the West Bank have not only frosted relations between Arafat and Israel, but also those between Israel and Egypt and between Israel and Saudi Arabia,",frosted,troubles,,DYNAMIC,['DYNAMIC'],['DYNAMIC'],
 13,the paper states that the U.S. is now facing the prospect that the moderate Arab coalition,the paper states that the U.S. is now facing the prospect that the moderate Arab coalition,states,paper,,STATIVE,['STATIVE'],['STATIVE'],
 14,it built after the Persian Gulf war to contain Iraq and Iran is falling apart.,it built after the Persian Gulf war to contain Iraq and Iran is falling apart.,falling,prospect,,DYNAMIC,['STATIVE'],['STATIVE'],
-15,"The LAT comments on new dissension within the Israeli government about whether or not Israel should continue to maintain forces in southern Lebanon, dissension","The LAT focuses on new dissension within the Israeli government about whether or not Israel should continue to maintain forces in southern Lebanon, dissension",focuses,LAT,comments,DYNAMIC,['DYNAMIC'],['STATIVE'],NEW PARTICIPANT
+15,"The LAT comments on new dissension within the Israeli government about whether or not Israel should continue to maintain forces in southern Lebanon, dissension","The LAT focuses on new dissension within the Israeli government about whether or not Israel should continue to maintain forces in southern Lebanon, dissension",focuses,LAT,comments,DYNAMIC,['DYNAMIC'],['STATIVE'],participant
 16,fueled,fueled,fueled,dissension,,DYNAMIC,['CANNOT_DECIDE'],['CANNOT_DECIDE'],
 17,"when an Israeli commando raid there late last week was ambushed, with twelve deaths the result.","when an Israeli commando raid there late last week was ambushed, with twelve deaths the result.",was,raid,,DYNAMIC,['DYNAMIC'],['DYNAMIC'],
-18,Perhaps the most striking indicator of a change of mood inside the government reported by the paper was revealed by the news,Perhaps the most striking indicator of a change of mood inside the government reported by the paper is the news,is,indicator,revealed,DYNAMIC,['DYNAMIC'],['STATIVE'],NEW PARTICIPANT
+18,Perhaps the most striking indicator of a change of mood inside the government reported by the paper was revealed by the news,Perhaps the most striking indicator of a change of mood inside the government reported by the paper is the news,is,indicator,revealed,DYNAMIC,['DYNAMIC'],['STATIVE'],participant
 19,"that cabinet member Ariel Sharon, who as Defense Minister in 1982 got Israel entrenched in Lebanon in the first place,","that cabinet member Ariel Sharon, who as Defense Minister in 1982 got Israel entrenched in Lebanon in the first place,",got,Sharon,,DYNAMIC,['DYNAMIC'],['DYNAMIC'],
 20,is among those,is among those,is,Sharon,,STATIVE,['STATIVE'],['STATIVE'],
 21,urging a reconsideration of the deployment.,urging a reconsideration of the deployment.,urging,those,,DYNAMIC,['DYNAMIC'],['DYNAMIC'],
-22,Several papers received word,Several papers have word,have,papers,received,DYNAMIC,['DYNAMIC'],['DYNAMIC'],NEW PARTICIPANT
+22,Several papers received word,Several papers have word,have,papers,received,DYNAMIC,['DYNAMIC'],['DYNAMIC'],participant
 23,"that H and R Block has finally wriggled out of its controlling stake of Compuserve,","that H and R Block has finally wriggled out of its controlling stake of Compuserve,",wriggled,Block,,DYNAMIC,['DYNAMIC'],['DYNAMIC'],
 24,but it's the Post with the news,but it's the Post with the news,'s,it,,STATIVE,['STATIVE'],['STATIVE'],
 25,that AOL is set to take it over.,that AOL is set to take it over.,set,AOL,,STATIVE,['STATIVE'],['STATIVE'],
-26,"The Wall Street Journal ""Outlook"" wishes to observe,","The Wall Street Journal ""Outlook"" observes,",observes,Journal,wishes,STATIVE,['DYNAMIC'],['DYNAMIC'],THOUGHT VERB
+26,"The Wall Street Journal ""Outlook"" wishes to observe,","The Wall Street Journal ""Outlook"" observes,",observes,Journal,wishes,STATIVE,['DYNAMIC'],['DYNAMIC'],thought
 27,"""In the U.S. job market, the balance of power is shifting to employees from employers,""","""In the U.S. job market, the balance of power is shifting to employees from employers,""",shifting,Journal,,DYNAMIC,['DYNAMIC'],['DYNAMIC'],
 28,and states,and states,,,,DYNAMIC,['CANNOT_DECIDE'],['CANNOT_DECIDE'],
 29,"that ""the retention frenzy was triggered in part by previous waves of corporate downsizing,""","that ""the retention frenzy was triggered in part by previous waves of corporate downsizing,""",triggered,frenzy,,DYNAMIC,['DYNAMIC'],['DYNAMIC'],
@@ -33,26 +33,26 @@
 31,who took stock of career options and used Internet job listings,who took stock of career options and used Internet job listings,took,survivors,,DYNAMIC,['DYNAMIC'],['DYNAMIC'],
 32,"and intensified recruiting to land better offers,","and intensified recruiting to land better offers,",intensified,which,,DYNAMIC,['DYNAMIC'],['DYNAMIC'],
 33,which in turn led to counter-offers and higher salaries.,which in turn led to counter-offers and higher salaries.,led,Journal,,DYNAMIC,['DYNAMIC'],['DYNAMIC'],
-34,This signifies a move,"This has led,",led,This,signifies,STATIVE,['STATIVE'],['DYNAMIC'],DESCRIPTIVE VERB
+34,This signifies a move,"This has led,",led,This,signifies,STATIVE,['STATIVE'],['DYNAMIC'],descriptive
 35,"says the Journal , to annual compensation rising 5-6 percent a year.","says the Journal , to annual compensation rising 5-6 percent a year.",says,Journal,,DYNAMIC,['DYNAMIC'],['DYNAMIC'],
-36,Much of the continuing Diana coverage increasingly exists within the realm of meta- and meta-meta-pieces.,Much of the continuing Diana coverage is spinning off into the realm of meta- and meta-meta-pieces.,spinning,Much,exists,STATIVE,['STATIVE'],['DYNAMIC'],DESCRIPTIVE VERB
-37,"The LAT , for instance, likes to examine","The LAT , for instance, examines",examines,LAT,likes,STATIVE,['DYNAMIC'],['STATIVE'],THOUGHT VERB
+36,Much of the continuing Diana coverage increasingly exists within the realm of meta- and meta-meta-pieces.,Much of the continuing Diana coverage is spinning off into the realm of meta- and meta-meta-pieces.,spinning,Much,exists,STATIVE,['STATIVE'],['DYNAMIC'],descriptive
+37,"The LAT , for instance, likes to examine","The LAT , for instance, examines",examines,LAT,likes,STATIVE,['DYNAMIC'],['STATIVE'],thought
 38,"what it takes to be a new ""cuddly-feely"" Britain born of the national grief experience.","what it takes to be a new ""cuddly-feely"" Britain born of the national grief experience.",takes,it,,STATIVE,['STATIVE'],['STATIVE'],
-39,But USAT and the WP also each contain pretty newsy Diana pieces as well.,But USAT and the WP also each run pretty newsy Diana pieces as well.,run,USAT,contain,STATIVE,['STATIVE'],['STATIVE'],DESCRIPTIVE VERB
-40,Both have a reveal,Both reveal,reveal,Both,have,STATIVE,['STATIVE'],['DYNAMIC'],LIGHT VERB
+39,But USAT and the WP also each contain pretty newsy Diana pieces as well.,But USAT and the WP also each run pretty newsy Diana pieces as well.,run,USAT,contain,STATIVE,['STATIVE'],['STATIVE'],descriptive
+40,Both have a reveal,Both reveal,reveal,Both,have,STATIVE,['STATIVE'],['DYNAMIC'],light_verb
 41,"that Tony Blair had conferred with Diana about a goodwill ambassador job shortly before her death,","that Tony Blair had conferred with Diana about a goodwill ambassador job shortly before her death,",conferred,Blair,,DYNAMIC,['DYNAMIC'],['DYNAMIC'],
 42,and USAT reports,and USAT reports,reports,Both,,DYNAMIC,['CANNOT_DECIDE'],['CANNOT_DECIDE'],
 43,that Le Figaro says,that Le Figaro says,says,Figaro,,DYNAMIC,['DYNAMIC'],['DYNAMIC'],
 44,a dying Diana gave two crash witnesses a message for her family and children.,a dying Diana gave two crash witnesses a message for her family and children.,gave,Diana,,DYNAMIC,['DYNAMIC'],['DYNAMIC'],
 45,,Give the NYT credit for getting Mother Teresa back on the front page and a bonus point for including some criticism of her in the story.,,,,,,['DYNAMIC'],
-46,"""Not everyone in Calcutta, or India for that matter, unanimously praises the nun,","""Not everyone in Calcutta, or India for that matter, is unanimous in praising the nun,",is,everyone,praises,DYNAMIC,['STATIVE'],['STATIVE'],NEW PARTICIPANT
+46,"""Not everyone in Calcutta, or India for that matter, unanimously praises the nun,","""Not everyone in Calcutta, or India for that matter, is unanimous in praising the nun,",is,everyone,praises,DYNAMIC,['STATIVE'],['STATIVE'],participant
 47,whose organization was able to raise millions of dollars worldwide,whose organization was able to raise millions of dollars worldwide,was,organization,,STATIVE,['DYNAMIC'],['DYNAMIC'],
 48,but made virtually no significant changes in the social structure of this collapsing city's poor neighborhoods.,but made virtually no significant changes in the social structure of this collapsing city's poor neighborhoods.,made,organization,,DYNAMIC,['DYNAMIC'],['DYNAMIC'],
 49,Salvation -- hers and that of the destitute from the gutters --,Salvation -- hers and that of the destitute she rescued from the gutters --,rescued,she,,STATIVE,['DYNAMIC'],['DYNAMIC'],deletion?
 50,"was her aim, not economic or social development","was her aim, not economic or social development",was,Salvation,,STATIVE,['STATIVE'],['STATIVE'],
 51,"as many others understand it,","as many others understand it,",understand,development,,STATIVE,['STATIVE'],['STATIVE'],
 52,"she said.""","she said.""",said,she,,DYNAMIC,['DYNAMIC'],['DYNAMIC'],
-53,It's been regarded as odd,"It's odd,",'s,It,regarded,DYNAMIC,['STATIVE'],['STATIVE'],NEW PARTICIPANT
+53,It's been regarded as odd,"It's odd,",'s,It,regarded,DYNAMIC,['STATIVE'],['STATIVE'],participant
 54,"however, that in repeating this charge, the Times didn't interview the man","however, that in repeating this charge, the Times didn't interview the man",interview,Times,,DYNAMIC,['DYNAMIC'],['DYNAMIC'],
 55,"most closely associated with it, Christopher Hitchens,","most closely associated with it, Christopher Hitchens,",associated,man,,STATIVE,['STATIVE'],['STATIVE'],
 56,or refer to the book,or refer to the book,refer,Times,,CANNOT_DECIDE,['DYNAMIC'],['DYNAMIC'],
@@ -63,9 +63,9 @@
 61,"""Venus Brought Back to Earth""?","""Venus Brought Back to Earth""?",,,,CANNOT_DECIDE,['CANNOT_DECIDE'],['CANNOT_DECIDE'],
 62,Doesn't that sound like celebrating a defeat,Doesn't that sound like celebrating a defeat,sound,that,,CANNOT_DECIDE,['CANNOT_DECIDE'],['CANNOT_DECIDE'],
 63,rather than celebrating a victory?,rather than celebrating a victory?,celebrating,defeat,,CANNOT_DECIDE,['CANNOT_DECIDE'],['CANNOT_DECIDE'],
-64,"How odd -- and a good illustration of how trying to shoe-horn in a ""witty"" headline necessarily involves a slippery slope into an idea","How odd -- and a good illustration of how trying to shoe-horn in a ""witty"" headline can drive you into an idea",drive,illustration,involves,STATIVE,['STATIVE'],['STATIVE'],DESCRIPTIVE VERB
+64,"How odd -- and a good illustration of how trying to shoe-horn in a ""witty"" headline necessarily involves a slippery slope into an idea","How odd -- and a good illustration of how trying to shoe-horn in a ""witty"" headline can drive you into an idea",drive,illustration,involves,STATIVE,['STATIVE'],['STATIVE'],descriptive
 65,that doesn't fit,that doesn't fit,fit,idea,,STATIVE,['STATIVE'],['STATIVE'],
 66,or is undeserved.,or is undeserved.,is,idea,,STATIVE,['STATIVE'],['STATIVE'],
-67,Given that Ms. Williams' parents hover over her,Given that Ms. Williams' parents are rather protective of her,Given,surprised,hover,DYNAMIC,['STATIVE'],['STATIVE'],NEW PARTICIPANT
+67,Given that Ms. Williams' parents hover over her,Given that Ms. Williams' parents are rather protective of her,Given,surprised,hover,DYNAMIC,['STATIVE'],['STATIVE'],participant
 68,"and that she is a black in a still pretty-lilly-white sport, don't be surprised","and that she is a black in a still pretty-lilly-white sport, don't be surprised",surprised,,,STATIVE,['STATIVE'],['STATIVE'],
 69,if there's a bit of a complaint about this.,if there's a bit of a complaint about this.,'s,bit,,STATIVE,['STATIVE'],['STATIVE'],
