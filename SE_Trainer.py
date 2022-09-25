@@ -26,32 +26,24 @@ class SE_Trainer:
 
         @param {.csv} data => 
         '''
-        
         #warnings.filterwarnings(action='ignore')
 
         print('Initiating training process')
-        '''
-        print("Running hyperparameter searches: Classifier")
-        clf_results = self.__run_hyperparam_search()
-        print("Models trained.")
 
-        clf_model = clf_results["model"]
-        clf_featurization = clf_results["featurization"]
-        clf_avg_score = clf_results["avg_score"]
-        clf_std = clf_results["std_score"]
-        '''
-
-        #report = f"Best performing classifier: {clf_model}, Featurization: {clf_featurization}, Classifier Performance: {clf_avg_score}, Classifier Standard Deviation: {clf_std}"
-
-        #11/1/21 attempt
         X, y = self.get_data()
+        #Use __run_hyperparemeters_search function to search for optimal hyperparameters. If you already know
+        #which parameters you want to use, create a LogisticRegression model as in Line 37.
         clf_model = LogisticRegression(solver="liblinear", random_state=0, max_iter=500).fit(X, y)
+
+        #Comment out Line 36, and uncomment Line 40 to get a cross validation score
+        #by loading a preloaded SE_Classifier object from the folder "sd_model".
         #clf_model = pkl.load(open("sd_model/lr_sd_clf_bert.pkl", "rb"))
         print(cross_val_score(clf_model, X, y, cv=5))
         print('Training Completed')
         #print(report)
 
-        pkl.dump(clf_model, open(self.model_path + "/lr_se_clf_bert_march.pkl", "wb"))
+
+        pkl.dump(clf_model, open(self.model_path + "/lr_sd_clf_bert.pkl", "wb"))
         #return clf_results
         return "Finished training classifier."
     
@@ -101,7 +93,7 @@ class SE_Trainer:
         print("Featurizing")
         #X = featurizer.featurize(clauses, "BERT")
         #filtered_X = X[~torch.any(X.isnan(),dim=1)]
-        #torch.save(filtered_X, 'x_tensor_roberta.pt')
+        #torch.save(filtered_X, 'x_tensor_bert.pt')
         filtered_X = torch.load("x_tensor_bert.pt")
         y = self.data["Gold"] #Gold stative/dynamic labels
         return filtered_X, y
